@@ -1,0 +1,2576 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ruth Anne Phillips</Author>
+  <LastAuthor>skalt</LastAuthor>
+  <Created>2008-07-21T01:49:22Z</Created>
+  <LastSaved>2012-09-03T15:42:27Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>2</Index>
+    <RGB>#DD0806</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#1FB714</RGB>
+   </Color>
+   <Color>
+    <Index>4</Index>
+    <RGB>#0000D4</RGB>
+   </Color>
+   <Color>
+    <Index>5</Index>
+    <RGB>#FCF305</RGB>
+   </Color>
+   <Color>
+    <Index>6</Index>
+    <RGB>#F20884</RGB>
+   </Color>
+   <Color>
+    <Index>7</Index>
+    <RGB>#00ABEA</RGB>
+   </Color>
+   <Color>
+    <Index>8</Index>
+    <RGB>#900000</RGB>
+   </Color>
+   <Color>
+    <Index>9</Index>
+    <RGB>#006411</RGB>
+   </Color>
+   <Color>
+    <Index>10</Index>
+    <RGB>#000090</RGB>
+   </Color>
+   <Color>
+    <Index>11</Index>
+    <RGB>#90713A</RGB>
+   </Color>
+   <Color>
+    <Index>12</Index>
+    <RGB>#4600A5</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8256</WindowHeight>
+  <WindowWidth>15468</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>-12</WindowTopY>
+  <TabRatio>194</TabRatio>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Medium Time"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s84">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Produccion">
+  <Table ss:ExpandedColumnCount="206" ss:ExpandedRowCount="63" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="355.79999999999995"
+   ss:DefaultRowHeight="13.8">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="147"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="102.60000000000001"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="46.2" ss:Span="1"/>
+   <Column ss:Index="5" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="39.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="68.399999999999991"
+    ss:Span="1"/>
+   <Column ss:Index="8" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="77.399999999999991"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="214.20000000000002"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="30.599999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="61.199999999999996"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="48"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="113.39999999999999"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="74.400000000000006"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="226.79999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67.8" ss:Span="2"/>
+   <Column ss:Index="20" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="114.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="116.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="1233"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="156"/>
+   <Column ss:StyleID="s62" ss:Width="500.40000000000003"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="261.60000000000002"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="36.599999999999994"
+    ss:Span="2"/>
+   <Column ss:Index="30" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="84.600000000000009"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="91.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="334.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="348.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="239.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="49.2" ss:Span="2"/>
+   <Column ss:Index="40" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="85.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="93"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="183"/>
+   <Column ss:StyleID="s62" ss:Width="361.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="158.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="329.40000000000003"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="300"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="60" ss:Span="2"/>
+   <Column ss:Index="50" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="183"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="319.20000000000005"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="108"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="115.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="183"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="268.8" ss:Span="1"/>
+   <Column ss:Index="57" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="43.8"
+    ss:Span="2"/>
+   <Column ss:Index="60" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="91.199999999999989"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="98.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="169.8"/>
+   <Column ss:StyleID="s62" ss:Width="650.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="213.60000000000002"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="292.20000000000005"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67.8" ss:Span="2"/>
+   <Column ss:Index="70" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="175.8"/>
+   <Column ss:StyleID="s62" ss:Width="416.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="121.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="128.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="158.4"/>
+   <Column ss:StyleID="s62" ss:Width="378"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="199.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="54.599999999999994"
+    ss:Span="2"/>
+   <Column ss:Index="80" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="148.80000000000001"/>
+   <Column ss:StyleID="s62" ss:Width="510.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="349.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="106.80000000000001"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="303"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67.2" ss:Span="2"/>
+   <Column ss:Index="90" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="110.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="114"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="183"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="355.20000000000005"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="175.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="262.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="192"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="55.800000000000004"
+    ss:Span="2"/>
+   <Column ss:Index="100" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="645"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="173.39999999999998"/>
+   <Column ss:StyleID="s62" ss:Width="507"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="106.80000000000001"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="206.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="42.6" ss:Span="2"/>
+   <Column ss:Index="110" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="98.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="106.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="163.19999999999999"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="336.59999999999997"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="156"/>
+   <Column ss:StyleID="s62" ss:Width="470.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="270"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="64.2" ss:Span="2"/>
+   <Column ss:Index="120" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="165.6"/>
+   <Column ss:StyleID="s62" ss:Width="423"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="106.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="113.39999999999999"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="175.8"/>
+   <Column ss:StyleID="s62" ss:Width="375"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="190.79999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="39" ss:Span="2"/>
+   <Column ss:Index="130" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="158.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="290.39999999999998"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="88.800000000000011"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="158.4"/>
+   <Column ss:StyleID="s62" ss:Width="497.4"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="283.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="54" ss:Span="2"/>
+   <Column ss:Index="140" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="153"/>
+   <Column ss:StyleID="s62" ss:Width="361.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="111.60000000000001"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="118.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="153"/>
+   <Column ss:StyleID="s62" ss:Width="412.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="216.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="59.4" ss:Span="2"/>
+   <Column ss:Index="150" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="159.60000000000002"/>
+   <Column ss:StyleID="s62" ss:Width="564"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="112.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="158.4"/>
+   <Column ss:StyleID="s62" ss:Width="450"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="82.199999999999989"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="85.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="85.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="85.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="85.2"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nombre</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Numero</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Plantilla</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pais</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Comunidad</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Edad (años)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grado</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Primer idioma</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hay alguien que te habla en castellano?</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sexo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fecha</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hora</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Duracion en minutos</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Entrevistador</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Frase estímulo        Ana chukchanta rutun</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA A</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA B</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chuckcha A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chukcha A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chukcha B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chukchaB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chukcha C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chukchaC</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo Ana uyanta makch'in/uphachkan.</Data></Cell>
+    <Cell><Data ss:Type="String">UYA A</Data></Cell>
+    <Cell><Data ss:Type="String">UYA B</Data></Cell>
+    <Cell><Data ss:Type="String">UYA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uya A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uya A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uya B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uya B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uya C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uya C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José latusta mayllin/mayllan.</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS A</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS B</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta latu A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta latu A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta latu B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta latu B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta latu C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta latu C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José chumpata puñuna pataman churan. </Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA A</Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA B</Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chumpa A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chumpa  A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chumpa B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chumpa B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta chumpa C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta chumpa C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo Ana makinta mayllikun/mayllakun.</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI A</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI B</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta maki A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta maki A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta maki B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta maki B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta maki C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta maki C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José sumbukuta/sumbreruta churakun.</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU A</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU B</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta $sumbuku A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta $sumbuku A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta $sumbuku B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta $sumbuku B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta $sumbuku C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta $sumbuku C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo  Ana uhut'ata churan.</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A A</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A B</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uhut'a A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uhut'a A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uhut'a B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uhut'a B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uhut'a C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uhut'a C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José kukuchunta/makimuqunta hap’ikun.</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU A</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU B</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta kukuchu A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta kukuchuA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta kukuchu B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta kukuchuB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta kukuchu C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta kukuchu C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo Ana awanata hap’in.</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA A</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA B</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta awana A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta awana A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta awana B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta awana B </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta awana C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta awana C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo Ana q’ipita q’ipichikun.</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI A</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI B</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta q'ipita A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta q'ipita A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta q'ipita B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta q'ipita B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta q'ipita C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta q'ipita C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José misturawan hach’in/ch'aqpan.</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA A</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA B</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mistura A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mistura A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mistura B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mistura B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mistura C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mistura C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José umanta hap’in. </Data></Cell>
+    <Cell><Data ss:Type="String">UMA A</Data></Cell>
+    <Cell><Data ss:Type="String">UMA B</Data></Cell>
+    <Cell><Data ss:Type="String">UMA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uma A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uma A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uma B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uma B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta uma C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta uma C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo Ana wirawan mankata llusin/lluchhin.</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA A</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA B</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mankata A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mankata A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mankata B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mankata B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta mankata C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta mankata C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo José punchuta churakun.</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU A</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU B</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta punchu A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta punchu A</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta punchu B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta punchu B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pregunta punchu C</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Respuesta punchu C</Data></Cell>
+    <Cell><Data ss:Type="String">Cuento entrev.</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Transcripción por boliviano AQV</Data></Cell>
+    <Cell><Data ss:Type="String">Jony Ilafaya Durán</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">100</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell><Data ss:Type="String">Collakamani</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">sexto</Data></Cell>
+    <Cell><Data ss:Type="String">quechua</Data></Cell>
+    <Cell><Data ss:Type="String">mana</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="15" ss:StyleID="s66"><Data ss:Type="String">MCC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana chukchanta rutun. </Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Uwihá rutun [Allinta rimanki, kallpayan ya? Imatá chaypi Ana rurachkan?] Uwihá rutun</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chukchán k'utukun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uyanta uphachkan. </Data></Cell>
+    <Cell ss:Index="32"><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Maqch'ikuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">(Señalando el gráfico) Mayllan</Data></Cell>
+    <Cell><Data ss:Type="String">José latusta mayllan.&#10;</Data></Cell>
+    <Cell ss:Index="42"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chakín mayllakun</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chakín mayllan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José chumpata puñuna pataman churan. </Data></Cell>
+    <Cell ss:Index="50"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Makinta</Data></Cell>
+    <Cell ss:Index="54"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Churakun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana makinta mayllakun. </Data></Cell>
+    <Cell ss:Index="62"><Data ss:Type="String">Imatataq kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Pilamanta …</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Maqch'ichkan</Data></Cell>
+    <Cell><Data ss:Type="String">José $sumbreruta churakun.</Data></Cell>
+    <Cell ss:Index="70"><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">$sumbrirunta churan</Data></Cell>
+    <Cell ss:Index="74"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">$sumbrirota churan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uhut'ata churan.</Data></Cell>
+    <Cell ss:Index="80"><Data ss:Type="String">Kaypi, imatataq Ana ruran?</Data></Cell>
+    <Cell><Data ss:Type="String">Uhut'asnín huqharin</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Uhut'án churakun</Data></Cell>
+    <Cell ss:Index="86" ss:StyleID="s69"><Data ss:Type="String">José makimuqunta hap’ikun.</Data></Cell>
+    <Cell ss:Index="92"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Cuadernó apan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Aysarichkan …</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana awanata hap’in. </Data></Cell>
+    <Cell ss:Index="100"><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">… makín hap'in</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Likrán tupakun</Data></Cell>
+    <Cell ss:Index="106" ss:StyleID="s69"><Data ss:Type="String">Ana q’ipita q’ipichikun.</Data></Cell>
+    <Cell ss:Index="112"><Data ss:Type="String">Kaypiri, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Q'ipirichin</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Q'ipi huqharinayachkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José misturawan ch’aqpan. </Data></Cell>
+    <Cell ss:Index="120"><Data ss:Type="String">Kaypiri, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Misturawan qhallichkan</Data></Cell>
+    <Cell ss:Index="124"><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Misturá qhallin</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José umanta hap’in. </Data></Cell>
+    <Cell ss:Index="130"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Qhawan</Data></Cell>
+    <Cell ss:Index="134"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Umán tupakun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana wirawan mankata lluchhin. </Data></Cell>
+    <Cell ss:Index="140"><Data ss:Type="String">Imatá kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Hampichkan makinta</Data></Cell>
+    <Cell ss:Index="144"><Data ss:Type="String">Imatá kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Makín hampikun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José punchuta churakun.</Data></Cell>
+    <Cell ss:Index="150"><Data ss:Type="String">Imatá kaypi José rurtachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Silla pataman punchún churan</Data></Cell>
+    <Cell ss:Index="154"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Punchuchichkan [Chayqa tukunchik]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Transcripción por peruana JVO</Data></Cell>
+    <Cell><Data ss:Type="String">Jony Ilafaya Durán</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">100</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell><Data ss:Type="String">Collakamani</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">sexto</Data></Cell>
+    <Cell><Data ss:Type="String">quechua</Data></Cell>
+    <Cell><Data ss:Type="String">mana</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell><Data ss:Type="String">23/7/2009</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="DateTime">1904-01-01T14:18:00.000</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MCC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana chukchanta rutun. </Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Uwihá&amp; rutuchkan [Allinta rimanki, kallpayan ya? Imatá chaypi Ana rurachkan?] Uwihá&amp; rutuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Simp'an&amp; k'utukuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uyanta uphachkan. </Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="32"><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Maqch'ikuchkantaq</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">(Señalando el gráfico) Mayllachkan</Data></Cell>
+    <Cell><Data ss:Type="String">José latusta mayllan.&#10;</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="42"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chakin&amp; mayllakuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chakín&amp; mayllachkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José chumpata puñuna pataman churan. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Maq'allikuchkan</Data></Cell>
+    <Cell ss:Index="54"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Churakuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana makinta mayllakun. </Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="62"><Data ss:Type="String">Imatataq kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Pilamanta mayllakuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Maqch'ichkan</Data></Cell>
+    <Cell><Data ss:Type="String">José $sumbreruta churakun.</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">$sumbrirunta churachkan</Data></Cell>
+    <Cell ss:Index="74"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">$sumbrirota churachkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uhut'ata churan.</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana ruran?</Data></Cell>
+    <Cell><Data ss:Type="String">Uhut'asnin&amp; huqarichkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Uhut'á&amp;n churakun</Data></Cell>
+    <Cell ss:Index="86" ss:StyleID="s69"><Data ss:Type="String">José makimuqunta hap’ikun.</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="92"><Data ss:Type="String">Kaypiri, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Cuadernó&amp; apachkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Aysarichkan …</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana awanata hap’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Huq runata makinmanta hap'ichkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Likrán&amp; tupakuchkan</Data></Cell>
+    <Cell ss:Index="106" ss:StyleID="s69"><Data ss:Type="String">Ana q’ipita q’ipichikun.</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="112"><Data ss:Type="String">Kaypiri, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Q'ipirichichkan</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Q'ipi&amp; huqarinayachkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José misturawan ch’aqpan. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypiri, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Misturawan qhallichkan</Data></Cell>
+    <Cell ss:Index="124"><Data ss:Type="String">Kaypi, imatataq José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Misturá&amp; qhallichkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José umanta hap’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Qhawachkan</Data></Cell>
+    <Cell ss:Index="134"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Umán&amp; tupakuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana wirawan mankata lluchhin. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Imatá kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Hampichkan makinta</Data></Cell>
+    <Cell ss:Index="144"><Data ss:Type="String">Imatá kaypi Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Makín&amp; hap'ikuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José punchuta churakun.</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Imatá kaypi José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Silla pataman punchún&amp; churachkan</Data></Cell>
+    <Cell ss:Index="154"><Data ss:Type="String">Kaypi, imatá José rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Blusachichkann [Chayqa tukunchik]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Segmentación</Data></Cell>
+    <Cell><Data ss:Type="String">Jony Ilafaya Durán</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">100</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell><Data ss:Type="String">Collakamani</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">sexto</Data></Cell>
+    <Cell><Data ss:Type="String">quechua</Data></Cell>
+    <Cell><Data ss:Type="String">mana</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="15" ss:StyleID="s66"><Data ss:Type="String">MCC</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="23"><Data ss:Type="String">$Uwiha-&amp;ta rutu-chka-0-n [Allinta rimanki, kallpayan $ya? Imatá chaypi Ana rurachkan?] $Uwiha-&amp;ta rutu-chka-0-n</Data></Cell>
+    <Cell ss:Index="25"><Data ss:Type="String">Simp'a-n-&amp;ta k'utu-ku-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33"><Data ss:Type="String">Maqch'i-ku-chka-0-n-taq</Data></Cell>
+    <Cell ss:Index="35"><Data ss:Type="String">(Señalando el gráfico) Maylla-chka-0-n</Data></Cell>
+    <Cell ss:Index="43"><Data ss:Type="String">Chaki-n-&amp;ta maylla-ku-chka-0-n</Data></Cell>
+    <Cell ss:Index="45"><Data ss:Type="String">Chaki-n-&amp;ta maylla-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="51"><Data ss:Type="String">Maq'a-lliku-chka-0-n</Data></Cell>
+    <Cell ss:Index="55"><Data ss:Type="String">Chura-ku-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="63"><Data ss:Type="String">$Pila-manta maylla-ku-chka-0-n</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">Maqch'i-chka-0-n</Data></Cell>
+    <Cell ss:Index="71"><Data ss:Type="String">$Sombrero-n-ta chura-chka-0-n</Data></Cell>
+    <Cell ss:Index="75"><Data ss:Type="String">$Sombrero-ta chura-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="81"><Data ss:Type="String">Uhut'a-s-ni-n-&amp;ta huqa-ri-chka-0-n</Data></Cell>
+    <Cell ss:Index="83"><Data ss:Type="String">Uhut'á-&amp;wan chura-ku-0-n</Data></Cell>
+    <Cell ss:Index="86" ss:StyleID="s69"/>
+    <Cell ss:Index="93"><Data ss:Type="String">$Cuaderno-&amp;ta apa-chka-0-n</Data></Cell>
+    <Cell ss:Index="95"><Data ss:Type="String">Aysa-ri-chka-0-n …</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="101"><Data ss:Type="String">Huq runa-ta maki-n-manta hap'i-chka-0-n</Data></Cell>
+    <Cell ss:Index="103"><Data ss:Type="String">Likra-n-&amp;ta tupa-ku-chka-n</Data></Cell>
+    <Cell ss:Index="106" ss:StyleID="s69"/>
+    <Cell ss:Index="113"><Data ss:Type="String">Q'ipi-ri-chi-chka-0-n</Data></Cell>
+    <Cell ss:Index="115"><Data ss:Type="String">Q'ipi-&amp;ta huqa-ri-naya-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="121"><Data ss:Type="String">$Mistura-wan qhalli-chka-0-n</Data></Cell>
+    <Cell ss:Index="125"><Data ss:Type="String">$Mistura-&amp;ta qhalli-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="131"><Data ss:Type="String">Qhawa-chka-0-n</Data></Cell>
+    <Cell ss:Index="135"><Data ss:Type="String">Uma-n-&amp;ta tupa-ku-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="141"><Data ss:Type="String">Hampi-chka-0-n maki-n-ta</Data></Cell>
+    <Cell ss:Index="145"><Data ss:Type="String">Maki-n-&amp;ta hap'i-ku-chka-0-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="151"><Data ss:Type="String">$Silla pata-man punchu-n-&amp;ta chura-chka-0-n</Data></Cell>
+    <Cell ss:Index="155"><Data ss:Type="String">$Blusa-chi-chka-0-n [Chayqa tukunchik]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Análisis y traducción</Data></Cell>
+    <Cell><Data ss:Type="String">Jony Ilafaya Durán</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">100</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell><Data ss:Type="String">Collakamani</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">sexto</Data></Cell>
+    <Cell><Data ss:Type="String">quechua</Data></Cell>
+    <Cell><Data ss:Type="String">mana</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="15" ss:StyleID="s66"><Data ss:Type="String">MCC</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="23"><Data ss:Type="String">oveja-AC cortar lana, pasto-PROG-3OBJ-3SUJ &quot;Está cortandole (la lana) a la oveja.&quot; [Allinta rimanki, kallpawan $ya? Imatá chaypi Ana rurachkan?] oveja-AC cortar lana, pasto-PROG-3OBJ-3SUJ &quot;&quot;Está cortandole (la lana) a la oveja.&quot; </Data></Cell>
+    <Cell ss:Index="25"><Data ss:Type="String">Trenza-3POS-AC cortar haciendo morder-REFL-PROG-3OBJ-3SUJ &quot;Se está cortando la trenza.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33"><Data ss:Type="String">Lavar-REFL-PROG-3OBJ-3SUJ-CONTR &quot;Se está lavando, pues.&quot;</Data></Cell>
+    <Cell ss:Index="35"><Data ss:Type="String">(Señalando el gráfico) Lavar-PROG-3OBJ-3SUJ &quot;Le está lavando.&quot;</Data></Cell>
+    <Cell ss:Index="43"><Data ss:Type="String">Pie-3POS-AC lavar-REFL-PROG-3OBJ-3SUJ &quot;Se está lavando el pie.&quot;</Data></Cell>
+    <Cell ss:Index="45"><Data ss:Type="String">Pie-3POS-AC lavar-PROG-3OBJ-3SUJ &quot;Le está lavando el pie.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="51"><Data ss:Type="String">Abrazo-AUTOTRANS-PROG-3OBJ-3SUJ &quot;La está abrazando.&quot;</Data></Cell>
+    <Cell ss:Index="55"><Data ss:Type="String">Poner-REFL-PROG-3OBJ-3SUJ &quot;Se está poniendo.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="63"><Data ss:Type="String">Pila, caño-ABL lavar-REFL-PROG-3OBJ-3SUJ &quot;Se está lavando de la pila.&quot; &quot;Se está lavando (con agua que sale) de la pila.&quot;</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">Lavar-PROG-3OBJ-3SUJ &quot;Está lavando.&quot;</Data></Cell>
+    <Cell ss:Index="71"><Data ss:Type="String">Sombrero-3POS-AC poner-PROG-3SOB-3SUJ &quot;Le está poniendo su sombrero.&quot;</Data></Cell>
+    <Cell ss:Index="75"><Data ss:Type="String">Sombrero-AC poner-PROG-3OBJ-3SUJ &quot;Le está poniendo el sombrero.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="81"><Data ss:Type="String">Sandalia-$PLUR-AUX-3POS-AC levantar-INC-PROG-3OBJ-3SUJ &quot;Está levantando sus sandalias.&quot;</Data></Cell>
+    <Cell ss:Index="83"><Data ss:Type="String">Sandalia-INST poner-REFL-3OBJ-3SUJ &quot;Se pone con la sandalia.&quot;</Data></Cell>
+    <Cell ss:Index="86" ss:StyleID="s69"/>
+    <Cell ss:Index="93"><Data ss:Type="String">Cuaderno-AC llevar-PROG-3OBJ-3SUJ &quot;Está llevando el cuaderno.&quot;</Data></Cell>
+    <Cell ss:Index="95"><Data ss:Type="String">Jalar-INC-PROG-3OBJ-3SUJ &quot;Le está halando.&quot; …</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="101"><Data ss:Type="String">Otro hombre, persona-AC mano-3POS-ABL agarrar-PROG-3OBJ-3SUJ &quot;Ana le está agarrando a otro hombre de su mano.&quot;</Data></Cell>
+    <Cell ss:Index="103"><Data ss:Type="String">Hombro-3POS-AC agarrar suavemente, tocar-REFL-PROG-3SOJ &quot;Se está agarrando el hombro.&quot;</Data></Cell>
+    <Cell ss:Index="106" ss:StyleID="s69"/>
+    <Cell ss:Index="113"><Data ss:Type="String">Cargar-INC-CAUS-PROG-3OBJ-3SUJ &quot;Le está haciendo cargar.&quot;</Data></Cell>
+    <Cell ss:Index="115"><Data ss:Type="String">Carga-AC levantar-INC-DES-PROG-3OBJ-3SUJ &quot;Está  como queriendo levantar el bulto.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="121"><Data ss:Type="String">Mistura-INST derramar-PROG-3OBJ-3SUJ &quot;Le está derramando con la mistura.&quot;</Data></Cell>
+    <Cell ss:Index="125"><Data ss:Type="String">Mistura-AC derramar-PROG-3OBJ-3SUJ &quot;Está derramando la mistura.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="131"><Data ss:Type="String">Mirar, ver, observar-PROG-3OBJ-3SUJ &quot;Está mirando.&quot;</Data></Cell>
+    <Cell ss:Index="135"><Data ss:Type="String">Cabeza-AC agarrar suavemente, tocar-REFL-PROG-3OBJ-3SUJ &quot;Se está agarrando la cabeza.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="141"><Data ss:Type="String">Curar-PROG-3OBJ-3SUJ mano-3POS-AC &quot;Le está curando la mano.&quot;</Data></Cell>
+    <Cell ss:Index="145"><Data ss:Type="String">Mano-3POS-AC agarrar-REFL-PROG-3OBJ-3SUJ &quot;Se está agarrando la mano.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="151"><Data ss:Type="String">Silla pata-IL/DAT poncho-3POS-AC poner-PROG-3OBJ-3SUJ &quot;Está poniendo su poncho encima de la silla.&quot;</Data></Cell>
+    <Cell ss:Index="155"><Data ss:Type="String">Blusa-CAUS-PROG-3OBJ-3SUJ &quot;Le está poniendo(Cómo) blusa.&quot; [Chayqa tukunchik]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="34" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:Index="41" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="44" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="52" ss:StyleID="s65"/>
+    <Cell ss:Index="54" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:Index="64" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="24" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="52" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="60" ss:StyleID="s65"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="22" ss:StyleID="s66"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:Index="41" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="64" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="24" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:Index="41" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:Index="52" ss:StyleID="s65"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="64" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="109" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="114" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="101" ss:StyleID="s65"/>
+    <Cell ss:Index="103" ss:StyleID="s65"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="109" ss:StyleID="s65"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:Index="91" ss:StyleID="s65"/>
+    <Cell ss:Index="96"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="24" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:Index="41" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="24" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:Index="41" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="91" ss:StyleID="s65"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="34" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="60" ss:StyleID="s65"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="23" ss:StyleID="s65"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="91" ss:StyleID="s66"/>
+    <Cell ss:Index="93" ss:StyleID="s65"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="34" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="33" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="39" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="49" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="62" ss:StyleID="s65"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="25" ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="105" ss:StyleID="s69"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:Index="6" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="13" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="19" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="35" ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s69"/>
+    <Cell ss:Index="55" ss:StyleID="s69"/>
+    <Cell ss:Index="65" ss:StyleID="s69"/>
+    <Cell ss:Index="75" ss:StyleID="s69"/>
+    <Cell ss:Index="85" ss:StyleID="s69"/>
+    <Cell ss:Index="89" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="94" ss:StyleID="s65"/>
+    <Cell ss:Index="99" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="109" ss:StyleID="s65"/>
+    <Cell ss:Index="115" ss:StyleID="s69"/>
+    <Cell ss:Index="125" ss:StyleID="s69"/>
+    <Cell ss:Index="135" ss:StyleID="s69"/>
+    <Cell ss:Index="145" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:Index="6" ss:StyleID="s68"/>
+    <Cell ss:Index="14" ss:StyleID="s62"/>
+    <Cell ss:Index="16" ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:Index="20" ss:StyleID="s65"/>
+    <Cell ss:Index="22" ss:StyleID="s69"/>
+    <Cell ss:Index="32" ss:StyleID="s69"/>
+    <Cell ss:Index="42" ss:StyleID="s69"/>
+    <Cell ss:Index="52" ss:StyleID="s69"/>
+    <Cell ss:Index="62" ss:StyleID="s69"/>
+    <Cell ss:Index="72" ss:StyleID="s69"/>
+    <Cell ss:Index="82" ss:StyleID="s69"/>
+    <Cell ss:Index="86" ss:StyleID="s65"/>
+    <Cell ss:Index="102" ss:StyleID="s69"/>
+    <Cell ss:Index="112" ss:StyleID="s69"/>
+    <Cell ss:Index="122" ss:StyleID="s69"/>
+    <Cell ss:Index="132" ss:StyleID="s69"/>
+    <Cell ss:Index="142" ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="14" ss:StyleID="s62"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="72.599999999999994"
+   ss:DefaultRowHeight="12.45">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Transcripci</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Compatibility Report">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="59.4" ss:DefaultRowHeight="12.45">
+   <Column ss:AutoFitWidth="0" ss:Width="6.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="372"/>
+   <Column ss:AutoFitWidth="0" ss:Width="9"/>
+   <Column ss:AutoFitWidth="0" ss:Width="32.4"/>
+   <Column ss:AutoFitWidth="0" ss:Width="92.4"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">Compatibility Report for Transcripciones Master shifted.xls</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">Run on 10/29/2009 15:46</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37.800000000000004">
+    <Cell ss:Index="2" ss:StyleID="s78"><Data ss:Type="String">The following features in this workbook are not supported by earlier versions of Excel. These features may be lost or degraded when you save this workbook in an earlier file format.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.2">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">Minor loss of fidelity</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"># of occurrences</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.2">
+    <Cell ss:Index="2" ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.549999999999997">
+    <Cell ss:Index="2" ss:StyleID="s80"><Data ss:Type="String">Some cells or styles in this workbook contain formatting that is not supported by the selected file format. These formats will be converted to the closest format available.</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="59.4" ss:DefaultRowHeight="12.45">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

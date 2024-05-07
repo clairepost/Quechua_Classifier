@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>skalt</Author>
+  <LastAuthor>skalt</LastAuthor>
+  <Created>2012-08-10T02:25:05Z</Created>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5568</WindowHeight>
+  <WindowWidth>13764</WindowWidth>
+  <WindowTopX>1056</WindowTopX>
+  <WindowTopY>852</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Medium Time"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="206" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.55">
+   <Column ss:Width="140.4"/>
+   <Column ss:Width="151.20000000000002"/>
+   <Column ss:Width="46.2" ss:Span="1"/>
+   <Column ss:Index="5" ss:Width="28.2"/>
+   <Column ss:Width="64.2"/>
+   <Column ss:Width="68.399999999999991"/>
+   <Column ss:Width="41.4"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="214.8"/>
+   <Column ss:Width="30.599999999999998"/>
+   <Column ss:Width="61.199999999999996"/>
+   <Column ss:Width="49.2"/>
+   <Column ss:Width="113.39999999999999"/>
+   <Column ss:Width="74.400000000000006"/>
+   <Column ss:Width="228"/>
+   <Column ss:Width="67.8" ss:Span="2"/>
+   <Column ss:Index="20" ss:Width="244.2"/>
+   <Column ss:Width="992.4"/>
+   <Column ss:Width="164.39999999999998"/>
+   <Column ss:Width="814.2"/>
+   <Column ss:Width="109.19999999999999"/>
+   <Column ss:Width="112.8"/>
+   <Column ss:Width="304.2"/>
+   <Column ss:Width="67.2" ss:Span="2"/>
+   <Column ss:Index="30" ss:Width="110.4"/>
+   <Column ss:Width="114.6"/>
+   <Column ss:Width="207.6"/>
+   <Column ss:Width="427.79999999999995"/>
+   <Column ss:Width="110.4"/>
+   <Column ss:Width="373.20000000000005"/>
+   <Column ss:Width="192.6"/>
+   <Column ss:Width="55.800000000000004" ss:Span="2"/>
+   <Column ss:Index="40" ss:Width="181.79999999999998"/>
+   <Column ss:Width="460.2"/>
+   <Column ss:Width="171.6"/>
+   <Column ss:Width="528.6"/>
+   <Column ss:Width="99.6"/>
+   <Column ss:Width="106.80000000000001"/>
+   <Column ss:Width="207"/>
+   <Column ss:Width="42.6" ss:Span="2"/>
+   <Column ss:Index="50" ss:Width="99"/>
+   <Column ss:Width="106.2"/>
+   <Column ss:Width="181.79999999999998"/>
+   <Column ss:Width="619.79999999999995"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="490.79999999999995"/>
+   <Column ss:Width="271.2"/>
+   <Column ss:Width="64.2" ss:Span="2"/>
+   <Column ss:Index="60" ss:Width="106.2"/>
+   <Column ss:Width="113.39999999999999"/>
+   <Column ss:Width="198.6"/>
+   <Column ss:Width="393"/>
+   <Column ss:Width="106.2"/>
+   <Column ss:Width="1381.2"/>
+   <Column ss:Width="191.39999999999998"/>
+   <Column ss:Width="39" ss:Span="2"/>
+   <Column ss:Index="70" ss:Width="89.4"/>
+   <Column ss:Width="345"/>
+   <Column ss:Width="89.4"/>
+   <Column ss:Width="96.6"/>
+   <Column ss:Width="89.4"/>
+   <Column ss:Width="429"/>
+   <Column ss:Width="284.40000000000003"/>
+   <Column ss:Width="54" ss:Span="2"/>
+   <Column ss:Index="80" ss:Width="157.80000000000001"/>
+   <Column ss:Width="396"/>
+   <Column ss:Width="111.60000000000001"/>
+   <Column ss:Width="119.4"/>
+   <Column ss:Width="164.39999999999998"/>
+   <Column ss:Width="672"/>
+   <Column ss:Width="262.8"/>
+   <Column ss:Width="36.599999999999994" ss:Span="2"/>
+   <Column ss:Index="90" ss:Width="184.2"/>
+   <Column ss:Width="301.79999999999995"/>
+   <Column ss:Width="91.199999999999989"/>
+   <Column ss:Width="702.59999999999991"/>
+   <Column ss:Width="84.600000000000009"/>
+   <Column ss:Width="92.4"/>
+   <Column ss:Width="240"/>
+   <Column ss:Width="49.2" ss:Span="2"/>
+   <Column ss:Index="100" ss:Width="85.8"/>
+   <Column ss:Width="93.600000000000009"/>
+   <Column ss:Width="181.2"/>
+   <Column ss:Width="364.20000000000005"/>
+   <Column ss:Width="140.4"/>
+   <Column ss:Width="331.2"/>
+   <Column ss:Width="301.20000000000005"/>
+   <Column ss:Width="60" ss:Span="2"/>
+   <Column ss:Index="110" ss:Width="201"/>
+   <Column ss:Width="550.80000000000007"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="115.80000000000001"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="525"/>
+   <Column ss:Width="270"/>
+   <Column ss:Width="43.8" ss:Span="2"/>
+   <Column ss:Index="120" ss:Width="91.8"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="91.8"/>
+   <Column ss:Width="222.60000000000002"/>
+   <Column ss:Width="110.4"/>
+   <Column ss:Width="1061.4000000000001"/>
+   <Column ss:Width="293.40000000000003"/>
+   <Column ss:Width="67.8" ss:Span="2"/>
+   <Column ss:Index="130" ss:Width="193.8"/>
+   <Column ss:Width="780"/>
+   <Column ss:Width="121.8"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="121.8"/>
+   <Column ss:Width="646.19999999999993"/>
+   <Column ss:Width="200.39999999999998"/>
+   <Column ss:Width="54.599999999999994" ss:Span="2"/>
+   <Column ss:Index="140" ss:Width="181.79999999999998"/>
+   <Column ss:Width="633.6"/>
+   <Column ss:Width="183"/>
+   <Column ss:Width="1116.5999999999999"/>
+   <Column ss:Width="99.6"/>
+   <Column ss:Width="106.80000000000001"/>
+   <Column ss:Width="217.2"/>
+   <Column ss:Width="59.4" ss:Span="2"/>
+   <Column ss:Index="150" ss:Width="105"/>
+   <Column ss:Width="841.8"/>
+   <Column ss:Width="105"/>
+   <Column ss:Width="112.2"/>
+   <Column ss:Width="105"/>
+   <Column ss:Width="907.8"/>
+   <Column ss:Width="1177.2"/>
+   <Column ss:Width="1044"/>
+   <Column ss:Width="124.80000000000001"/>
+   <Column ss:Width="525"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="127.19999999999999"/>
+   <Column ss:Width="100.8"/>
+   <Column ss:Width="1381.2"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="731.4"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="398.4"/>
+   <Column ss:Width="100.8"/>
+   <Column ss:Width="173.39999999999998"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="79.800000000000011"/>
+   <Column ss:Width="1381.2"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="171.6"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="122.39999999999999"/>
+   <Column ss:Width="207"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="1381.2"/>
+   <Column ss:Width="143.4"/>
+   <Column ss:Width="1082.4000000000001"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="199.2"/>
+   <Column ss:Width="87.6"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="85.2"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="85.2"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Column ss:Width="81.599999999999994"/>
+   <Column ss:Width="76.8"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">Nombre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Numero</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Plantilla</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pais</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Comunidad</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Edad (años)</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Grado</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Primer idioma</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hay alguien que te habla en castellano?</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sexo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Fecha</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hora</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Duracion en minutos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Entrevistador</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frase estímulo        Ana chukchanta rutun</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA A</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA B</Data></Cell>
+    <Cell><Data ss:Type="String">CHUKCHA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chuckcha A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chukcha A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chukcha B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chukchaB</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chukcha C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chukchaC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José kukuchunta/makimuqunta hap’ikun.</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU A</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU B</Data></Cell>
+    <Cell><Data ss:Type="String">KUKUCHU C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta kukuchu A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta kukuchuA</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta kukuchu B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta kukuchuB</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta kukuchu C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta kukuchu C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo Ana awanata hap’in.</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA A</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA B</Data></Cell>
+    <Cell><Data ss:Type="String">AWANA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta awana A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta awana A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta awana B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta awana B </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta awana C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta awana C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo Ana q’ipita q’ipichikun.</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI A</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI B</Data></Cell>
+    <Cell><Data ss:Type="String">Q'IPI C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta q'ipita A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta q'ipita A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta q'ipita B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta q'ipita B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta q'ipita C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta q'ipita C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José misturawan hach’in/ch'aqpan.</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA A</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA B</Data></Cell>
+    <Cell><Data ss:Type="String">MISTURA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mistura A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mistura A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mistura B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mistura B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mistura C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mistura C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José umanta hap’in. </Data></Cell>
+    <Cell><Data ss:Type="String">UMA A</Data></Cell>
+    <Cell><Data ss:Type="String">UMA B</Data></Cell>
+    <Cell><Data ss:Type="String">UMA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uma A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uma A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uma B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uma B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uma C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uma C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo Ana wirawan mankata llusin/lluchhin.</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA A</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA B</Data></Cell>
+    <Cell><Data ss:Type="String">MANKA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mankata A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mankata A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mankata B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mankata B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta mankata C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta mankata C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo Ana uyanta makch'in/uphachkan.</Data></Cell>
+    <Cell><Data ss:Type="String">UYA A</Data></Cell>
+    <Cell><Data ss:Type="String">UYA B</Data></Cell>
+    <Cell><Data ss:Type="String">UYA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uya A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uya A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uya B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uya B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uya C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uya C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José latusta mayllin/mayllan.</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS A</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS B</Data></Cell>
+    <Cell><Data ss:Type="String">LATUS C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta latu A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta latu A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta latu B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta latu B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta latu C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta latu C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José chumpata puñuna pataman churan. </Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA A</Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA B</Data></Cell>
+    <Cell><Data ss:Type="String">CHUMPA C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chumpa A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chumpa  A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chumpa B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chumpa B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta chumpa C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta chumpa C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo Ana makinta mayllikun/mayllakun.</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI A</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI B</Data></Cell>
+    <Cell><Data ss:Type="String">MAKI C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta maki A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta maki A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta maki B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta maki B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta maki C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta maki C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José sumbukuta/sumbreruta churakun.</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU A</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU B</Data></Cell>
+    <Cell><Data ss:Type="String">SUMBUKU C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta $sumbuku A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta $sumbuku A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta $sumbuku B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta $sumbuku B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta $sumbuku C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta $sumbuku C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo  Ana uhut'ata churan.</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A A</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A B</Data></Cell>
+    <Cell><Data ss:Type="String">UHUT'A C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uhut'a A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uhut'a A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uhut'a B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uhut'a B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta uhut'a C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta uhut'a C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frase estímulo José punchuta churakun.</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU A</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU B</Data></Cell>
+    <Cell><Data ss:Type="String">PUNCHU C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta punchu A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta punchu A</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta punchu B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta punchu B</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pregunta punchu C</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Respuesta punchu C</Data></Cell>
+    <Cell><Data ss:Type="String">Cuento entrev.</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño (a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+    <Cell><Data ss:Type="String">cuento niño(a)</Data></Cell>
+    <Cell><Data ss:Type="String">cuento entrev</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Transcripción por peruana JVO</Data></Cell>
+    <Cell><Data ss:Type="String">Yuselki Cerrillo Cusihuaman</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">51</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peru</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jayubamba</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">tercero</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quechua</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">hermanoykuna, primoykuna</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell><Data ss:Type="String">28/9/2009</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">1899-12-31T07:58:00.000</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">HPC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana chukchanta rutun. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypiri imatataq rurachkan Ana, kay patapi?</Data></Cell>
+    <Cell><Data ss:Type="String">rutuchkanmi chayqa [ima nin] chukchanta rutuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypiri imata rurachkan Ana?</Data></Cell>
+    <Cell><Data ss:Type="String">chaypi rurachkan mm… pichachkan [yuselki simiykita allinta kichaspa rimanki ya]</Data></Cell>
+    <Cell ss:Index="26" ss:StyleID="s69"><Data ss:Type="String">José kukuchunta hap’ikun.</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="32"><Data ss:Type="String">¿kay chawpipiri imata rurachkan José?</Data></Cell>
+    <Cell><Data ss:Type="String">cuadernuta hap'ichkan [ah kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">¿kay uraypirí?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kukuchunta hap'ichkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana awanata hap’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">¿kaypiri imatataq rurachkan Ana?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">mm.. Much'unta hap'ichkan</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">¿kaypiri imatan Ana rurachkan?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">paypas hap'ikuchkallantaq [umm kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana q’ipita q’ipichikun.</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">¿kaypiri imatataq Ana rurachkan?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ummm... na chay q'ipita hap'ichkan</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kaypirí?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">khiputa, q'ipita hap'ichkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José misturawan hach’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="62"><Data ss:Type="String">¿kay chawpipiri imatataq rurachkan?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">hach'ichkallantaq</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypi?</Data></Cell>
+    <Cell><Data ss:Type="String">kaypipis hach'ichkan altunninman [ima] hach'ichkan altunninman wichayninman [kallpachawan ya rimanki panay]</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José umanta hap’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay patapiri?</Data></Cell>
+    <Cell><Data ss:Type="String">punkuta hap'ichkan</Data></Cell>
+    <Cell ss:Index="74"><Data ss:Type="String">¿kaypiri?</Data></Cell>
+    <Cell><Data ss:Type="String">umanta hap'ikuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana wirawan mankata llusin. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypiri imatataq rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String"> makinta maq-, maqchichkan</Data></Cell>
+    <Cell ss:Index="84"><Data ss:Type="String">¿kaypiri imata Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">paypas nakuchkan… hampikuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uyanta makch’in. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay patapiri imatataq  ruachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">maqchikuchkan pay</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay chawpipiri?</Data></Cell>
+    <Cell><Data ss:Type="String">ummm... na maqchinanpaq unuta uqarichkan</Data></Cell>
+    <Cell ss:Index="96"><Data ss:Type="String">José latusta mayllin. &lt;pronuncia latuta&gt;</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="102"><Data ss:Type="String">¿kay chawpipiri imata rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">chakinta maqchikuchkan</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypiri imata rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">chakinta maqchichkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José chumpata puñuna pataman churan. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay patapiri imatan rurachkan José?</Data></Cell>
+    <Cell><Data ss:Type="String">patapiqa chum... p'achachkan</Data></Cell>
+    <Cell ss:Index="114"><Data ss:Type="String">¿kaypiri</Data></Cell>
+    <Cell><Data ss:Type="String">uranpiqa p'achakuchkan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana makinta mayllikun. </Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="122"><Data ss:Type="String">¿chawpipiri?</Data></Cell>
+    <Cell><Data ss:Type="String">chawpipiqa maqchikuchkanku iskayninku</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay qipa tukuypiri?</Data></Cell>
+    <Cell><Data ss:Type="String">tukuypiqa maqchikuchkan... T'aqsachkanchusuna</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">José $sumbukuta churakun. </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay patapiri imata rurachkan José?</Data></Cell>
+    <Cell><Data ss:Type="String">patapiqa $sumbirunta churachkan misapataman</Data></Cell>
+    <Cell ss:Index="134"><Data ss:Type="String">¿kay uraypi?</Data></Cell>
+    <Cell><Data ss:Type="String">kaypiqa churachkan $sumbirunta Anaman</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ana uhut'ata churan.</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">¿kaypiri imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">chaypiqa Ana uhut'anwan churakuchkan </Data></Cell>
+    <Cell><Data ss:Type="String">¿Kaypirí imatataq Ana rurachkan?</Data></Cell>
+    <Cell><Data ss:Type="String">Chaypi, Ana churakuchkan. Ana churakuchkan, churakuchkan paylla. </Data></Cell>
+    <Cell ss:Index="146" ss:StyleID="s69"><Data ss:Type="String">José punchuta churakun.</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">¿kay patapiri?</Data></Cell>
+    <Cell><Data ss:Type="String">patapiqa punchunta naman silletaman churachkan</Data></Cell>
+    <Cell ss:Index="154"><Data ss:Type="String">¿kay uraypiri?</Data></Cell>
+    <Cell><Data ss:Type="String">uraypiqa punchuchkan naman Anaman [umm kusa]</Data></Cell>
+    <Cell><Data ss:Type="String">kunanqa kayta ñawin-ñawinchanki hinaspa chayman hina umallaykimanta huk willakuyta paqarichinki,ya kaymanta rispa chaymanta ima qatimun imapi tukunman ya a ver qallariy pacha willakuyta umallaykimanta uqariy</Data></Cell>
+    <Cell><Data ss:Type="String">quchaman- manmi quchamanmi haykus-kus aq haykusuq haykusaq, quchamanmi haykusaq. Yuntu- tu chayta-runtuchaycha qha-qhawa-ripus-wan-ki. Huk kutis na mm.. [waswa] waswa[wallata]</Data></Cell>
+    <Cell><Data ss:Type="String">wallata waswa, wallata</Data></Cell>
+    <Cell><Data ss:Type="String">wallata waswawan richkaqku hinaspa waswaqa waqayapusqa runtun qalata cundur mikhuyapusqa</Data></Cell>
+    <Cell><Data ss:Type="String">chayri</Data></Cell>
+    <Cell><Data ss:Type="String">waswaqa waqayapusqa </Data></Cell>
+    <Cell><Data ss:Type="String">[kallpachawan ya]</Data></Cell>
+    <Cell><Data ss:Type="String">hinaspa waswa waqayapuqtin waswaqa runtuchay runtuchay nispa phawayruchkan na, na cirruñataq phawaylla tiramuchkaran,manan kapunchu imanasaq imanasaq nispa waswaqa phawaylla chinkayusqa. Cumpariy cumpariy nispa chaysi waswaq qalata aparapusqa</Data></Cell>
+    <Cell><Data ss:Type="String">chaymantari</Data></Cell>
+    <Cell><Data ss:Type="String">chaymanta suru, cumpariy surru, cumpariy surru manachu rikupuwaranki manachu, rikupuwaranki uñachaytawan aparapusqa nisqa nisa</Data></Cell>
+    <Cell><Data ss:Type="String">chay</Data></Cell>
+    <Cell><Data ss:Type="String">chaysis surruqa nin paytawan mikhurapusaq wiksarakamusqa paywan xxx</Data></Cell>
+    <Cell><Data ss:Type="String">umm chaymantari</Data></Cell>
+    <Cell><Data ss:Type="String">chaymantas iman kasqa chayqa</Data></Cell>
+    <Cell><Data ss:Type="String">waswa</Data></Cell>
+    <Cell><Data ss:Type="String">ankiy</Data></Cell>
+    <Cell><Data ss:Type="String">wallata waswa</Data></Cell>
+    <Cell><Data ss:Type="String">wallata waswa umm hinaspas waswa wallataqa na umm wallataqa nisqa manan ñuqaqa apanichu,mana ñuqaqa apanichu nispa wallatata nisqa hinaspas wallatatapas cumpariy surru, cumpariy surru mana kapunchu wallata nispa nisqa hinaspa waswaqa waswaqa umm payta mikhurapusqa hinaspa uñachanmantas phalapayusqa altuchakuman, hinaspas uñachakuna waqchallaña quidasqa chaysi purikachasqa: cumpariy surru cumpariy surru manan kapunchu mamay cumpariy surru hinaspa maskaspa xxx</Data></Cell>
+    <Cell><Data ss:Type="String">chaymantari</Data></Cell>
+    <Cell><Data ss:Type="String">iska- iskay run-tu-lla-ma-ñataq</Data></Cell>
+    <Cell><Data ss:Type="String">chayri</Data></Cell>
+    <Cell><Data ss:Type="String">imata kaypi rurachkan</Data></Cell>
+    <Cell><Data ss:Type="String">iskay runtullañataq nispa qhawachkan</Data></Cell>
+    <Cell><Data ss:Type="String">ah [waswa] </Data></Cell>
+    <Cell><Data ss:Type="String">waswa</Data></Cell>
+    <Cell><Data ss:Type="String">runtuchata tuq'arichispansi kusisqas tirayruchkan hinaspas na waswaqa manan ñuqa runtuycha nispa runtuchyaki runtuyki nispa nisaku hinaspa mamanman willamusqa karan chaysi uñankunaqa xxx surrutapas phawaylla pikalayasqa, hinaspas palumakuna urayruspa palumakuna qalata rumikunawan chanqayapusaku hinaspa palumachakunaqa anchay runtunta laqaykapusaku, surru qala mihuyapuysqa</Data></Cell>
+    <Cell><Data ss:Type="String">chaymanta imapi tukupun</Data></Cell>
+    <Cell><Data ss:Type="String">hinaspas ankaypiqa chaypiqa na tuqyarachisqa xxx kimsa uyacha kasqa,hinaspas surruqa kutiyamuchkallasqa yarqayawachkan yarqayawachkan nispa hinaspa man- uñakunapis kasqa surru kutiyamusqa</Data></Cell>
+    <Cell><Data ss:Type="String">ahh</Data></Cell>
+    <Cell><Data ss:Type="String">chaysi tukurapusqa qala uñankunata</Data></Cell>
+    <Cell><Data ss:Type="String">ahh kusa panay</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Segmentación</Data></Cell>
+    <Cell><Data ss:Type="String">Yuselki Cerrillo Cusihuaman</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">51</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peru</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jayubamba</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">tercero</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quechua</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">hermanoykuna, primoykuna</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">HPC</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="21"><Data ss:Type="String">rutu-0-chka-n-mi chay-qá [ima nin] chukcha-n-ta rutu-0-chka-n</Data></Cell>
+    <Cell ss:Index="23"><Data ss:Type="String">chay-pi rura-0-chka-n mm… picha-0-chka-n [yuselki simiykita allinta kichaspa rimanki ya]</Data></Cell>
+    <Cell ss:Index="26" ss:StyleID="s69"/>
+    <Cell ss:Index="33"><Data ss:Type="String">$cuadernu-ta hap'i-0-chka-n [ah kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">kukuchu-n-ta hap'i-0-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="40" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">mm.. Much'u-n-ta hap'i-0-chka-n</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">pay-pas hap'i-0-ku-chka-lla-n-taq[umm kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="50" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ummm... na chay q'ipi-ta hap'i-0-chka-n</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">khipu-ta, q'ipi-ta hap'i-0-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="63" ss:StyleID="s64"><Data ss:Type="String">hach'i-0-chka-lla-n-taq</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">kay-pi-pis hach'i-0-chka-n $altu-n-ni-n-man [ima] hach'i-0-chka-n $altu-n-ni-n-man wicha-y-ni-n-man [kallpachawan ya rimanki panay]</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="71"><Data ss:Type="String">punku-ta hap'i-0-chka-n</Data></Cell>
+    <Cell ss:Index="75"><Data ss:Type="String">uma-n-ta hap'i-0-ku-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="81"><Data ss:Type="String"> maki-n-ta maq maqchi-0-chka-n</Data></Cell>
+    <Cell ss:Index="85"><Data ss:Type="String">pay-pas na-0-ku-chka-n… hampi-0-ku-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="91"><Data ss:Type="String">maqchi-0-ku-chka-n pay</Data></Cell>
+    <Cell ss:Index="93"><Data ss:Type="String">ummm... na maqchi-0-na-n-paq unu-ta uqari-0-chka-n</Data></Cell>
+    <Cell ss:Index="103"><Data ss:Type="String">chaki-n-ta maqchi-0-ku-chka-n</Data></Cell>
+    <Cell ss:Index="105"><Data ss:Type="String">chaki-n-ta maqchi-0-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="111"><Data ss:Type="String">pata-pi-qa $chum... p'acha-0-chka-n</Data></Cell>
+    <Cell ss:Index="115"><Data ss:Type="String">ura-n-pi-qa p'acha-0-ku-chka-n</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="125"><Data ss:Type="String">tuku-y-pi-qa maqchi-0-ku-chka-n... T'aqsa-0-chka-n-chusuna</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="131"><Data ss:Type="String">pata-pi-qa $sumbiru-n-ta chura-0-chka-n $misa-pata-man</Data></Cell>
+    <Cell ss:Index="135"><Data ss:Type="String">kay-pi-qa chura-0-chka-n $sumbiru-n-ta Ana-man</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="141"><Data ss:Type="String">chay-pi-qa Ana uhut'a-n-wan chura-0-ku-chka-n </Data></Cell>
+    <Cell ss:Index="143"><Data ss:Type="String">Chay-pi, Ana chura-0-ku-chka-n. Ana chura-0-ku-chka-n, chura-0-ku-chka-n pay-lla.&quot; </Data></Cell>
+    <Cell ss:Index="146" ss:StyleID="s69"/>
+    <Cell ss:Index="151"><Data ss:Type="String">pata-pi-qa punchu-n-ta na-man $silleta-man chura-0-chka-n</Data></Cell>
+    <Cell ss:Index="155"><Data ss:Type="String">uray-pi-qa punchu-0-chka-n na-man Ana-man [umm kusa]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Análisis y traducción</Data></Cell>
+    <Cell><Data ss:Type="String">Yuselki Cerrillo Cusihuaman</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">51</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peru</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Jayubamba</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">tercero</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quechua</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">hermanoykuna, primoykuna</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">HPC</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="21"><Data ss:Type="String">cortar cabello, pasto-3OBJ-PROG-3SUJ-ATES allí-TOPINTR &quot;Le está cortando el cabelo, ahí está pues.&quot; [¿Qué dice?] cabello-3POS-AC cortar-3OBJ-PROG-3SUJ Le está cortando el cabello.&quot;</Data></Cell>
+    <Cell ss:Index="23"><Data ss:Type="String">allí-LOC hacer-3OBJ-PROG-3SUJ mm… barrer-3OBJ-PROG-3SUJ &quot;Allí, está haciendo mm… está bariiendo.&quot; [yuselki simiykita allinta kichaspa rimanki ya]</Data></Cell>
+    <Cell ss:Index="26" ss:StyleID="s69"/>
+    <Cell ss:Index="33"><Data ss:Type="String">cuaderno-AC agarrar-3OBJ-PROG-3SUJ &quot;Está agarrando el cuaderno.&quot; [ah kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">codo-3POS-AC agarrar-3OBJ-PROG-3SUJ &quot;Le está agarrando el codo.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="40" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">mm.. Cogote, nuca-3POS-AC agarrar-3OBJ-PROG-3SUJ &quot;Le está agarrando el cogote.&quot;</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ella-ADIT agarrar-3OBJ-REFL-PROG-LIM-3POS-AUM &quot;Ella también se  está agarrando.&quot;[umm kusa]</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="50" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ummm... Algo/alguién ese/esa bulto/carga-AC agarrar-3OBJ-PROG-3SUJ &quot;Ummm… está agarrando algo, ese bulto.&quot; </Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">atado, anudado-AC, bulto-AC agarrar-3OBJ-PROG-3SUJ &quot;Está agarrando el atado, la carga.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="63" ss:StyleID="s64"><Data ss:Type="String">aventar-3OBJ-PROG-LIM-3SUJ-AUM &quot;Lo está aventando nomás también.&quot;</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">Aquí-LOC-ADIT aventar-3OBJ-PROG-3SUJ alto-3POS-AUX-3POS-IL/DAT &quot;Aquí también lo está aventando a lo alto de sí.&quot; [¿Qué?] aventar-3OBJ-PROG-3SUJ $alto-3POS-AUX-3POS-IL/DAT arriba-INF-AUX-3POS-IL/DAT &quot; Lo está aventando por encima de sí, arriba de sí mismo.&quot; [kallpachawan ya rimanki panay]</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="71"><Data ss:Type="String">puerta-AC agarrar-3OBJ-PROG-3SUJ &quot;Está agarrando la puerta.&quot;</Data></Cell>
+    <Cell ss:Index="75"><Data ss:Type="String">cabeza-3POS-AC agarrar-3OBJ-REFL-PROG-3SUJ &quot;Se está agarrando la cabeza.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="81"><Data ss:Type="String"> mano-3POS-AC lav lavar-3OBJ-PROG-3SUJ &quot;Se está la lavando la mano.&quot;</Data></Cell>
+    <Cell ss:Index="85"><Data ss:Type="String">ella-ADIT algo-3OBJ-REFL-PROG-3SUJ… curar-3OBJ-REFL-PROG-3SUJ &quot;Ella también se está haciendo algo… se está curando.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="91"><Data ss:Type="String">lavar-3OBJ-REFL-PROG-3SUJ ella &quot;Ella se está lavando.&quot;</Data></Cell>
+    <Cell ss:Index="93"><Data ss:Type="String">ummm... algo lavar-3OBJ-OBL-3POS-CONT agua-AC levantar-3OBJ-PROG-3SUJ &quot;ummm… para lavar algo está levantando el agua.&quot;</Data></Cell>
+    <Cell ss:Index="103"><Data ss:Type="String">pie-3POS-AC lavar-3OBJ-REFL-PROG-3SUJ &quot;Se está lavando el pie.&quot;</Data></Cell>
+    <Cell ss:Index="105"><Data ss:Type="String">pie-3POS-AC lavar-3OBJ-PROG-3SUJ &quot;Le está lavando el pie.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="111"><Data ss:Type="String">arriba-LOC-TOP/INT chom... vestir-3OBJ-PROG-3SUJ &quot;Arriba le está poniendo chom… le está vistiendo&quot;</Data></Cell>
+    <Cell ss:Index="115"><Data ss:Type="String">abajo-3POS-LOC-TOP/INT vestir-3OBJ-REFL-PROG-3SUJ &quot;En la parte de abajo, se está visitiendo.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="125"><Data ss:Type="String">terminar-INF-LOC-TOP/INT lavar obhetos, partes del cuerpo-3OBJ-REFL-PROG-3SUJ... Lavar ropa, lana-3OBJ-PROG-3SUJ-DUBIT &quot;Al final, se está lavando (un obheto)… creo que está lavando (ropa).&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="131"><Data ss:Type="String">encima-LOC-TOP/INT sombrero-3POS-AC poner-3OBJ-PROG-3SUJ mesa-encima-IL/DAT &quot;encima, está poniendo su sombrero encima de la mesa.&quot;</Data></Cell>
+    <Cell ss:Index="135"><Data ss:Type="String">Aquí-LOC-TON/INT poner-3OBJ-PROG-3SUJ sombrero-3POS-AC Ana-IL/DAT &quot;Aquí, le está poniendo su sombrero a Ana.&quot;</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="141"><Data ss:Type="String">allí-LOC-TOPINTR Ana sandalia-3POS-INST poner-3OBJ-REFL-PROG-3SUJ &quot;Allí, Ana se está poniendo con su sandalia.&quot; </Data></Cell>
+    <Cell ss:Index="143"><Data ss:Type="String">Allí-LOC, Ana poner-3OBJ-REFL-PROG-3SUJ. Ana poner-3OBJ-REFL-PROG-3SUJ, poner-3OBJ-REFL-PROG-3SUJ ella-LIM &quot;Allí, Ana se la está poniendo,   Ana se la está poniendo. Ella nomás se la está poniendo.&quot; </Data></Cell>
+    <Cell ss:Index="146" ss:StyleID="s69"/>
+    <Cell ss:Index="151"><Data ss:Type="String">arriba, encima-LOC-TOPINTR poncho-3POS-AC algo-IL/DAT silleta-IL/DAT poner-3OBJ-PROG-3SUJ &quot;En arriba, está poniendo su poncho en algo, en la silleta.&quot; </Data></Cell>
+    <Cell ss:Index="155"><Data ss:Type="String">abajo-LOC-TOPINTRO poncho-3OBJ-PROG-3SUJ alguien-IL/DAT Ana-IL/DAT &quot;Voy a hablar de lo que está abajo. Le está poniendo el poncho a alguien, a Ana.&quot;[umm kusa]</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1:R4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Hoja2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Hoja3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

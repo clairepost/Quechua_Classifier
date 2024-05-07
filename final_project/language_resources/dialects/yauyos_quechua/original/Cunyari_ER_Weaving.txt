@@ -1,0 +1,565 @@
+file:/Users/nomdecrayon/Documents/Quechua/Yauyos_ELAN/Cunyari_ER_Weaving.eaf
+Sunday, October 7, 2012 11:54 AM
+
+Qaytuwan ñakariyani sapa puntr'aw kwadernotaqa qawaykushpa qawaykushpa.
+Qaytu-wan ñakari-ya-ni sapa puntr'aw kuwadernu-ta-qa qawa-yku-shpa qawaykushpa.
+string-INSTR suffer-PROG-1 every day notebook-ACC-TOP look-EXCEP-SUBIS look-EXCEP-SUBIS
+Estoy sufriendo todos los días con hilo, mirando y mirando mi cuaderno.
+Every day I struggle with yarn, looking and looking at the notebook.
+00:00:00.100 - 00:00:05.080
+
+Dibuhuta qawaykushpa qawaykushpa ñakarini.
+dibuhu-ta qawa-yku-shpa qawa-yku-shpa ñakari-ni
+drawing-ACC look-EXCEP-SUBIS look-EXCEP-SUBIS suffer-1
+Mirando y mirando los dibujos, sufro.
+Looking and looking at the drawings, I suffer.
+00:00:06.090 - 00:00:10.140
+
+Hinallam kaypa trabahakuni sapa puntr'aw.
+hina-lla-m kay-pa trabaha-ku-ni sapa puntr'aw
+thus-RSTR-EVD DEM.P-LOC work-REFL-1 every day
+Así no más trabajo todos los días.
+Just like this, I work every day.
+00:00:12.230 - 00:00:16.340
+
+Ayves tr'akrapa trabahani.
+ayves tr'akra-pa trabaha-ni
+sometimes fields-LOC work-1 work-1
+Aveces trabajo en la chakra.
+Sometimes I work in the fields.
+00:00:17.220 - 00:00:19.750
+
+Masta kaypi trabahani.
+mas-ta kay-pi trabaha-ni
+more-ACC DEM.P-LOC work-1
+Trabajo aquí más.
+I work more here.
+00:00:21.770 - 00:00:26.080
+
+Partesta partestaqa takaykunchik. Unayña ruwani.
+partes partes-ta-qa taka-yku-nchik unay-ña ruwa-ni
+parts parts-ACC-TOP labor-EXCEP-1.PL before-DISC make-1
+Partes se chankan. Hace tiempo, yo lo hago.
+Parts get worked like this.  I've made them for a long time now.
+00:00:37.150 - 00:00:42.620
+
+Diyario figurachata hurqunchik.
+diyariyu figura-cha-ta hurqu-nchik
+daily shape-DIM-ACC take.out-1.PL
+Todos los días se sacan las figuritas
+Every day, the shapes get drawn out.
+00:00:43.170 - 00:00:48.410
+
+Kay dibuhuchakunata kayhina dibuhuchakunata qawashpa ruwani.
+kay dibuhu-cha-kuna-ta kay-hina dibuqu-cha-kuna-ta qawa-shpa ruwa-ni
+DEM.P drawing-DIM-PL-ACC DEM.P-COMP drawing-DIM-PL-ACC look-SUBIS make-1
+Estos dibujitos, mirando estos dibujitos así, lo hago.
+These little drawings, like this, looking at these little drawings, I work.
+00:00:48.600 - 00:00:53.920
+
+Ñakarishpa qawani dibuhukunata.
+ñakari-shpa qawa-ni dibuhu-kuna-ta
+suffer-SUBIS look-1 drawing-PL-ACC
+Sufriendo miro todos los dibujos
+Suffering, I look at the little drawings.
+00:00:54.130 - 00:00:57.330
+
+Ayvez huklawkunapa huklawkunapa.
+ayves huk-law-kuna-pa huk-law-kuna-pa
+sometimes one-side-PL-LOC one-side-PL-LOC
+Aveces en otros sitios en otros sitios
+Sometimes in other places, in other places.
+00:00:57.480 - 00:01:01.050
+
+Kayhinakunachatam ruwani kayhina dibuhuchakunatam.
+kay-hina-kuna-cha-ta-m ruwa-ni kay-hina dibuhu-cha-kuna-ta-m
+DEM.P-COMP-PL-DIM-ACC-EVD make-1 DEM.P-COMP drawing-DIM-PL-ACC-EVD
+Los hago asícito. Como estos dibujitos
+Just like these,  I make them,  Like these little drawings.
+00:01:05.860 - 00:01:09.690
+
+Dibuhani ñakariyani.
+dibuha-ni ñakari-ya-ni
+draw-1 suffer-PROG-1
+Dibujo y  estoy sufriendo
+I draw and I'm suffering.
+00:01:09.720 - 00:01:12.960
+
+Kayhinachakunata kayta qawaykushpa qawaykushpa ruwani.
+kay-hina-cha-kuna-ta kay-ta qawa-yku-shpa qawa-yku-shpa ruwa-ni
+DEM.P-COMP-DIM-PL-ACC DEM.P-ACC look-EXCEP-SUBIS look-EXCEP-SUBIS make-1
+Asícito, los hago, mirando mirando.
+Just like these, looking, looking, I make them.
+00:01:14.220 - 00:01:20.290
+
+Kayna trabahayani
+kay-na trabaha-ya-ni
+DEM.P-VRBZ work-PROG-1
+Así estoy trabajando.
+Like this, I'm working.
+00:01:20.400 - 00:01:25.180
+
+Churin manteninanpaqyá trabahan wambraykuna manteninaypaq trabahani kayna.
+churi-n manteni-na-n-paq-yá trabaha-n wambra-y-kuna manteni-na-y-paq trabaha-ni kay-na
+child-3 support-NMLZ-3-PURP-EMPH work-3 child-1-PL support-NMLZ-1-PURP work-1 DEM.P-NMLZ
+Tabaja para que mantenga a sus hijos. Para que mantenga a mis hijos trabajo así.
+He works to so he can support his children.  I work so I can support my children.
+00:01:25.400 - 00:01:30.230
+
+Viday pasanaypaq trabahakuni imayna kakunraq kay trabahuy washaypis nananñam.
+vida-y pasa-na-y-paq trabaha-ku-niiiiii imayna ka-ku-n-raq kay trabahu-y washa-y-pis nana-n-ña-m
+life-1 pass-NMLZ-1-PURP TK work-REFL-1 how be-REFL-3-CONT DEM.P work-INF back-1-ADD hurt-3-DISC-EVD
+Trabajo para pasar la vida.  ¿Cómo será ya mi trabajo? Mi espalda también me duele ya
+I work to spend my life.  How would my work be?  My back, too, hurts already.
+00:01:30.360 - 00:01:36.530
+
+Sapa puntr'aw trabahasay
+sapa puntr'aw trabaha-sa-y
+every day work-PRF-1
+Lo que he trabajado odos los días.
+That I've worked every day.
+00:01:36.630 - 00:01:40.120
+
+Kayna afanakuyani.
+kay-na afana-ku-ya-ni
+DEM.P-NMLZ work.hard-REFL-PROG-1
+Así estoy trabajando duro.
+Like this, I'm working hard.
+00:01:40.400 - 00:01:43.820
+
+Manesiptinqam tutaykunankaman.
+manisi-pti-n-qa-m tuta-ku-na-n-kaman
+dawn-SUBDS-3-TOP-EVD night-REFL-NMLZ-3-LIM
+Desde que amanece hasta que oscurece
+From dawn to dusk
+00:01:43.910 - 00:01:46.690
+
+Warmiñataq puchkawan qariñataq tihiduwan.
+warmi-ña-taq puchka-wan qari-ña-taq tihidu-wan
+woman-DISC-SEQ spinning-INSTR man.DISC-SEQ weaving-INSTR
+Las mujeres con hilado y los hombres con tejido
+women with spinning, men with weaving
+00:01:46.840 - 00:01:50.330
+
+Qarikuna afanakun.
+qari-kuna afana-ku-n
+man-PL work.hard-REFL-3
+Los hombres son afanosos.
+The men work hard.
+00:01:51.000 - 00:01:55.190
+
+Hinashpaqa ayvesnin kayhina kaykunawan pasachini.
+hinashpa-qa ayves-ni-n kay-hina kay-kuna-wan pasa-chi-ni
+then-TOP sometimes-EUPH-3  TK DEM.P-COMP DEM.P-PL-INSTR pass-CAUS-1
+Luego aveces los hago pasar así con éstos.
+Then, sometimes, I make these go through with these like this.
+00:01:55.380 - 00:01:59.900
+
+Pikani qaytukunata kayhina kay lliwta pikarushpa lliwta kaymanñataq huqarini tr'urani wakmanñataq.
+pika-ni qaytu-kuna-ta kay-hina kay lliw-ta pika-ru-shpa lliw-ta kay-man-ña-taq huqa-ri-ni tr'ura-ni wak-man-ña-taq
+prick-1 thread-PL-ACC DEM.P-COMP DEM.P çall-ACC prick-URGT-SUBIS all-ACC DEM.P-ALL-DISC-SEQ gather-INCEP-1 store-1 DEM.DD-ALL-DISC-SEQ
+Pico los hilos así. Cuando pico todos estos, recojo todo hacia acá y lo guardo hacá allá.
+I prick the thread like this.  When I prick all these, I gather all of them up over here and save them over there.
+00:02:03.590 - 00:02:11.190
+
+Hinashpaqa yapañataq kaykunata  afanakuni
+hinashpa-qa yapa-ña-taq kay-kuna-ta afana-ku-ni
+then-TOP again-DISC-SEQ DEM.P-PL-ACC TK-REFL-1
+Después otra vez ya me ocupo a hacer todos éstos
+Then, again, I go back to struggling with these.
+00:02:11.270 - 00:02:15.370
+
+Kayhina
+kay-hina
+DEM.P-COMP
+así
+Like this.
+00:02:15.420 - 00:02:18.350
+
+Kayhinañataq yapa chaynalla ruwani.
+kay-hina-ña-taq yapa chay-na-lla ruwa-ni
+DEM.P-COMP-DISC-SEQ again DEM.D-VRBZ-RSTR make-1
+Así ya, otra vez, Así hago.
+Like this already again.  I make them like that
+00:02:18.450 - 00:02:25.140
+
+Kolorchakunata kayna tr'urashpa qawashpa
+kolor-cha-kuna-ta kay-na tr'ura-shpa qawa-shpa
+color-DIM-PL-ACC DEM.P-VRBZ put-SUBIS look-SUBIS
+Así, mirando, poniendo los colores
+Like this, looking, putting the colors in.
+00:02:25.220 - 00:02:28.890
+
+Kayhinalla.
+kay-hina-lla
+DEM.P-COMP-RSTR
+así no más
+Just like this.
+00:02:29.450 - 00:02:34.800
+
+Rantikunaypaqpis ruwani ayveses ruwapakuni masta.
+rantiku-na-y-paq-pis ruwa-ni ayveses ruwa-paku-ni mas-ta
+sell-NMLZ-1-PURP-ADD make-1 sometimes make-MUTBEN-1 more-ACC
+Aveces los hago para vender también. Los hago más para otras personas.
+Sometimes I make them to sell, too.  More often, I make them for others.
+00:02:35.040 - 00:02:38.910
+
+Rantiqpis kantaqmi. Apurí kinraykunata apaptiy rantin. Rantiq kanmi. Mastaqa ruwapakuni ñuqaqa obrata.
+ranti-q-pis ka-n-taq-mi Apurí kinray-kuna-ta apa-pti-y ranti-n ranti-q ka-n-mi mas-ta-qa ruwa-paku-ni ñuqa-qa obra-ta
+buy-AG-ADD be-3-SEQ-EVD Apurí sideways-PL-ACC bring-SUBDS-1 buy-3 buy-AG be-3-EVD more-ACC-TOP make-MUTBEN-1 1-TOP job-ACC
+También hay compradores. Cuando los llevo a Apurí, los compran. Hay compradores. Pero más hago obras de otros.
+There are also buyers. When I bring them over to Apurí, they buy them.  There are buyers, but I make more for other people.
+00:02:41.490 - 00:02:49.980
+
+Kikiypaq ruwani hukkunapaq ruwani kaypa kanan kikiypaq awayani.
+kiki-y-paq ruwa-ni huk-kuna-paq ruwa-ni kay-pa kanan kiki-y-paq awa-ya-ni
+self-1-PURP make-1 one-PL-PURP make-1 DEM.P-LOC now self-1-PURP weave-PROG-1
+Hago para mí mismo y hago para personas.  Ahora estoy tejiendo para mí.
+I make them for myself, and I make them for other people.  Now, I'm making one for myself.
+00:02:50.320 - 00:02:54.320
+
+Kikiypaq ruwayani kayta.
+kiki-y-paq ruwa-ya-ni kay-ta
+self-1-PURP make-PROG-1 DEM.P-ACC
+Estoy haciendo ésto para mi mismo.
+I'm making this for myself.
+00:02:54.510 - 00:02:57.500
+
+Kaynallam ruwani sapa puntr'aw ruwani kayhina
+kay-na-lla-m ruwa-ni sapa puntr'aw ruwa-ni kay-hina
+DEM.P-VRBZ-RSTR-EVD make-1 every day make-1 DEM.P-COMP
+Así no más hago todos los días hago así
+Just like this, I make them every day.
+00:02:57.950 - 00:03:02.000
+
+Merinuchapam kayqa kayan ayves ruwani wiqapaq ovehapaq.
+merinu-cha-pa-m kay-qa ka-ya-n ayves ruwa-ni wiqa-paq oveha-paq
+VV-DIM-GEN-EVD DEM.P-TOP be-PROG-3 sometimes make-1 twisted-GEN sheep-GEN
+Ésto es de merino. Aveces hago de [lana] torcida, de [lana de] oveja
+This one is out of merino.  Sometimes I make them out of spun wool, out of sheep's wool.
+00:03:02.140 - 00:03:09.950
+
+Aha, millwaychata rantishpa mana ovehaykaptinpis.
+aha millwa-y-cha-ta ranti-shpa mana oveha-y ka-pti-n-pis
+aha wool-1-DIM-ACC buy-SUBIS no sheep-1 be-SUBDS-3-ADD
+Ahhh, cuando no tengo ovejas, compro mi lana.
+Ahhh, when I don't have sheep, I buy my wool.
+00:03:10.170 - 00:03:16.090
+
+Rantini millwata espesiyal.
+ranti-ni millwa-ta espesiyal
+buy-1 wool-ACC special
+Compro lana especial.
+I buy special wool.
+00:03:16.320 - 00:03:19.850
+
+Yana millwata rantini kay kolorkunataqa rantini Limapaq.
+yana millwa-ta ranti-ni kay kolor-kuna-ta-qa ranti-ni Lima-paq
+black wool-ACC buy-1 DEM.P color-PL-ACC-TOP buy-1 Lima-LOC
+Compro lana negra.Compro estos colores de Lima
+I buy black wool and I buy these colors in Lima
+00:03:20.090 - 00:03:24.540
+
+Cañetipaq- Chayta apamushpam ruwani. Kayna trabahani ñuqa
+Cañeti-paq chay-ta apa-mu-shpa-m ruwa-ni kay-na trabaha-ni ñuqa
+Cañete-LOC DEM.D-ACC bring-CISL-SUBIS-EVD make-1 DEM.P-VRBZ work-1 1
+y de Cañete. Los traigo y hago estos. Así trabajo yo.
+and in Cañete. I bring them and I make these. I work like this.
+00:03:24.590 - 00:03:31.560
+
+Ruwapakuni chay chaypa alkansaykamun huk  pulluta
+ruwa-paku-ni chay chay-pa alkansa-yka-mu-n huk pullu-ta
+make-MUTBEN-1 DEM.D DEM.D-LOC suffice-EXCEP-CISL-3 one manta-ACC
+Hago para otros.  Ése por allí me alcanza una manta.
+I make them for others.  That over there is enough for one manta.
+00:03:32.020 - 00:03:39.170
+
+Uqi pulluyki qawachinaypaq kaynam ruwasay nishpa qawachinaypaq.
+uqi pullu-yki qawa-chi-na-y-paq kay-na-m ruwa-sa-y ni-shpa qawa-chi-na-y-paq
+gray manta-2 look-CAUS-NMLZ-1-PURP DEM.P-NMLZ-EVD make-PRF-1 say-SUBIS look-CAUS-NMLZ-1-PURP
+[Lléva] tu pullo plomo para que yo se le muestre. Lo que hago es así. Para que le muestre.
+[Bring] your gray manta so I can show it to her.  What I make like this, to show her, I'm saying.
+00:03:39.700 - 00:03:44.480
+
+¿Maytr'i uqi pulluyki? Apuraw pues rapido no más liz
+may-tr'i uqi pullu-yki apuraw pues
+where-EVC gray manta-2 quick so
+¿Dónde está tu pullo plomo? Rápido, pues, rápido no más. Liz
+Where is your gray manta?  Quick!  Just quick, Liz.
+00:03:49.470 - 00:03:54.620
+
+Kayhinallam () trabahani
+kay-hina-lla-m trabaha-ni
+DEM.P-COMP-RSTR-EVD work-1
+Así no más trabajo
+I work just like this.
+00:03:58.550 - 00:04:00.390
+
+Kaytata hurquni sumaq sumaq lista.
+kay-ta hurqu-ni sumaq sumaq lista
+DEM.P-ACC take.out-1 pretty pretty ready
+Yo saco ésto bonito bonito. Listo.
+I pop out really pretty mantas. All ready.
+00:04:09.890 - 00:04:12.700
+
+Kayhinachakunataq surquni kimsa tawa puntr'awta imam.
+kay-hina-cha-kuna-taq surqu-ni kimsa tawa puntr'aw-ta ima-m
+DEM.P-SIM-DIM-PL-SEQ take.out-1 three four day-ACC what-EVD
+Asícitos, yo los saco en tres o cuatro días por allí
+I pop them out like this in three or four days, more or less.
+00:04:12.850 - 00:04:16.030
+
+Kayhinachakunata chaykunata awani.
+kay-hina-cha-kuna-ta chay-kuna-ta awa-ni
+DEM.P-COMP-DIM-PL-ACC DEM.D-PL-ACC weave-1
+Los tejo todo como éstos
+Just like these, I weave these.
+00:04:16.180 - 00:04:20.860
+
+Kayhinachakunatam kayhina  lluqsin away.
+kay-hina-cha-kuna-ta-m kay-hina lluqsi-n awa-y
+DEM.P-COMP-DIM-PL-ACC-EVD DEM.P-COMP come.out-3 weave-1
+Mi tejido sale como éstos.
+My weaving turns out like these.
+00:04:21.140 - 00:04:26.010
+
+Kaynachatam ruwani kaychapam demorani.
+kay-na-cha-ta-m ruwa-ni kay-cha-pa-m demora-ni
+DEM.P-VRBZ-DIM-ACC-EVD make-1 DEM.P-DIM-LOC-EVD tarry-1
+Los hago así. Aquicito demoro.
+Jult like this, I make them.  Right here -- it takes me a long time.
+00:04:26.180 - 00:04:33.120
+
+Kay figurachapam demorani ruwayta kaychapam ve, kaychapam demorani allita.
+kay figura-cha-pa-m demora-ni ruwa-y-ta kay-cha-pa-m ve, kay-cha-pa-m demora-ni alli-ta
+DEM.P shape-DIM-LOC-EVD tarry-1 make-INF-ACC DEM.P-DIM-LOC-EVD see DEM.P-DIM-LOC-EVD tarry-1 good-ACC
+Demoro en hacer esta figurita aquí. ¡Vé! Demoro bastante aquí.
+It takes me a long time to make this pattern right here.  Look!  I take a good, long time on this little one.
+00:04:33.880 - 00:04:41.510
+
+Kaychata ruwashpam. Sasa wakmi.
+kay-cha-ta ruwa-shpa-m sasa wak-mi
+DEM.P-DIM-ACC make-SUBIS-EVD hard DEM.D-EVD
+Haciendo éste. Ése es difícil.
+Making this one.  That one is hard.
+00:04:42.140 - 00:04:45.970
+
+Kayqa fasil chayllam, kayllam sasa mm ya mmmm
+kay-qa fasil chay-lla-m kay-lla-m sasa mm ya mmmm
+DEM.P-TOP easy DEM.D-COMP-EVD DEM.P-COMP-EVD hard mm ya mmmm
+Éste es fácil -- así no más; éste es difícil mmm ya mmmm
+This one.  That one is easy.  This one is hard.  Mmmm, ya, mmm.
+00:04:46.350 - 00:04:53.300
+
+Añuchañapam waranqa.
+añu-cha-ña-pa-m waranqa
+year-DIM-DISC-LOC-EVD thousand
+En el año mil
+In the year one thousand
+00:04:53.470 - 00:04:58.280
+
+Waranga isqun pachaqnin kanchis tr'unka pusaqniyuqpaq.
+waranga isqun pachaq-ni-n kanchis tr'unka pusaq-ni-yuq-paq
+thousand nine hundred-EUPH-3 seven ten eight-EUPH-POSS
+mil novecientos setenta y ocho.
+One thousand nine hundred seventy-eight.
+00:04:59.030 - 00:05:02.580
+
+Mil novecientos setenta y ocho.
+mil novecientos setenta y ocho
+thousand nine hundred seventy and eight
+mil novecientos setenta y ocho.
+Nineteen seventy-eight.
+00:05:02.690 - 00:05:06.170
+
+Chay nisan watapam yatr'arqani ñuqa awaykuyta
+chay ni-sa-n wata-pa-m yatr'a-rqa-ni ñuqa awa-yku-y-ta
+DEM.D say-PRF-3 year-LOC-EVD learn-PST-1 1 weave-EXCEP-INF-ACC
+Éso se llama. En ese año yo aprendí a tejer.
+That's what they call it. In that year I learned to weave.
+00:05:06.240 - 00:05:09.190
+
+Konforme yatr'ani masta
+konforme yatr'ra-ni mas-ta
+correct learn-1 more-ACC
+En la medidia que aprendo, másasí mismo aprendo más
+The more I learn, the more
+00:05:12.720 - 00:05:14.040
+
+Mastaña yatr'ani kaykunataña chayta.
+mas-ta-ña yatr'a-ni kay-kuna-ta-ña chay-ta
+more-ACC-DISC learn-1 DEM.P-PL-ACC-DISC DEM.D-ACC
+Más ya. Sé hacer todo éstos ya.
+more already.  I know how [to make] all these already
+00:05:14.040 - 00:05:15.710
+
+Chay tiyempuqa yatr'arqani baytata.
+chay tiyempu-qa yatr'a-rqa-ni bayta-ta
+DEM.D time-TOP learn-PST-1 TK
+En ese tiempo yo sabía solamente hacer bayeta
+At that time, I only knew how [to make] scarves.
+00:05:15.710 - 00:05:17.160
+
+Kay pullu kurriyentichakunallata.
+kay pullu kurriyenti-cha-kuna-lla-ta
+DEM.P manta cheap-DIM-PL-RSTR-ACC
+Este pullo es muy corriene no más
+This manta -- cheap, run-of-the-mill
+00:05:17.160 - 00:05:19.020
+
+Kamakunallatam kananqa kaykunata pintawchakunata ruwani sumaqtaña.
+kama-kuna-lla-ta-m kanan-qa kay-kuna-ta pintaw-cha-kuna-ta ruwa-ni sumaq-ta-ña
+blanket-PL-COMP-ACC-EVD now-TOP DEM.P-PL-ACC painted-DIM-PL-ACC make-1 pretty-ACC-DISC
+Frazadas no más. Ahora hago éstos pintaditos bonito.
+Just blanckets.  Now I make these painted ones nicely.
+00:05:19.090 - 00:05:24.470
+
+Watan watanpa GG mastaña yatr'ani qalash mankakunatañam awani kananqa.
+wata-n wata-n-pa mas-ta-ña yatr'a-ni calash manta-kuna-ta-ña-m awa-ni kanan-qa
+year-3 year-3-LOC more-ACC-DISC learn-1 calash manta-PL-ACC-DISC-EVD weave-1 now-TOP
+De año en anó aprendí más. Ahora tejo calashes y mantas.
+From year to year, I learned more.  Now I weave clashes and mantas.
+00:05:24.830 - 00:05:29.330
+
+mmmm ya
+mmmm ya
+mmmm ya
+00:05:29.500 - 00:05:33.500
+
+Kayna funksiyonan kaynallam kay makinaqa.
+kay-na funksiyona-n kay-na-lla-m kay makina-qa
+DEM.P-VRBZ function-3 DEM.P-VRBZ-RSTR-EVD DEM.P machine-TOP
+¡Vé! Así funciona esta máquina, así no más
+Look!  This machine functions just like this.  Just like this.
+00:05:33.550 - 00:05:36.980
+
+Tr'akillawan tr'akillawan manehanchik
+tr'aki-lla-wan tr'aki-lla-wan maneha-nchik
+foot-RSTR-INSTR foot-RSTR-INSTR manage.1PL
+Se maneja con pie no más, con pie no más.
+You drive it with your foot, just with your foot.
+00:05:37.060 - 00:05:39.000
+
+Altuman ukuman tr'akillaywan kulluyani qaway, ve
+altu-man uku-man tr'aki-lla-y-wan kullu-ya-n ve
+high-ALL low-ALL foot-RSTR-1-INSTR move-PROG-1 look
+Lo muevo para arriba y para abajo con mi pie. ¡Vé!
+Just with my foot, I'm moving it up and down.  Look!  Look!
+00:05:39.070 - 00:05:41.760
+
+Chayna tr'akichallawan kampana kampanachankunallata ruwanchik kayhina ruwashpam.
+chay-na tr'aki-cha-lla-wan kampana kampana-cha-n-kuna-lla-ta ruwa-nchik kay-hina ruwa-shpa-m
+DEM.D-VRBZ foot-DIM-RSTR-INSTR bell bell-DIM-PL-RSTR-ACC make-1PL DEM.P-COMP make-SUBIS-EVD
+Así con el pie no más ... hacemos una campana, las campanitas haciendo así.
+Like this, just with your foot.  Bell ... you make little bells like this, doing it.
+00:05:41.780 - 00:05:47.590
+
+Kaychakunata ruwashpam awanchik kaytapis ruwani kikiymi.
+kay-cha-kuna-ta ruwa-shpa-m awa-nchik kay-ta-pis ruwa-ni kiki-y-mi
+DEM.P-DIM-PL-ACC ruwashpammake-SUBIS-EVD make-1PL DEM.P-ACC-ADD make-1 self-1-EVD
+Asicito haciendo tejemos ésto también hice yo mismo
+Doing it like this, you make this, too.  I make them myself.
+00:05:47.730 - 00:05:51.360
+
+Kaychatapis  kikiymi ruwani kaychatapis kikiymi ruwani.
+kay-cha-ta-pis kiki-y-mi ruwa-ni kay-cha-ta-pis kiki-y-mi ruwa-ni
+DEM.P-DIM-ACC-ADD TK self-1-EVD make-1 DEM.P-DIM-ACC-ADD self-1-EVD make-1
+Yo mismo hice éste. Ésto también, yo mismo lo hice.
+I made this little one myself.  I made this little one too, myself.
+00:05:51.660 - 00:05:56.150
+
+Chaychawan trabahani shuqushchaman aylluni karisuchakunaman.
+chay-cha-wan trabaha-ni shuqush-cha-man ayllu-ni karisu-cha-kuna-man
+DEM.D-DIM-INSTR work-1 TK-DIM-ALL wrap-1 TK-DIM-PL-ALL
+Trabajo con éstecito. Los envuelvo hacia carisos y palitos.
+I work with that little one, wrapping them up around the shuttles, around the sticks.
+00:05:56.350 - 00:06:02.910
+
+Kayhina ayllukushpa kayhina awani kaywan awakuni.
+kay-hina ayllu-ku-shpa TK kay-hina awa-ni kay-wan awa-ku-ni
+DEM.P-COMP wrap-REFL-SUBIS DEM.P-COMP weave-1 DEM.P-INSTR weave-REFL-1
+Así, envolviéndolos así, tejo así, con éstos tejo.
+Like this, wrapping them like this, I weave them with this.  I waeve them.
+00:06:03.000 - 00:06:06.760
+
+Mmm, kaychakunawan awani.
+mmm kay-cha-kuna-wan awa-ni
+mmm DEM.P-DIM-PL-INSTR weave-1
+mmm, con éstos tejo
+Mmmm, I weave with these little ones.
+00:06:06.910 - 00:06:09.720
+
+Chaymi chay tallerchaypa irramiyentam  hhamm todo pue'
+chay-mi chay taller-cha-y-pa irramiyenta-m hhamm todo pue'
+DEM.D-EVD DEM.D workshop-DIM-1-LOC tool-EVD hhamm everything then
+Luego éstos son las herramientas de mi tallercito. Hammm, toto pue´
+Then these are my workshop's tools.  Yaaa, everything then.
+00:06:09.880 - 00:06:14.820
+
+Lliw tihirakuna-m trabahan kay tihirachakunawan trabahani.
+lliw tihira-kuna-m TK trabaha-n kay tihira-cha-kuna-wan trabaha-ni
+all scissors-PL-EVD VV work-3 DEM.P scissors-DIM-PL-INSTR work-1
+Todas estas tijeras trabajan.  Trabajo con estas tijeras todo.
+All these scissors work.  I work with these scissors.
+00:06:15.070 - 00:06:18.980
+
+Kaykunawan largunta midikushpa midikushpa ruwani. Kaywan midishpa.
+kay-kuna-wan largu-n-ta midi-ku-shpa midi-ku-shpa ruwa-ni kay-wan midi-shpa
+DEM.P-PL-INSTR long-3-ACC measure-REFL-SUBIS measure-REFL-SUBIS make-1 DEM.P-INSTR measure-SUBIS
+Los hago midiendo, midiendo su largo con estos. Mido con estos.
+I make them measuring, measuring their length with these.  Measuring with these.
+00:06:26.770 - 00:06:31.940
+
+Ahh, sumaq lluqsinanpaq midikushpam ruwani.
+ahh sumaq lluqsi-na-n-paq midi-ku-shpa-m ruwa-ni
+ahh, pretty come-out-NMLZ-3-PURP measure-REFL-SUBIS-EVD make-1
+Los hago mideindo para que salgan bonito.
+I make them measuring so that they come out nice.
+00:06:31.960 - 00:06:36.940
+
+Mmm, chaynam chay awakuni
+mmm chay-na-m chay awa-ku-ni
+mmm DEM.D-VRBZ-EVD DEM.D weave-REFL-1
+Mmmm, así los tejo.
+Mmmm, like that I weave them.
+00:06:36.960 - 00:06:42.710
+
+Pullu wakhina pullukunapaq hurquni libru huk librukunapaq hurquni mmmm.
+pullu wak-hina pullu-kuna-paq hurqu-ni libru huk libru-kuna-paq hurqu-ni mmmm
+manta DEM.D-COMP manta.PL-PURP take.out-1 book one book-PL-ABL take.out-1 mmmm
+Mantas, así para mantas los saco ... libro ... de otros libros los saco.  Mmmmm.
+Manta, like that for mantas, I take them out of ...  book .... I take them from other books, mmm.
+00:06:45.250 - 00:06:50.270
+
+Chaynam hurqushpam dibuhutaqa hurquni yatr'apakuyani yatr'apakuyani.
+chay-na-m hurqu-shpa-m dibuhu-ta-qa hurqu-ni yatr'a-paku-ya-ni yatr'a-paku-ya-ni
+DEM.D-VRBZ-EVD take.out-SUBIS-EVD drawing-ACC-TOP take.out-1 learn-MUTBEN-PROG-1 learn-MUTBEN-PROG-1
+Así, sacando los dibujos, saco y estoy aprendiendo, estoy aprendiendo.
+Like that taking the drawings out, I take them out and I'm learning, I'm learning.
+00:06:50.360 - 00:06:56.660
+
+Kan huk mayorkunam kan ya chayqa awan alli allita llaqtapa.
+ka-n huk mayor-kuna-m ka-n ya chay-qa awa-n alli alli-ta llaqta-pa
+be-3 one older-PL-EVD be-3 EMPH DEM.D-TOP weave-3 good good-ACC town-LOC
+Hay uno: hay mayores ya.  Tejen muy bien en el pueblo.
+There is one.  There are older ones.  There are those already.  They weave really well in the town.
+00:06:57.040 - 00:07:00.530
+
+Vicente, Rosa, chay wambraykuna awan allitam.
+Vicente, Rosa, chay wambra-y-kuna awa-n alli-ta-m
+Vicente, Rosa, DEM.D child-1-PL- weave-3 good-ACC-EVD
+Vicente, Rose. Mis hijos tejen bien.
+Vicente, Rosa.  My children weave well.
+00:07:00.670 - 00:07:05.850
+
+Sumaq sumaqtam awan wakhinata.
+sumaq sumaq-ta-m awa-n wak-hina-ta
+pretty pretty-ACC-EVD weave-3 DEM.DD-COMP-ACC
+Tejen muy bonito, así.
+They weave really nicely, like that.
+00:07:05.950 - 00:07:07.940
+
+c
+c
+00:07:07.990 - 00:07:08.528
+

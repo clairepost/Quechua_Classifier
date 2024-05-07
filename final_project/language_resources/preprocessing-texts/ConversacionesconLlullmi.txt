@@ -1,0 +1,3334 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="Conversaciones%20con%20Llullmi.fld/filelist.xml">
+<link rel=themeData href="Conversaciones%20con%20Llullmi.fld/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Conversaciones%20con%20Llullmi.fld/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:Arial;
+	mso-ansi-language:EN;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:20.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:20.0pt;
+	font-family:"Arial",sans-serif;
+	mso-font-kerning:0pt;
+	mso-ansi-language:EN;
+	font-weight:normal;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:.25in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"Arial",sans-serif;
+	mso-ansi-language:EN;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:16.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;
+	color:#434343;
+	mso-ansi-language:EN;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:14.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Arial",sans-serif;
+	color:#666666;
+	mso-ansi-language:EN;
+	font-weight:normal;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;
+	color:#666666;
+	mso-ansi-language:EN;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;
+	color:#666666;
+	mso-ansi-language:EN;
+	font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:26.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:Arial;
+	mso-ansi-language:EN;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:16.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:15.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:Arial;
+	color:#666666;
+	mso-ansi-language:EN;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:11.0pt;
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;
+	mso-ansi-language:EN;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-numbers:1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;
+	mso-ansi-language:EN;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in;word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Crianza de hijos<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Paypaku ishkay wamran karqan? <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Ella tenía dos hijos?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mana, hukaq wamra sobrinunmi karqan. Paykunata waatashqa. Kikinpa wamranqa
+hukllaylla karqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No, uno de los niños era su
+sobrino. A ellos los crió. Sólo tuvo un hijo propio (de sangre)</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Papatapis
+kuwaskir yaykaykatsimuq. Después hara mutita churkuq, “kayta mamay
+uchuykay”[uchiykay] nir, natapis aytsatapis yaykaykatsimuq “kayta
+kachkaykiykay??” niq<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Luego de asar la papa hacía entrar (a
+donde yo estaba). Después ponía la olla en el fogón con maíz pelado, “aquí
+tienes madrecita, anda comiendo (granos)” diciendo, también hacía entrar carne
+(a donde yo estaba) “anda masticando esto” diciendo.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaypitaq wayinman kutikurqan. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Después de eso (se) regresó a su
+casa.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Huk
+killapitaq wayinman kutikurqan, nuqapis alliyarqanaa. Tsaypitaq kikiy<span
+style='mso-spacerun:yes'>  </span>ruraq kaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynaw
+karqan doña J.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Después de un mes (se) regresó a su
+casa, yo también ya me sentí mejor. Desde (ese tiempo) yo hacía (las cosas).
+Así era doña J.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Rasllam taqshakamuskiqpis. Tsay ushata pishtayaptin, carneruta pishtayaptiy
+aqushninta apar rasllam kutiskamuq, manami takukuqtsu. Ras, raslla ruraq
+imaykata.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: También lavaba rápido (dónde fue
+a lavar). Cuándo matábamos la oveja, cuándo matábamos un carnero, llevaba los
+intestinos a lavarlos y volvía muy rápido, no se quedaba sentada. Cualquier
+cosa lo hacía muy rápido.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaypita, wamrakunaqa puriskirqa, imatataq rurayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Después, cuando los niños
+caminaban, ¿Qué es lo que hacían?</span></b><span lang=EN style='font-size:
+12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ichik rumikunawan, puyu murun kaq, tsay puyupa murun ishkimuptin pukllakuyaq
+pay [pe]<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Con piedras pequeñas, había
+semillas de puyu, cuándo las semillas del poyo caían con eso jugaban pues.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Ima shimitataq wamraykikuna puntata parlayaq, qichwataku kastillasimitaku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Qué lengua hablaban primero?
+¿Quechua o castellano?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Kastillanutapis, qichwatapis, ishkantapis parlayaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Castellano y quechua, ambas
+(lenguas) solían hablar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mayor
+warmraqa, llulluraq kaykaaptin,<span style='mso-spacerun:yes'>  </span>huqta
+killayuq wanurqan, tsaypita huk wamraapis kimsa watayuq wanurqan. Manam allaapa
+parlaqtsu tsaykuna, hukaq wamrakunaami itsanqa parlayaq, waytata “ush” niq<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Mi hijo mayor cuando era<span
+style='mso-spacerun:yes'>  </span>bebé, murió de un año, después otro hijo mío
+murió de 3 años. Ellos no hablaban mucho, pero mis otros hijos sí hablaban,
+decía (uno de mis hijos) “ush” para la flor.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaypitaq
+“jardinman” apaq priman, tsaychawshi recitaykan piru<span
+style='mso-spacerun:yes'>  </span>“la flor más linda” tsay nir recitaykatsin
+profesoran. Nuqaqa wiyaykaa tsaytaqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Después su prima la llevaba al jardín
+(kindergarden), dice que ahí estaba recitando “la flor más linda” diciendo le
+hacía recitar su profesora. Y yo estaba escuchando eso.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imayta wamraykikuna wayichaw yanapayta qallayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cuándo tus hijos empiezan a
+ayudar en la casa?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Hatusaq karaychaa, shaksharqa yanapayta yachakuyan. Wamrakuna mana allaapatsu
+yanapakuyaqtaku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuándo todavía eran grandes,
+cuando crecían aprendían a ayudar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Warmikunaqa?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Y las niñas?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Warmikunaqa mana allaapa yanapayaqtaku<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Las niñas no solían ayudar mucho <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Manaku paykuna yantata ashiq aywarqantsu?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Acaso no iban a buscar leña (en la
+chacra)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Yantata
+apayaq, “yantata apami” niq kaa, paykuna yantata apayamuq. Tsaynawllachaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>La leña llevaban, “tray la leña” les
+solía ordenar, ellas traían la leña (a dónde estaba). Así no más era.</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:Animalpaqa
+pastuta apayamuqku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Y para los animales, traían el
+pasto?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Hatusayaaskirqa qaywata apayamuq, alfalfa hakapaq, chawarkunpitaq. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuándo ya estaban grande solían
+traer el pasto, la alfalfa para los cuyes, desde Charwarcon (nombre propio)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Kikillanku aywayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Iban solas?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manaraq chakrachaw alfalfa kaptinqa rantiyaq kaa<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuándo todavía no había alfalfa
+en la chacra entonces comprábamos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsayta
+apariypaq apayamuq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Eso lo traían (cargado) en la espalda
+(a dónde yo estaba)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:Maypita?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿De dónde?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ranchaqpitaqcha rantikayamaq, tsaypitacha rantiyaq kaa, tsaypitaqraq muruyarqa
+alfalfata Chawarqunchaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Nos vendían en Ranchaq,
+comprábamos de ahí, ya después sembramos alfalfa en Chahuarcon.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Hayka hakataq kapushurqayki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cuánto cuyes tenías?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Chunka, chunka ishkay, ichillatacha watakuq kaa<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Diez, doce, yo criaba poco.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imayta hakata mikuq kanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D:<span style='mso-spacerun:yes'> 
+</span>¿Cuándo comías cuy?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Haka hatusaq kaptin mikuna kaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuando estaban grandes se comían<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Fiestachaw
+mikuyaq kankiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Y en las fiestas solían comer?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Lluta diapis mikuyaq kaa, <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Si cualquier día solíamos comer
+cuy.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Lluta diapis?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿También cualquier día?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Awmi
+lluta diapis, fiestachawpis mikuyaqchaa kaa<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, cualquier día, en las fiestas
+también solíamos comer.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Ayka hakata mikuyaq kanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cuántos cuyes solían comer?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ishkayta, hukllayllata pishtaq kaa. Tsayllata.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Dos, solo una solía matar. Sólo
+eso.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Mana kaptinqa ¿maypitataq yuritsinkiman karqan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Si no había, de dónde harías
+aparecer?</span></b><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsaynaw ari, wamra waatay karqan unayqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Así es, así era la crianza de los
+hijos antes.</span></b><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Manaraq kasarukuptiqa, qamqa wamrayuq kayta munarqankiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Cuando todavía no te casaste,
+¿querías tener hijos?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mana, nikarqa warmaa kaskamun<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, (pero) diciendo eso tuve hijos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Hipash karqa qamqa wamrayuq kayta yarparqankiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Cuando eras joven tú pensabas en
+tener hijos?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manam yarparqaatsu tsaytaqa<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+kasaraskirqachaa yarparqaa, qishyaskirraa yarparqaa, “kananqa wamraa kanqachir”
+nir<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No, no pensaba en eso.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Recién cuando me casé pensé, cuando
+me embaracé pensé “Ahora tendré un hijo” diciendo.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Mamaykiqa ayka wamranta kapurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Y tú mamá cuántos hijos tuvo?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll: Mamaapa
+kashqa,<span style='mso-spacerun:yes'>  </span>hukshi wanurqan mayor warmi,
+chunka qanchis watayuq kaykaptin.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>De mi mamá, dice que una murió, la
+hija mayor, cuando tenía 18 años.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Papaniypa maman ishkaylla wamran karqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: La madre de mi papá ha tenido solo
+dos hijos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsay awilaykipaqa, chusku, pitsqachir karqan, wanuqllash piru.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: De tu abuela, cuatro o cinco
+tuvo, pero dice que morían</span></b><span lang=EN style='font-size:12.0pt;
+line-height:115%'>.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Ishkayllata qispichirqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Solo hizo sobrevivir dos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ishkayllata qishpirqan. Tsarikatsiyanashi tiyuyki P..ta, tsay
+taritsiyaptinraqshi, kanaa papaniykiqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Solo dos sobrevivieron. Dice que
+hicieron “hacer encontrar” a tu tío P. Dice que después de “hacer encontrar”
+nació tu padre.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imaynawmi tsay tarikatsiyaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cómo hacían “encontrar”?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tarikatsiyaq, ashiyaq pipatapas qurikunanpaq, tsay ashirkirqa, inchaskirqa,
+wamrata haqiskiyaq isqinakunachaw. Tsayman chaskirqa aptakun warmi.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Hacen encontrar, buscaban a alguien
+para que recoja (al bebé) luego de buscar (a alguien) dejaban al bebé en una
+esquina. Llegando al lugar la mujer (buscada) recogía (al bebé)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsayta maychawta rurayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Dónde hacían eso?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll;
+Kallichawshi rurayaq, nuqaqa rikashqataku. Callichawshi ruraq nirqan awilayki,
+tsaynaw willlamaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Dice que lo hacían en la calle, yo no
+he visto. Dice que en la calle lo hacían dijo tu abuela, así me contaba a mí.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaytaqa unay rurayaqku, awilitallaku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Eso hacían antes, o sólo mi abuela?</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Awilitayki rurarqan, mamaaqa rurashnataku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Tu abuela (paterna) lo hizo, mi mamá
+ya no lo ha hecho.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Pitataq ashiyaq wamrata tarikuyananpaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: A quien buscaban para que
+“encuentre” al bebé?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsaynawlla wanuq, wanuq wawankuna. Tiya I. tsay chunka ishkay wamran karqan,
+wanuqlla, wanuqlla. Naqana shakshaykan, naqana shakshaykan,<span
+style='mso-spacerun:yes'>  </span>hatunyaykar, hatunyaykar wanuq, “umallaa,
+umallaa” qayaraykar. Payqa mana tarikatsirqantsu wawankunata. Tsaynawlla
+qayaraykayallaq wanuyaq “pay” [pe]. Chunka ishkaypitaq, huk chunka ishkaypita,
+hukllana qishpirqan, llapan wanushqa. Primuypa paninkuna, wawqinkuna<span
+style='mso-spacerun:yes'>  </span>llapan wanurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Así nomás solía morir y morir los
+bebés.<span style='mso-spacerun:yes'>  </span>Mi tía tenía 12 hijos, morían,
+morían. Ya cuando estaba creciendo, ya cuando estaban creciendo, cuando ya
+estaban grandes, cuando estaban grandes solían morir, “mi cabeza, mi cabeza”
+gritando. Ella no hizo hacer “encontrar” a sus hijos. Así solo gritando solían
+morir. De los doce, uno de los doce, sólo uno sobrevivió, todos habían muerto.
+Las hermanas y hermanos de mi primo, todos murieron.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tarikatsikunapaqqa<span style='mso-spacerun:yes'>  </span>llullullaraa
+kaptinku, hatunna kaptinku rurayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Se “hace encontrar” ¿cuándo
+todavía eran bebés o cuando estaban grandes se solía hacer?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Llullullaraq kaptin, inchasqata haqiskiyaq callechaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuando eran todavía bebés,
+fajados lo dejaban en la calle.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaynawpaqraqshi tiyuyki X.. kawana, papayniykipis. Niykarshi wanuna huk, E..
+L… ninqan wanunaraqshi, payqa papayniykipa mayornin.Tsayqa wanusqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Dice solo así tu tío X. vivió, tu
+padre también. Pero así dice que murió una, a quien llamaron E. L., dice que
+ella fue mayor que tu papá. Ella había muerto.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Warmi kaq wanurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: La que era mujer falleció.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:<span
+style='mso-spacerun:yes'>  </span>Ishkaycha warmi wanushqa, puntakunaqa aykaraq
+wanurqan, tarikatsiyananpaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Dos mujeres murieron, los mayores
+no se cuantos murieron, para que “hicieran encontrar” <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Kananqa runakunaqa tarikatsikiyta rurayanraqku?<br>
+<b style='mso-bidi-font-weight:normal'>D: Y ahora la gente todavía “hacen
+encontrar”<o:p></o:p></b></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Piraq kananqa tsayta ruranman?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: ¿Quién ahora<span
+style='mso-spacerun:yes'>  </span>podría hacerlo?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:Tsaynawku
+unay warmikuna rurayaq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Las mujeres solían hacerlo así
+antes?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Unay rurakunaqa tsaynaw ruraq. ¡Kananqa pitaq tsayta ruran!<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Las personas de antes así solían
+hacer. ¡Ahora quién hace eso!<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Unayqa mana doctorpis karqantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Antes no había ni un doctor.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mana pipish kashtaku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No había nadie (refiriéndose a
+médicos)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Kananqa pediatra nintsi kannami, tsaychir kananqa manaña tsayta rurayannatsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Ahora hay lo que llaman pediatras,
+será por eso ya no hacen eso (tradición/costumbre)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:<span
+style='mso-spacerun:yes'>  </span>Aa, kananqa tsayta rurayannatsu, imaparaq
+rurayanman. Kananqa allaapa, allaapa runa aumentaykan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Así es, ahora ya no hacen eso,
+para que ya harían. Ahora la población aumenta demasiado, demasiado.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+(Risas) mana yuriyanmannatsu. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: (Risas) ya no deben nacer.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ari, ama yurinmannatsu aa. Allaapacha aumentan runa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Así es, ya no deben nacer.
+Demasiado aumenta la población/las personas.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Mikuypis [mikiypis] kannatsu llapankunapaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Ya no hay comida (suficiente) para
+todos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Aypanmannaraqku mikuypis piru.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ya no alcanzaría la comida</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Flemata kaytsikatana hitaykamuu pay [pues].<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Estoy expectorando bastante flema
+pues.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Nebulizanqanam, wamraa nebulizamatsun, inhalakushaa tsaywraqa calmaskin.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ya me va a nebulizar, que mi hijo
+me nebulice, entonces cuando me<span style='mso-spacerun:yes'>  </span>inhalo
+calma.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Waqtayki nananku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Te duele la espalda?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manan waqta nanantsu, a vecesllam waqtaaqa alalan. Manam waqtaa nanantaku.
+Itsanka flemaqa maypitaraq shamun, maypitaraq shamun.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, no me duele la espalda, solo a
+veces mi espalda está fría. No, mi espalda no me duele. Pero no sé de dónde
+viene la flema, ¿De dónde vendrá?</span></b><span lang=EN style='font-size:
+12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Unayqa turiypa waqtaman alcoholta churaq kanki, tsayman monedata,<span
+style='mso-spacerun:yes'>  </span>monedapa hananman velata churaq kanki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Antes ponías alcohol a la espalda
+de mi hermano, después una moneda, sobre la moneda ponías una vela.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ari moneda hananman vasuwan tsaparkur, tsay moneda churaq kaq, tsayqa alayta,
+yakuta hipimun. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Así es, se tapaba la moneda con
+un vaso, se solía poner la moneda, eso sacaba el frío, el agua.</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Manaku tsayta rurayashunkiman?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿No podrían hacerte lo mismo?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manam kananqa rurayamantsu. Kananqa nebulizaykaayamancha piru.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No, ahora no me lo hacen.
+(pero)me están nebulizando pues.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaypis allichi kanman. Chino runakunapis tsaynawmi chinokuna rurayan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Eso también sería bueno. Los
+chinos (personas) así hacen los chinos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Itshaqa vela ishkikuptinqa allitsu, mana allintsu, velaqa prendikar upiskin,
+tsay waqtata rupaskin.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Pero si la vela se cae eso no es bueno, no es bueno, la vela encendida se apaga
+y eso quema la espalda (la piel)<span style='background:yellow;mso-highlight:
+yellow'><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsayta pitaq yachatsisurqanki? <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Quién te enseñó a hacer eso?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mamachaa ichiklla velawan, na moneda hananman velata, velata tsarirkatsirqa,
+vasota churantsi tsaychaw yaku yuriq vasuchaw. (Hipin yakuta)<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Mi madre con una vela pequeña,
+sobre la moneda (ponía) una vela, luego de encender, se pone la vela ahí en el
+vaso aparecía agua.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Vela upiskiptinqa qarata rupatsin. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D:<span style='mso-spacerun:yes'> 
+</span>Si la vela se apaga, eso quema la piel.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Awmi, rupaskin qaranta, tsaypitaq herida yarqun.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Alcoholta,
+vasoman wiñaykur shuqshiskir churana kaq, tsayqa yarqamuq yaku <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Sí, quema la piel, de ahí sale la
+herida.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Luego de echar alcohol al vaso se
+sacude se ponía, y así salía/sacaba agua<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsayta rurayaanatsu. Kananqa nebulizayaman, puntata inhalakuu, inhalakuskirqa
+tsaynawraq calmaskin kay flema.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Eso ya no hacemos. Ahora me
+nebulizan, primero me inhalo, luego de inhalar(me) solo así calma esta flema.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Kaychaw kan, tsayqa yakuta qurina, tsaywan quriykayaa yakuta, pasaypachaa
+humedad kan. Papayniykipa cuartochaw rurayaq kaa kananaqa kay cuartuman
+apamurquu, prendiykayaa tsayta. Yaku qurikan tsaychaw huk ratulla. Tsayqa hipin
+yakuta. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Aquí hay, para recoger agua, con
+eso estamos recogiendo el agua, hay mucha humedad (en el aire). Lo
+hacíamos/usabamos en el cuarto de tu papá, ahora lo traje a este cuarto (donde
+estoy), estamos prendiendo eso (el aparato). El agua se recoge en un tiempo
+corto. Eso saca (absorbe) el agua.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Sierrachawqa kantaku humedad,<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: En la sierra no hay humedad,<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Limachaw yaku kakun imaykachaw. Kaychawqa alalakuu, chakii alalan, makiypis.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynaw,
+tsaynaw chuqaskamuu. Flemata hitayta qallaskii. Chusku diana kayka kaynaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: En Lima la humedad está en todo.
+Aquí siento mucho frío, mis pies están fríos, mis manos. Estando así, empiezo a
+toser. Empiezo a expectorar la flema. Ya son cuatro días que estoy así.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Papaniyki
+citaman aywar kananqa,<span style='mso-spacerun:yes'>  </span>imaniyamunqa
+piru.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tu
+papá irá a la cita (médica), ahí que le dirán (pronóstico de salud)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Maychawta kananqa pay kaykan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Dónde está él ahora?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Payqa calentadorwan (quñitsikuqwan) kaykan. Pununanpita uramun. Tsaypitaraq
+quñutsikuskir yarkun pununanman. Tsay quñutsikunwanqa ras quñutsikuskintsi.
+Piru qasta ratulla ushayaa. Gasqa pullanlla karqan, tsay ushakaskiptinqa<span
+style='mso-spacerun:yes'>  </span>huk balonta rantimushqa, tsaypita yapay
+rantiskamushqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Él está con el calentador
+(máquina). Baja de su dormitorio. Luego de calentarse sube a su dormitorio. Con
+el calentador uno se<span style='mso-spacerun:yes'>  </span>calienta rápido.
+Pero terminamos (o él calentador usa) el gas muy rápido.<span
+style='mso-spacerun:yes'>  </span>El (bidón de gas) tenía la mitad de gas,
+cuando se acabó otro balón compraron (de la tienda), desde aquella vez otra vez
+más compraron.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Turiiqa shamunku,<span style='mso-spacerun:yes'>  </span>watukuq?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Mi hermano va a visitarlos?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:<span
+style='mso-spacerun:yes'>  </span>Waraypita huk hospitalmanna aruq yaykunqa,
+manana allaapa shamunqanatsu. Imata shamunqana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Desde mañana empezará a trabajar
+en un nuevo hospital, entonces ya no va a venir (a visitar) muy seguido. Ya no
+vendrá.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llumtsiqa,
+internadu kananta kanan ushan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Mi nuera ya está terminando su
+internado.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaypitaqa imataraq ruranqa?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Y que hará después?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Imatara? Trabajutachi ashinqa<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><span
+style='mso-spacerun:yes'> </span>Kay inhallashqaman nebulisallaman tsayqa
+bajaskin flema. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: ¿Qué hará? ¿Quizás buscará
+trabajo?<span style='background:yellow;mso-highlight:yellow'><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imayta yapay qayashayki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Cuándo te llamo otra vez?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Imayta qayamanki, kananqa teléfono funcionaykan allicha.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Cuando me vas a llamar, ahora el
+teléfono está funcionando bien.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Sabaduchir qayashayki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Te llamaré el sábado<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:<span
+style='mso-spacerun:yes'>  </span>sabadu qayamay, sabadu<span
+style='mso-spacerun:yes'>  </span>libre kashaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Llamame el sabado, el sabado
+estaré libre<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Yarpaykaamunki imapitaq parlayta munanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D:<span style='mso-spacerun:yes'> 
+</span>Vas a estar pensando de que quieres hablar<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ari, yarpaykaykaamushaa. Yapaychawna. “Yapaychawna” nintsi shamuqpa kaqta.
+Sabadu qayamanki, sabaduna qayamaptikiqa, tsaychaw parlashun imatapis.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Saludos
+(nombre)pa, payqa imaynaw kaykan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si voy a estar pensando. Ya será la
+proxima vez. “Yapaychawna” se dice para la próxima vez.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Saludos para (nombre)pa,<span
+style='mso-spacerun:yes'>  </span>¿él como está?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Payqa tsaynawlla tsaynawlla kaykaan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Él está como siempre.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Aywakushaa, shuyaykashayki sabadu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ya me voy, voy a estar esperando
+(tu llamada) el sábado.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Aywallaa<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Ya me voy (adiós)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+nuqapas aywakunam<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Yo también ya me voy (adiós)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Escuela<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Ayka watayuq escuelaman yaykurqanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿A qué edad entraste a la escuela?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Chunka huk watayuq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Con once años.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imay shimichaw parlayarqanki eschuelachaw?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Qué idioma hablaban en la
+escuela?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll;
+Yachiqwanqa kastillashimita parlayaq kaa, wakinkunawan, yanasaykunawan
+kichwachami. Paylla kastilanawchaw parlaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Con la profesora hablábamos en
+castellano, con los demás, con mis amigas en quechua. Ella solo hablaba el
+castellano.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imanawmi kastillanu shimita yachakurqanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Cómo aprendiste el castellano?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Llapaakuna escuelachaw kastillanutaqa yachakuyarqa. Rasllami castellanuta
+yachakuyarqa, kichwallata parlarqaa shakshalla karqa. Tsaypi tsaypitaraq
+kastillanuta parlayarqa.<span style='background:yellow;mso-highlight:yellow'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Todos aprendimos el castellano en la
+escuela. Aprendí muy rápido el castellano. Solo hablaba el quechua cuando era
+pequeña. Solo después hablamos castellano.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Wayiykichawqa, imatataq parlayaq kanki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: En tu casa qué (idioma) solían
+hablar?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Wayiychawqa
+kichwallata llapaakuna parlayaq kaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En mi casa solo hablábamos en
+quechua.</span></b><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Mamaykiqa kastillanuta yachakurqanku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Tú mamá aprendió el castellano?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Payqa ichikllata parlarqan, tsaypitaqa mana yacharqannatsu. Rezayta yacharqan,
+payqa escuelaman aywarqantaku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ella habla solo un poco
+(castellano), ya no aprendió más. Ella sabía rezar (en castellano)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aswata
+rantikuq, kuwinta hipinanpa harawan, harata ishkirkurqa, ayka kanqanta,
+tsaynawpam rantikuq harata yupaykur. Papaniyqa yacharqancha sumayta, restayta.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ella vendía chicha de jora, para
+sacar la cuenta contando el maíz, desgranaba el maíz y sacaba la cuenta, así
+solía vender, contando el maíz (los granos). Mi padre sabía sumar y restar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Ayka watata papaniykiqa escuelaman yaykurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿A qué edad entró a la escuela tu
+padre?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ayka wataraa yaykushqa, yachataaku tsaytaqa, ayka wata kakurqan escuelachaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mayqin
+escuelaman payqa yaykurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿A qué escuela él asistía?</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Papaniyqa
+mayqin escuelachaw kakurqan. Unay wayillachawshi kaq escuela, hikpataracha
+sharitsiyashaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No sé a qué edad, eso no lo sé, a
+qué edad estuvo en la escuela.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No sé en qué escuela estuvo. Antes
+dice que en una casa estuvo la escuela, ya después levantaron (la escuela)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imaynawmi escuela karqan, imatata rurayaq kanki, pukllayaq kankiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cómo era la escuela, que es lo
+que hacían, solían jugar?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll: Puntata,
+nuqa yaykurqaa escuelaman chunka watayuq, tsaychaw karqa transiciónman, tercer
+secciónman, tsaypita primer grado, segundo año, tercer año, tercer añuta
+repitirqaa, qishyarqaa tsay rayku, qiruta shaksharqaa, tsayllapita gripe
+qumarqan, tsayllapita sinqapita yawar pasaypa aywaq. Inyección churayamaptinraq
+tsay yawar ushakakurqan. Tsaymi yapay tercer añuta rurayqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Primero ingresé a la escuela con 10
+años, yo estuve en transición (primer grado), tercera sección, después del
+primer grado, segundo año, tercer año, repetí el tercer año, me enfermé por esa
+razón, masqué la caña y me dió la gripe, y de mi nariz salían mucha sangre
+(hemorragia).<span style='mso-spacerun:yes'>  </span>Sólo luego que me
+inyectaron el sangrado terminó. Por eso repetí el tercer año.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Usharqaa
+chunka puwaq karqaa. Nuqa yaykurqaa 11 watayuq tsaypita segundo grado, cuarto
+añochawraq dictadota/qillqayta yachakurqaa, allin yachatsiqwanraq dictadota
+yachakurqa. Hukaq yachatsikuq pizarrallachaw qillqamuq, pizarrapita
+qillqaskamuptin ñuqakunaqa cuadernuchaw qillqayaq kaa, tsayllata
+memorizaykaskirqa leccionta quyaq kaa yachatsiqta, tsayqa payqa punikaq,
+cuadernukunata churaykur, tsayqa pantarpis, rikaskiyaq kaa. Payqa rikchaskirqa
+niq “Muy bien R, siéntate” hamakiy nimaq. Wakinkikunata qayaskirqa, wakin
+qilatsura kayaq, tsay (name) qillqayta yachakurqantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Terminé ( de estudiar) cuando tenía
+18 años. Yo salí a los 11 años en segundo grado, todavía en cuarto año aprendí
+a escribir el dictado, todavía con una buena profesora aprendí a hacer el
+dictado. Otras profesoras escribían (sobre) la pizarra, luego que escribían en
+la pizarra yo escribía (copiaba), luego de memorizar dábamos la lección a la
+profesora, mientras ella dormía, ponías el cuaderno, si nos confundíamos,
+dábamos una mirada (al cuaderno). Ella luego de despertar decía “Muy bien R,
+siéntate” me decía “siéntate”. Luego de llamar a las demás, no sé si las demás
+eran flojas, esa (nombre) no aprendió a escribir.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llapaakuna
+leccionata quskirqa, yachatsikuqqa yapay liwrupita kanqallanta yapay
+pizarrachaw qillqamuq, tsaynawmi tercer año karqan. Tsaychawqa sumatapis
+restatapis yachakuyarqatsu. Tsaynawlla pasarqa. Tsaypitaqa cuarto añuman
+pasaskii, tsay cuarto añuchwami itsanqa allin maestra karqan, tsaychawmi
+itsanqa yachakurqa sumayta, restayta, multiplicayta, dividiyta mana allaapa
+tantiyarqatsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Cuando todos daban la lección, la
+profesora otra vez escribía (copiaba) lo que estaba en el libro en la pizarra,
+así fue el tercer año. Ahí no aprendí ni a sumar ni a restar. Así pasé (de
+año). Luego pasé al cuarto año, y ya en el cuarto año había una buena
+profesora, ahí sí aprendí a sumar, restar, multiplicar, la división no lo
+entendí bien.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Warmipurallaku tsay escuela karqan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Awmi, warmipurallam, ullqunapa escuelan kaq, paykunapa kayllatchaw karqan,
+nuqakunapaq waashachaw karqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Eran solo mujeres en esa escuela?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Sí, solo mujeres, había escuela
+de varones, estaba cerca, y el de nosotros era más allá.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imatataq rurayaq kanki recreochaw?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Qué hacían durante el recreo?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsay recreochaw a veces tocayamaq pukllayapaq, netta churayaq kaa, después
+pukllayaq kaa voleyta. Y nuqaqa wanutsiq kaa nataqa, matadora kaq kaa. Kaynaw
+makiwan kutaskiq kaa, tsaywaraaqa laq aywaskiq, mananami puedimuqnatsu namita.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Pelotata
+kutaskiptiqaa pelotaqa aywakun, tsayta resistiyannatsu pay. Despuescha
+recreochaw pukllayaq kaa nata waskawan, hatunkaray waskawan papaniipa waskanta
+apaq kaa. Imanawraa apaq kaa kanaraq yarpachakuu. Tsay waskata aparqaa, ishkay
+qawimuptinqa nuqa saltaq kaa rurichaw. Despuesqa wakimpis tsaynawlla, nuqa
+qawiq kaa huk saltaq, despuesqa mana tsayta pukllarqa tacutana, alli
+trazaskurqa mundo, cajón, cajón rumita hitaypa cada cajonman, mundoman
+chaskiptintsiqa ganantsi huk cajonta. Tsaynawcha, tsayllatacha pukllayarqa
+escuelachaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En el recreo a veces nos tocaba
+jugar, poníamos la net, después jugábamos voley. Y yo “mataba”, era la
+matadora. Así con mi mano mataba, y la pelota salía disparado, ya nadie podía
+(pararlo). Cuando golpeaba la pelota, la pelota iba lejos, no podían resistir
+(la fuerza). Después en el recreo jugábamos con la soga, con la soga larga de
+mi padre llevaba. No sé como lo llevaba, recién ahora me pregunto. Yo llevé esa
+soga, cuando dos personas movían (la soga) yo saltaba dentro. Y después así
+mismo los demás, yo movía y otra saltaba, y si no jugábamos eso jugábamos taco,
+luego de trazar un mundo, los cajones, tirábamos una piedra a cada cajón, y
+cuando llegábamos al mundo se ganaba un cajón. Así, solo esos juegos<span
+style='mso-spacerun:yes'>  </span>jugábamos en la escuela.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imayka uurata yaykuyaq kanki, chayayaq kanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:Las
+ocho, las ochoqa formaraykanki. Mamaa, papaniy chakraman aywayaq waraypita
+friambrinta apakurkur, tsaywaraqa ñuqakunalla mikuyaq kaa turiywan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: A qué hora ingresaban, llegaban?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Las ocho, a las ocho ya está
+formado. Mi madre y padre iban a la chacra desde la mañana llevando su fiambre
+(lonchera), entonces solo nosotros comíamos con mi hermano.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Mikuskirqa kutiyaqkiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>12
+yarquyaq kaa, 2raq kutiyaq kaa. Después las 5raq yarqayamuq kaa. Tsaywaraqa
+mankata churkurkurqa, aytsa kaptinqa, aytsata churkurkurqa, imatapas, muti
+kaptinqa mutita churkurkurqa tsay cercachaw kaq na, ladullakunallachaw kaq
+wayiikuna escuelapita tsaywaraqa turiyqa aywaq nina hatiq, tsaywaraqa
+puwaykayta tariyaq kaa. Nuqakuna shuyaykayaq kaa mamaata chamunanpa chakrapita
+chayamunanpa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+yarqakamurqa raslla ari mikurpis, matita awirpis llapanta ruray escuelaman
+kutiyaq kaa, cincuraq yarqayamuq kaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Salíamos a las 12 (del mediodía),
+regresábamos a las 2:00pm. Y salíamos a las 5. Y luego de poner la olla sobre
+el fuego, si había carne, lo poníamos en una olla sobre el fuego, lo que sea,
+si había mote poníamos mote, estaba cerca, al lado de nuestra casa estaba la
+escuela, y entonces mi hermano regresaba a la casa a atizar la candela, y
+entonces lo encontrábamos hirviendo. Y nosotros estamos esperando a mis padres
+a que llegaran de la chacra. Luego de salir comíamos con prisa, lavar los
+platos (hechos de calabaza) y dejar todo limpio volvíamos a la escuela, y
+salíamos a las 5 (de la tarde)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tareaykita maychawtaq ruraq kanki? Manaku tareata quyayuqkinatsu?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tarea tsaypiratacha mayarqaa, tareata quyamaqku. Qamrakuna tareapita
+parlayaptinraq musyarqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kaychaw
+kayraycha, qamkuna kaychaw colegiochaw kayaptikiraq musyarqa tareataqa.
+Escuelachawqa tarea kaqtsu. Ninqanawpis, pizarraman qillqaskirqa tsaynawllacha
+kaq. Tsaynaw kaskir yapay warayninqa nikayar nikayar dia pasaq, tsay nikarlla
+pasayaa kaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaywaraqa
+mana escuelachaw tareata quyamaqtsu,<span style='mso-spacerun:yes'> 
+</span>profesora C. K., en cuarto año, ishkay watalla karqa. Tsaychawqa<span
+style='mso-spacerun:yes'>  </span>allicha karqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Dónde hacías la tarea? No te
+daban tareas (para la casa)?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Yo supe sobre las tareas después,
+no nos daban tareas. Cuando ustedes hablaban de las tareas yo supe.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Cuando estuvimos aquí (en Lima)
+cuando ustedes estuvieron en el colegio yo supe de las tareas. En la escuela no
+había tareas. Como ya lo dije, (las profesoras) escribían en la pizarra, era
+solo así. Y así al día siguiente y así, y así los días pasaban, y diciendo así
+pasábamos (de año). No nos daban tareas, la profesora C. K. en el cuarto año,
+(ella fue mi profesora)solo dos años. Así yo estuve bien (aprendí)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imayta qillqayta yacharkurqanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tercer añochaw qillqayta yacharqa panta pantalla, tsay directoraman chaykurmi
+itsanqa. Manam maestraman chaykurmi itsanqa puedirqatsu qillqayta, tsaywaraqa
+“repitelo profesora” niptiy pay repetimuq tsaywara qillqay kaa, apuradu
+qillqiyta puediyaqtsu kaa. Tsay cuarto añochawmi itsanta yachakurqa dictadu,
+relojta rikayta yachakurqa tsaychawra quinto añochaw. Después añutapas mana
+musiarqatsu ima añu kanqanta, tsay añum kaykatsi, tsay añum kaykantsi
+tsaypitaraq siguirqa añuta. Tsaynawchaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cuándo aprendiste a escribir?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: En el tercer año aprendí a
+escribir pero confundiendome y confundiendome, pero cuando llegué dónde la
+profesora. Con la profesora (del tercer año) no pude escribir, así “repita
+profesora” cuando decía y solo así podía escribir, no podía escribir rápido.
+Pero en el cuarto año si aprendí a (seguir) el dictado, aprendí a ver
+(leer)<span style='mso-spacerun:yes'>  </span>el reloj en el quinto año. Y
+después no sabía qué año era, pero ese año (en el quinto año), estamos en tal
+año, estamos en tal año, recién así empecé a seguir el año. Así es.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Turiykiqa yachatsishurqankiku wayichaw?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manam, payqa allin profesorachaw napa, payqa recta kashqa, tsaychaw yachashqa
+tanto por ciento, raiz cuadrada, llapanta yachaq payqa, ñuqa tsayta musyaqtsu
+kaa. Payqa adelantachaw karqan, tsaypita Waripa aywarqan examen quq
+secundariapa, 14taku 13taku nota hipirqan, y nuqaqa aywanaa karqan. Nuqa malchi
+kaman karqan mana preparakush karqa tsay cosasta tapumuyaptin musyamarqantaku
+karqan pay. Tsaynawcha kashqa, tsaychawracha multiplicayta, sumayta, restayta
+yacharqa, dividiytaqa pocollata yacharqa. Raiz cuadradata ni musyarqatsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Tu hermano te enseñaba en la casa?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No, él tuvo una buena profesora,
+ella era recta, y por eso él aprendió tanto por ciento (porcentaje), la raíz
+cuadrada, aprendió todo, yo eso no sabía. El estuvo adelantado, y después fue a
+Huari a dar el examen para la secundaria, se sacó la nota de 14, 13, y yo
+también iba a ir. Yo hubiera estado mal, estuve mal preparada, si me
+preguntaban esos temas no hubiera sabido.<span style='mso-spacerun:yes'> 
+</span>Así fue, después todavía aprendí a sumar, restar, la división muy poco.
+La raíz cuadrado no sabía.</span></b><span lang=EN style='font-size:12.0pt;
+line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Huk
+yanasaa nimaq, (nombre) yachaykaatsiman tanto por ciento, quebrados, imaykata
+taqaykuna yachayan ullqukuna, tsay allin kaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Paypa
+ullqu yanasan karqan, tsaynaqparaq paypis yachakurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Huk
+warmiwan hamayarqaa, payqa nuqa imata qillqakanqata rika rikaykur qillqaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>“R,
+tray tu cuaderno” nimaptin apapuskiy. Payta qayaptin, “y por qué estas haciendo
+esto” imanirta kayta ruraykanki, manaku qillqayta yachanki”, payqa pasayta
+pukayakun, tikraykachan, mana kutitsintsu. Payqa kananpis qillyayta yachantaku,
+liyiytapis yachantaku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Una amiga me decía, (nombre) me
+enseña el tanto por ciento (porcentaje), quebrados, los varones sabían de todo,
+eso era bueno.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ella tenía un amigo varón, solo así
+ella aprendió.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>(En la clase) yo me sentaba al lado
+de una chica, ella copiaba de mi cuaderno mirando, mirando. “R, trae tu
+cuaderno” cuando me decía se lo llevaba. Cuando la llamaba a ella “Y por qué
+estás haciendo esto,<span style='mso-spacerun:yes'>  </span>por que estas
+haciendo esto, acaso no sabes escribir “, y ella se sonrojaba, y volteaba la
+cara (de vergüenza) no respondía. Y ella hasta ahora no puede escribir, ni
+leer.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Liwruyki kaqku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Awmi, mañakuyaq kaa liwruta, pipatachir mañakamuq papaniy. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Quinto
+añuchaw, shamurqan, evaluadora, payqa llapanta tapumarqanta kutitsirqa, itsaqa
+ultimuta itsanqa, tsayta maestra<span style='mso-spacerun:yes'> 
+</span>yanapamarqan, maestraqa ladullantsu hamaraykarqan. Tsaychaq allin
+yarqurqaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Tenías libro?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Si, nos prestamos un libro, no sé
+de quién mi padre se prestaba.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En el quinto año, vino la evaluadora,
+ella me preguntó de todo y yo le respondí, pero la pregunta final, mi profesora
+me ayudó, mi profesora estaba sentada a mi lado. Por eso aprobé.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Llapan warmikunaku escuelaman yaykurqan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llapantaku,
+manashir mamankuna munayaqtsu, kapuyaqtsu, ñakayaqtsha, murukuyaqtsu, tsay
+marzu killa ñakayaq. Tsay rayku wakinkuna warmi wamrankuna escuelaman
+churayaqtsu. Tiashi nirqan papaniyta, “ imapata warmi warmata churaykunmi
+escuelaman, kananqa waynanwan cartanakuyanqa” nir nina, nikaptin, nuqaqa
+yaykurqaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Todas las mujeres iban a la
+escuela?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: No todas, dice que sus madres no
+querían, no tenían (recursos), sufrían (por escasez de recursos) no sembraban,
+y el mes de mes de marzo sufrían.<span style='mso-spacerun:yes'>  </span>Por
+eso sus padres no matriculan a sus hijas. Dice que mi tía X le dijo a mi padre
+“para que envías a tu hija mujer a la escuela, ahora van a escribirse cartas
+con el enamorado” diciendo dijo, aun cuando dijo eso yo atendí a la escuela.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>L
+(huti) mana yaykushtsu, paykuna yaykuyashtsu mayqanpas ni turinkuna, ñañankuna,
+ni mayqan letrata yachaqtaku. Tsaynawcha karqan. Unos cuantoslla yaykuyaq kaa,
+ushayaq kaa, wakin yarquskiq, manam siguiqtsu. Tsaynawcha kaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: L no fue a la escuela, ninguno de
+ellos fue a la escuela, ninguno de sus hermanos y hermanas, ninguno de ellos
+conoce la letra. Así fue. Solo unas cuantas íbamos a la escuela, y terminamos
+la escuela solo unos pocos, algunos se retiraron, no continuaban. Así era.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Imaykatana rurashqa bajamunqapita, <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Desde que bajé (del segundo piso) ya
+he hecho muchas cosas<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+numniata aptsiyamuntaku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No enviaron numnia<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Nunmiata
+rikayaataku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ya no vemos/emcontramos numnia.</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Qayashqankinaku A., tsay Kinchabamba chakrapita?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Ya llamaste a A sobre la chacra
+de Qinchabamba?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manaraq, manaraq, qayaskiptiqa, waraymi qayashaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Alquilakushway,
+alquiladapita yaykaykamunchaa ichikllapis.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llullakur
+kaptinqa paytaqa qayapayashaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Todavía, todavía, voy a llamarla
+mañana. Debemos alquilarlo, del alquiler hay ingreso aunque sea poco.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si miente voy a resondrarle<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Rasunpaypaku,
+trigo kaykaptinqa, piraq tsayta murushqa, I. tsayta murushqa nimaptinqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Es verdad, si hay trigo (sembrado)
+quien ha sembrado, si me dice que ha sembrado I.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>I.
+ahashqa qayashaa “imata llullakunki, qam llulla kanki” nishaa warayna qayasha.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Voy a reprender a I. “por qué has
+mentido, tú eres una mentirosa” voy a decirle. Voy a llamarle mañana,<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaypita
+encomiendatami apatsiyaa, llullunpapis, llapankunapa apatsiya encomiendata.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Uniku
+musyakamuntsu I.., upalla wiyaraykan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Luego vamos a enviar encomienda,
+vamos a enviar para todos también para el bebé.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No sabemos de I.., está callada.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Secado de productos, salud y rituales
+de entierro<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+“Kayqa nacha picantitachaa rurantsi, qiwa picantita” nimarqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>ah
+mana mayarqatsu kaytaqa, tsaynawmi mamay rurantsi, atska qiwa kaptinqa”
+nimarqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Esto hacemos picante, picante de
+kaywa, me dijo, “ah no sabía sobre esto” “asi se hace madrecita, cuando hay
+mucha kaywa” me dijo <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+tsay imaynawmi rurarqan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Cómo lo preparaba?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+kaywata tsakitsirqan, tsakiskiptinqa churaskirqa diciembre o noviembre
+ushmaskirqa puwaskiptinqa nanawlla fresconulla, tsaypita papata wiñaykurqaa,
+tsay mishki yarqun, freskunaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Luego de hacer secar la kaywa,
+cuando se secaba lo guardaba (abril), en diciembre o noviembre lo remojaba
+luego que lo hervía era como fresco, luego le echaba papas, eso sale rico, como
+fresco.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaynawllata kaychawpis rurayan, imaykapita<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Asimismo lo hacen acá, de todo.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsakitsiyan
+tsaypita churayan frascokunaman, puntata<span style='mso-spacerun:yes'> 
+</span>kutsuyaan, tsakitsiyan, tsaypi churaratsiyan tsayta kusinayan.
+Tsayta<span style='mso-spacerun:yes'>  </span>rurayan tomatiwan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>tomatita
+pallaskirqa, kutsuyan llapsa llapsallata tsaypita tsakitsiyan tsaypita
+churaatsikuyan<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Lo secan luego lo guardan en un
+frasco, luego lo cortan, lo hacen secar, y luego lo tienen guardado
+(almacenado) y eso cocinan. Eso hacen con el tomate, recogen el tomate, lo
+cortan delgado muy delgado y de ahí lo secan y después lo almacenan.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ah
+churaratsikuskirqa kusinayan ari yapay, tsaynawmi nimaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Así es, “luego<span
+style='mso-spacerun:yes'>  </span>lo tienen almacenado y lo cocinan otra vez”,
+así me dijo.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Pay tsaki qiwita kusinaptin yawarqankiku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Cuando ella cocina la kaywa
+deshidratada ¿lo probaste?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manan yawatsimarqantaku, fresco qiwita, llapan murunta hipiskirqa, kusinantsi,
+tsay alli kusinadu kaptinqa churay, yakunta hipiskintsi, tsaypita llapintsi,
+imayka yuyutanaw hitqatanaw tsayta ruranakaq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Utsuta
+wiñarkur, wirata wiñurkur, ahusta wiñarkur, tsayqa mishki yarqun, papantin. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, no me hizo probar, luego de sacar
+las semillas de la kaywa fresca, se cocina, cuando está bien cocinado se
+guarda,<span style='mso-spacerun:yes'>  </span>se saca el agua, de ahí se
+aplasta (con las manos) como se hace con el yuyu. Luego se agrega ají, manteca,
+ajos, para que salga rico con papas.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+tsayta mikuyaqku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+¿Eso solían comer?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Manam yachatsu, kuchuqtsura imaraq, tsayllata rikarqaa, achiychaw
+mashtaraykaqta, achiychaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No lo sé, no sé si lo cortaba, solo
+vi eso, estaba tendido en la calor, en la calor.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mana
+kuchushtsu, hinallata, tsakiskiptinqa churaq mankakunaman wiñaskiq, después
+noviembre witsayqa kusinaq tsayta.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynawchaa
+ruraq. Charkinaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manan
+yawatsimarqantsu, “kaynawmi rurantsi, tsaynawmi rurantsi” nimarqanllacha.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No eran cortadas, enteras, cuando
+secaban lo guardaba en las ollas, y luego en el mes de noviembre, esos tiempos,
+cocinaba eso. Así es como se hace el charqui.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No me hizo probar, “así se prepara”
+solo me dijo eso.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsaynawcha mamaa ruraq, tsuqllupita, tsuqlluta atskata yanuskirqa,
+tsakisqatsirqa churaskiq, tsuqlluta mana desgranallaq qurushtaqwan
+tsakiskatsirqa mankakunaman wiñaskiq, tsaypita ushmarkatsirqa, waranninpa
+pasaypa puwatsir tsuqllunaw yarquq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>De la misma forma mi madre hacía del
+choclo, luego de hervir bastante choclo, luego de hacerlo secar, las mazorcas
+sin desgranar con todo y coronta luego de hacerlo secar lo almacenaba en ollas,
+luego de remojarlo, al día siguiente haciendo hervir bastante se parece al
+choclo (maíz fresco)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsayta
+wakinqa aqatsiyaq pero nuqakunaqa mana aqatsiyaqqatsu kananraq kayman
+shamirkurraq chuchukata mayaa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Algunos eso lo hacían moler pero
+nosotros no lo hacíamos moler, solo ahora aquí (a donde vine) sé sobre la
+chochoca (molida)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mutillata
+yanuyaq kaa, chuchukata, tiratsikur, tsaypaacha mamay yanuq mutita, chuchuka
+mutita.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaywanta
+mikuyaw segunduta, kushishqa mikuyaq tsay mutitaqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynawchakaq
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Nosotros solo sancochábamos, la
+chochoca, cuando hacíamos deshierbar, para eso mi madre hacía hervir el mote,
+el mote de chochoca.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Cuscuchaw rurayan, tarwipita tuqushtanaw tarwipita rurayan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ushmaratsiyanchir,
+tsaypitaqa imanayanraq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En Cusco hacen de el tarwi como si
+fuera el tokush pero del tarwi. Seguramente que lo tienen remojado, y después
+no se que hacen.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsakitsiyanchi. Tsakisqatsirqa yapaychaw ushmayan, tsayqa ushmarakatsirqalla
+kusinayan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsayqa
+facilmi.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Maychawpis
+purirqa rikaykantsi ari. Mayantsi imanaw kanqantashi.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Deben de hacerlo secar. Luego que
+esté seco en la siguiente lo remojan, cuando está remojado se cocina.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Luneschawku sobrinaykipa quwan wanushqa?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿No fue el lunes que falleció el
+esposo de tu sobrina?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Luneschaw wanushqa itsaqa qanyanraq, qanyantinraq pampakush.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kimsa
+diaraq velayashqa. Qanyanqa pitsqayash. Tsachawqa llapan llapanta taqshayan,
+mana paypallata taqshayantsu, pitsqayan wayitapis.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mana
+allita kaqtaqa kayayan, allinira kaqtaqa taqshayan imaykata pitsqayku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Qanyan
+pitsqarqa, kananqa achaptinqa tsakikapayanchir.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Falleció el lunes pero ayer,
+anteayer se ha enterrado. Lo velaron por tres días. Ayer han “pitsqayash”
+(pitsqay, es una costumbre, antes iban al río a lavar la ropa del difunto en el
+río, ahora ya no se lleva a lavar al río sino se lava en casa) . Ahí lavan todo
+todo, no solamente (lo que perteneció al difunto), también lavan (limpian) la
+casa. Lo que ya no sirve lo queman, lo que todavía está en buenas condiciones
+(más que todo ropa)<span style='mso-spacerun:yes'>  </span>lo lavan, lavan
+todo. Ayer fue “pitsqa” hoy día si hace calor estarán haciendo secar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imapata pitsqayan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Por que pitsqan?</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mana fastidikunapanshi, kay hatun markakunachaq mana pitsqayantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manashi
+imantapas yatayta munayarqantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Para que no fastidie (el
+difunto), es esta ciudad grandes no hacen el pitsqay.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Dice que no querían que toquen su
+pertenencia.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kaychaw,
+turiytapis pitsqayarqaa, nuqa, R, N, taqshayarqa, despues tsay tardeqa, velorio
+karqan, mesaman ruraq waytata (rosa) cruzman churaykur, cantorpis kaq, tsaynaq
+cantaraykan, despues, tsay waray warayninqa cruz quriskirqa, ‘aywallay,
+aywallay, nirqa calliman hichaskiyan waytata.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ahí, hicimos “pitsqay”, para mi
+hermano, yo, R, N, lavamos, después esa tarde, hubo el velorio, en una mesa
+ponían flores un forma de cruz, había un cantor, él cantor cantó, y despues al
+dia siguiente temprano recogiendo la cruz, “ya me voy, ya me voy” diciendo a la
+calle derramaban las flores.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaynawku rurayan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: ¿Lo hacen así?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Mayuman aywayaq taqshay, tsayman aywar uchpata wayi punkuchaw hichayaq.
+Tsaynawku rurayaq kanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Iban al río a lavar, y para ir se
+derramaba ceniza en la puerta de la casa.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Así lo hacen?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Ah tsaynaw, wamraa wanuskiptin, tsaynaw rurayarqa, mamaa kawaykarqanchaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llapanta
+taqshaskirqa salata, cuartokuna pitsarkirqa, uchpata cerniskirqa, yaykunaman
+tsayta haruntsinatsu, wayita wichqaskirqa, tsaymi<span
+style='mso-spacerun:yes'>  </span>palomapa rastrunta, wamrapa rastrunta,
+“imaynaw kay angelchir puriykan” nirqan mamaa. Tsay palomapa rastronnaw,
+tsaynawlla yarqamurqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Washatsu,
+pitsqantsi, wambra wanuptin, tsaynaw aywatsitsi.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mana
+tamyatin, karu mayumanraq aywanaq kaq, ashnuta mayakuskir. ashnuwan
+chaqnakuskir, tsaychaw mikuntsi.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Sí, cuando mi hijo falleció, así lo
+hicimos, mi mamá todavía estaba viva. Luego de lavar todo, la sala, los cuartos
+se barren,luego de cernir la ceniza, en la entrada ya no se se pisa, cerrando
+la puerta, luego el rastro de la paloma, las huellas del hijo, “como si fuera
+un ángel está caminando” dijo mi madre. Es como la huella de la paloma, así se
+le ve. Se lava (pitsqay) lejos, cuando mi hijo falleció, así se le deja ir.
+Cuando no llueve, se iba a un río lejano, se pedía prestado el burro, se
+cargaba al burro, y ahí (en el río) se come.</span></b><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Imata tsay uchpata rurayanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+¿Qué hacen con la ceniza (después)?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Tsayta hichayarqachaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Eso lo derramamos.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Punku
+waqtapa yarkuna, rurichaw, rurichaw, salachaw cerniyarqan. Punku hapaykunachaw,
+huk punkullachaw, yarqunaman, haparkunachaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynawchi
+primay rurayaq, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Papaniipaq
+mamaapa taqsharkillarqa, manam pitsayarqatsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En la salida de la puerta, dentro,
+dentro, en la sala cernimos. En la “pisadera” de la puerta, en una sola puerta,
+en la salida, donde se pisa (al salir). Así habrá hecho mi prima.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>tsaynawchir
+rurayashqa Qillicruzta, “Qanqananchaw”, nirqancha H. internetchawsi fotuta
+rikashqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Así habrán hecho en Qellacruz, “en la
+quebrada Qanqanan” dijo H. luego de ver foto (post) en internet (facebook)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Karuchawcha wiyakanki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Te escucho muy lejana.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Nuqata
+cuidaykayaman imayka formapacha, kanan hora calentador ladollanchaw, hamaraykaa
+papaniykiwan. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>A mí me cuidan de todas las formas
+posibles, ahora mismo estoy al lado del calentador, estoy sentado al lado de tu
+padre. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Saludosniita qunki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Le das mis saludos<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Kanan hora quykaa. Payqa makillanta awin mana parlayta puedintaku.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ahora mismo le estoy dando. Él solo
+mueve la mano, no puede hablar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ichikllata
+parlan,<span style='mso-spacerun:yes'>  </span>señal-llawan parlan, uuraqa
+parlan uuraqa mana parlantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>El habla poco, se comunica haciendo
+señales, a veces habla, a veces no habla.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:Qillqayta
+mananaku puedintsu?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿No puede escribir?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Qillqayta
+mana rikaanatsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ya no puede ver las letras.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+“Piwanta parlayashqayki” niykaman.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Me está preguntando “¿Con quién estás
+hablando?”<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D.wan,
+saludos nii, umanllata awipaaman<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>“Con D.” le digo saludos, solo me
+mueve la cabeza.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynaw
+katsun, yapay qayamanki.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Que sea así, me llamas de nuevo.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Qapakunki<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>D: Te abrigas<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ll:
+Uy pasaypa hanay hanay chumpashqa, kasakashqa, punuypis pasayta qatakushqa.
+Tsay aparatuchaw ras qurikaan yakuqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Waqtaman
+churaa quñi bolsata. Camaaman aywakushaa. Yapaynachi qayamaptiki parlashun<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Sí mucho, estoy puesto chompa
+tras chompa, la casaca, cuando duermo me abrigo (con la manta/cobija). En el
+aparato se colecta rápido el agua. Me pongo en la estaba la bolsa caliente. Me
+voy a ir a la cama. Ya cuando me llames otra vez vamos a hablar.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Imaytataq
+willayta munanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Que quieres contarme<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kananqa
+kaychaw tempranulla tsakan, allaapa alanpis. Kananqa helada kanqa tsay rayku
+tiendakunapis tempranulla wichayanqa 6 de la tardella.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ahora se oscurece temprano, también
+hace mucho frío. Ahora va a ver una helada por esa razón las tiendas van a
+cerrar temprano a las 6 de la tarde.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Alay
+raykuchir<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Sera por el frio!<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaypis
+nimayashqa, kañutapis kichallayllata dejanki tsakay, yaku aywananpa. Mana yaku
+awaptinqa tubo desagueta nisqa<span style='mso-spacerun:yes'> 
+</span>pashtatsinman. Tsayqa yakuta hipiyta puediyashatsu. Tsay rayku,
+niyamashqa, tsay alalay qallaskiptinqa yakutaqa kichallayta dejayashaa. Mana
+tubuchaw hielo juntanampa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si el agua no circula el tubo de
+desagüe puede reventar. Y si eso pasa no vamos a poder sacar (tener) el agua.
+Por esa razón, nos han avisado, cuando el frío empiece vamos a dejar el agua
+(caño) abierto. Para que en el tubo el hielo no se acumule.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Luego nos ha dicho, en la noche van a
+dejar el caño abierto, para que el agua corra. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aha,
+directo aywananpa, allichaa tsayqa. (toda la noche) tsakayllapa (paqaskiptin,
+tsakaskiptin) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>cañota
+dejayasha kichayta.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si para que vaya directo, está bien
+eso, <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Alo,
+maypata aywakushqayki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Alo, a dónde te fuiste?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manam
+kayllachawmi kaykaa,<span style='mso-spacerun:yes'>  </span>unaypis tsaynawku
+kashqa kananrayku, nevada, rahu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, estoy aquí Anteriormente ha sido
+así como ahora la nevada?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaychawqa
+achaykannaku?<span style='mso-spacerun:yes'>  </span>Awmi kaychaw achaykanmi,
+tardiqa pukutaskin, aire corrin, <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Ahí ya está haciendo calor? Si, aquí
+ya está haciendo calor, en la tarde se nubla, corre el aire.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsaypa alfombratachir rantiyanman<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Para eso comprarian alfombra<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manan
+alfombrawanpis, camaman aywaptipis chaki quñuntsu. Quñutsiraq quñu bolsawan.
+Tsaynawllam kaykaa kaychaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, tampoco con la alfombra, cuando
+voy a la cama mis pies no se calientan. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>D:
+Tsay alfrombratachir churayanman tsaywaraqa,<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Entonces que pongan alfombras <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>piru
+ni tsaywanpis kaychawqa alanchaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Pero ni con ese aqui hace frio<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kananqa
+imayshi tocaman neumonologia, tsaychawchir imatapas nimanqa, imaraq kay
+alalakuu. Tsay alalaaptiyqa flemana yurin. Tsayqa mana allita punutsu.
+Rikchaskii, rikchaskii, tsaypi ama allinta sueñuy. Peladuta awiykaa, hatun
+mankawan, tsaypita sueñoniichaw parlaashi. Imataraapis parlaa ah. Kananchaa kay
+killapachaa kaynaw kaskii pasayta, noviembre killapita. Noviembre killa
+qallamashqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ahora vamos a ver cuando tengo cita
+para neumologia, ahi me van a decir algo, no se porque siento tanto frío. Y
+cuando siento frío aparece la flema. Y si es así no duermo bien. Me despierto,
+me despierto (con frecuencia) y luego sueño cosas desagradables.<span
+style='mso-spacerun:yes'>  </span>Estoy lavando el pelado, en una olla grande,
+y dice que despues hablo en en sueño (cuando estoy durmiendo).<span
+style='mso-spacerun:yes'>  </span>Que hablaré pues. Ahora ya es mes<span
+style='mso-spacerun:yes'>  </span>unque estoy así, desde noviembre. Empezó en
+el mes de noviembre.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Imata
+upunki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Qué es lo que estás tomando
+(medicina)?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>M.
+upiykaa, tsapis mana imatapas ruramantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Nuqaqa
+nikaarqaa mananachir tsayta upyankimankinatsu. Tsaytsuraq dañuta ruraykashunki.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Estoy tomando X, pero eso no me hace
+ningún bien.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Yo estuve pensando que no tomes eso.
+Quizás eso te esté haciendo daño.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aw
+kananqa upuynataku. Tsaytsuraq nir. Medicina internapitash hipimushqa citata,
+kananqa tsaypa aywaptiy ima nimanqaraq.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynawchaa
+allichaa kakurqaa, allin punuq kaa, tsay huraqa sharimuq kaa imaykatapas
+ruraykarqami wayichaw. Tsaypita parkiman aywakayarqaa, tsaypitachaa kay
+tsarimashqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, ahora yo no tomo. Diciendo esto
+quizás (me hace daño). Dice que han sacado cita de medicina interna, ahora que
+vaya que me dirá (el médico).<span style='mso-spacerun:yes'>  </span>Así es, yo
+estuve bien (de salud) dormía bien, me levantaba y<span
+style='mso-spacerun:yes'>  </span>estaba haciendo cualquier cosa en la casa.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+wamraata covid qushqa, ishkay kutina qushqa, puntataqa gripe qurqan,<span
+style='mso-spacerun:yes'>  </span>tsaypita pruebata rurayarqan, tsay negativo
+kashqa, yapay aywashqa clinikapa, yapay hipiyasqa pruebata, kimsa kutiraq
+positivo yarqamushqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ah ese niño le ha dado el covid, ya
+le dio dos veces, primero le dio la gripe, después le hicieron la prueba, y
+salió negativo, y otra vez fue a la clínica de salud, y otra vez le sacaron la
+prueba, solo en la tercera salió el resultado positivo. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ah
+tsay virusqa tsinkakikashqa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ah el virus estaba escondiendose<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Wamrankunataqa
+qushku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Y le dió (el covid) a los niños?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manam,
+ishkan wambrataqa tsarintsu. Paykunata pasaypa gripewan achachaywan kayashqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No, no les a los dos niños. Ellos han
+estado con la gripe, han tenido calentura (fiebre)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Wamrakunaqa
+chuqasqaykiyan chuqaskiyan tsay pasakunlla. Paykunata itsanqa chuqayqa
+kachantaku. Chuqaywan kakuyan.Nuqa witiitsu paykunamanqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Los niños tosen, solo tosen y se les
+pasa. Pero a ellos la tos no les deja. Paran tosiendo. Y yo no me acerco a
+ellos.</span></b><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>T.
+tsuraq contagiashqa papaniikipa santuchaw, paywan cervezata upyayarqan
+tsaytsuraq contagiarqan. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Tquizás ha contagiado en el
+cumpleaños de mi papá, con él estuvieron bebiendo cerveza quizás ahi él los
+contagió.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><span
+style='mso-spacerun:yes'> </span>Tsaytaqa mana yachayaatsu. Ah ¿paytsuraq
+virusta apashqa?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Eso no lo sabemos. Será que él ha
+llevado el virus.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>T
+tsuraq contagiashqa <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>T será que contagió</span></b><span
+lang=EN style='font-size:12.0pt;line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Piraq
+apakamushqa?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Quién habrá traído?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>T.
+maypapis aywakikanchir, maypapis aywaykan rimayta ashir, payqa rimayta ashirqa
+maypapis aywan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Estará yendo a donde sea, a dónde sea
+va buscando chisme, él va a donde sea en busca de chisme.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>ah
+payqa pasaypa purikun,<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Telefonopi
+parlayarqaa “nuqatsuraq contagiarqa” “imanawraq contagiakashqa” nin<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, él anda por aquí y por allá
+demasiado.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Hablamos por teléfono “yo habre
+contagiado” “Cómo le habre contagiado?” dice<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Paytaqa
+ishkay, kimsatana covid qushqa. Yapa yaparkur virus qushqa, warminta kimsa
+kutina qushqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>A él ya le dió el covid dos, tres
+veces. Una y otra vez le ha dado, a su mujer cuatro veces le ha dado.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Imanawraq
+contagiarkuyashqa, tsaytaqa yachayataku<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No sé cómo se habrá contagiado, eso
+no sabemos<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Imanawmi
+santupa fiestan karqan?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Cómo fue la fiesta del cumpleañero?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Allichaa
+karqan, piñatapis karqan. Llapan wamraakuna mikiyta apayamurqan X. ají de
+gallina, R. kaychaw rurarqan seco con frejol, nuqakunana ullukituta rurayarqa.
+Atskachaa mikiy karqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Estuvo bien, también hubo piñata.
+Todos mis hijos trajeron comida, X trajo ají de gallina, R. aquí hizo seco de
+frejol, y nosotros hicimos olluquito.<span style='mso-spacerun:yes'> 
+</span>Hubo bastante comida.</span></b><span lang=EN style='font-size:12.0pt;
+line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Atskata
+kusinayarqaa, allaapa runa kayarqantaku. Itsanka pasaypa tushuyarqapis. Tsay
+nuqa mana allinna kaykarqaa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Cocinaron
+bastante?<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Cocinamos bastante, no había muchas
+personas. Pero también bailamos un montón. Y yo no estaba sintiéndome bien.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tushurqaykiku
+manaku?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aw
+tushurqaa, llapaakuna tushuyarqa. Waraskirqa catarrowan. Llapan cuerpoy
+nanawarqan. Hamaptiipis nanawarqanlla, nanaykunqa, umapis nanarqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Bailaste o no?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si bailé, todos nosotros bailamos. Y
+amanecí con catarro. Me dolió todo el cuerpo. Cuando me sentaba también me
+dolía, como duele, me dolía también la cabeza.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Llakikurqaykiku,
+allaapaku yarpachakurqayki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Awmi,
+imanawraq kaynaw kasha” nirqa. Manam camallachaw hitarayta munaatsu,
+yarqaykamuu, tercer pisoman yarpiykaa, hamaykulla, hamarash karqaa rato en
+rato. Tsaypita puriy. Hamaraptiilla, chacharaptillaa mana allitsu. Tsaychaa
+puriykaa, hamaraykaa, imatapis ruraykaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Estabas triste, estuviste
+preocupándote mucho? <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, “como estaré ahora” dije. No
+quiero estar echada en mi cama, estoy saliendo (del cuarto), estoy subiendo al
+tercer piso, luego de sentarme estuve sentada de rato en rato. Luego camino.
+Cuando solo estoy sentada, cuando estoy solo echada no está bien. Por eso estoy
+caminando, estoy haciendo algo.</span></b><span lang=EN style='font-size:12.0pt;
+line-height:115%'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Latigo
+aptaskirqa pitapis maqankiman ari<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Pitaraq
+latigowan maqaamanqa (asiyan)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaymi
+alli hampi kanman<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>T.
+shariy ñakaptipis mana imatapis nimantsu “tsaynaw kanki” mana imatapis
+nimantsu.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Paykuna
+shamushtsu, imaniraq shayamushtsu, <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Luego de tomar (en la mano) a alguien
+puedes pegar pues.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>A quien golpearía con el látigo
+(risas) <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Eso sería una buena medicina.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Él cuando me paro con dificultad no
+me dice nada “estás así” no me dice nada.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No vinieron, no sé por qué no
+vinieron.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Fiesta
+patronalchaw videota pasayarqan facebookchaw, tsaychaw rikarqaa Xta, payqa
+warminwan tushuykarqan (tushiykarqan)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ah
+tsaychir payqa santuman shamushtsu, tsaymi shamushtsu kanqa.<b
+style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En el video de la fiesta patronal,
+pasaron en facebook, ahí (en el video) yo ví a él (X), él estaba bailando con
+su esposa.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Oh será por eso que él no vino al
+cumpleaños, debe ser por eso que no vino.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Cabildochawpi
+rikarqaa Llikuta, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>pi
+Llikuta, hallqa llikuta?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Pasaykarqachi,
+payqa evagelistaman, payqa fiestaman aywantaku, hukchir karqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En el Cabildo (baile en la plaza) ví
+a Lliku.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿A cuál de los Lliku? A Lliku de la
+puna?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+callichaw purikayaptinchir, tushukuna pasayarqan tsaychir rikarqaa<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsayqa
+nuqa nirqa “tsay llikuqa imata ruraykan fiestachaw”<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kananqa
+llakinaypa llamellinchaw kaykayan,<span style='mso-spacerun:yes'> 
+</span>manashir tamyantsu, manashir murukuyantsu, muruyashqash punta tamyawan,
+itsanqa llapan tsakishqa, kananqa mananam tamyantsu. <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Cuando él estuvo en la calle,
+caminando en la calle, los bailarines pasaron (por ahí) por eso lo he visto (en
+el video). Y yo dije “Y que está haciendo Lliku en la fiesta?”<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ll: Ahora están muy tristes en
+Llamellin, dice que no llueve, no sembrarán, dice que han sembrado con las
+primeras lluvias, pero dice que todo lo sembrado se ha secado, ahora ya no
+llueve.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aw,
+fotota rikarqaa, Willkabamba fotota churayarqan internetchaw, tsay allpa,
+chakrakunaqa tsaki tsaki kaykarqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kanan
+huraqa animalkunapas wanikayanchir pastonpita. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+chakrapa allpan tsakishqa shiminaw kicharan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Aw
+allaapa achatsaywan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, yo he visto la foto. Colgaron una
+foto<span style='mso-spacerun:yes'>  </span>de Vilcabamba en internet, esa
+tierra, las chacras están muy secas. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ahora mismo los animales deben estar
+muriendo por falta de pasto.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Las tierras de esas chacras están
+secan y tienen rajaduras que se abren como una boca.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si por la calor intensa<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Awmi
+hatun shiminaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ah
+temblor kaptin tsaynawlla rikatsin<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Awni
+patsa kicharan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kanaqa
+hambunachir kanqa, mana sierrachaw tamyaptin tsayqa hambrunaman kanqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si como una boca grande<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si como cuando hay temblor asi se ve<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Si, la tierra está abierta<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ni
+animal ni ima kanmanraaku<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No debe de haber ni animales ni nada<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mana
+imapis wiñantsu, desiertonaw.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ah
+desiertonaw ari, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsayqa
+llakinaypa, tsay chakrakunachaw ni rumipis, tsakishqa allpalla kan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>No crece nada, es como el desierto.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Cierto como el desierto.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Eso para estar triste, en las chacras
+no hay ni piedras, solo la tierra seca hay.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Pasaypa
+ninchaa, mana tamya kantsu, tsay puntata tamyanaa octubre killachawchir
+tamyarqan, tsaychi muruyanaa harata, tsayqa shumaqsi haqaykamurqan tsayqa
+chipyay, chipyay tsakishqa. Mana ima kantsu. Unayshi hambruna karqan kimsa
+wata.<span style='mso-spacerun:yes'>  </span>awilay witsaychaw, tsaychi priman
+ñañanwan tayanaa, manashi imapis mikuyananpa karqantsu.<span
+style='mso-spacerun:yes'>  </span>Paykuna hallqaman aywayarqan. Chinqaskuna
+runa apayaq waakanta, uushankunata paytakur hallqaman tsaychi kimsa hatara
+hapayaq. Tsayllatashir aqayanaa, yaku yakullata timputsiyaq mazamorrata,
+tsayllawanshi kawayanaa. Kimsa watashir tamyanatsu, mana mikiywan kayanaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaykuna
+hallqapa aywayashqa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Dice que es mucho, no hay lluvia,
+llovió primero quizás en el mes de octubre, por tal vez sembraron maíz, dice
+que estaba germinando bien pero dice que eso se ha secado totalmente. No hay
+nada. Dice que antes hubo hambruna por 3 años en tiempos de mi abuela, dice que
+su prima vivía con su hermana, dice que no había nada para comer. Ellas se
+fueron a la puna. La gente de Chingas (parte baja de la zona) llevaba ahí sus
+vacas, sus ovejas para encargarlos a cambio de tres mazorcas de maíz. Eso nomas
+molían y hacían hervir una mazamorra aguada, dice que así nomás vivieron. Dice
+que en tres años no llovió, no tenían comida.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ellas se fueron a la puna.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Chaychaw
+tsukllata rurayashqa, kaynachir runakuna apayaq, animalkunata
+paytakuyashqa,<span style='mso-spacerun:yes'>  </span>llapanta tsaypita
+apapuyaq cuidanqapita harata,<span style='mso-spacerun:yes'>  </span>tsayllata.
+Imaykanaw papata muruyana, tsay Karwachawqa yaku kaq, papa muruskirqa shumaq
+papa haqamushqa, tsay huk hunaq taqshakur aywan, tsaypita kutinanpashi papa
+hawanta pasaykan, papata pishqu mikiykuna, tsayshi ras taqshakininta churaskir
+qunqurikikurqa<span style='mso-spacerun:yes'>  </span>manakuskirqa papata
+rikaskin, papata hipishqa, tsayta papata hipiskirqa yanushqa, ñañanshi aywaq
+uushata mitsiq,<span style='mso-spacerun:yes'>  </span>uushata waakata,
+Tsaychir chaskamun, chaskamunanpaqa papa yanushqa kaykan, yakullata upuyaq,
+tsayshir papata mikurkurqa wanuskin, atorakinchir, tsaypita shuqshin, shuqshin,
+shuqshikaptinq kawarirqamun. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ahi
+hicieron su choza, y esta gente llevaba ahí sus animales, y los encargaban,
+llevaban todos (sus animales) para que los cuiden ahí a cambio de maíz, solo
+eso.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Haciendo un esfuerzo grande
+sembraron, había agua en Karwa,<span style='mso-spacerun:yes'>  </span>cuando
+sembraron la papa esta estaban germinando bien, y un dia se va a lavar la ropa
+y de regreso pasó debajo del sembrío, y un pájaro estaba comiendo la papa, y
+viendo eso, saco la papa, y luego de sacar la papa había cocinado,dice que su
+hermano iba a pastear las ovejas y las vacas, dice que llega y para cuando
+llega la papa estaba cocinada, dice que solo tomaban agua, dice que luego de
+comer la papa se había atorado, entonces la sacudió una y otra vez y cuando
+estaba sacudiendola revivió.</span></b><span lang=EN style='font-size:12.0pt;
+line-height:115%'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Awiliyta
+tsay cuentuta waqa wawaykur cuentaq. Tsaynawchir nuqantsipis kashun kanan wata.
+Awilitaa, mamaapa maman. Hallqachaw turinllanwan kayana.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Mi abuela llorando llorando contaba
+ese cuento. Así nosotros vamos a estar este año. Mi abuela, la madre de mi
+madre.<span style='mso-spacerun:yes'>  </span>En la puna solo con su hermano
+estuvieron.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Ishkankunalla<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Solo los dos<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>yaku
+mana kaptin, riqayta puediyaqtsu, ultimo añochaw papata muruyarqan.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Yakutapis
+kucharallawan upuq. Mañakuyaq, mikunanpaqa, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kimsa
+watashir karqan, primer añuchir, triguta muruyarqan, mana hiqamunatsu,<span
+style='mso-spacerun:yes'>  </span>watanninqa yapay triguta muruyanaa tsayshi
+niyarqan “kananmi trigu kanqa”<span style='mso-spacerun:yes'>  </span>hiqamuna
+altu itsanqa manashir triguta rikayarqantsu. Kimsa watachawqa ichik ichiklla
+muruyanaa.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Como no había agua, no podía regar,
+el último año sembraron papa.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Tomaban el agua con una cuchara.
+Pedían para que coman.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Habría sido tres años, el primer año
+habían sembrado el trigo, y no germinó, y el otro año otra vez sembraron el
+trigo y dice que dijeron “ahora si va a ver trigo” (el trigo) había crecido
+alto pero no pudieron ver/cosechar el trigo. Y el tercer año sembraron poquito
+poquito<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsaynawmi
+kanqa, llapan sierrachawshir tamyamuntsu,<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Internetchaw
+runakuna tamyata yaqaykayarqan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Unaypis
+kashqa itsanqa kananawqa kashtaku<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Wamrakuna
+niyaq “taytallay amu tamyaykita kacharpallaami” nir qayakuyaq, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Qamqa
+tsaynawku mañakuq kanki?<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Manam
+mañakushqataku, wiyashqallam tsaynaw rurayaqta<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Tsay
+witsay allaapa kanannaw karqantaku<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Kananqa
+enero mana tamyaptin, adios vida, tsay enero tamyaptinqa muruyanqara triquta,
+papata imatapis muruyanqara<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Papataqa
+muruyanmanra<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'>Mayqanachir
+hiqaraykamunman hatusaqnan kanman. Manashi kantsu tamya, tsakikanshir<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Así será, en toda la sierra no
+llueve.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>En internet las personas estuvieron
+“llamando” a la lluvia.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Antes había (sequía) pero no como
+ahora.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Los niños decían “padre Dios envía
+tus lluvias” diciendo llamaban.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>¿Y tú llamabas/pedías así?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Yo no he pedido, solo he escuchado
+como lo hacían.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Esos tiempos no eran tanto como ahora
+<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Y ahora si en enero no llueve, adiós
+vida, cuando llueve en enero van a poder sembrar trigo, papa algo van a sembrar<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Van a poder sembrar papas<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'>Ya deberían estar
+germinando/creciendo ya deberían estar ser grandes. Dice que no hay lluvia
+entonces estará secandose. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
+style='font-size:12.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,515 @@
+file:/Users/nomdecrayon/Documents/Quechua/Yauyos_ELAN/Tambopata_AB_Comadres.eaf
+Sunday, October 7, 2012 12:34 PM
+
+¿Imay ora-taq tr'aya-nki kanan?
+¿Imay ora-taq tr'aya-nki kanan?
+when hour-SEQ arrive-2 now
+¿Ahora a qué hora vas a llegar?
+Now what time are you going to arrive?
+00:00:00.000 - 00:00:01.960
+
+Imay ora-tr'ik tr'aya-shaq
+Imay hora-tr'ik tr'aya-shaq
+when hour-EVC-K arrive-1.FUT
+¿A que hora pues llegaré?
+What time will I get there?
+00:00:02.360 - 00:00:04.580
+
+¿May.ta vaka-wan ri-ya-nki?
+¿May-ta vaka-wan ri-ya-nki?
+where-ACC cow-INSTR go-PROG-2
+¿Dónde vas con las vacas?
+Where are you going with the cows?
+00:00:05.420 - 00:00:06.990
+
+Wilka-y-wan
+Wilka-y-wan
+grandchild-1-INSTR
+Con mi nieto
+With my grandson.
+00:00:07.080 - 00:00:10.040
+
+¿Maqta-kuna-ta pusha-nki icha pashña-ta?
+¿Maqta-kuna-ta pusha-nki icha pashña-ta?
+boy-REFL-ACC bring-2 or girl-ACC
+¿Vas a llevar a los muchachos o a la chica?
+Are you going to take the boys or the girl?
+00:00:10.590 - 00:00:13.640
+
+Warmi wambra-ta-m pusha-shaq
+Warmi wambra-ta-m pusha-shaq
+woman child-ACC-EVD bring-1.FUT
+Voy a llevar a la mujercita.
+I'm going to take the girl.
+00:00:13.750 - 00:00:15.960
+
+Qawa-ya-yki qam-kuna-ta-pis.
+Qawa-ya-yki qam-kuna-ta-pis.
+see-PROG-2 2-PL-ACC-ADD
+Estoy viendo a Ustedes también.
+I'm looking at you, too.
+00:00:16.050 - 00:00:18.470
+
+Unay ñuqa-kuna-qa mana-m qawa-rqa-ni-chu pay-kuna-qa almenos mana-m qawa-rqa-pis-chu
+Unay ñuqa-kuna-qa mana-m qawa-rqa-ni-chu pay-kuna-qa almenos mana-m qawa-rqa-ø-pis-chu
+before 1-PL-TOP no-EVD see-PST-2-NEG 3-PL-TOP at.least no-EVD see-PST-3-NEG
+Antes, nosotros no veíamos.  Por lo menos, ellos tampoco no veían.
+Before, we didn't see. At last they didn't see, either.
+00:00:18.680 - 00:00:22.530
+
+Wak alkaldi Vicente ka-pti-n
+Wak alkaldi Vicente ka-pti-n
+DEM.DD mayor Vicente be-SUBDS-3
+Cuando Vicente era alcalde
+When Vicente was mayor.
+00:00:23.660 - 00:00:25.920
+
+Gringo-pis ka-ya-n. Qawa-shun. Ése es culpable
+Gringo-pis ka-ya-n Qawa-shun. 
+Gringo-ADD be-PROG-3 see-1PL.FUT 
+Hay gringos, también. Vamos a ver. Vicente -- ése es culpable
+There are gringos, too. We'll see. Vicente -- He's guilty.
+00:00:26.000 - 00:00:29.110
+
+Mana-ña kanan qipa wiña-y-kuna. No sé chay kastillanu-pa
+Mana-ña kanan qipa wiña-y-kuna  chay kastillanu-pa?
+no-DISC now behind grow-INF-PL  DEM.D Spanish-LOC
+Ya no la ultima generacion. No sé hablar castellano
+Not the most recent generation. I don't know in this Spanish.
+00:00:29.840 - 00:00:33.160
+
+Ima chay-kuna rima-nqa-ña na-ru-shpa-qa
+Ima chay-kuna rima-nqa-ña na-ru-shpa-qa
+what DEM.D-PL talk-3.FUT-DISC DMY-URGT-SUBIS-TOP
+Ellos hablarán y lo harán.
+They'll speak and do that.
+00:00:33.350 - 00:00:35.820
+
+Kichuwa-pa yanga-ña-m
+Kichuwa-pa yanga-ña-m
+Quechua-LOC in.vain-DISC-EVD
+En quechua es mentira.
+in Quechua in vain-
+00:00:35.870 - 00:00:37.820
+
+Maqta-cha medio faltito
+Maqta-cha medio faltito
+boy-DIM part flawed
+El chiquito es medio faltito.
+The boy is a bit daft.
+00:00:37.920 - 00:00:40.630
+
+Pay sapa-lla-n hamu-ya-n kay-na-ta-qa
+Pay sapa-lla-n hamu-ya-n kaynataqa
+3 alone-RSTR-3 come-PROG-3 DEM.P-VRBZ-ACC-TOP
+Solito está veniendo así.
+He's coming like that alone.
+00:00:41.440 - 00:00:44.450
+
+Chay-qa ima miku-y-ta-taq miku-nki qam-qa
+Chay-qa ima miku-y-ta-taq miku-nki qam-qa
+DEM.D-TOP what eat-INF-ACC-SEQ eat-2 2-TOP
+¿Qué comida comes en allí Usted?
+What food do you eat there?
+00:00:44.470 - 00:00:46.770
+
+[laughter]
+[laughter]
+[laughter]
+00:00:47.030 - 00:00:49.130
+
+Achka papa-ta, achka papa-ta.
+Achka papa-ta, achka papa-ta.
+a.lot potato-ACC a.lot potato-ACC
+Muchas papas, muchas papas.
+A lot of potatoes, a lot of potatoes.
+00:00:49.240 - 00:00:51.920
+
+¿Wasi-nki-man hunta-q-ta mana hunta-q?
+¿Wasi-nki-man hunta-q-ta mana hunta-q?
+house-2-ALL full-AG-ACC no fill-AG
+¿Tu casa que llena o es que no llena?
+Does your house fill up or doesn't it fill up?
+00:00:52.290 - 00:00:55.210
+
+¿Ése no más?
+¿Éso no más?
+Just that?
+00:00:55.360 - 00:00:56.020
+
+¿Éso no mas sale en tu chakra?
+¿Éso no más sale en tu chakra?
+Just that comes out in your field?
+00:00:57.020 - 00:00:58.620
+
+igwal en tu kabra-cha-nchik-pis kan ¿aw?
+igwal  kabra-cha-nchik-pis kan aw
+equal  kabra-cha-nchik-pisgoat-DIM-1PL-ADD be-3 yes
+Igual en tu [casa tienes cabras como] nosotros tenemos kabras, ¿no?
+Just like we have goats, you [have goats, too], no?
+00:00:58.800 - 00:01:01.140
+
+Oveha-cha-nchik-pis
+oveha-cha-nchik-pis
+sheep-DIM-1PL-ADD
+Tenemos ovejitas también.
+We have sheep, too.
+00:01:01.360 - 00:01:02.450
+
+¿Riqsi-nki oveha-ta? ¿mana?
+¿Riqsi-nki oveha-ta? ¿mana?
+be.acquainted-2 sheep-ACC no
+¿Conoces las ovejas o no?
+Do you know sheep or not?
+00:01:02.700 - 00:01:04.780
+
+Riqsi-ya-nki-tr'i-ki.
+Riqsi-ya-nki-tr'i-ki
+be.acquainted-PROG-2-EVC-KI
+Conocerás, pues.
+You'll get to know them.
+00:01:04.930 - 00:01:05.910
+
+Kanan kichwa-pa intindi-nki-ña-tr'i-k
+Kanan kichwa-pa intindi-nki-ña-tr'i-k
+now Quechua understand-2-DISC-EVC-K
+Ahora en quechua entenderás ya.
+You're going to understand in Quechua now.
+00:01:06.440 - 00:01:08.290
+
+Chay-mi parla-shpa papa-ni-y qapari-n.
+chay-mi parla-shpa papa-ni-y qapari-n.
+DEM.D-EVD talk-SUBIS father-EUPH-1 shout-3
+Así conversando, mi papá grita
+That's why my father shouts when he talks.
+00:01:08.340 - 00:01:10.330
+
+Kichuwa-pa rima-q-mi serrano-qa
+kichuwa-pa rima-q-mi serrano-qa
+Quechua-LOC talk-AG-EVD sierra.resident-TOP
+Los que hablan en quechua son serranos.
+Those who speak in Quechua are from the Sierra.
+00:01:10.400 - 00:01:12.860
+
+Kanan vaka-y qarka-q haku
+Kanan vaka-y qarka-q haku
+now cow-1 pasture-AG let's
+Ahora vamos a pastear las vacas.
+Now we're going to pasture the cows.
+00:01:12.920 - 00:01:14.650
+
+Tukuy puntr'aw yatr'a-mu-na-nchik-paq
+Tukuy puntr'aw yatr'a-mu-na-nchik-paq
+all day know-CISL-NMLZ-1PL-PURP
+Todo el día para que aprendemos.
+All day so we can learn.
+00:01:14.810 - 00:01:17.070
+
+Tukuy puntr'aw kichuwa-pa ñuqa-wan rima-pti-ki
+Tukuy puntr'aw kichuwa-pa ñuqa-wan rima-pti-ki
+all day Quechua-LOC 1-INSTR talk-SUBDS-2
+Si hablas in quechua todos los días conmigo.
+If you speak Quechua every day with me
+00:01:17.380 - 00:01:20.300
+
+Ari-yá ¡psht, pollo!
+Ari-yá ¡psht, pollo!
+yes-EMPH ¡psht, chicken
+Sí.  ¡psht, pollo!
+Yes. ¡psht, chicken!
+00:01:20.490 - 00:01:23.200
+
+Wallpa wak-hina havas-ta miku-ya-n
+Wallpa wak-hina havas-ta miku-ya-n
+chicken DEM.DD-COMP broad.beans-ACC eat-PROG-3
+La gallina está comiendo la havas así.
+The chicken is eating the braod beans like that!
+00:01:23.300 - 00:01:24.770
+
+¡Asss! Miku-shqa,
+¡Asss! Miku-shqa
+¡Asss! eat-SUBIS
+¡Asss! Comiendo
+Asss! Eating ..
+00:01:24.830 - 00:01:26.220
+
+Miku-sa-ø-y-ari
+miku-sa-ø-y-ari
+eat-PRF-3-EMPH-ARI
+Comia, pues.
+It's eaten it, all right.
+00:01:26.300 - 00:01:27.310
+
+Yanqa-ña-tr' kaya-chi-ni wallpa-lla-paq.
+Yanqa-ña-tr' kaya-chi-ni wallpa-lla-paq.
+in.vain-DISC-EVC spread-1 chicken-RSTR-BEN
+Mentira tiendo sólo para gallina
+I spread them out in vain -- just for the chickens!
+00:01:27.470 - 00:01:29.580
+
+Asnu-lla-y-ta-tr' michi-shaq
+Asnu-lla-y-ta-tr' michi-shaq
+Asnullaytatr' michishaq
+Pastearé a mi burro no más.
+I'll pasture just my donkey.
+00:01:30.280 - 00:01:32.660
+
+¿May-pa surqu-shpa-tr' miku-ya-n
+¿May-pa surqu-shpa-tr' miku-ya-n
+where-LOC take.out-SUBIS-EVC eat-PROG-3
+¿Dónde? ¡Los está sacando y los está comiendo!
+Where? It's taking them out and eating them!
+00:01:33.550 - 00:01:35.300
+
+Surqu-ru-n-mi-ki ni-n-shi-ki.
+Surquru-n-mi-ki ni-n-shi-ki
+take.out-URGT-3-EVD-KI say-3-EVR-KI
+Los sacó, dijo.
+It took them out, she said.
+00:01:35.330 - 00:01:36.740
+
+Wallpa vicioso.
+Wallpa vicioso.
+chicken vicious
+¡Gallina viciosa!
+Vicious chicken!
+00:01:36.900 - 00:01:39.940
+
+Chay-mi vaka qarka-q haku ni-nki-mi-ki. Tukuy puntr'aw mana-chu yatr'a-mu-chuwan
+Chay-mi vaka qarka-q haku ni-nki-mi-ki tukuy puntr'aw mana-chu yatr'a-mu-chuwan
+DEM.D-EVD cow pasture-AG let's say-2-EVD-KI all day no-Q know-CISL-1PL.COND
+Por eso "Vamos a pastear las vacas", vas a decir. Todo el día podemos aprender , ¿só o no?
+So you're going to say, "Let's pasture the cows" and we can learn all day, yes or no?
+00:01:40.070 - 00:01:43.790
+
+Ñuqa-chu pusha-shaq tukuy ...
+Ñuqa-chu pusha-shaq tukuy
+1-Q bring-1.FUT all
+¿O la llevaré yo todo ...
+Or I'll take her all ...
+00:01:44.460 - 00:01:46.420
+
+Wañu-ku-n-man-tr'i hanay boski-pa-qa boski-man chay-qa
+Wañu-ku-n-man-tr'i hanay boski-pa-qa boski-man chay-qa
+die-REFL-3-COND-EVC up forest-LOC-TOP forest-ALL DEM.D-TOP
+Puede morir arriba en el bosque. Hacia el bosque, ésa
+She could die up in the forest. To the forest, she
+00:01:46.480 - 00:01:50.070
+
+Altu-ta
+Altuta.
+high-ACC
+Arriba.
+Up hill.
+00:01:46.480 - 00:01:50.070
+
+Qiñual-man tr'aya-ra-chi-pti-ki wañu-ku-n-man
+Qiñual-man tr'aya-ra-chi-pti-ki wañu-ku-n-man
+Quinual.grove-ALL arrive-URGT-CAUS-SUBDS-2 die-REFL-3-COND
+Si le haces llegar al qiñuwal, puede morir
+If she make her get to the quinual grove, she could die.
+00:01:50.150 - 00:01:51.730
+
+Witr'ay-man-qa ahita-ya-n-tr'i-ki
+Witr'ay-man-qa ahita-ya-n-tr'i-ki
+up-ALL-TOP be.agitated-PROG-3-EVC-KI
+Arriba se agitará pues.
+She'll be huffing and puffing up up there!
+00:01:51.880 - 00:01:54.430
+
+Ari-yá ¿Imayna-tr' ahita-ya-n!
+Ari-yá ¿Imayna-tr' ahita-ya-n!
+yes-EMPH how-EVC be.agitated-PROG-3
+Sí, pues, ¡como se estará agitando!
+Yes indeed, how she'll be huffing and puffing!
+00:01:54.460 - 00:01:57.930
+
+Puraminti-tr' ahita-ya-n.
+Puramintitr' ahita-ya-n.
+completely-EVC be.agitated-PROG-3
+Estará aqitarándose bastante.
+She'll really be huffing and puffing!
+00:01:54.460 - 00:01:57.930
+
+Si kay-pa wambra-lla-nchik
+Si kay-pa wambra-lla-nchik
+yes DEM.P-LOC child-RSTR-1PL
+Si acá nuestros hijos
+If our chidren here
+00:01:59.330 - 00:02:00.370
+
+ñuqa-nchik-paq hamu-shpa ayves unay-paq hamu-shpa
+ñuqa-nchik-paq hamu-shpa ayves unay-paq hamu-shpa
+1-1PL-GEN come-SUBIS sometimes before-ABL come-SUBIS
+Los nuestros, aveces cuando vienen, antes cuando venían
+ours, when they come, sometimes before when they came,
+00:02:00.390 - 00:02:02.360
+
+Pata-s saqa-y-ta-pis atipa-n-chu.
+Pata-s saqa-y-ta-pis atipa-n-chu.
+terrace-ADD go.up-INF-ACC-ADD be.able-3-NEG
+no pueden subir ni siquiera un andén.
+they can't even go up one terrace.
+00:02:02.430 - 00:02:04.700
+
+Qam ni-shpa kinray-lla-n pusha-shaq
+Qam ni-shpa kinray-lla-n-ta pusha-shaq
+Qam say-SUBIS up-RSTR-3-ACC bring-1.FUT
+"La voy a llevar no más arriba" dices.
+"I'm going to take her just up hill" you say.
+00:02:05.580 - 00:02:07.410
+
+Haku ni-ya-ni
+Haku ni-ya-ni
+let's say-PROG-1
+Vamos le estoy diciendo
+Let's go, I'm saying.
+00:02:07.920 - 00:02:10.260
+
+Qarka-y-man vaka-ta-pis ni-ya-wan. Qarka-y-man hanay-law uray-law-tr'i tiya-y-man
+Qarka-y-man vaka-ta-pis ni-ya-wan. Qarka-y-man hanay-law uray-law-tr'i tiya-y-man
+pasture-1-COND cow-ACC_ADD say-PROG-1.OBJ-3 pasture-1-COND up-side down-side-EVC sit-1-COND
+Puedo pastear las vacas también, me dijo. Puedo pastear arriba y abajo. Podría sentarme.
+I can pasture the cows, too, she said to me.  I can pasture them up hill and down hill. I could sit.
+00:02:10.510 - 00:02:13.760
+
+Qaya-y-man-tr'i-ki karu-paq
+Qaya-y-man-tr'i-ki karu-paq
+call-1-COND-EVC-KI far-ABL
+Podría llamar de lejos
+I could call from far away.
+00:02:13.790 - 00:02:15.600
+
+Chay vaka-ta chuqa-mu-y ni-shpa
+Chay vaka-ta chuqa-mu-y ni-shpa
+DEM.D cow-ACC toss-CISL-IMP say-SUBIS
+"¡Bóta esa vaca!" diría.
+"Round up that cow!" I could say.
+00:02:15.780 - 00:02:17.300
+
+Chuqa-mu-n-man.
+Chuqa-mu-n-man.
+toss-CISL-3-COND
+Puede botar.
+She can herd.
+00:02:17.410 - 00:02:19.320
+
+Chuqa-mu-n-man-tr'i-ki ¿manachu?
+Chuqa-mu-n-man-tr'i-ki ¿manachu?
+toss-CISL-3-COND-EVC-KI no-Q
+Puede botar, pues, ¿o no?
+She can herd [cows], or no?
+00:02:19.540 - 00:02:21.110
+
+Chuqa-ya-mu-n-tr'i
+Chuqa-ya-mu-n-tr'i
+toss-PROG-CISL-3-EVC
+Estará botando.
+She'd be herding them.
+00:02:21.270 - 00:02:23.180
+
+"Chuqa-mu-nki-man-chu" niy
+"Chuqa-mu-nki-man-chu" niy
+toss-CISL-2-COND-Q say-IMP
+"¿Puedes botar?" ¡dí!
+"Can you herd?" say!
+00:02:21.270 - 00:02:23.180
+
+Chuqa-ya-mu-n-tr'i
+Chuqa-ya-mu-n-tr'i
+toss-PROG-CISL-3-EVC
+Estará botando.
+She'd be herding them.
+00:02:24.000 - 00:02:26.790
+
+Vaka-ta chuqa-mu-waq-chu
+Vaka-ta chuqa-mu-waq-chu
+cow-ACC toss-CISL-2.COND-Q
+¿Puedes botar las vacas?
+Can you herd cows?
+00:02:24.000 - 00:02:26.790
+
+Vaka waqara-cha-yuq ka-ya-n.
+Vaka waqara-cha-yuq ka-ya-n.
+cow horn-DIM-POSS be-PROG-3
+Las vacas tienen cachos.
+The cows have horns.
+00:02:29.000 - 00:02:31.410
+
+Vaka-cha-n ka-ya-n ishkay rinri-cha-n-pis
+Vaka-cha-n ka-ya-n ishkay rinri-cha-n-pis
+cow-DIM-3 be-PROG-3 two ear-DIM-3-ADD
+Las vacas tienen dos orejas, también.
+The cows have two ears, too.
+00:02:31.410 - 00:02:34.520
+
+Arí, kay-pa-pis vaka-nchik-ta miku-nchik-mi-ki.
+Arí, kay-pa-pis vaka-nchik-ta miku-nchik-mi-ki.
+yes DEM.P-LOC-ADD cow-1PL-ACC eat-1PL-EVD-KI
+Acá también comemos nuestras vacas, pues.
+Here, too, we eat our cows.
+00:02:34.660 - 00:02:37.220
+
+Mana-ya rupa-chi-nchikchu
+Mana-ya rupa-chi-nchik-chu-q
+no-EMPH burn-CAUS-1PL-NEG-
+No hacemos quemar, pues
+We don't burn them.
+00:02:37.850 - 00:02:39.740
+
+Kema-nchik-chu-q wañu-q-lla-y ratu-cha-llá
+Kema-nchik-chu-q wañu-q-lla-y ratu-cha-llá
+burn-1PL-NEG- die-AG-RSTR-1 moment-DIM-RSTR-EMPH
+No quemamos a mi finado un ratito.
+We didn't burn my late [husband] one second!
+00:02:39.750 - 00:02:42.090
+
+Marka-lla-pis keda-n-yá tukuy
+Marka-lla-pis keda-n-yá tukuy
+brand-RSTR-ADD stay-3-EMPH all
+La marca se queda todo ...
+Brands stay all ...
+00:02:42.160 - 00:02:44.480
+
+Para siyempri-ña chay-qa
+Para siyempri-ña chay-qa
+for always-DISC DEM.D-TOP
+Ésas son para simepre.
+Those are for forever.
+00:02:44.590 - 00:02:46.050
+
+Ratu-lla chay-taq chay marka-nchik-pis
+Ratu-lla chay-taq chay marka-nchik-pis
+moment-RSTR DEM.D-SEQ DEM.D brand-1PL-ADD
+Nuestras marcas son para un ratito
+Our brands are for a little while
+00:02:46.580 - 00:02:48.990
+
+Riqsi-na-nchik-paq, mana chinka-na-n-paq
+Riqsi-na-nchik-paq, mana chinka-na-n-paq
+be.acquainted-NMLZ-1PL-PURP no get.lost-NMLZ-3-PURP
+para que conozcamos [nuestros animales], para que no se pierdan.
+so we can recognize [our animals], so they don't get lost.
+00:02:49.950 - 00:02:52.710
+
+Puntr'aw-ya-ya-n-ña-m ñuqa-kuna-qa lluqsi-ni-ña-má
+Puntr'aw-ya-ya-n-ña-m ñuqa-kuna-qa lluqsi-ni-ña-má
+day-INCH-PROG-3-DISC-EVD 1-PL-TOP go.out-1-DISC-EVD
+Ya está haciendo día. Nosotros salimos ya
+It's already getting to be day. We go out
+00:02:52.840 - 00:02:55.230
+
+Ah, puntr'aw-qa animal-wan lluqsi-nchik
+Ah, puntr'aw-qa animal-wan lluqsi-nchik
+Ah day-TOP animal-INSTR go.out-1PL
+Ah, de día salimos con los animales.
+Ah, during the day we go out with the animals.
+00:02:57.400 - 00:02:59.520
+
+Madrugaw-ni-n, tardi-lla-n, hina-pa wañu-q ka-nchik.  Silensiyu-m keda-n
+Madrugaw-ni-n, tardi-lla-n, hina-pa wañu-q ka-nchik. Silensiyu-m keda-n
+morning-NMLZ-3 afternoon-RSTR-3 COMP die-AG be-1PL silence-EVD stay-3
+En la madrugada y en la tarde, así, moriamos. [El pueblo] se queda abandonado..
+In the morning and in the afternoon, we would die. [The town] is abandoned.
+00:02:59.620 - 00:03:03.413
+
