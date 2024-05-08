@@ -2,16 +2,6 @@ import re
 import torch
 from torch.nn import functional as F
 
-# def preprocess_texts(texts):
-#     processed_texts = []
-#     for text in texts:
-#         text_lower = text.lower()
-#         if "tata" in text_lower and not "tayta" in text_lower:
-#             text += " <TAG_ECUADORIAN>"  # Append a special tag
-#         processed_texts.append(text)
-#     return processed_texts
-
-
 def preprocess_texts(text):
     tags = []
     text = text.lower() 
@@ -93,24 +83,15 @@ def preprocess_texts(text):
 
 
 
-def augment_features(texts):
-    augmented_features = []
-    for text in texts:
-        features = {}
-        text_lower = text.lower()
-        features['has_tata'] = 1 if "tata" in text_lower and not "tayta" in text_lower else 0
-        augmented_features.append(features)
-    return augmented_features
+# def custom_loss(outputs, labels, augmented_features, alpha=0.5):
 
-def custom_loss(outputs, labels, augmented_features, alpha=0.5):
-
-    # Standard cross-entropy loss for classification
-    loss = F.cross_entropy(outputs, labels)
+#     # Standard cross-entropy loss for classification
+#     loss = F.cross_entropy(outputs, labels)
     
-    # Additional rule-based penalty
-    for idx, features in enumerate(augmented_features):
-        if features['has_tata'] and labels[idx] not in [label_dict['quh'], label_dict['qul']]:
-            loss += alpha  # Increase loss by a factor when rule is ignored
-    return loss
+#     # Additional rule-based penalty
+#     for idx, features in enumerate(augmented_features):
+#         if features['has_tata'] and labels[idx] not in [label_dict['quh'], label_dict['qul']]:
+#             loss += alpha  # Increase loss by a factor when rule is ignored
+#     return loss
 
 
