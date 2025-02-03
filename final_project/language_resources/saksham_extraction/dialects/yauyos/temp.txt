@@ -1,0 +1,195 @@
+(1) Warminpis qatiparunurquta. amv
+warmi-n-pis
+woman-3-acc
+qati-pa-ru-n
+follow-repet-urgt-3
+urqu-ta
+hill-acc
+‘His wifeherded him back to thehills.’
+(2) Qarintash wañurachin,mashantash wañurachin.amv
+qari-n-ta-sh
+man-3-acc-evr
+wañu-ra-chi-n
+die-urgt-caus-3
+masha-n-ta-sh
+son.in.law-3-acc-evr
+wañu-ra-chi-n
+die-urgt-caus-3
+‘She killed herhusband, they say; she killed herson-in-law, they
+say.’
+(3) Latawan yanushpataqshirunatapis mikurura.ach
+lata-wan
+tin.pot-instr
+yanu-shpa-taq-shi
+cook-subis-seq-evr
+runa-ta-pis
+person-acc-add
+miku-ru-ra
+eat-urgt-pst
+‘They even cookedpeople in metalpots, they say, and ate them.’
+32
+3.2 Substantive classes
+(4) Unaykunaqa watuta ruwaq kayanchikllamapaqpis alpakapaqpis. amv
+unay-kuna-qa
+before-pl-top
+watu-ta
+rope-acc
+ruwa-q
+make-ag
+ka-ya-nchik
+be-prg-1pl
+llama-paq-pis
+llama-abl-add
+alpaka-paq-pis
+alpaca-abl-add
+‘In the old days, we used to makerope from [the wool of]llamas
+and alpacas.’
+(5) Ukuchapa trupallanta palumaqa quykun.ach
+ukucha-pa
+mouse-gen
+trupa-lla-n-ta
+tail-rstr-3-acc
+paluma-qa
+dove-top
+qu-yku-n
+give-excep-3
+‘The dovegave them thetailof amouse.’
+3.2.1.2 Time nouns
+Nouns referring to time (kanan ‘now’, wata ‘year’) form a unique class in that
+they may occur adverbally without inflection, as in (1–5).
+(1) Tukuy puntraw yatramunanchikpaq. amv
+tukuy
+all
+puntraw
+day
+yatra-mu-na-nchik-paq
+know-cisl-nmlz-1pl-purp
+‘So we can learn allday.’
+(2) Kanan vakata pusillaman chawayanchik kabratahina.amv
+kanan
+now
+vaka-ta
+cow-acc
+pusilla-man
+cup-all
+chawa-ya-nchik
+milk-prog-1pl
+kabra-ta-hina
+goat-acc-comp
+‘These dayswe milk a cow into just a cup, like a goat.’
+(3) Pishiparullaniñam. Kutimunkipaqarin. amv
+pishipa-ru-lla-ni-ña-m
+tire-urgt-rstr-1-disc-evd
+kuti-mu-nki
+return-cisl-2
+paqarin
+tomorrow
+‘I’m tired already. You’ll come backtomorrow.’
+(4) Rinrilla:pis uparuraqayna wataqa. ach
+rinri-lla-:-pis
+ear-rstr-1-add
+upa-ru-ra
+deaf-urgt-pst
+qayna
+previous
+wata-qa
+year-top
+‘My ears went deaflast year.’
+33
+3 Substantives
+(5) Qayna huk watahina timblur yapa kaypa kaptinqa.amv
+qayna
+previous
+huk
+one
+wata-hina
+year-comp
+timblur
+earthquake
+yapa
+again
+kay-pa
+dem.p-loc
+ka-pti-n-qa
+be-subds-3-top
+‘Abouta year ago, when there was an earthquake here again.’
+3.2.1.3 Gender nouns
+Nouns indigenous tosyq do not inflect for gender.syq indicates biological gen-
+der either with distinct noun roots (maqta ‘young man’,pashña ‘young woman’)
+or by modification with qari ‘man’ or warmi ‘woman’ in the case of people
+(qari wawa‘boy child’,warmi wawa‘girl child’) orurqu ‘male’ ortrina ‘female’
+in the case of animals. A few nouns, all borrowed from Spanish, are inflected for
+gender (masculine/u/ and feminine /a/). (1–4) give examples.
+(1) ¿Kayllata nisitanki, aw,tiyu, llama wirata?amv
+kay-lla-ta
+dem.p-rstr-acc
+nisita-nki
+need-2
+aw
+yes
+tiyu
+uncle
+llama
+llama
+wira-ta
+fat-acc
+‘You need only this,uncle, llama fat?’
+(2) Chaytri Tiya Alejandraqa Shutcollapa yatrarqa.amv
+chay-tri
+dem.d-evc
+Tiya
+Aunt
+Alejandra-qa
+Alejandra-top
+Shutco-lla-pa
+Shutco-rstr-loc
+yatra-rqa
+reside-pst
+‘That must be whyAuntAlexandra lived just in Shutco.’
+(3) Wak karu purikushaytaansyanaña kashayta.lt
+wak
+dem.d
+karu
+far
+puri-ku-sha-y-ta
+walk-refl-prf-1-acc
+ansyana-ña
+old.lady-disc
+ka-sha-y-ta
+be-prf-1-acc
+‘There where I’ve walked far, anold ladyalready.’
+(4) Unay unay blusataraqchu hinam ushturayachinpisawilitaqa. ¡Ve!amv
+unay
+before
+unay
+before
+blusa-ta-raq-chu
+blouse-acc-cont-q
+hina-m
+thus-evd
+ushtu-ra-ya-chi-n-pis
+dress-unint-intens-caus-3-add
+awilita-qa
+grandmother-top
+ve
+look
+‘The old ladyis dressed in a blouse like the olden ones. Look!’
+34
+3.2 Substantive classes
+3.2.1.4 Locative nouns
+Locative nouns indicate relative position (chimpa ‘front’, hawa ‘top’). They are
+inflected with the suffixes of the substantive (possessive) paradigm which indi-
+cate the person – and, in the case of the first person, also the number – of the
+complement noun. (1–5) give examples.
+(1) Hinashpaqa hatariru:. Allqukunayatanpa kara.ach
+hinashpa-qa
+then-top
+hatari-ru-:
+get.up-urgt-1
+allqu-kuna
+dog-pl
+yata-n-pa
+side-3-loc
+ka-ra
+be-pst
+‘Then I got up. Dogs wereat his side.’

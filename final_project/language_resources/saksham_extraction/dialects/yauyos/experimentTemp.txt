@@ -1,0 +1,22 @@
+3 Substantives
+3.2 Substantive classes
+In syq, as in other Quechuan languages, the class of substantives comprises six
+subclasses: nouns,pronouns,interrogative-indefinites,adjectives,pre-adjectives,
+and numerals. §3.2.1–3.2.5 cover each of these in turn. Multiple-class substan-
+tives and the dummy nounna are covered in §3.2.6 and 3.2.7, respectively.
+3.2.1 Nouns
+The class of nouns may be divided into four sub-classes: regular nouns (wayta
+‘flower’), time nouns (kanan ‘now’), gender nouns (tiya ‘aunt’), and locative
+nouns (qipa ‘behind’). §3.2.1.1–3.2.1.4 cover each of these in turn.
+3.2.1.1 Regular nouns
+The class of regular nouns includes all nouns not included in the other three
+classes. Although in this sense it is defined negatively, as a kind of default class,
+it includes by far more members than any of the others. (1–5) give examples.
+(1) Warminpis qatiparunurquta. amv
+warmi-n-pis
+woman-3-acc
+qati-pa-ru-n
+follow-repet-urgt-3
+urqu-ta
+hill-acc
+‘His wifeherded him back to thehills.’
