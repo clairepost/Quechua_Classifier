@@ -1,0 +1,604 @@
+
+¿Gam musyashcanquichu...
+
+ishcay dëru altu allpa
+quiquillanga ishcay pachac |:
+pichga chuncan (250)
+watataraj yurishanta?
+
+Chaynöpaga musyachimanchi gampis, waquin
+runacuna chacrancunata murushanpis pachacninpa
+pachacninpa watachöraj yapacar ruracashanta.
+
+¡Chaychica watatarämi ishcay dëru altulla all-
+paga yurin. Chayno caycaptin manapis aycajllatami
+ushajpajograycunchi! Cay Perú nasyunninchichö-
+ga achca chacracunapatami allpanta pullan dëru al-
+tuta yacu apacun juc tamyayllacho!
+¿Imayllaga yarpachacushcanquichu Mm
+
+“¿Imaraj canman mana allpa
+captenga?” nir?
+
+Allpa mana captenga
+manami canmanchu
+
+jachacuna...
+
+Jachacuna mana captinga
+uywacunapis wañun-
+manmi.
+
+POS
+
+SSI
+
+Lantacuna, jachacu-
+na mana captinga
+uywacunapis mana NN EOS
+captenga runapis LGA =
+wañunmanmi. q
+
+¡Llapanpis charichishandllami caycan!
+Chayno caycaptenga chacranchicunata ricaypaj
+rispitärutano.
+
+Musyaypaj, yachaypajimano chay chacracuna-
+cho sumaj arunapaj murupacunapäpis. Chacranchi-
+cuna alli cananpäga quiquinchimi ricaypaj. Chac-
+ranchicunata alli ricashaga wamranchicunapis jatun-
+yar chay chacracunacho arur allimi cawanga.
+
+¿Imataj chay allpa?
+
+Sumaj ricay cay dibüju imano caycashantapis:
+
+Allpa: Allpaga caycan llapan
+casta jachacunata micuycunata
+lantacunata wiñachej, wayuchej
+cajmi. Chay allpami caycan
+chullpayoj. Sapicunapis caycan.
+Curu-mallwacunapis caycan.
+
+Ruri allpa: Chay allpaga cay-
+can micuy wayunan allpapa ru-
+rinchömi. Chaychöga caycan ru-
+micunawan agoshcunallami.
+Wallcallanami caycan chullpa all-
+paga. Chaynöpami chay allpaga
+manana ömïnachu.
+
+Maman gaga: Chay maman
+gaga nishanmi ichanga caycan
+llapan allpapa rurincho tucnarä-
+moj. Chay gaga captinmi rurin
+allpapis, alli allpapis ruracasha.
+
+Cay pachachöga janan allpami caycan llapanpäpis.
+Chaychömi pashtan, wiñan, wayun, pogon lantacunapis.
+Chaymi chay allpaga fiyupa alli caycan llapan cawajcuna
+cawananpal.
+
+¿Imayllaga yarpachacushcanquichu
+“¿imanöraj allpaga?” nir?
+
+Allpaga ruracasha caycan
+chuscu castapitami. Chay-
+cunapa jutin caynömi:
+
+1. mïna,
+2. chullpa,
+3. yacu,
+4. wayra.
+
+1. mïna
+Chayga caycan chucru gaga
+cajmi allpachöga. mïna rumicu-
+nachöga tallusha caycan achca
+mïna. Chay rumicunaga Cay-
+canmi jatunpis tacshapis. Mas jatusaj caj-
+cunaga caycan agu.
+
+Chaypita mas tacsha
+cajcunanami caycan chu- Chaypita mas tacsha
+shu agosh. cajnami caycan tëja allpa.
+Imanöpis agu, tëja allpa, chushu agosh cashanpitami, chac-
+raga caycan shojshu, chaqui, agosh allpa, ancu allpa, yana
+ogue-oguenirajpis. Imanöpis pampa cashanpitami chaycunaga
+regsican.
+
+Shogshu chacraga caycan achca agon
+captin, chushu agoshwan tëja allpa wallca
+captin. Chay chacraga chaqui. Yacu fäsi
+päsaptinpis rätu shogucurin. Chayno
+chacracunaga fäsimi arunan.
+
+Tëja allpa chacraga caycan tëjapaj
+achca allpa captinmi. Chay chacra tëja
+allpa cashanta regsinchi chaqui car wac-
+pa-caypa rachipäcusha captin. Achca tëja
+allpa captenga allpaga caycan pochgojmi.
+Chayno chacraga manami allichu ima mi-
+cuytapis murunapäga.
+
+Chacracho ancu allpa cäga, fiyupa la-
+saj, chucrumi. Fiyupami yacupis ömiyta
+ñacan. Sumaj ömiycurmi ichanga mas
+unaycama ömilla cacun. Chacracho chay
+ancu allpa captenga fiyupa sasami aru-
+nanpis.
+
+Micuyta murunapaj mas alli chacraga
+caycan...
+
+Yana allpami.
+
+Chayga...
+
+Caycan llapan casta
+tacusha, agu, tëja allpa,
+ancu allpa. Chay allpaga
+caycan achca chullpayoj.
+
+ESE
+
+s 2 ==
+— > DS
+
+Yana allpa chacraga, fiyupa allimi
+imata murunapajpis arunapäpis.
+Chay chacraga yacu yaycuptin mas
+
+unaycama ömilla cacun.
+
+¡Arunanpäpis allimi!
+
+Pi chacrayojpis munan chacran alli chullpayoj cananta.
+
+2. Chullpa
+
+Chayno caj chacracunaga fiyupa allimi, ima micuytapis
+murunapaj. ¿Imataj chacrataga alli allpayächin? Chacrataga
+alli allpayächin chullpami.
+
+"Chullpa' ninchiga lantacunapita
+quërajcunata, uywacunapa iman-
+cunapis ismojta. Caycunapis cay-
+can chullpa: punshacuna, imapapis
+garancuna, öjacuna, yörapa sapin-
+cuna, uywa iscacuna, wañusha
+animalcuna, uywacuna, äbipa lúü-
+mancuna, ismoj rötacuna, runcu
+ismojcuna, jachacuna, chayno mas
+waquin mana sirbejcunapis, wañu-
+sha uywacunapis, lantacunapis.
+Chaycuna ismorga llapanpis chull-
+pallamanmi ticran.
+
+Llapanpis chaycunaga ismur
+ushacan, nircurmi ticracurin yana
+allpaman. Chayno cananpäga all-
+pacho caycaj curu-mallwacunami
+ticrachin.
+
+Chay yana allpami chacrachöga
+micuyta alli wayuchin.
+
+10
+Chacracuna fiyupa achca chullpayoj cajcunaga
+micuyta wayuchin mas allita, nircurpis aypallatami.
+
+Chay allpacunaga...
+
+. Unaycama ömiräcun,
+
+« arunanpis fäsimi.
+
++ Chayno allpataga wayrapis ni llogllapis manami
+alläpaga apanchu.
+
+Chullpachöga achca
+castami caycan lantacunata
+wiñachinanpaj wayuchinanpaj.
+Chaycunaga caycan caycu-
+nami: nitrögeno, fösforo,
+
+e potasio, waquin castapis.
+
+PA RA
+ZZ ;
+
+Quiquinchi ismuchishanchi chullpa
+
+Sumaj chullpa cananpaj, alli micuy wayunanpäga chac-
+racunamanga achca chullpatami wiñaypaj quiquinchi ismu-
+chishanchi chullpata.
+
+11
+
+3. Yacu —  ———
+Yacupis fiyupa allimi chacra- ——
+pàga. daa = “=. a:
+
+Yacu mana cashan chacracu-
+naga manami cawanchu. Chayno
+ni lantacunapis manami wiñanchu,
+ni mejoranpischu.
+
+— = Mana yacu captenga lantacu-
+— 1 ` . . o
+Z = natapis manami mantininchu all-
+pacho achca casta chullpa caycaj.
+
+Chacracunaman yacoga
+chayan tamya tamyaptin,
+man'chàga pargoypa.
+
+Chacraman allillaga yacu
+mana chayanchu wacpa cay-
+s pa ragra ricacuptin, amatar
+=: = y” wayrawan usyawan.
+
+12
+Chacra murushanchicunaman alläpa yacu yaycuptinpis,
+mana yaycuptinpis micuycunapäga manami allichu.
+
+Uchcu-uchcu mana ruracänanpaj muru-
+na chacracunacho, caynömi ruraypaj:
+
+E + Manaraj murushpanchi chacrata
+N. sumaj camarishun. Chaynöpami
+
+pargoshapis, tamyaptinpis yacu
+ruricama fäsi sumenga.
+
+>; —aywananpäapis camillunta chu-
+Ci IS taypaj, wayanchatapis ruraypaj.
+
+1. > s  Chayno rurashaga yacu manami
+<b>
+
+“a e gochacangachu.
+
+—
+
+) a
+
+4. Wayra
+
+¿Musyarayquichu allpapis wayrawanraj alli cashanta?
+
+Alli allpaga wayrayojraj
+canan caycan. Wayrarämi
+camacächin lantacunapa
+micuycunapa sapinman
+chullpa fäsi chayananpaj.
+
+Wayraga allimi caycan
+tacsha curumallwacuna
+cuycacuna allpa rurincho
+caycajpajpis. Chay curu-
+mallwacunami mas chull-
+payächin allpataga.
+
+Lantacunaga allpapitami
+wayrata shogon sapincuna-
+pa.
+
+Allpa rurincho wayra
+mana captenga ricacun pa-
+saypa mitumi. Chauraga
+yacu gochacäcun. Chayno
+captin lantacunaga gar-
+washtacäcumna.
+
+Allpacho wayra cananpäga mas alli
+caycan yapyasha, cuspiyashami.
+
+14
+Gamcuna ricashami canqui-canga
+wanucuna säcunpa säcunpa N-P-K le-
+trayoj caycajta.
+
+Chay ninanga caycan “nitrögeno”
+ninanmi. Caycan (N) letrawan caj.
+“Fösforo” ninan caycan (P) letrawan
+caj. “Potasio” ninannamï caycan (K)
+letrawan caj.
+
+Chaycunami caycan llapanpita mas
+alli lantacunapäga. Chaycuna mana captin lantacunaga manami
+wiñangapischu, ni allega wayongapischu. Masqui ricashun ima-
+nir fiyupa alli cashantapis:
+
+“Nitrögeno” yanapan:
+
+| Lantacunapa, micuycunapa sa-
+pincuna, tulluncuna, öjancunapis
+alli wiñananpaj.
+
+» Chay micuycunacho, lantacuna-
+cho almentucuna yurinanpaj.
+Chaycunanami runacunapaj uywa-
+cunapaj alli caycan.
+
+< “Clorofila” nishancuna ruracänan-
+paj. Lantacunacho chay “clorofila”
+nishanga caycan berdi color.
+
+. Wiñanchi potasiota, fösforota al-
+mentacunanpaj, mas waquin cas-
+tacunatapis almentacur alli wiña-
+nanpaj.
+
+15
+¿Imanantaj allpacho alläpa “nitrögeno”
+captin?
+
+Aybëserga wiyanchi runacuna cayno parlajta:
+“Bisyasha”. Chaycunaga yörallan fiyupa wiñasha.
+Wayuynincunami ichanga acapalla. Tulluncunapis
+gapya paquicaycajlla. Chaynöga caycan allpacho
+achca “Nitrögeno” captinmi.
+
+¿Imanantaj “nitrögeno” pishiptenga?
+
+Waquin chacrachöga ricanchi lantacuna pa-
+saypa chushu, tacshalla, öjancunapis garwashta-
+sha caycajta.
+
+Achurishapis sapincunapis wallcalla, tacshalla,
+llanulla. Yoranppis tacshallana quëracun. Ñawin-
+cunapis chaquicäcun.
+
+Chaynöga ruracan allpacho “nitrögeno” piship-
+tinmi.
+
+16
+Lantacunata alli mantëninanpaj jucpis abönu cay-
+canmi. Chayga caycan “fösforo”.
+
+Chayga...
++ Yanapan micuycuna alli wayunanpaj, alli pogonan-
+paj.
+
++ Tulluncunatapis masta sinchiyächin. Muruncuna alli
+yurinanpäpis mas yanapan.
+
+« Chaynöpis yanapan wayuynin jatunyänanpaj.
+
+“Fösforo” pishishantaga musyanchi...
+
++ Lantacuna, micuycuna fiyupa waytaptin; wayuynin
+wallcalla captin.
+
++ Ojancunanami garwashtan.
+
++ Chayno captenga wayuyninpis muruncunapis wall-
+callana.
+
+17
+“POTASIO”pis alli abönumi
+caycan lantacunapaj, micuy-
+cunapäga.
+
+Potasioga alli caycan:
+
+* sapincuna aypallanpa yu-
+rinanpaj; sinchi cananpaj;
+
+. Wwayuynincunapis alli la-
+sänanpaj;
+
+. gueshyapis mana chari-
+nanpaj.
+
+¿Imanantaj “potasio” allpacho
+pishiptenga?
+
+“potasio” pishiptin
+
++ YGranricacun llanulla, gash-
+chulla.
+
+.« Aybësir öjancunapis cauchucäcun,
+umpacäcun, yana-yana yurir
+garwacäcun.
+
++ Ojanpa puntancuna rupa-
+tacäcun.
+
+« Wayuynincunapis
+quëracun pasaypa
+acapalla, chushulla.
+
+“potasio” tincusha captin
+
+“Potasio” alläpa captenga manami
+
+imananpischu.
+18
+Waquin caj abönucuna lantapaj, micuypaj
+pishishan.
+
+Lantacunawan micuycunaga munan achca abönutami, allpa-
+pita sumaj mantininanpaj. “Nitrögeno”, “fösforo”, “potasio” ni-
+shanpita mas walica nistacaj. Abönucunaga caycan: calcio, hie-
+rro, azufre, cobre, zinc, cloro, manganeso, magnesio, mas wa-
+quincunapis.
+
+SN Www. ss
+
+o . Calcio | A 12:
+
+£. mas
+waquincu- |“ -
+
+a [ r 2, A
+⁄ ` F ` napis. A
+
+A
+
+Chay casta abönucuna achca Chay abönucunaga yana-
+jucnayllapis pishiptenga lantapis | pan lantapa sapincuna alli
+micuypis manami mejorannachu. | wiñananpaj. Gueshya chari-
+Juenönami öjancuna ricacun, nantapis chapan. Allimi po-
+wayuynincunapis mana allina. gochinpis.
+
+19
+
+¿Imanötaj chacrayqui?
+¿Ayca watanataj chacracho arunqui?
+
+Chunca wata (10), chunca pichga wata (15), ishcay chun-
+ca wata (20), ¿masnachu?
+
+“Imanötaj chacrayqui” nir tapushuptiquega
+¿Ima ninquimanraj?
+
+Chacrayquita ricashallayquitaga ninquimanchari ima cu-
+lur allpa; mas waquin imano cashantapis. Ichanga manami
+ninquipächu rasunpa chacrayqui alli chullpayoj cashanta o
+iman pishiycashantapis. Chaytaga musyan chay chacra all-
+pata reguejcuna juc aptayta mäquinawan ricarrämi
+
+20
+Imanömi runapis mëdi-
+cuman aywan cuerpunta ri-
+cananpaj; mëdicuga ri-
+cashpanrämi nin imano
+caycashantapis. Chaynö
+nin gueshyaycaptenga
+imawan allchacänanpäpis.
+
+Chaynömi allpatapis rica-
+nan caycan imano cayca-
+shantapis musyananpaj.
+
+Chayno ricarrämi musyan
+micuy alli wayunanpaj
+chacracho ima pishiyca-
+shantapis.
+
+21
+Allpata sumaj tacurcachir ricarmi musyanchi imano allpa
+caycashantapis. Chayrämi wiñanchi ima casta abönutapis.
+Chayno wiñanchi imanöta-camapis.
+
+=
+
+k...
+
+Allpa alli cashanta ma-
+na alli cashantapis musya-
+nanchipäga allpataraj tin-
+cuchishun.
+
+22
+¿Imanötaj ruranchi allpa alli cashanta mana alli
+sashantapis musyanapäga?
+
+Juc ectarya chacrata
+cayno ruranchi:
+
+1 Tupurir, chacrata chuscu
+piräsuman raquejno ruranchi.
+
+2 Allpata jorgananchi caj partipa janan
+allpanta sumaj pichanchi.
+
+3 Uchcunchi “V” letratano.
+Chaypitana allpata jorganchi.
+
+4 Allpata jorgunchi quimsa dëru ractata. Ç
+
+23
+
+5. Chay jorgashanchipa all-
+pa pullan chaupinpita jor-
+gurcur churanchi jue baldi-
+man u imamanpis limyu-
+man baldino cajmanga.
+
+6. Chay rurashanchinölla ru-
+ranchi pichga cutino chay
+chacrata raquishanchi-
+choga cara ünuncho.
+
+7. Chay baldicho caycaj allpa-
+tanami tacuchinchi, ma-
+quinchiwan mana yataylla-
+pa; südayninchita, togay-
+ninchitapis mana jutuchiy-
+llapa, imatapis mana shic-
+wachiypa.
+
+8. Nircurnami chay tacuchi-
+shanchi allpata wallcallata
+wiñanchi juc cartun cajun-
+man. Chaytanami apachi-
+shun cay diricsyunman:
+
+Universidad Nacional
+“Hermilio Valdizän”
+Facultad de Agronomïa.
+
+24
+
+Juan Acostapa willapan
+(cuentu) z
+
+Carucho asulyaraycämoj
+puntacunapa intega yegacuy-
+caranna. Chaura runacuna ti-
+yashan, ñaupancunapapis pa-
+cha chacaycaranna.
+
+Mas altunnin puntacunapi-
+taga ricacaycaranraj fiyupa
+jatuncaray ragrapis jircacu-
+napis. Chaychömi jara mu-
+
+ra gachpara chacracho.
+
+Jaracunapis caycaran pasaypa äjusyasha, tajpicasha tajpi-
+casha urwalla.
+
+Chay jircacho caru caru yöracuna caycashan juc yörapa
+chaquinchömi caycaran Juan Acosta. Payga caran auquinna,
+chacra aroj runa, pichga chunca watayojno. Cuerpuncunapis
+shanaywan yanayasha caycaran. Payga wegoraycaran chay
+junaj arur sörashanta camisanpa maqui puyñunwan pichacur.
+
+Paypa ñaupanchönami chacracho arucunancuna caycaran.
+Chaycunawanmi ima arushanchöpis aruj mana cachaypa.
+Chaychömi payga llaquisha ricachacuycaran. Cärancho mus-
+yacaycaran imano llaquicur yarpachacuycashanpis.
+
+25
+
+Unaypita-pachana chacra aroj, jara muroj yachacasha
+caran.
+
+Chaymi yarpachacur yarpaj mas unaycuna aypallanpa
+jarata shuntashanta. Juan Acostaga nej: “Cananga mana-
+mi tantiyächu, imanir unaynoga micuy manana wayushan-
+tapis”.
+
+“Wanuta rantircur chacräman wiñä. Chaypis mananami
+allega wayunnachu.”
+
+“Cananga chuscu pachac quilullatanami shuntä juc
+ectaryata murushäpita. Chayga manami aypannachu
+famillyäwan micunäcunalläpäpis.”
+
+“Manami musyächu imata ruraytapis”.
+“Manami musyächu imanir chayno caycashantapis”....
+
+Amigöcuna cay isquirbimushä libruta liguejcuna ¿ima
+
+tataj yarpanqui cay willapapaj? f ï
+151
+Gam yarpaptiquega ¿Imanirtaj Juanpa - ; e |
+chacranchöga micuy mana wayunna- 4 |
+chu unaynöga? 
