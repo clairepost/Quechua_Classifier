@@ -1,0 +1,145 @@
+
+mandzu /mand͡ ʒu/ ‘NEG=chu’ vs manchu /mant͡ ʃu/ ‘a stinky insect resembling a 
+grasshoper’  
+The lexical item manchu barely occurs in the corpus, which confirms O’Rourke and 
+Swanson’
+
+a. kamba  warmi   allku 
+ kan -pa  warmi  allku 
+ 2SG-GEN woman  dog 
+         ‘your female dog’
+
+a. Yolanda  mishki   sopara  yanuka. 
+ Yolanda  mishki  sopa-ta  yanu-ka 
+ NAME  sweet  soup-ACC cook-PST 
+ ‘Yolanda cooked [a] tasty soup.’
+
+kamba  yapa  sumak   / *sumajkuna  ushiwna 
+kan -pa yapa  sumak /    sumak-guna ushi-guna 
+2SG -GEN very  pretty  /    pretty-PL  daughter-PL 
+‘your very beautiful daughters’
+
+Comunidadpaj,   chay   ishki  motowaraña. 
+comunidad-pa-k  chi  ishki motowaraña 
+community-GEN-BEN D.DEM two strimmer 
+‘Those two strimmers [are] for the village [lit. community].’
+
+Ñuka   churiwna  atungunami.  
+ñuka  churi-guna atun-guna=mi 
+1SG  son  -PL big  -PL=mi 
+‘My sons  are big.’
+
+atun  aychawnara    apamuk….   
+atun aycha-guna-ta   apamu-k   
+big animal-PL-ACC  bring-AG.NMLZ  
+‘[the man in the old days] used to bring big animals [from a hunt]…’
+
+Maria   Wandzura    wajtan. 
+Maria    Juan -ta    wajta -n 
+NAME   NAME-ACC   hit   -3 
+‘Maria hits Juan.’
+
+Pablo   sisagunara         kuyan    Mariama       /     Mariara 
+Pablo    sisa-guna-ta    kuya -n  Maria  -ma     /    Maria-ta 
+NAME  flower -PL-ACC         give -3 NAME-DAT  /   NAME-ACC 
+‘Pablo gave Maria flowers.’
+
+Kay   awa  lumamanta. 
+kay  awa luma-manda 
+P.DEM high hill-ABL 
+‘From here above, from the hill.’
+
+Maria      kaspiwa     wajtan    Wandzura   wasiy. 
+Maria      kaspi-wa   wajta-n  Juan -ta  wasi  -pi 
+NAME    stick -INSTR hit   -3   NAME-ACC  house-LOC 
+‘Maria hits Juan with a stick in the house.’
+
+kuna  pundzay,   kuna  chishiy 
+kuna pundza-pi kuna chishi-pi 
+today day-LOC today afternoon-LOC 
+‘on this day, this afternoon’
+
+Ima  wataraga, mana  castellanoy      rimanachu   ningui? 
+ima wata-ta=ga mana castellano-pi     rima-na=chu ni-ngui  
+what  year-ACC=ga NEG Spanish-LOC     talk-INF=Q/NEG say-2  
+‘What about the year, you say [I] should not to say [the date] in Spanish?’
+
+Ashka llanganarami              charini,    chiraygumi                     mana     ushani. 
+ashka   llanga-na-ta=mi          chari-ni   chi-raygu=mi                 mana      usha-ni. 
+much    work-INF-ACC=mi   have  -1   D.DEM-CAUSAL=mi   NEG   can  -1 
+‘I have a lot of work, that is why I cannot (do this).’
+
+Mana  apa-mu-k             a-ni,  ñuka  ña        basta       wasi     chi-wa… 
+NEG take-mu-AG.NMZL  COP-1 1SG  already enough   house   D.DEM-INSTR 
+‘I used not to bring [ chicha from the field ], with that  [what I had already, I had ] 
+enough at home.’
+
+Santa    Rosay     wasira  rarkanchi,16   escuela  wasira. 
+Santa    Rosa-pi   wasi-ta ra-ka-nchi  escuela  wasi-ta 
+NAME NAME-LOC   wasi-ACC make-PST-1PL school  house-ACC 
+‘We made a building in Santa Rosa, a school building.’
+
+Kay   trabanaybi   parijulla   katiwshkani. 
+kay  tarba-na-pi  pariju=lla  kati-w-shka-ni 
+P.DEM work-INF-LOC  on.a.par=LIM  follow-PROG-ANT-1 
+‘In this work, I have kept going on together [with my co-workers].’
+
+a. Ñukara  rupachikpis,    tarbakani. 
+ñuka-ta   rupa-chi-kpi=pas,    tarba-ka-ni 
+1SG-ACC be.hot-CAUS-SWREF=ADD work-PST-1 
+‘I worked, being hot. (lit. I worked, it being hot to me).’
+
+Pablo  sisagunara  kuyan  Mariama     /   Mariara 
+Pablo  sisa    -guna-ta  kuya-n  Maria-ma    /   Maria-ta 
+NAME  flower-PL-ACC         give -3  NAME-DAT/ NAME-ACC 
+‘Pablo gave Maria flowers.’
+
+[sacha   aychara  mikunara]VP   munani 
+ sacha  aycha-ta miku-na-ta  muna-ni 
+ jungle  meat-ACC eat-INF-ACC  want-1 
+‘I want to eat game meat.’
+
+Manara     mikunga     rawsha,                  makira     mayllarikani. 
+mana -ta  miku-nga   ra -w -sha              maki -ta   maylla-ri        -ka  -ni 
+NEG  -ACC  eat   -FUT  AUX-PROG-COR hand -ACC   wash -ANTIC-PST-1 
+‘Before cooking, I washed my hands.’
+
+  Where did you go last night, to the movies or to the restaurant? 
+  We went to the restaurant [not to the movies].  
+              based on Lambrecht (1994: 211) 
+In , the constituent ‘to the restaurant’
+
+ What is Bill eating? 
+ He   is eating                     pizza             in the kitchen. 
+      TOPIC   BACKGROUND      FOCUS         COMPLETIVE 
+The VP ‘is eating pizza’ consists of the focal NP ‘pizza’
+
+Shinarajpi                timbrariajpiga        maskan          mochilama. 
+Shina     -ra     -kpi           timbra-ria     -kpi=ga       maska-n           mochila  -ma 
+like.this -make-SWREF    sound-CONT-SWREF=ga   look.for -3      backpack -DAT 
+‘So when [the phone] keeps ringing, [he] searches in the backpack.’
+
+cumuna  kallarishkawnara     iyay     chariniga… 
+cumuna kallari-shka-guna-ta    iya-y    chari-ni=ga 
+community begin-ANT-PL-ACC    thought-OBJ.NMLZ have-1  =ga 
+‘I remember [lit. have an idea] the ones who started the community…’
+
+Pay    warmiwnami... 
+pay    warmi -guna=mi      
+3SG  woman -PL =mi     
+‘[They are] their wives…’
+
+Apachijllara       pambana? 
+ apa-chi-j=llara      pamba-na 
+ bring-CAUS-AG.NMLZ=ID.REF   bury-INF 
+ ‘[So] the midwife herself have to bury [the placenta]?’
+
+Pitara              munangay,         pay ? 
+pi      -ta     =ta     muna   -nga=y    pay 
+who -ACC =ta  love   -FUT =EMPH.INT   3SG 
+‘Who could/would  she love, her?’
+
+Apachijllara       pambana? 
+ apa-chi-j=llara      pamba-na 
+ bring-CAUS-AG.NMLZ=ID.REF   bury-INF 
+ ‘[So] the midwife herself has to bury [the placenta]?’

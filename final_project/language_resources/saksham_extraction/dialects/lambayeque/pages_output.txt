@@ -1,0 +1,1031 @@
+LEXIS Vol. VI. Núm. 2. 1982 
+BREVE PRESENTACION DE LA MORFOLOGIA 
+DEL QUECHUA DE FERRE!\íAFE 
+Gerald Taylor 
+C.N.R.S., París 
+1. FONOWGIA Y GRAFIA 
+Existen pocos estudios sobre el dialecto quechua de Ferreñafe. 
+Los más relevantes son TORERO 1968 (comparación léxica) y 
+ESCRIBEN S 1977 (fonología). Hemos publicado un léxico, un 
+texto y un breve estudio sobre problemas asociados con la or~ 
+tografía en la serie Chantiers~Amerindia ( 1982). El sistema fo~ 
+nológico ha sido descrito tan detalladamente por Escribens que 
+no nos parece necesario tratarlo aquí. Hemos notado las mismas 
+características fónicas en el habla de Ayamachay, distrito de In~ 
+cahuasi, provincia de Ferreñafe\ que Escribens encuentra en el 
+quechua de Cañaris de la misma provincia. Como pensamos tra~ 
+tar en otro artículo algunos aspectos impoTtantes del léxico, ha­
+blaremos aquí sobre todo de morfología. Sin embargo será ne~ 
+Empezamos nuestros estudios del que,chua de Ferreñafe en Ayamachay, In­
+cahuasi, en 1977. Continuamos nuestras investigaciones en Ferreñafe y 
+Chiclayo con informantes originarios de Ayamachay en 1978 y 1980. 
+Nuestro informante principad en 1980 fue Pascual Bernilla Carlos, alumno 
+de escuela secundaria. 
+243 
+cesar;o hacer una breve sinopsis del sistema fonológico y de sus 
+variantes principales con el fin de explicar la grafía empleada y 
+algunas comparaciones dialectales basadas en mutaciones fonéti~ 
+cas. 
+No hemos podido averiguar nada muy preciso sobre la que~ 
+chuización de la región. Ferreñafe parece corresponder, según su 
+toponimia y los patrónimos locales, a la misma esfera cultural que 
+la costa lambayecana; la penetración del quechua, sin duda tar~ 
+día, podría ser un fenómeno post~colonial. No hemos tenido ac~ 
+ceso a los archivos locales y los recuerdos del grupo quechua~ 
+hablante mismo -al menos· del que vive en Ayamachay y en 
+Uyurpampa- no parecen ir más allá de la época de las grandes 
+haciendas donde antes trabajaban. El nombre Cañaris sugiere un 
+origen de mitimaes. Sin embargo, su habla parece identificarse 
+completamente con el modelo local tal como sucede en la comuni~ 
+dad de Huancas de la provincia de Chachapoyas. Faltan estu~ 
+d;os adecuados sobre la política de los mitimaes. Es muy proba~ 
+ble que estos grupos poco numerosos trataran de adaptarse cuan~ 
+to antes a los rasgos culturales de sus nuevos vecinos. El dialec~ 
+to de Ferreñafe tiene muchos elementos fonéticos, léxicos y mor~ 
+fológicos en común con las hablas cajamarquinas descritas por 
+QUESADA ( 1976), una semejanza más restringida con las ha~ 
+bias de Chachapoyas y Lamas, además de algunas corresponden~ 
+cias léxicas -una de las cuales parece ser exclusiva de los dos 
+dialectos-con el quechua de Pacaraos. 
+En el léxico y la morfología se destaca lo híbrido de las for~ 
+mas que se podría asociar a veces con fenómenos de contacto, a 
+veces con arcaísmos. En el primer caso, los principales elementos 
+formativos parecen corresponder a un dialecto Quechua 1 no iden~ 
+tificado -*IV y * /ñ/ son ya depalatalizadas, pero */e/ y */é/ 
+mantienen sus valores originales - y a una variante norteña de la 
+lengua general utilizada por los catequizadores-; * /í/ se ha 
+transformado también en la palatal fricativa típica de gran parte 
+de los dialectos del Norte. 
+244 
+Fonemas del Proto~Quechua conservados en el dialecto de Fe~ 
+rreñafe2 ; 
+consonantes: 
+bl. a p. pi. rt. vl. P· ~vl. 
+oc l. *p *t *k *q 
+atr. *é *é 
+nas. *m *n *ñ 
+frc. *s *s 
+vib. *r 
+la t. *I 
+voc. *w *y 
+vocales; 
+anterior posterior 
+altas *' 1 *u 
+baja *a 
+Las transformaciones de los proto~fonemas quechuas en el día~ 
+Iecto contemporáneo de Ferreñafe obedecen a criterios complejos 
+que reflejan su origen mixto. 
+- * /í/ se ha transformado en pala tal africada sonora /g/ 
+[dz]~[z] o se ha depalatalizado: > /1/. cf. el morfema restricti~ 
+vo * / ~ia/ que se encuentra como / ~gaj, y también como 
+/~la/ en contextos no siempre idénticos; 
+- la presenc'a de /ñ/ corresponde también a influencias hí~ 
+bridas. Al lado de /nan/ <*/nayan(i) / ~*/ñayan(i)/ (?) 
+"camino" (cf. TORERO 1968, p. 311 (24) ). /nawi/ </*ñawi/ 
+''ojo" y /na~pa/ <* /ñawpa/ "primero", encontramos / ñ a q s a/ 
+"peine", /ñiti~/ "aplastar" y /ñukñu/ "dulce"; 
+2 El esquema que seguimos es el establecido por TORERO (1964). Las 
+abreviaturas empleadas son: afr. = africadas, ap. = apicales, bl. = 
+bilabiales, frc. = fricativas, lat. = lateral, naos. = nasales, oc!. = oclusi~ 
+vas, pl. = palatales, p.-vi. = post-velar, rt. = retrofleja, vib. = vibran­
+te, vi. = velar, ve. = vocálicas. 
+245 
+- * /h/ es el único de los proto~fonemas reconstituidos por 
+TORERO ( 1964) que no ha dejado huella en el quechua de 
+Ferreñafe -lo que sucede también en los otros dialectos "mixtos" 
+de Cajamarca, Chachapoyas y Lamas: */hatun/ > /atun/ "gran~ 
+d " e ; 
+- el tratamiento de * /s/ y * /s/ muestra también un desa~ 
+rrollo desigual sujeto a influencias heterogéneas: 
+*/siqa~/ 
+*/sita~/ 
+*/surqu~/ 
+*/saka/ 
+*/sirka/ 'cerro' 
+*/samu~/ 
+*/su ti/ 
+> /iqa~/ 
+> /ita~/ 
+> /urqu~/ 
+> /saka/ 
+> /sirkaj 
+> /samu~/ 
+> /suti/ 
+[cga] ''subir" 
+"echar" 
+[ orgo] "sacar" 
+"cuy" 
+[serka] "cordillera" 
+"venir" 
+"nombre" 
+Cabe señalar que la comparación de las formas encontradas 
+en el diccionario Junín~Huanca de CERRON~PALOMINO 
+(;1976), indicadas como J (=Jauja), y el léxico que hemos reco~ 
+gido en Laraos, Y auyos, en 1980, sugiere que casi siempre / s/ y 
+/s/ pueden reducirse a una forma original * /s/. Salvo escasas 
+excepciones - * /hatun/ "grande", par ejemplo - parece que se 
+puede deducir el mismo origen para /h/ ( cf. /hatari~/ que significa 
+"levantarse" en muchos dialectos quechuas - / atari/ en Ferreña~ 
+fe - corresponde a / satari~ / en Laraos). Compárense las formas 
+siguientes3 : 
+Ferreñafe Cajamarca Chachapoyas Ancash Junín 
+(Huaraz) (Jauja) 
+atun atun atun hatun hatun 
+iqa~ siqa si ka~ 'llegar" hiqa~ siqa~ 
+ita~ sita~ sita~ hita~ sita~ 
+urqu~ surqu~ surku~ hurqu~ sulqu~ 
+saka <quyi> <kuy> ha ka saka 
+sir ka <urqu> <urku> hirka <ulqu> 
+samu~ samu~ samu~ sa~mu~ samu~ 
+(Laraos: samu~) 
+su ti su ti su ti suti/huti su ti 
+3 Para las formas citadas de Cajamarca, Ancash y Junín, hemos consultado 
+respectivamente QUESADA, PARKER y CERRON-PALOMINO (1976). 
+246 
+TORERO ( 1964) indica en un mapa que ilustra "el trata­
+miento actual de *s en la Sierra Central del Perú" una zona Nor• 
+te de Ancash (la zona quechua-hablante más ceTcana de Caja• 
+marca y Ferreñafe) donde */s/ > "cero en inicial absoluta" (Ma· 
+pa 4, p. 455). 
+Los alófonos principales de los fonemas que aparecen en las 
+palabras etimológicamente quechuas de este dialecto son las va· 
+riantes sonoras de las oclusivas y las africadas después de nasa· 
+les y consonantes vocálicas (/w/ y /y/): esta sonorización pue· 
+de producirse -peTo no de manera obligatoria-después de /r/ 
+y /1/: la post-velar /q/ aparece en posición inicial absoluta co· 
+mo oclusiva uvular sorda [q]: /qua/ [qoéa] "laguna"; después 
+de /n/ como oclusiva uvular sonora [g]: /qunqa/ [qonga] "da· 
+rá": en otras posiciones se fricativiza 'siendo sonora en inicio de 
+sílaba y sorda en posición final: /qaqa/ [qa~a] "peña, cerro": 
+/puéqu/ [puégo]l "agrio": /piqtu-/ [pexto] "machucar". La 
+africada pala tal retrofleja / é/ [ é] se sonoriza también después de 
+/n/: /qunéay/ [qoñ~ay] "moscón azul". 
+/i/ y /u/ se abren en contacto con las consonantes retrofle­
+jas y /r/: tienden también a abrirse en otros contextos, sobre to­
+do en final de palabra. 
+Un sinnúmeTo de hispanismos han sido introducidos en el 
+léxico ferreñafa~; muchas de estas palabras han reemplazado 
+términos de importancia fundamental en el habla cotidiana. El 
+grado de asimilación fonética no es constante. Así encontramos 
+formas como sapu [sapo] "sapo" que no representan ningún es­
+fuerzo particular para conformarse al modelo quechua; otras co­
+mo akaba- "acabar", que introduce una oclusiva sonora en una 
+posición insólita; otras como tropa "mucho" cuyo grupo inicial de 
+consonantes no sigue el modelo silábico quechua. En ermanu [ er­
+mano] "hermano", encontramos los alófonos vocálicos normales 
+de una forma fonéticamente posible: irmanu. Teóricamente, la 
+calidad abierta de las vocales de ochu "ocho" no permite que se 
+confunda esta palabra con .uchu "ají". Se reconoce, sin embargo, 
+que en la mayoría de los casos, la pronunciación de ambas pa• 
+labras es idéntica: oc hu, u e hu [ oco]. Hay algunos casos de asi­
+milación parcial al modelo fonético quechua: así plandu [piando] 
+247 
+"blando" podría reinterpretarse como /plantu/; alburxa [alburxa] 
+"alforja" como /alpurxa/ y teron [tero'!] "terrón" que ha perdi~ 
+dido la acentuación aguda y el sonido "rr" del castellano, como 
+tirun. En los préstamos del castellano, la pronunciación de "rr" 
+varía según los hablantes, pero generalmente, en posición inicial 
+absoluta, se realiza como una fricativa apical retrofleja, lo que 
+acontece también con las palabras de origen quechua: rimediyu 
+[ fimediyo~rimediyo] "remedio", ruran [ fura77 ~ rura'l] "hace". 
+Hasta el mismo hablante, en la misma secuencia, puede alternar 
+las dos pronunciaciones. 
+La integración del aporte considerable del castellano al léxico 
+quechua introduce una serie nueva de sonidos que no se puede 
+interpretar fácilmente como variantes de fonemas quechuas exis~ 
+tentes, ya que no obedecen a las reglas contextuales del quechua. 
+Por esto es necesario encontrar una solución en la grafía del dia~ 
+lecto para los sonidos: 
+248 
+b asimilado a la variante sonora de /p/ (la variación posi .. 
+cional de [b] y [ v] ya no es válida en quechua); 
+d asimilado a la variante sonora de /t/; 
+f poco frecuente; se convierte generalmente en p o x; 
+g asimilado a la variante sonora de k; 
+x corresponde generalmente a la jota castellana, a veces a 
+una variación de f. Aquí también hay una posible asimi~ 
+ladón a la variante de / q/ en final de sílaba [ x] , que en 
+algunos casos de metátesis, ya aceptados como norma, 
+parece perder su calidad retrofleja: */~yuq/ [yox] "p~ 
+seedor de" > /~yxun/, ej. sakayxun ( <* /saka~yuq/ 
+[akayo~] "poseedor de cuyes". 
+Nuestras grabaciones no nos permiten aver:guar hasta 
+qué punto [Jf] se deretrofleja, ya que en samusxa < /sa~ 
+mu~saq/ [samusa:lf] parece que se mantiene la calidad 
+retrofleja de[~]. aunque se haya producido la metátesis. 
+En algunos casos, es también posible que la jota españo~ 
+la se pronuncie como una retrofleja. 
+v es probablemente la realización no inicial correspondien~ 
+te a [b] inicial; sin embargo, es necesario indicarla en la 
+grafía a causa de la existencia de b, variante de /p/ en 
+los contextos indicados arriba. 
+Las vocales e y o del castellano se asimilan a las variantes 
+quechuas de /i/ y de /u/. Variaciones individuales ligadas a 
+menudo al nivel de escolarización, afectan el grado de apertura 
+de estos sonidos en palabras de origen castellano, sobre todo en si~ 
+tuaciones de contacto con hispano~hablantes costeños. Por eso, se 
+puede decir que el conocimiento más o menos importante del caste­
+llano, así como el contexto social. influyen en la pronunciación de 
+los préstamos españoles. Tomando en consideración lo que prece­
+de, es necesario proponer un sistema gráfico para el quechua 
+ferreñafano que englobe también los sonidos introducidos por los 
+préstamos castellanos. 
+Sistema gráfico propuesto para transcribir el quechua de Ferreñafe': 
+Consonantes: p t eh [e] é [é] k q 
+b d gh [g, i] g 
+m n ñ 
+f S sh [s] X 
+V zh [z] 
+w l, r y 
+Vocales: e a o u. 
+JI. MORFOLOGIA 
+El verbo 
+La morfología del quechua ferreñafano posee el mismo ca­
+rácter híbrido que la fonología. Rasgos típicos del Quechua 1 ( QI) 
+se asocian con otros típicos del Quechua 11 ( QII). Formas que 
+se encuentran en ambos grupos son indicadas aquí como perte~ 
+necientes al Quechua Común ( QC). Hay también muchos hispa­
+nismos que se han integrado en la morfología. 
+-4 Los ejemplos que citamos en nuestro estudio son transcritos según el mo­
+delo ortográfico que presentamos aquí. Justificamos más detalladamente los 
+criterios que nos han guiado en TALYOR (1982). 
+249 
+La forma más sencilla del verbo consiste en la asociac10n de 
+un lexema verbal y de un sufijo pronominal. Los sufijos prono­
+minales que expresan el sujeto de un verbo "intransitivo" o de 
+un verbo "transitivo" en relación con un objeto no marcado - 3p5 
+son: 
+Ip -ni (QII) 
+2p -nki (QC) 
+3p -n (QC) 
+4p -nc hik ( QC) ; la metátesis -nchki es quizás la forma 
+más frecuente. 
+Los pronombres-objetos se expresan mediante la adición de 
+morfemas específicos a la raíz verbal. La lp-objeto es -ma- ( QI), 
+sin indicación de alargamiento vocálico. -shu- ( QC) se ha trans­
+formado en marca de la 2p-objeto en todos los contextos. El em­
+pleo de la forma de sentido ambiguo -yki (amalgama que indica 
+lp-sujeto --> 2p-objeto) parece limitarse al futuro6 • La mar­
+ca de la 3p-objeto es cf>. La 4p-objeto se expresa por la asocia­
+ción del infijo -ma y del sufijo -chik (o -chik, si se considera 
+que el sujeto, necesariamente de la 3p, se indica por cp). Como 
+en los demás dialectos quechuas, el número de estos morfemas 
+pronominales no está especificado. Un sufijo -ghapa, a menudo 
+ambiguo, puede indicar la pluralidad de cualquiera de los actan­
+tes. 
+Los tiempos del pasado (pretérito y concluí do) son indica­
+dos por formas simplificadas de los morfemas característicos del 
+QC: -ra- ( <*/-rqa-/) y -sha~ ( <*/-shqa-/, respectivamente7• 
+Este último aunque representa un tiempo de formación reciente 
+5 Ip = primera persona, 2p = segunda persona, 3p = tercera persona, 
+4p = cuarta persona (presencia de la lp y de la 2p). 
+6 Empleamos términos como futuro, pasado, pretérito, etc., como símbolos de 
+referencia. El sistema de los tiempos y de los aspectos en quechua es 
+sumamente complejo y necesita un estudio mucho más profundo del que 
+podemos dedicarle aquí. 
+7 Nos parece haber oído algunas veces las form<;Is -rqa• y shqa, pero son 
+muy raras y casi no aparecen en los textos. Es posible que se encuen­
+tren todavía en otras hablas ferreñafanas. 
+250 
+se ha asimilado al modelo del pretérito, tiempo que ya existía en 
+el Proto~quechua ( PQ). Así encontramos las mismas formas in~ 
+dicando el sujeto pronominal para ambos tiempos. Cabe notar que 
+estos sufijos son los mismos· que los sufijos pos·esivos. 
+Ip ~y (PQ?) 
+2p ~yki ( QI, y quizás PQ?) 
+3p ~n (alterna con cp en el QC) 
+4p ~nr::hik ( QC). 
+Como en los demás dialectos quechuas, el futuro se caracte~ 
+riza por formas compuestas de probable origen aspectual. 
+Ip ~shaq; la metátesis ~shxa es también frecuente. 
+3p ~nqa 
+4p ~shun ( + chik) 
+La segunda persona del futuro no lleva marca temporal. La 
+relación entre lp~sujeto --> 2p~objeto en el futuro puede ex~ 
+presarse por la combinación ~shayki (que se confunde con la ter~ 
+minación de la 2p~sujeto del concluido). 
+Como se verá en el cuadro que sigue, lo que mejor parece 
+caracterizar el sistema de sufijación pronominal del verbo quechua 
+en el dialecto de Ferreñafe es, no obstante el desorden aparente, 
+una lógica basada en el deseo de evitar ambigüedad. 
+(Cuadro de marcas actanciales, p. 253) 
+El sistema de sufijos que modifican la raíz verbal se ha sim~ 
+plificado mucho en relación con el del QI que constituye probable~ 
+mente su base. 
+El factitivo ~chi~ implica que un primer actante, el sujeto 
+gramatical. ha determinado (permitiendo, ordenando, pidiendo, 
+etc.) la realización por otro actante de la acción expresada por 
+la raíz verbal: rika-chi~ "hacer que otro vea; mostrar" <rika~ 
+"ver ... 
+251 
+El sufijo ~ku~ juega un papel muy parecido al de la voz me~ 
+dia griega. Indica de manera muy matizada que el S'Ujeto gra~ 
+mat'cal participa efectivamente en la realización de la acción ex~ 
+presada por la raíz verbal o que saca provecho de sus consecuen~ 
+das. Es de empleo casi automático y lleva un aporte semántico 
+mínimo. Raramente se traduce al castellano: rika~ku~ "ver" (con 
+un matiz de empeño personal en la realización de la acción). 
+El reflexivo ~ka~ se deriva, sin duda, de ~ku~ por la adición 
+del sufijo *~ya~, morfema que indica el paso de un estado a otro 
+(transformativo o la duración de un estado (estático): *~kU~ 
+ya > *~ka:~8 >~ka~. Esta evolución nos permite deducir que la 
+ace1on que ha de afectar al sujeto se identifica completamente 
+con él o se limita a él y establecemos así una forma reflexiva: 
+a) pungota kiéakun /punku~ta kiéa~ku~n/ 
+/ /puerta~acusativo abrir~KU~3p. sujeto// 
+"abre la puerta" (para entrar; la acción no es inmotivada). 
+b) pungoqash límbuna kiéakan /punku~qa~shi limpu~na 
+kiéa~ka~n/ 
+/ /puerta~tematizador ~morfema modal: 'citativo' total~as~ 
+pecto concluido ahrir~KA~3p. sujeto// (por la ausencia 
+de marca casuaL sabemos que el tema/punku~qa~shi/ se 
+identifica con el sujeto gramatical del enunciado) 
+"las puertas ya se abren todas" (el efecto de la acción 
+se limita al sujeto). 
+8 No hemos encontrado ningún índice de la presencia de un alargamiento 
+vocálico en el quechua de Ferreñaofe. Sin embargo, sabemos por la com• 
+paración con otros dialectos que -ka•, -ma- y -pa', corresponden a -ka:-, 
+-ma:- y -pa:- en los dialectos QI. Hay también una correspondencia fre­
+cuente entre las formas alargadas de los dialectos QI y las formas que 
+terminan con -ya- en los dialectos QII (por ej. -na:- 'desiderativo' (QI) 
+= -naya (QII). 
+252 
+CUADRO DE LOS SUFIJOS ACT ANCIALES DEL VERBO 
+Forma no marcada para expresar el tiempo: 
+lp-> 3p: 
+lp-> 2p: 
+2p-> 3p: 
+2p-> lp: 
+3p-> 3p: 
+3p-> lp: 
+3p-> 2p: 
+3p-> 4p: 
+4p-> 3p: 
+lp-> 3p: 
+lp-> 2p: 
+2p-> 3p: 
+2p-> lp: 
+3p-> 3p: 
+3p-> lp: 
+3p-> 2p: 
+3p-> 4p: 
+4p-> 3p: 
+rikam 
+rikashuni 
+rikangi 
+rikamangi 
+rikan 
+rikaman 
+rikashun .. 
+rikamanchik 
+rikanchik 
+/rika~cp~ni/ "lo veo 
+/rika~cf>~nki/ "lo ves" 
+/rika~shu~ni/ "te veo" 
+/rika~ma~nki/ "me ves" 
+/rika~cp~n/ "lo ve'' 
+/rika~ma~n/ "me ve'' 
+/rika~shu~n/ "te ve" 
+/rika~ma~n~chik/ "nos ve" 
+/rika~cp~nchik/ "lo vemos". 
+Pretérito 
+rikaray 
+rikashuray 
+rikarayki 
+rikamarayki 
+rikaran 
+rikamaran 
+rikashuran 
+rikamaranchik 
+rikaranchik 
+/rika~cf>~ra~y/ 'lo ví" 
+/rika~shu~ra~y/ "te ví" 
+/rika~cf>~ra~yki/ "lo v'ste" 
+/rika~ma~ra~yki/ "me viste" 
+/rika~cp~ra~n/ "lo vio'· 
+/rika~ma~ra~n/ "me vio" 
+/rika~shu~ra~n/ "te vio" 
+/rika~ma~ra~n~chily! "nos vio" 
+/rika~cf>~ra~nchik/ "lo vimos". 
+Concluído 
+Los afijos pronominales del concluído son los mismos que 
+los del pretérito con la excepción de la 3p~sujeto que es cf>: 
+3p-> 3p: 
+3p-> lp: 
+3p-> 2p: 
+pero 3p-> 
+rikasha /rika~cf>~sha~cp/ "lo ha visto" 
+rikamasha /rika~ma~sha~cp/ "me ha visto" 
+rikashusha /rika~shu~sha~cf>/ "te ha visto" 
+4p: rikamashanchik /rika~ma~sha~n~chik/ "nos ha 
+visto". 
+253 
+Futuro 
+1 p--> 3p: rikashaq /rika~.p~shaq/ "lo veré" 
+lp-> 2p: Jrikashushaq /rika~shu~shaq/ "te veré" 
+l rikashayki /rika~sha~y~ki/ "te veré" 
+3p-> 3p: rikanqa /rika~<f>~nqa/ "lo verá" 
+3p-> lp: rikamanqa /rika~ma~nqa/ "me verá" 
+3p-> 2p: rikashunqa /rika~shu~nqa/ 'te verá .. 
+3p-> 4p: rikamashun (+chik) /rika~ma~shun (+chik)/ "nos vera 
+4p-> 3p: rikashun ( +chik) /rika~<f>~shun ( +chik)/ "lo veremos .. 
+La 2p~sujeto se expresa mediante el empleo de los mismos 
+afijos que lo caracterizan en la forma no marcada para expresar 
+el tiempo: 
+2p-> 3p: rikanki 
+2p-> 1 p: rikamangi 
+/rika~ma~nki/ "me verás" 
+/rika~<f>~nki/ "lo verás" 
+Teóricamente, en ciertos contextos, ~ku~ y ~ka~ podrían con~ 
+fundirse ya que ~ku~ seguido por otro sufijo como -chi~ o ~mu~ se 
+transforma en ~ka~. Sin embargo, no hemos encontrado ningún 
+ejemplo en los textos donde haya ambigüedad. 
+~ku~ se añade a algunos lexemas nominales para crear una 
+raíz verbal donde se indica que el sujeto es el beneficiario de lo 
+significado por la base nominal: warmiku~ /warmi~ku/ = / /mu~ 
+jer~KU~// "casarse" (dicho de un hombre); wambraku~/*wamra~ 
+ku~/ = //niño, hijo~KU~/ /"tener un hijo"; yakuku~ /yaku~ku~/ = 
+// agua~KU~J / "buscar agua"; dañuku~/* daño-ku~/ = //daño~ 
+KU-i / "hacer daño" (la acción es deliberada y al detrimento de 
+otro). Sería quizás más apropiado tratar este sufijo con los de~ 
+nominales. Sin embargo, su relación con los otros empleos de ~ku­
+muestra que se trata del mismo morfema. 
+-mu-, "centrípeto", indica principalmente que la acc10n se 
+orienta hacia su conclusión lógica (al caer la lluvia o brotar un 
+manantial. por ejemplo); se trata del "aquí" o deixis inmediata 
+de la relación, muchas veces el lugar donde se sitúa el que habla. 
+Es probablemente por eso que -ma- ( <*-ma:-, quizás de *mU-ya-, 
+254 
+donde */-ya-/ indicaría el estático o el paso a otro estado) ha 
+llegado a significar la lp-objeto. 
+apam'i.ln /apa-mu-n/ 
+//llevar en los brazos-MU-3p. sujeto// "lo trae" (hacia 
+aquí, hacia mí o hacia cualquier otro punto focal de la 
+narración asimilado a un "aquí" referencial. cf. apakun 
+/apa-ku-n/ "se lo lleva"): 
+rikaman /rika-ma-n/ = ¡//ver-/p. objeto-3p. suje­
+to// "me ve" <* /rika-mU-ya-n/ 'su mirada llega hacia 
+mí donde para al haber alcanzado su finalidad' (?). 
+*/-pu-/ "centrífugo", que indica una acción orientada hacia 
+el 'otro", ajena a los intereses específicos del hablante y del oyen­
+te, parece haber desaparecido del dialecto dejando como huella 
+el sufijo -pa-, cuya evolución ha sido paralela a la de -ka- y d~ 
+-ma- ( <*-pa:- <*-pU-ya-). Es muy difícil analizar adecuada­
+mente la función de -pa- en el dialecto de Ferreñafe. Se encuen­
+tra en algunas formas lexicalizadas: pmapa_ "reñir" (<piña 
+"enfadado"); mosqopa- "delirar" ( < mosqo- "soñar), tutapa­
+"anochecer" ( < tuta "noche"): tikrapa- "poner boca abajo" 
+( <*tikra- 'volver, voltear', cf. ti,kraka-"volver, transformarse en"); 
+taripa-"alcanzar a alguien por el camino" ( < tari-"encontrar"). 
+En la glosa sugerida por este último ejemplo se tradujo -pa­
+por la 3p-objeto "lo": ikinda rirshe taripan "dicen que siguién­
+dolo lo encontró". Es posible identificar en estas lexicalizaciones 
+un matiz de 'ausencia de provecho para el sujeto' (cf. "delirar" 
+= el sueño que se desperdicia, o de 'concentración del efecto de 
+la acción en otra persona' ( cf. "reñ 'r" = 'orientar su cólera ha­
+cia alguien'). En las tentativas de aislamiento semántico del mor­
+fema, los ejemplos siguientes de interpretación problemática han 
+sido citados. 
+yupapay /yupa-pa-y / = // contar-P A-2p. imperativo/ 1 
+"hasta él que cuentas" (?); traducción del informante. 
+maskapay /maska-pa-y/ = //buscar-PA-2p. imperati­
+vo// 
+"hasta él que buscas" (?); traducción del informante. 
+Parece posible interpretar estos ejemplos de la manera siguiente: 
+-pa- '3p enfática' juega un papel análogo a -ma- 'a mí' y a -ka-
+255 
+'a sí' en un contexto donde normalmente se encontraría cp como 
+marca de 3p~objeto. Se trata de la identificación explícita del 
+que no participa en el diálogo: 'él mismo'. Quizás prdría expli­
+car la evoluc'ón de la fo:ma independiente del pronombre de la 
+3p: pay; de la misma manera. una relación probable existe entre 
+~ku~ y el de1ctico kay 'esto'. El empleo de ~pa~ seguido por otro 
+morfema orientador de la acción implica sobre todo que ni el ha~ 
+blante ni el oyente constituyen el objeto directo de la acción. Es 
+interesante la oposición uyasuni /uya~su~ni/ "te escucho" y uya­
+palwni /uya~pa~ku~nij "escucho (en general sin que haya un 
+objeto preciso de mi atención)". Encontramos la combinación 
+~paku~ en otro ejemplo en los textos: ighaq ighaqtash (glosa 
+sugerida: "tanteando") aghpipakuyan ( < aghpi~ "escarbar"). 
+Se trata de un ciego que tanteando busca por todos lados un ob~ 
+jeto identificable. Otro ejemplo propuesto para ilustrar el empleo 
+de ~pa~ es: asikapamuni "vengo riendo" ( <asikU~ "reir"). En 
+este caso, ~pa~ podría indicar la ausencia de un objeto preciso 
+presente y visible de mi risa y ~mu~ la orientación de mi movi~ 
+miento hacia el 'centro focal'. El empleo de ~pa~ en una cons 
+trucción benefact'va ( ':'~pam¡a~ 'para mí', *~pasu~ 'para tí) no 
+parece corriente en Ayamachay. Lo mismo se puede decir de la 
+costrucción posesiva: *kapU~; si unos reconocen la forma kapa~ 
+mr:n /ka~p U~ma~n/ //existir~ p U~ 1 p. objeto~3p. suje~ 
+to// (lit. se desposee en mi favor)" poseo, tengo", otros ni e~ 
+gan que se trate de un giro admitido en este dialecto. En los tex~ 
+tos, la combinación ~pama~ parece más bien una fórmula de cor~ 
+tesía en las preguntas que hace pensar en el honorífico ~pa~ del 
+quechua ecuatoriano de la sierra (Taylor 1982 (2) ). 
+manghu irmanuygunata rikapamashaygi /mana~chu *her­
+mano~y~kuna~ta rika~pa~ma~sha~yki/ //negación~ 
+interrogativo hermano~lp. posesivo~plural~acusativo ver .. 
+PA~Ip. objeto~conduído~2p. sujeto// (lit. ¿no has visto 
+a mis hermanos yo siendo el beneficiario?) "Hazme el 
+favor de decirme si has visto a mis hermanos"; 
+mangho bakayda rikaPAMAshaygi "Por favor, no has· 
+visto a mis vacas? ". 
+Otro empleo de ~pa~ lo asocia a verbos del tipo toqapa~ "es~ 
+cupir" y supepa~ "peer" (desperdicio ( ?) ) . 
+256 
+Para completar la lista de lo~ morfemas de orientación, cabe 
+notar que existe una forma de pluralización de ~ku~ que hace 
+recaer las consecuencias de la acción expresada por la raíz verbal 
+en un conjunto de actantes~sujeto: ~naku~. Se define general~ 
+mente como 'recíproco'. 
+El análisis comparativo de los dialectos quechuas muestra que 
+el Proto~quechua distinguía probablemente dos morfemas aspec~ 
+tuales: un dinámico *~ri~ y un estático *~ya~ que, combinados con 
+los morfemas de orientación que acabamos de estudiar, cons~ 
+tituían la base para la composición de la mayoría de los demás 
+morfemas~modificadores de raíz verbal. En composición, *~ri~ se 
+reduce a 4~ y *~ya~ a ~y~. No entraremos aquí en los detalles 
+de esta hipótesis que será el tema de otro artículo pero es útil 
+considerarla como un punto de referencia para el estudio de las 
+formas actuales. En el dialecto de Ferreñafe, ~ri~ ha dejado como 
+huella sólo algunas lexicalizaciones: rikari~ "aparecer" ( <rika~ 
+"ver") y shari~ "levantarse" (sha~ "estar de pie" <*sha:~ 
+<*sha~ya~). Se puede, sin embargo, reconocer la presencia de 
+~ri~ combinado con ~ya~ en el morfema ~ra~ ( <*~ra:~, 
+<*~ra~ya~). ~ra~. como sugieren los elementos de su composi~ 
+ción, implica la prolongación de un estado (~ya~) resultante de 
+una acción puntual (~rH: itarasha /ita~ra~sha /=//echar~RA~ 
+deverba[, concluído// "echado (por el suelo, estado prolongado a 
+consecuencia de una caída); pegarayasha /pega~ra~ya~sha/ = // 
+pegar~RA~progresivo~deverbal. concluído/ / "pegado; encolado" 
+(~ya~. en este ejemplo, se deriva de *~yKa~). Nos parece haber 
+oído el empleo de 4U~ ( <*~rlqu~) 'acción puntual, momentánea, 
+violenta, sorpresiva', pero no hemos podido encontrar ningún 
+ejemplo de su empleo en los textos. 
+La presencia dc los cuatro morfemas combinados que indican 
+la dirección: ~yku~ (hacia adentro). ~rqu~ (hacia afuera), ~rpu~ 
+(hacia abajo) y ~rku~ (hacia arriba) puede notarse sólo en for~ 
+mas lexicalizadas: yayku~ [yaygu] "entrar": yarqu- [yar~o] "sa­
+lir", tarpu~ [ tarbu] 'plantar y quizás warku- "colgar". · 
+*~ya~ tampoco se encuentra en su forma primitiva en el dia~ 
+lecto de Ferreñafe (salvo quizás en los denom;nales). Hemos 
+encontrado un solo ejemplo en los textos del empleo de ~yu~ 
+257 
+<*~y k u~ (<*~y (A) k u~) : yatanman shayutembis mana wigha .. 
+yangho "Y también cuando se paró cerca de él, (el otro) seguía 
+no respondiendo". No podemos garantizar que la raíz sha~ 'estar 
+de pie' y ~yu~ 'acción concentrada en sí misma, acción por ex~ 
+celencia' (concepto derivado probablemente del matiz 'interiori .. 
+zación' de ~yku~ 'hacia adentro') no constituyen ya un lexema 
+puesto que no hemos encontrado otros ejemplos del empleo de 
+~yu~. *~yku~ya~> ~yka:~> ~ya~ 'hacia dentro con cambio de 
+estado' expresa el 'progresivo'. Este morfema aspectual parece ser 
+el último que se puede agregar a la serie que modifica la raíz 
+verbal. Más allá se encuentra la terminación con los morfemas 
+que expresan el tiempo y la actancia. 
+Se podrían incluír quizás entre los morfemas aspectuales ~na~ 
+(<*/~na:~/ <*/~naya~/) 'inminencia' y ~ski~ 'contemporaneidad'. 
+~na~ expresa una acción de próxima realización, una amenaza o 
+un deseo. 
+punguna ratanasha /punku~na rata~na~sha/ = //puerta~ 
+concluido caer .. aspecto. inminente~tiempo. narrativo ( for~ 
+malmente el concluido)// "la puerta ya iba a caer"; 
+chinanda qomanayan /china~n~ta qu~ma~na~ya .. n/ = / 
+hija~3p. posesivo~acusativo dar~/p. objeto~desiderativo~ 
+progresivo~3p. sujeto// "quiere darme a su hija". 
+~na~ puede también agregarse a un lexema nominal: yakunani 
+"tengo sed" ( <yaku "agua".) 
+~ski.. es un morfema que parece limitarse a los dialectoS' de 
+Ferreñafe y de Ancash. Ignoramos si existe también en otros dia~ 
+lectos quechuas del centro. Su papel principal en el Quechua de 
+Ferreñafe parece ser el de indicar que una acción se desarrolla en 
+el mismo tiempo que otra. Para tener una idea de su función, he 
+aquí algunos ejemplos propuestos por Pascual Bernilla Carlos, 
+nuestro informante principal. Las glosas son del informante. 
+258 
+maskaskiy /maska~ski~y/ "¡anda buscando (yo regreso)!" 
+yupaskiy /yupa~ski~y "y ¡anda contando (mientras yo ha .. 
+go otra cosa)!" 
+maskaskishun / maska~ski~shun/ "¡vamos buscando (otros 
+han ido ya}!" 
+rir tikramuy, maskaskishaq /maska~ski~shaq/ "¡véte y 
+vuelve; voy a seguir buscando!" 
+Se puede notar que, en todos los ejemplos, se trata de une 
+acción que debe todavía realizarse. Según el informante, no s~ 
+puede asociar el morfema ~ski~ a una forma del pasado. 
+Si la modalidad del enunciado se expresa sobre todo median­
+te la adición de partículas específicas a los sintagmas~claves, cier­
+tas formas verbales expresan en sí mismas un carácter modal. Ha~ 
+blaremos aquí de lo que se suelen llamar el imperativo y el opta~ 
+tivo. 
+La 2p del imperativo se expresa por el sufijo ~y: maskay 
+/maska~y/ "¡búscalo!"; la 3p por ~chun: maskachun /maska~chun/ 
+"¡que lo busque!". 
+Hay dos maneras de expresar el optativo; en ambos casos, 
+anomalías sintácticas sugieren arcaísmos derivados de una época 
+en que el sintagma nominal y el verbal no se habían diferenciado 
+completamente. El sistema más corriente parece ser el que agrega 
+el sufijo ~man a las formas verbales no marcadas para expresar 
+el tiempo. Sólo la lp se expresa por el morfema ~y en vez de 
+~ni, anomalía común a los dialectos QII. Una forma alternativa 
+de la 4p ~chwan [ cuwan] se encuentra también en la mayoría 
+de los otros dialectos. La segunda manera de expresar el opta~ 
+tivo se limita al quechua de Ferreñafe: el sufijo acusativo ~ta 
+se añade al substantivo verbal "potencial"; la persona actora se 
+expresa por la adición de sufijos posesivos a la terminación de~ 
+verbal: 
+{ 
+munayman /muna~y~man/" ( ) d ... yo eseana munanayda /muna~na~y~ta/ 
+mana shamushqa katekqa9 mana rikashunaydachu /rika~ 
+shu~na-y~ta~chu/ "si no hubieras venido, no te habría 
+visto"; 
+paqtaq mana ratanaygitach /rata-na~yki~ta-chu/ "¡cui~ 
+dado que no te caigas!" 
+9 Utilizamos la grafia kq para representar la uvular [qJ intervocálica, va­
+riante producida por la fusión de /k/ y de /q/ ej. fka-ti-yki- qaj ~ 
+katekqa [kateqaJ. La vari.ante intervocálica habitual de /q/ es f 1 J. 
+259 
+{
+paqtaq chaynoman kanman /ka~n~manj 
+paqtaq chaynoman kananda/ka~na~n~ta! "¡ojalá sea así!" 
+paqtaq noqakunapis rinayghapata /ri~na~y~ghapa~ta/ 
+"¡ojalá nosotros también vayamos!". En este último ejem~ 
+plo, ~ghapa indica el plural del pronombre posesivo. 
+La 4p es irregular en ambos "operativos": en la forma en 
+~man, en vez de ~nchikman, se emplea ~chwan, forma alternativa 
+en la mayoría de los dialectos quechuas; en la forma en ~ta, se~ 
+gún nuestro informante, S'e emplea el sub5tantivo verbal poten~ 
+cial sin terminación posesiva: 
+paqtaq noqanghikpis richuwan /ri~chwan/ "¡ojalá nosotros 
+paqtaq noqanghikpis rinata /ri~na~taj también vayamosl" 
+El gerundio asocia una acc1on secundaria a la expresada 
+por el verbo principal. Hay dos formas del gerundio: la prime~ 
+ra indica que ambas accioneS' son realizadas por la misma per~ 
+sona (sufijo ~r, QI), la segunda indica que los actores son di~ 
+ferentes (sufijo ~ti~ < * / ~pti~ /) . En el segundo caso es necesario 
+expresar el actor secundario por la adición de un S'ufijo posesi~ 
+vo al morfema ~ti~. Se pluraliza por la adición de ~ghapa. Em~ 
+pleamos aquí las glosas Ger. 1 (Gerundio 1: forma en ~r) y 
+Ger. 2 (Gerundio 2: forma en ~ti~) para distinguir los dos ge~ 
+rundios. 
+noqa tarir saludanakutighapa riran "cuando yo lo encon~ 
+tré, nos saludamos, y (él) se fue". 
+/nuqa tari~.p~r saluda~naku~ti~y~ghapa ri~ra~n/ 
+//yo encontrar~3p. objeto~Ger. 1 saluda~recíproco~Ger. 2~ 
+/p. posesivo~plural ir~pretérito~3p. sujeto// 
+Este ejemplo es particularmente interesante. La terminación 
+~r de la primera forma verbal tari~ indica que el sujeto ("expre~ 
+sado aquí también por el pronombre aislado noqa "yo") es el 
+mismo que el del verbo que sigue; se indica la preS'encia de un 
+segundo actor (o de varios) por el recíproco ~naku~ y el plural 
+~ghapa. Sin embargo, formalmente se trata siempre de una pri~ 
+mera persona;. la expresión del plural no es obligatoria ya que 
+e !número de la forma no marcada en quechua es indefinido. 
+260 
+Por eso, la 3p, sujeto del verbo principal, representa un cambio 
+de actor (al menos formalmente), aunque en realidad participó 
+en la acción precedente. 
+Se puede expresar el Ger. 1 también por el empleo del suhs~ 
+tantivo verbal agentivo (sufijo -q) seguido por la marca casual 
+comparativa -no. 
+{ 
+apamuqno noqa yanulata apamur 
+"yo vine trayendo leña". 
+shamushkani 
+La var'ante del concluído que se encuentra en este ejemplo es 
+un apócope de /shamu-shQa ka-ni/, lo que explica la termina~ 
+ción pronominal de la forma no marcada para expresar el tiem~ 
+po. La forma shamushay es, sin duda, una derivación de ésta. 
+La terminación ~y sería consecuencia de una normalización ha~ 
+jo la influencia del pretérito. Se emplea el concluído en los rela~ 
+tos para indicar un pretérito "literario". 
+Deverbales 
+El verbo se nominaliza por la adición de unos sufijos de los 
+cuales dos no expresan en sí mismos matices aspectuales. El pri­
+mero, el agentivo indicado por el sufijo ~q, tiene las mismas· fun.; 
+dones que en los demás dialectos quechuas. Recibe sufijos pro­
+nominales posesivos· que indican el objeto de la acción. Como la 
+raíz es verbal, se modifica también para e:Xpresar el objeto pro~ 
+nominal y los diferentes matices aspectuales y orientadores carac~ 
+terísticos del verbo. 
+rikaq /rika-<f>-q/ = / /ver-3p. objeto~agentivo/ 1 "el que 
+ve". 
+rikamaqninchikghapa shaT11J,uran /rika-ma~q~Ninchik~ 
+ghapa shamu-ra~n/ 
+/ /ver-4p. objeto-agentivo-4p. posesivo-plural venír~pretérito-3pj / 
+"vino a vernos" (incluyendo al oyente) 
+eqamoqzhata aybasha /iqa-mu-q-gha~ta aypa~sha-<f> 
+/ jsubir-centrífugo-agentivo~ restrictivo~acusativo agarrar-concluido-
+261 
+3p. sujeto// "al momento mismo en que subieron, los agarraron" 
+(la pluralidad en este ejemplo está indicada por el contexto). 
+uksitolata osoraqta tarisha /uk~~Situ~la~ta usu~ra~q~ta 
+tari~sha~<f> / /uno~diminutivo4estrictivo~cusativo botar~durativo .. 
+agentivo~acusativo encontrar~concluído~3p. sujeto// "encontró a só.­
+lo uno que yacía (allí donde lo había) botado". 
+El nominalizador (no m.) ~y indica una acción sin expresar 
+un matiz aspectual. Equivale en las subordinaciones al sintagma 
+verbal sin marca temporal. El nominalizador ~sha expresa el as~ 
+pecto concluído. Equivale en las subordinaciones al tiempo con~ 
+cluído y al pretérito: 
+ilun kururakuyashanqa ratasha ninaman 
+/ilu~n kurura~ku~ya~sha~n~qa rata~sha~<f> nina~man/ 
+/ /hilo~3p. posesivo ovillar~medio~progresivo~nom. concluído~3p. 
+posesivo~tematizador caer~concluído--3 p. sujeto fuego~direccional// 
+"el hilo que estaba ovillando cayó en el fuego". 
+El nominaliazdor ~na expresa el aspecto potencial. Equivale en 
+las subordinaciones al tiempo futuro (que quizás se podría de~ 
+finir mejor como modo en vez de tiempo puesto que expresa la 
+determinación, la obligación o la inevitabilidad). Este morfema 
+tiene quizás una relación con el desiderativo ~na~. 
+mana munayanichu chinanwan kasarachimananda 
+/mana muna~ya~ni~chu china~n~wan kasara~chi--ma~na~n .. 
+ta/ 
+//negación desear--progresiv~lp. sujeto~complemento. de. negación 
+hija~3p. posesivo~concomitante casarse~factitivo~Ip. objeto~nom. po-­
+tencial~3p. posesivo~acusativo// 
+"No quiero que me haga casar con su hija". 
+Los sufijos posesivos que se agregan a los nominalizadores 
+en ~y, ~sha y ~na expresan el sujeto que realiza la acción. 
+El nominal 
+El lexema nominal, según criterios determinados por su ca.­
+rácter semántico y su posición jerárquica en el sintagma nominal, 
+262 
+puede ocupar funciones de substantivo o de adjetivo ( demostra~ 
+tivo, cuantitativo o descriptivo). Aislado, su función es indiferen~ 
+te. En composición, cada nominal califica al que le sigue. El úl~ 
+timo nominal a la derecha es la cabeza del sintagma. Normalmen~ 
+te, el sintagma nominal que no lleva un morfema casual explici~ 
+ta el contenido del sufijo pronominal obligatorio que expresa el 
+sujeto en el sintagma verbal. Puede también representar el atribu~ 
+to de un enunciado atributivo. Algunos nommales pueden tam~ 
+bién jugar un papel adverbial sin la adición de una marca casual. 
+Se trata casi siempre de expres!ones temporales. 
+Con pocas excepciones las marcas casuales pertenecen al 
+Quechua Común. 
+~ta 'acusativo' (QC) 
+~pa 'genitivo' (QC) 
+~manta ·ablativo' ( QII) 
+~wan 'concomitante' (QC) 
+~pi 'locativo' ( QII) 
+~man 'alativo' (QC) 
+~rayku 'causativo' (QC) 
+~kama 'llmitativo· ( QC?) 
+~paq 'benefactivo' ( QC) 
+{~no 'comparativo' (QI) 
+~yupay ( Ql?) 
+Una serie de lexemas locativos, seguido por los sufijos apro~ 
+piados, constituye una subcategoría compleja del sistema casual. 
+Se trata de nominales. 
+ruri "interior" > ruripi "dentro" 
+waqta "exterior" > w,aqtapi "afuera" 
+ana "superior" > anapi "encima de" 
+éaki "pie" > éakipi "debajo de" 
+y ata "cercanía" > y ata pi "cerca de" 
+largu "distancia" > largupi "lejos de'' 
+nawba "anterior" > nawbapi "en frente de" 
+eki "posterior" > ekipi "atrás de". 
+La mayoría de estos términos con la excepción del hispanismo 
+largu, y yata, aparentemente aislado, pertenecen al fondo común 
+del léxico quechua. Sin embargo, r,uri y ana (<*/sana/ f son em~ 
+pleados en la forma indicada arriba sobre todo en los dialectos 
+QI. En muchos dialectos quechuas 'encima de/ fuera de' y 'de~ 
+263 
+bajo de/dentro' representan una sola opos1c1on. /iki/, común al 
+quechua de Ancash, Cajamarca y Ferreñafe, se deriva quizás de 
+* / siki/ "base, culo", con una modificación de orientación típica 
+de esta clase de lexemas puesto que en otros dialectos la combi~ 
+nación sikipi siguifica sobre todo "debajo de". 
+La construcción característica de los sintagmas adverbiales 
+formados a partir de estos lexemas es: 
+Nominal (cabeza de smtagma) ~genitivo + Nominal locativo~ 
+posesivo~sufijo casual"0 • 
+qamba ekikipi o, sencillamente ekikipi / ( qam~pa) iki~yki~ 
+pi/ / /tú~genitivo posterior~2p. posesivo~locativoj / "atrás de tí" 
+A veces, no se indica el sufijo locativo: 
+namba éakin namba ananshi riyan /nan~pa éaki~n nan~ 
+pa ana-n-shi ri~ya~n/ = //camino-genitivo pie-3p. posesivo cami~ 
+pa ana-n~shi ri-ya-n/ = / /camino~genitivo pie~3p. po~ 
+sesivo camino~genitivo superior~3p. posesivo-citativo ir~progresivo-
+3p. sujeto// "dicen que caminaban por abajo y por arriba del ca~ 
+mino". 
+La construcción con largu es algo diferente: qaqamanda 
+[argupi / qaqa~manta largu-pi/ = J jpeña~ablativo leja­
+nía~locativo/ ;' "lejos de la peña". 
+No vamos a ofrecer aquí una descripción detallada del em~ 
+pleo de los casos, poco diferente de lo que se encuentra en otros 
+dialectos quechuas de los cuales poseemos buenas descripciones 
+(v. ADELAAR 1977, CERRON-PALOMINO 1976). Las defi­
+niciones que siguen a las marcas de caso en la lista que hemos 
+presentado corresponden evidentemente a una sola de las nume­
+rosas funciones de cada morfema. Su valor es sobre todo simbó­
+lico puesto que se trata de las definiciones clásicas -en la ma­
+yoría de los casos- de estos mismos morfemas. 
+Los morfemas que corresponden a los pronombres posesivos 
+son idénticos a los que ind:can el sujeto verbal en el pretérito: 
+10 Evidentemente, se puede considerar que el nominal locativo es la cabeza 
+del sintagma según criterios estrictamente formales; la base de nuestro 
+análisis es semántica. 
+264 
+~y 'lp' ~yki '2p' ~.n '3p' ~nchik '4p'. 
+Las formas independientes son: noqa, qam, pay y noqanchik. 
+El posesivo impersonal se expresa por ~yxuN (derivado de 
+* / ~yuq/). Significa 'poseedor de' o 'el que posee'. Entre un nom~ 
+bre que acaba con una consonante y los· sufijos posesivos se in~ 
+troduce la forma vacía ~NI~. 
+shaprayxumi runaqa /shapra~yxu~mi runa~qaj "el hom 
+bre t'ene barba" 
+1 /barba~ Y XU ~asertivo hombre~tematizador j / 
+mana kighaynixuchu /mana qighay ( var. kighay) ~ 
+Nlyxu~chu/ 
+1/ negación plata~ Y XU ~complemento de negación//. 
+''no tiene plata'' 
+El morfema que especifica la pluralidad del nominal es, co~ 
+mo en los demás dialectos quechuas, ~kuna. Una inovación inte~ 
+resante común a los dialectos de Ferreñafe y Cajamarca es el 
+empleo de un morfema especial ~ghapa (que indica también ef 
+plural verbal) para expresar el plural del sufijo pronominal po~ 
+sesivo. Mientras que en el quechua de Chachapoyas y San Mar~ 
+tín, el sufijo ~kuna de /w:asi~y~kuna/ puede referirse a wasi "ca~ 
+sa" o a ~y "lp" ("mis casas" o "nuestra(s) casa(s)"), en el 
+quechua de Ferreñafe, en el primer caso, encontramos wasiykuna 
+y en el segundo wasiyghapa. No hemos encontrado ejemplos del 
+empleo de ambas formas en el mismo sintagma. 
+Entre los sufijos nominales que pueden ser asimilados a una 
+categoría de plural menos general que ~kuna, hay ~Nlndin 'plu~ 
+ral asociativo' y ~pura 'plural restrictivo' (o 'de clase'). Este úl~ 
+timo aparece una sola vez en los textos. 
+De nominales 
+Y a hemos mencionado los morfemas verbales ~ku~ y ~na~ 
+que, a veces, se agregan a una lexama nominal para verbalizar~ 
+lo. No hemos podido averiguar si los denominales tradicionales: 
+~ya~ 'transformativo~intransitivo' y ~cha~ 'transformativo~transitivo 
+(derivado posiblemente de ~ya~chi~), son todavía productivos en 
+el dialecto de Ferreñafe o no. Se encuentra ~ya~ en las formas 
+265 
+lexicalizadas: yurqaya~ ( <yuraq "blanco"), achkiya~ (<;*achik 
+'luz; brillante') y unaqya~ ( <unaq "día"). que traducen todas el 
+concepto de 'amanecer'. Se encuentra ~cha~ en aghkha~ "curar" 
+( <aghiN "bueno"). Ambos morfemas se combinan con atun 
+"grande" para formar atunya~ "crecer" y atuncha~ "agrandar". 
+Partículas 
+Las fórmulas conectivas, las partículas modales y las enfáti~ 
+cas representan un conjunto heterogéneo que agrupamos aquí só~ 
+lo por comod:dad. Las primeras son sobre todo amalgamas 5in~ 
+tácticas asimilables a menudo a locuciones adverbiales de origen 
+locativo. Se establecen generalmente a partir de un deíctica que 
+sintetiza el contenido del enunciado precedente + un sufijo ca~ 
+sual que indica la relación temporal entre los dos enunciados ± 
+un tematizador que a~5la el conjunto del resto del segundo enun~ 
+ciado + un sufijo modal., ej. chaymandaqash /chay~manta~qa~ 
+shi/ = // eso~ablativo~tematizador~citativoj / "entonces". A me~ 
+nudo, estos elementos se han .amalgamado de tal manera que di~ 
+fícilmente se pueden analizar, ej. chayshuybaqa. Hay algunos 
+hispanismos o expresiones de origen dudo5o como dixur o di.xunt, 
+que también se traducen por "entonces''. 
+Las partículas modales son las mismas que se encuentran en 
+los otros dialectos quechuas y juegan papeles análogos. Su iden~ 
+tificación como testimoniales es sólo parcialmente satisfaciente. 
+Son elementos importantes para la focalización. Según parece, er 
+quechua de Ferreñafe ha conservado los morfemas del Proto~ 
+quechua: ~mi 'aserción'; ~shi 'citación' y ~éi 'hipótesis'. El verda~ 
+clero valor de e5tas partículas será el tema de un estudio sobre la 
+sintaxis del dialecto. 
+Otras partículas tematizan; unas tienen un valor semántico 
+más preciso que otras; en general, su número se ha reducido con~ 
+siderablemente en el dialecto de Ferreñafe. El tematizador prin~ 
+cipal es ~qa. ~pis tematiza y coordina; transforma los lexemas 
+interrogativos en impersonales; expresa globalidad y concesión 
+(evidentemente, estas glosas se refieren sobre todo a las traduc~ 
+dones; debería ser posible analizar su papel en quechua con cri~ 
+terios más unitarios) . ~taq parece limitar su función a la de un te~ 
+matizador de formas interrogativas. 
+266 
+~raq y ~na son morfemas que se añaden a cualquier sintagma 
+para expresar, respectivamente, el 'no concluído' y el 'concluído'; 
+el segundo es de empleo mucho más frecuente y se ha vuelto tan 
+común que parece no haber conservado un valor semántico muy 
+preciso. 
+El fuerte número de hispanismos asimilados al dialecto afee~ 
+tan la morfología puesto que introducen criterios de género que, 
+normalmente, no existen en quechua. Adjetivos de origen quechua 
+asociados sobre todo a la descripción de seres humanos cambian 
+sus desinencias conforme al modelo del castellano. Así encontra~ 
+mas rukU y rukA para expresar "viejo" y "vieja", respectiva~ 
+mente. De la misma manera, el diminutivo ~ita ~ (préstamo caste~ 
+llano) alterna con ~ita; el género de la palabra quechua a la cual 
+se asocia está determinado por su traducción en castellano: 
+w.ak runitu kosab wénola rukztuna (runa "hombre" + 
+~itU > runitu) "aquel señor ya está bien mayorcito" 
+(trad. del informan te) ; 
+Wlélrmisitaqa apura y apuray punyan ( warmi "mujer" + 
+..SitU warmisita "mujercita"): "la mujercita estaba 
+caminando muy apresuradamente". 
+En otros casos la terminación quechua determina la forma del 
+diminutivo: akshitu < akshu "papa"; aghqitu <aghqu "perro", 
+sarita < sara "maíz"; yapi,ta < yapa "pene". 
+Otro diminutivo de origen quechua ~la tiene una función mu~ 
+cho más amplia. Esencialmente 'restrictivo', comparte este rasgo 
+semántico con ~gha, importado de otro grupo dialectal. Ambos 
+morfemas pueden traóucir el concepto de "sólo". Sin embargo 
+hay contextos donde se encuentra ~la y no ~gha. Se trata sobre 
+todo de expresiones cuantitativas a las cuales se desea añadir un 
+matiz de afectividad o de cortesía. Entre éstas hay varios hispa~ 
+nismos, a veces de formulación insólita: 
+azhipla "demasiado; excesivamente" 
+áchkala "mucho" 
+kósala, o kosabw.énola "muy, bien" 
+~ímbula "todo, completamente" 
+rshkayla, o pókola "poco". 
+267 
+Asociado al diminutivo ~itU, ~la se agrega a los numerales que, a 
+partir de "cuatro", son préstamos del castellano. 
+uksítola ("uno nomás") <uk "uno" 
+kw.atrítola "cuatro". 
+Encontramos ~la también en la amalgama ~lamapis que cons~ 
+tituye un 'restrictivo concesivo': uklamapis /uk~la~ma~pis/ "aun~ 
+que no fuera más que uno"; manash ni uk tutalamapis "ni aun 
+una sola noche ... ". Existen en el quechua de Ferreñafe varios 
+casos de morfemas amalgamados de tal manera que, en su forma 
+actual. difícilmente se pueden distinguir los elementos formativos: 
+~éemaée, ~shuybaqa, etc. La partícula ~ma~ que se encuentra en 
+~éemaée y ~lamap,is puede también ser identificada en otras ter~ 
+minaciones encontradas en los textos: algun vyaxeykepamaxpis 
+maygaxpepis "durante cualquiera de tus viajes, en cualquier lu~ 
+gar"; todomatapis upyachishaygi "te haré beber todo lo que ha~ 
+ya". Lo que es común a ~pamaxpis, ~gaxpepis ( </ka~q~pi~pis/1)' 
+y ~matapis es el elemento generalizado que también expresa ~pis 
+asociado a ciertos tipos de lexemas como los interrogativos y los 
+cuantitativos. ~ma es también una de las formas más corrientes de 
+~mi empleado como focalizador:/~mi(i)~a(ri)/ = // ~MI~ con~ 
+firma.ción enfática. Esta forma es muy corriente en los dialectos 
+quechuas del norte. 
+noqapatama upyashun /nuqa~pa~ta~ma upya~shun/ 
+/ /yo~genitivo~acusativo~MA beber~4p. sujeto+futuro/ / 
+"es el mío que vamos a beber". 
+Es posible que el origen de estas formas extrañas sea un pro~ 
+ceso de metátesis, modificación acentual y pérdida, asimilación o 
+harmonización vocálica, típico de este dialecto. ~pamaxpis sería 
+entonces / ~paq~pis~mi/ // ~benefactivo~coordinador~aser"' 
+ción/ /; ~matapis <1 ~ta~pis~mi/ = 11 ~acusativo~coordinador~aser~ 
+ción/ /; ~lamapis </ ~la~pis~mi/ 11 ~restrictivo~coordinador~ 
+aserción//. De la misma manera, es quizás posible derivar ~shuy ... 
+baqa de / ~paq~qa~shi/ = / J ~benefectivo~tematizador ~citación//. 
+~éemaée es algo más complicado. Tendríamos aquí dos partículas 
+modales de función opuesta: ~éi 'hipótesis' y ~mi 'aserc10n, se~ 
+guida otra vez por ~éi. Si consideramos que el carácter enfático 
+de ~ma haya podido eliminar el carácter testimonial. podríamos 
+268 
+suponer que se trate de una acentuación del hipotético, reforzado 
+por la repetición de /~éi/. Un análisis adecuado de estas fórmu~ 
+las puede ser hecho sólo después de haber registrado un número 
+muy importante de casos de su empleo en un corpus de textos pro~ 
+venientes de diferentes zonas de Ferreñafe. 
+Algunos hispanismos también se han fusionado para formar 
+unidades nuevas con modificaciones de su sentido y de su fun~ 
+ción gramatical originales. Entre los más interesantes se puede 
+citar kwidawnish, derivado de cuidado que + ~shi 'citativo'. 
+Esta breve presentación de algunos aspectos de la morfolo~ 
+gía del quechua de Ferreñafe no trata de resolver problemas in~ 
+herentes al conjunto de los dialectos quechuas y que deberían ser 
+acometidos· en un estudio comparativo. Deseamos sólo dar una 
+idea de las formas, muchas veces interesantes en sí, caracterís~ 
+ticas de este dialecto hasta ahora muy poco conocido por los que 
+se ocupan de la dialectología quechua. 
+269 
+BIBLIOGRAFIA 
+ADELAAR. W. F. H. 
+1977 Tarma Quechua, grammar, texts, dictionary, 
+Lisse. 
+1982 : Léxico del quechua de Pacaraos, e .l. L. A., Lima. 
+eERRON~PALOMINO, R. 
+1976( 1) : Gramática Quechua funín~Huanca, Lima. 
+1976 ( 2) : Diccionario Quechua: Junín~Huanca, Lima. 
+ESeRIBENS, A. 
+1977 : Fonología de:l Quechua de Ferreñafe, e. 1. L~A., 
+Lima. 
+PARKER. G. J. 
+1976 : Gramática Quechua Ancash~Huaylas, Lima. 
+QUESADA C., F. 
+1976 Gramática Quechua Cajamarca~Cañaris, Lima. 
+TAYLOR. G. 
+1979 
+1982 (1) : 
+Diccionario Normalizado y Comparativo l.luechua: 
+Chachapoyas~Lamas, París. 
+Aspectos de la Dialectología Quechua [: lntro~ 
+ducción al Quechua de Ferreñafe, ehantiers Ame~ 
+rind'a, París. 
+1982 ( 2) :"Le morpheme de respect / ~pa~ 1 dans les parlers 
+quechuas de la s'erra équatorienne", Amerindia 7, 
+París. 
+TORERO, A. 
+1964 
+1968 
+270 
+Los Dialectos Quechuas", Anales Científicos de la 
+Universidad Agraria, Vol. 11, N" 4, Lima. 
+"Procedencia Geográfica de los Dialectos Que~ 
+chuas de Feneñafe y eajamarca", Anales Cien~ 
+tíficos de la Universidad Agrar'a, Vol. VI. Nos. 
+3 y 4, Lima. 

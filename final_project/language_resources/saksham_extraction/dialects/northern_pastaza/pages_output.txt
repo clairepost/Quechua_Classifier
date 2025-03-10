@@ -1,0 +1,2394 @@
+Brigham Young University Brigham Young University 
+BYU ScholarsArchive BYU ScholarsArchive 
+Theses and Dissertations 
+2020-06-08 
+The attributive suffix in Pastaza Kichwa The attributive suffix in Pastaza Kichwa 
+Barrett Wilson Hamp 
+Brigham Young University 
+Follow this and additional works at: https://scholarsarchive.byu.edu/etd 
+ Part of the Arts and Humanities Commons 
+BYU ScholarsArchive Citation BYU ScholarsArchive Citation 
+Hamp, Barrett Wilson, "The attributive suffix in Pastaza Kichwa" (2020). Theses and Dissertations. 8443. 
+https://scholarsarchive.byu.edu/etd/8443 
+This Thesis is brought to you for free and open access by BYU ScholarsArchive. It has been accepted for inclusion 
+in Theses and Dissertations by an authorized administrator of BYU ScholarsArchive. For more information, please 
+contact ellen_amatangelo@byu.edu. 
+ 
+The Attributive Suffix in Pastaza Kichwa 
+ 
+ 
+ 
+ 
+Barrett Wilson Hamp 
+ 
+ 
+ 
+ 
+ 
+A thesis submitted to the faculty of 
+Brigham Young University 
+in partial fulfillment of the requirements for the degree of 
+ 
+Master of Arts 
+ 
+ 
+ 
+ 
+Janis Nuckolls, Chair 
+Chris Rogers 
+Jeff Parker 
+ 
+ 
+ 
+ 
+ 
+Department of Linguistics 
+ 
+Brigham Young University 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2020 Barrett Wilson Hamp 
+ 
+All Rights Reserved 
+ 
+ABSTRACT 
+The Attributive Suffix in Pastaza Kichwa 
+ 
+Barrett Wilson Hamp 
+Department of Linguistics, BYU 
+Master of Arts 
+ 
+This thesis is a corpus-based description of the attributive suffix -k in Pastaza Kichwa, a 
+Quechuan language spoken in lowland Amazonian Ecuador. The goal of this work is, first, to 
+describe the behaviors, characteristics, and functions of the suffix using data from the Corpus of 
+Pastaza Kichwa (Rice 2018a), and second, to offer a typological analysis of these behaviors in 
+order to identify the most appropriate classification for the suffix. The suffix has previously been 
+described as a nominalizer (Nuckolls & Swanson, forthcoming), and the equivalent suffix in 
+other Quechuan varieties has been described as an agentive nominal relativizer (Weber 1983; 
+Weber 1989; Cole 1985; Lefebvre & Muysken 1988) or a participle (Markham 1864; Weber 
+1989; Guardia Mayorga 1973; Catta Quelen 1985; Debenbach-Salazar Saenz 1993, Muysken 
+1994). This work claims that the function of the -k suffix in Pastaza Kichwa more closely 
+conforms to crosslinguistic descriptions of active participial functions. 
+ 
+After introducing Pastaza Kichwa and the -k suffix, I use numerous examples to describe 
+the behavior of the suffix. The data is taken from the Corpus of Pastaza Kichwa, which is 
+composed of 40 narrative texts and contains 32,127 tokens. 846 examples of the -k suffix are 
+found in the corpus. Following the presentation of the data, I offer an analysis based on previous 
+descriptions of nominalizations and participles in Quechuan languages, as well as typological 
+descriptions of nominalizations and participles crosslinguistically. I rely chiefly on the 
+typological description of participles found in Shagal (2017) to conclude that verb + -k forms 
+function as active (or nominative) participles in Pastaza Kichwa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keywords: Kichwa, attributive, participle  
+ 
+ACKNOWLEDGMENTS 
+ 
+First, I would like to thank my committee members, Janis Nuckolls, Chris Rogers, and 
+Jeff Parker, for their guidance and mentorship throughout my time at BYU and especially during 
+the writing and revising of this thesis. The feedback and support that I have received from them 
+have been invaluable, and I have learned so much through this process. I am particularly grateful 
+to Chris Rogers for his meticulous and honest appraisal of the first draft of this thesis which 
+looked much different from the final product. 
+I would also like to acknowledge Alex Rice of the University of Alberta who created the 
+Corpus of Pastaza Kichwa and Tod Swanson of Arizona State University for his contribution to 
+the corpus. A special thank you to Mama Luisa Cadena for sharing so many of her stories. 
+I want to thank my wife Mataia and my parents, Owen and Lynne, for their continued 
+love and encouragement. They are endlessly patient with my linguistic ramblings and have 
+supported me every step of the way. 
+  
+iv 
+TABLE OF CONTENTS 
+ 
+The Attributive Suffix in Pastaza Kichwa ....................................................................................... i 
+ABSTRACT .................................................................................................................................... ii 
+ACKNOWLEDGMENTS ............................................................................................................. iii 
+TABLE OF CONTENTS ............................................................................................................... iv 
+LIST OF TABLES .......................................................................................................................... v 
+LIST OF FIGURES ....................................................................................................................... vi 
+LIST OF ABBREVIATIONS ....................................................................................................... vii 
+Chapter 1: Introduction ................................................................................................................... 1 
+1.1 Pastaza Kichwa ..................................................................................................................... 1 
+1.2 The -k suffix .......................................................................................................................... 4 
+1.3 The Corpus of Pastaza Kichwa ............................................................................................. 8 
+1.3.1 Tagging and preliminary data ....................................................................................... 12 
+1.4 Summary ............................................................................................................................. 17 
+Chapter 2: Description .................................................................................................................. 18 
+2.1 Noun-like ............................................................................................................................. 19 
+2.2 Non-agentive ....................................................................................................................... 21 
+2.3 Noun modifier ..................................................................................................................... 25 
+2.4 Habitual aspect .................................................................................................................... 28 
+2.5 Adverbial ............................................................................................................................. 33 
+2.6 Connection to -shka ............................................................................................................. 38 
+2.7 Chapter summary ................................................................................................................ 45 
+Chapter 3: Analysis ....................................................................................................................... 47 
+3.1 Noun or Relative ................................................................................................................. 47 
+3.2 Participles ............................................................................................................................ 54 
+3.3 -shka .................................................................................................................................... 62 
+3.4 Chapter summary ................................................................................................................ 66 
+Chapter 4: Conclusion................................................................................................................... 67 
+Appendix 1: Complete Quechuan Family Tree ............................................................................ 69 
+REFERENCES ............................................................................................................................. 73 
+v 
+ 
+LIST OF TABLES 
+ 
+Table 1: Summary of non-PK literature.......................................................................................... 6 
+Table 2: Narratives in the CPK ..................................................................................................... 10 
+Table 3: Verbal suffixes used with -k ........................................................................................... 12 
+Table 4: Nominal suffixes used with -k ........................................................................................ 13 
+Table 5: Enclitics used with -k...................................................................................................... 14 
+Table 6: Syntactic distribution ...................................................................................................... 16 
+Table 7: Habitual aspect paradigm ............................................................................................... 32 
+ 
+  
+vi 
+LIST OF FIGURES 
+ 
+Figure 1: Map of Quechuan languages throughout South America ............................................... 2 
+Figure 2: Quechuan language family .............................................................................................. 3 
+ 
+  
+vii 
+LIST OF ABBREVIATIONS 
+ 
+*  ungrammatical form 
+→  becomes 
+1P  first person plural 
+1S  first person singular 
+2P  second person plural 
+2S  second person singular 
+3P  third person plural 
+3S  third person singular 
+ABL  ablative 
+ACC  accusative 
+ADV  adverb 
+AN  agent noun 
+CAUS  causative 
+CIS  cislocative 
+COM  commitative 
+CPK  Corpus of Pastaza Kichwa 
+DESP  despitative 
+DS  different subject (switch reference) 
+DUR  durative 
+EVO  evidential (other) 
+EVS  evidential (self) 
+viii 
+EVU  evidential (uncertain) 
+FUT  future 
+HAB  habitual 
+IDEO  ideophone 
+IMP  imperative 
+INCH  inchoative 
+INF  infinitive 
+INST  instrumental 
+IRR  irrealis (negative and interrogative in PK) 
+LIM  limitative 
+LOC  locative 
+NEG  negation 
+NOM  nominal 
+OBJ  object 
+PASS  passive 
+PERF  perfective 
+PK  Pastaza Kichwa 
+PL  plural 
+PRES  present 
+PROG  progressive 
+PRTC  participle 
+PSSR  possessor 
+PST  past 
+ix 
+RECIP  reciprocal 
+REL  relative 
+SS  same subject (co-reference) 
+SUF  suffix (active participle) 
+SUF2  suffix 2 (absolutive participle) 
+TOP  topic 
+TRLC  translocative 
+UNTIL  until 
+  
+1 
+Chapter 1: Introduction 
+ 
+The purpose of this thesis is to describe the uses and grammatical characteristics of the 
+attributive suffix -k in Pastaza Kichwa (PK). The primary goal of this study is to take inventory 
+of the varied uses of the -k suffix and the environments in which it occurs using the Corpus of 
+Pastaza Kichwa (CPK) (Rice 2018a). Secondarily, I will offer a typological analysis of the 
+behavior of the -k suffix in PK, concluding that the function of the suffix is similar to active 
+participial functions crosslinguistically. This discussion will be informed by previous analyses of 
+the -k suffix in PK (Nuckolls & Swanson, forthcoming) and analyses of agent noun suffixes in 
+other Quechuan languages (Weber 1989; Cole 1985; Lefebvre & Muysken 1988). An in-depth 
+description of the behavior and functions of the -k suffix in PK has not been previously 
+undertaken. 
+In this chapter I offer a sociolinguistic overview of PK and a basic description of the 
+typology of PK and introduce the -k suffix. I discuss the literature surrounding the -k suffix and 
+its equivalents in other varieties of Quechua. I also detail the CPK, its composition and 
+preliminary findings concerning the -k suffix. In Chapter 2 I present the description of the -k 
+suffix based on data from the CPK. In Chapter 3 I explore typological and theoretical 
+explanations for the behavior of -k. Finally, in Chapter 4 I conclude and discuss shortcomings. 
+ 
+1.1 Pastaza Kichwa 
+ 
+2 
+The Quechua language family is comprised of languages spoken throughout South 
+America in the Andean regions ranging from southern Colombia to northern Argentina, as shown 
+in figure 1. PK is a Quechua II language spoken in the Pastaza region of lowland Amazonian 
+Ecuador. 
+ 
+ 
+Figure 1: Map of Quechuan languages throughout South America 
+(https://glottolog.org/resource/languoid/id/quec1387) 
+ 
+With over 10 million speakers, the Quechuan family has the highest number of speakers 
+of any indigenous language in North or South America (Adelaar and Muysken 2004). Pastaza 
+Kichwa (also known as Northern Pastaza Kichwa) [ISO-code: qvz] belongs to the Quechua II-B 
+branch of the family. Figure 2 shows the genetic relationships in the Quechuan language family 
+leading to PK. For a complete family tree, see Appendix 1. 
+ 
+Quechuan (45) 
+○ Quechua I (19) 
+
+3 
+○ Quechua II (26) 
+■ Cajamarca Quechua 
+■ Chincha Quechua 
+■ Lambayeque Quechua 
+■ Quechua IIB (14) 
+● Chachapoyas Quechua 
+● Colombia-Ecuador Quechua IIB (12) 
+○ Ecuadorian Quechua A (3) 
+○ Ecuadorian Quechua B (7) 
+■ Cañar Highland Quichua 
+■ Ecuadorian Lowland Quechua (4) 
+● Napo Lowland Quechua 
+● Northern Pastaza Quichua 
+● Southern Pastaza Quechua 
+● Tena Lowland Quichua 
+■ Imbabura Highland Quichua 
+■ Loja Highland Quichua 
+○ Ingan Quechua IIB (2) 
+● San Martín Quechua 
+■ Quechua IIC (9) 
+ 
+Figure 2: Quechuan language family 
+(https://glottolog.org/resource/languoid/id/quec1387) 
+ 
+Today there are approximately 10,000 speakers of PK with an estimated 300 monolingual 
+speakers. PK is classified as threatened in both Glottolog and Ethnologue and classified as 
+vulnerable according to the Endangered Languages Project (Lewis, Simon, and Fennig 2016). 
+Typologically, PK exhibits fairly typical Quechuan morphosyntactic properties. It has 
+nominative-accusative alignment. The basic word order is SOV, though in many situations there 
+seems to be free variation with SVO. PK employs a switch-reference system. Morphologically, 
+PK is a highly agglutinating, suffixing language. Unlike many of the Peruvian varieties of 
+Quechua described in the literature, PK lacks a full paradigm of personal reference markers used 
+4 
+on nouns to express possession and on verbs to indicate direct object agreement. The loss of 
+these in PK is perhaps due to influence from the Barbacoan languages that were spoken 
+throughout Ecuador when Quechua was first introduced (Gijn 2016). Muysken (2000: 985) 
+posits that the morphological and phonological reductions found in Lowland Ecuadorian Kichwa 
+varieties, when compared to Peruvian varieties, are possibly the result of a creolization that 
+occurred after Spanish colonialization. 
+ 
+1.2 The -k suffix 
+ 
+The -k suffix in PK is described by Nuckolls & Swanson (forthcoming) as an attributive 
+suffix. This attributive suffix is defined as a deverbal nominalization that “attributes a certain 
+role, ability, activity, or characteristic trait to the subject of its verb” (Nuckolls & Swanson, 
+forthcoming: 174). As a nominalizer the -k suffix is similar to the agent noun suffix -er in 
+English. For example, English teach becomes teach-er (teach-AN) ‘one who teaches’. Similarly, 
+in PK, yachachi-na (teach-INF) ‘to teach’ becomes yachachi-k (teach-SUF) ‘teacher’ or ‘one who 
+teaches.’ However, Nuckolls & Swanson observe a number of non-agentive uses of the -k suffix, 
+and therefore do not refer to the -k suffix as “agentive” (Nuckolls & Swanson, forthcoming: 
+180). 
+Descriptions of other Quechan languages have generally analyzed equivalent suffixes as 
+agentive nominalizers, though they have also been analyzed as active participles, habitual aspect 
+markers, relative subordinators, and complementizers. A goal of this paper is to determine the 
+most appropriate categorization of the -k suffix based on its behavior. Throughout this paper the -
+5 
+k suffix will be glossed SUF so as not to favor one analysis over another until a conclusion is 
+made. 
+Concerning the phonological representation of the suffix in the literature, the -k suffix in 
+PK is generally represented as a voiceless velar stop [k], though it can allophonically be realized 
+as a voiced velar stop [g] when followed by a voiced consonant (Nuckolls & Swanson, 
+forthcoming: 176). The agent noun suffixes in a number of other Quechuan varieties are also 
+described as [k] (Markham 1864; Coombs 1976; Catta Quelen 1985). In the Imbabura dialect 
+described by Cole (1985), the equivalent suffix is realized as a voiceless velar fricative [x] which 
+is represented in examples from the literature using the letter -j per Spanish orthography. In the 
+Peruvian varieties, the agentive noun suffix is a voiceless uvular stop [q] and is represented in 
+the orthography as such (Weber 1983; Weber 1989; Parker 1969; Lefebvre & Muysken 1988, 
+etc.). It is reasonable to assume that historically these suffixes share a common source, likely the 
+uvular [q], as the function is roughly the same in each variety, and the uvular consonants have 
+been lost in the Ecuadorian varieties, becoming velar (Muysken 2000). 
+Nuckolls & Swanson (forthcoming) is a pedagogical grammar of PK and is the only work 
+to describe the -k suffix in PK, presenting the suffix’s forms and its four main functions. In 
+addition to nominal functions, verb + -k forms are shown to function also as adnominal 
+modifiers. It is also observed that verb + -k forms are used in a habitual aspect construction in 
+which a verb + -k form is used with the verb ana ‘to be’ (Nuckolls & Swanson, forthcoming: 
+192). Also, Nuckolls & Swanson describe verb + -k forms functioning adverbially to modify a 
+matrix verb in instances where the verb + -k form cannot be said to fill an argument of the matrix 
+verb (Nuckolls & Swanson, forthcoming: 208). In summary, a verb + -k form can function as a 
+noun, as a modifier, as a habitual aspect marker, and as an adverb. A goal of chapter 2 will be to 
+6 
+examine these claims and compare them to data from the CPK in order to verify Nuckolls & 
+Swanson’s characterization of the suffix. 
+Looking outside of PK, there is a small literature on agentive nominals in other varieties 
+of Quechua. Table 1 summarizes these sources. They are sorted first by the branch of the 
+Quechuan language family in which each variety is found, in relation to PK. Since PK is a 
+Quechua II-B (QII-B) language spoken in Ecuador, QII-B languages of Ecuador are listed first, 
+followed by other QII-B languages. These are followed by QII-C languages of Peru and Bolivia, 
+and finally QI languages. The name of the Quechuan variety and the source is given, as well as 
+the phonological representation in each variety of the agent nominal suffix. Finally, a summary 
+of the key analyses made in each source concerning the suffix is given. 
+ 
+Table 1: Summary of non-PK literature 
+Family Location Variety Source Representation Analysis 
+QII-B Ecuador Imbabura Cole 
+(1985) 
+-j [x] Agentive nominalizer, 
+relativizer, “headless” 
+relatives, part of a 
+subordinate tense 
+paradigm 
+QII-B Ecuador Chimborazo Catta 
+Quelen 
+(1985) 
+-c [k] “Habitual” participle 
+QII-B Peru San Martin Coombs 
+(1976) 
+-k El que… “one who…” 
+QII-C Peru Ayacucho Parker 
+(1969) 
+-q Agent nominal, with 
+adverbial functions 
+QII-C Peru Ayacucho Soto Ruiz 
+(1976) 
+-q Agent noun 
+7 
+QII-C Peru Cusco Lefebvre & 
+Muysken 
+(1988) 
+-q Agentive nominalizer, 
+relativizer, 
+complementizer, 
+inflectional vs. 
+derivational 
+QII-C Peru Cusco Muysken 
+(1994) 
+-q Agentive nominalizer, 
+head of participial clause 
+QII-C Peru Qosqo Samanez 
+Flores 
+(1996) 
+-q Agentive nominal 
+QII-C Peru Santiago del 
+Estero 
+Alderetes 
+(2001) 
+-q Agentive nominalizer, 
+subordinator, relativizer, 
+complementizer 
+QII-C Bolivia Cochabamba, 
+Oruro, Potosi 
+Gomez 
+Bacarreza 
+(1988) 
+-x Agentive nominalizer 
+QII-C Bolivia Cochabamba, 
+Oruro, Potosi 
+Huarachi 
+Revello 
+(2005) 
+-q Agentive nominalizer 
+QI Peru Huaylas Escribens 
+(1970) 
+-q Agentive nominalizer 
+QI Peru Huallaga Weber 
+(1983) 
+-q Agentive nominal, 
+relativizer, adverbial uses, 
+non-agentive uses 
+QI Peru Huallaga Weber 
+(1989) 
+-q Active participle, agentive 
+nominalizer, habitual 
+marker, narrative past, 
+relativizer, sensory verb 
+complementizer, 
+adverbially purpose-
+motion construction, non-
+temporal habitual 
+nominalizer 
+8 
+QI Peru Pacaraos Adelaar 
+(1987) 
+-q Agentive nominalizer, 
+past habitual aspect 
+marker 
+ 
+To summarize, among Quechuan languages there is a suffix -k, -x, or -q (likely derived 
+from proto *-q) that derives a noun or participle from a verb. It is classified as an agentive 
+nominalizer in nearly all analyses. The resulting noun or participle refers to the agent or active 
+participant of the verb and can function as a noun, a nominal relative, a habitual aspect marker, a 
+verbal complement, and/or an adverb. Comparing Nuckolls & Swanson’s description of the -k 
+suffix in PK to these descriptions, there are clear similarities, e.g., deverbal derivation, nominal 
+functions, adnominal modifying functions, habitual aspect construction, adverb-like use. A goal 
+of chapter 2 will be to examine these behaviors in greater detail, and to explore potential other 
+uses of the suffix in PK not addressed by Nuckolls & Swanson, such as complementation. 
+In order to fully characterize the -k suffix in PK I will use the Corpus of Pastaza Kichwa 
+to take inventory of its uses and the environments in which it is found. This survey will be 
+informed first by Nuckolls & Swanson’s description of the suffix. Then I will turn to the 
+descriptions of other Quechuan languages to see how well, if at all, those descriptions match the 
+behavior of the suffix in PK. 
+ 
+1.3 The Corpus of Pastaza Kichwa 
+ 
+The Corpus of Pastaza Kichwa (CPK) was created by Rice (2018a) and is composed of 
+40 narrative texts totaling 32,127 words (tokens). The majority of the recorded narratives (29 out 
+of 40) were collected by Dr. Janis B. Nuckolls (Brigham Young University) and are archived in 
+9 
+the Quechua Collection in the Archive of Indigenous Languages of Latin America (AILLA) at 
+the University of Texas Austin. The remaining narratives (11 out of 40) were recorded by Dr. 
+Tod D. Swanson (Arizona State University) who owns and operates a field school outside of 
+Tena, Ecuador, where Kichwa language and culture is studied and taught. In each case, the texts 
+were recorded and transcribed in handwritten notes that were then re-transcribed into digital 
+format before creating the CPK. 
+Rice’s motivation for creating the CPK was twofold: first, to facilitate the study of PK 
+morphology and syntax, specifically switch reference (see Rice’s MA thesis Switch-Reference in 
+Pastaza Kichwa, 2018b); and second, to show that the use of corpora in documentary linguistics 
+can be a “fruitful endeavor” (Rice 2018b: 30). Using corpora, it is possible to analyze large 
+amounts of data and to discover patterns that may have been less apparent or less intuitively 
+observed. There are of course shortcomings to using corpora. With under-documented languages 
+the available data, or lack thereof, can affect the validity and usefulness of a corpus. This risk can 
+be mitigated in part by gathering data from a variety of sources on a variety of subjects. In the 
+case of PK there was no digitized corpus before the CPK, leading Rice to build the corpus from 
+the ground up. Rice chose to use narrative texts taken from recorded speech of a native speaker, 
+Sra. Luisa Cadena. The advantage of using these narratives in creating the CPK is that they 
+represent natural speech and cover a variety of subjects. A shortcoming is that the data is 
+representative of only one speaker. 
+Table 2 lists the complete set of narratives that make up the CPK, along with the name of 
+the speaker, the name of the contributor who recorded the narrative, and the word count. They 
+are sorted alphabetically according to the title. These works are cited throughout this paper by 
+10 
+their abbreviation following “CPK:”. For example, a sentence taken from the story “Adopting an 
+anaconda” will be cited (CPK:ado). 
+ 
+Table 2: Narratives in the CPK 
+Abbreviation Title Speaker Contributor Word 
+Count 
+ado Adopting an anaconda Luisa Cadena Nuckolls 2,190 
+aft After a lake explodes Luisa Cadena Nuckolls 2,405 
+ama A marriage breaks up Luisa Cadena Nuckolls 1,444 
+ams Amasanga warmi simayuka tukun Luisa Cadena Swanson 1,092 
+bec Becoming a shaman Luisa Cadena Nuckolls 446 
+can Canoe of death Luisa Cadena Nuckolls 470 
+cha Chased by a motolo Luisa Cadena Nuckolls 637 
+def Defending my brothers Luisa Cadena Nuckolls 457 
+est Esteban and Mareclina Nuñez Luisa Cadena Nuckolls 902 
+fin Finding Peruvian spy Luisa Cadena Nuckolls 7,860 
+fru Frustration Luisa Cadena Nuckolls 35 
+how How people grow old and die Luisa Cadena Nuckolls 491 
+hww How we work with clay Luisa Cadena Nuckolls 99 
+ind Indillama Luisa Cadena Swanson 491 
+jag Jaguar chagra Luisa Cadena Nuckolls 1,831 
+mac Machin Martin and Martina Luisa Cadena Swanson 300 
+man Mana shutiashka taruga tukun Luisa Cadena Swanson 241 
+myf My first pregnancy Luisa Cadena Nuckolls 850 
+11 
+new New world coming Luisa Cadena Swanson 609 
+pah Paho Luisa Cadena Nuckolls 233 
+per Peruvians with a dolphin Luisa Cadena Swanson 265 
+pie Piercing ears Luisa Cadena Nuckolls 72 
+pum Pumas want woman Luisa Cadena Nuckolls 289 
+rai Raising a chichicu Luisa Cadena Nuckolls 327 
+ram Ramana and Ramayana Luisa Cadena Nuckolls 288 
+ray Rayu Runa Luisa Cadena Swanson 192 
+ser Serrucho anaconda Luisa Cadena Nuckolls 1,882 
+sui Suicide Luisa Cadena Nuckolls 469 
+sun Sun bittern Luisa Cadena Swanson 356 
+tay Tayag warmiwa wawauna Luisa Cadena Swanson 232 
+the The chickwan speaks Luisa Cadena Nuckolls 1,260 
+thk The killing near big water Luisa Cadena Nuckolls 394 
+thp The proper way to cut a branch Luisa Cadena Nuckolls 118 
+thr The return of dead and animals Luisa Cadena Swanson 361 
+thu The unseen dangers of a swollen 
+river 
+Luisa Cadena Nuckolls 369 
+tip Titipuru supay Luisa Cadena Nuckolls 1,198 
+toa To ask a wana where it’s from Luisa Cadena Nuckolls 89 
+twi Twitching Luisa Cadena Nuckolls 144 
+umu Umu perfume Luisa Cadena Swanson 124 
+wha What an anaconda caught Luisa Cadena Nuckolls 615 
+ 
+12 
+1.3.1 Tagging and preliminary data 
+ 
+In total there are 846 occurrences of the -k suffix in the CPK. Each of these was tagged 
+by the author of this thesis for its morphological and syntactic characteristics, i.e., morphological 
+co-occurrences and syntactic roles. Tables 3, 4, and 6 summarize the tags, criteria, and 
+preliminary results of searches in the CPK, with examples. Included also in Table 5 is a summary 
+of the PK enclitics that interact with verb + -k forms. These were not tagged but are presented 
+here for completeness in describing the nominal and verbal morphology found to co-occur with 
+the -k suffix. 
+Morphologically, the -k suffix attaches to a verbal stem which can be composed of the 
+verbal root and certain suffixes. Table 3 summarizes the verbal suffixes that were found to co-
+occur with the -k suffix in the CPK 
+ 
+Table 3: Verbal suffixes used with -k 
+Suffix Gloss Number of co-
+occurrences 
+with -k 
+Example  Source  
+-chi causative 44 riku-chi-k 
+see-CAUS-SUF 
+‘one who shows’ 
+CPK:ind 
+-ri passive 58 riku-ri-k 
+see-PASS-SUF 
+‘one who appears,’ i.e., is seen 
+CPK:ser 
+-naku reciprocal 6 rima-naku-k 
+speak-RECIP-SUF 
+‘those who speak to each other’ 
+CPK:def 
+-wa 1S object 22 kwinta-wa-k CPK:tip 
+13 
+tell-1S.OBJ-SUF 
+‘one who tells me’ 
+-mu cislocative 5 apa-mu-k 
+take-CIS-SUF 
+‘one who brings’ 
+CPK:ado 
+-ya inchoative 4 pundzha-ya-k 
+day-INCH-SUF 
+‘that which becomes bright’ 
+CPK:fin 
+-u durative 8 puri-u-k 
+walk-DUR-SUF 
+‘one who is walking’ 
+CPK:cha 
+[None]  699 riku-k 
+see-SUF 
+‘one who sees’ 
+CPK:ams 
+ 
+The -k suffix derives a deverbal noun, which means the resulting verb + -k form can take 
+nominal morphology. Table 4 shows the nominal suffixes that co-occur with the -k suffix in the 
+CPK. 
+ 
+Table 4: Nominal suffixes used with -k 
+Suffix Gloss Number of co-
+occurrences 
+with -k 
+Example  Source 
+-guna plural 38 apa-k-guna 
+take-SUF-PL 
+‘those who take’ 
+CPK:cha 
+-ta direct 
+object 
+2 yacha-k-guna-ta 
+know-SUF-PL-ACC 
+‘shamans’ lit. ‘those who know’ 
+CPK:fin 
+-wan comitative 1 yacha-k-wan CPK:bec 
+14 
+know-SUF-COM 
+‘with the shaman’ 
+-gama ‘until’ 1 paki-ri-k-gama-ga 
+break-PASS-SUF-UNTIL-TOP 
+‘until it is broken’ 
+CPK:aft 
+[None]  804 yacha-k 
+know-SUF 
+‘shaman’ lit. ‘one who knows’ 
+CPK:tip 
+ 
+Additionally, there are four enclitics that are found to interact with verb + -k forms in PK. 
+These are -mi, -shi, -ga, and -chu. -mi is an evidential that indicates a statement made from the 
+perspective of the speaker or self. -shi is an evidential that indicates a statement made from the 
+perspective of an other. -ga is a topicalizer. And -chu is an irrealis marker used in negative 
+constructions and yes/no questions. As clitics, these have greater freedom to attach to nouns, 
+verbs, and other categories, which means their use with verb + -k forms tells us little about the 
+category of the verb + -k form. However, it bears mentioning that there are interactions. Table 5 
+shows how many times each enclitic was found to co-occur with a verb + -k form in the CPK. 
+ 
+Table 5: Enclitics used with -k 
+Suffix Gloss Number of 
+co-
+occurrences 
+with -k 
+Example Source 
+-mi self 
+evidential 
+26 ñuka  kusa        illapa-s           illa-k-mi 
+1S      husband  shotgun-DESP  lack-SUF-EVS 
+‘my husband lacked even a shotgun’ 
+CPK:cha 
+-shi other 
+evidential 
+10 kasna      riku-ri-k-shi           a-g       a-ra-ngi 
+like.this  see-PASS-SUF-EVO  be-SUF be-PST-2S 
+CPK:how 
+15 
+‘you used to appear like this, they say’ 
+-ga topic 71 kanta-k-ga 
+sing-SUF-TOP 
+‘the singer’ 
+CPK:jag 
+-chu irrealis 7 ñuka-ga  mana  miku-k-chu  a-ni 
+1s-TOP     NEG    eat-SUF-IRR  be-1S 
+‘I am not an eater’ 
+CPK:ind 
+[None]  732 ñuka  yaya    kwinta-k   a-ra 
+1S      father  tell-SUF     be-PST 
+‘my father used to tell (a story)’ 
+CPK:ser 
+ 
+Finally, each verb + -k form was tagged for the syntactic role it played in the phrase in 
+which it was found. These roles and the criteria for determining them are based on Nuckolls & 
+Swanson’s description of the suffix in PK and the descriptions found in the literature of agent 
+noun suffixes that may be equivalent in other Quechuan varieties. These are described here and 
+are summarized in Table 6. 
+The nominal quality of verb + -k forms in the literature seems chiefly to be based on their 
+ability to take nominal morphology (Nuckolls & Swanson, forthcoming: 176; Lefebvre & 
+Muysken 1988: 3; etc.). Additionally, verb + -k forms can serve as the argument of a verb, can be 
+modified by nominal modifiers, such as adjectives, demonstratives, and relatives, and can stand 
+alone in an NP. 
+The key defining feature in determining if a verb + -k form is part of a habitual aspect 
+construction is its collocation with a form of the verb ana ‘to be’ (Nuckolls & Swanson, 
+forthcoming: 192; Weber 1989; Adelaar 1987: 32; Hurtado de Mendoza 2002: 92-93). All other 
+cases where a verb + -k form is used with a verb, but is not an argument of the verb, are 
+considered adverbial (Nuckolls & Swanson, forthcoming: 208). 
+16 
+Though not described explicitly by Nuckolls & Swanson, but described throughout the 
+literature, a verb + -k form that modifies a head noun, or one that has internal argument structure, 
+such as a direct object marked with the accusative suffix -ta, is considered a relative clause, and 
+specifically a nominalized relative, meaning a clause (with internal structure) that can function as 
+a noun or modify a head noun (Weber 1983; Weber 1989; Cole 1985; Lefebvre & Muysken 
+1988). Additionally, it is the case that in most of the literature that describes relative clauses in 
+Quechuan languages, a verb + -k form that stands alone in an NP is analyzed as a relative clause 
+without an overt head noun, and is considered a “headless relative” (Cole 1985: 175). This 
+analysis would mean that all of those forms in the current study tagged NOM should likewise be 
+tagged REL. At this stage, however, I have chosen to keep the tags separate so as to maintain a 
+distinction between the two behaviors, i.e., noun-like vs. modifier-like, but with the 
+understanding that further analysis will likely conflate these two categories. 
+In the literature, a number of authors have referred to verb + -k forms as participles 
+(Markham 1864; Weber 1989; Guardia Mayorga 1973; Catta Quelen 1985; Debenbach-Salazar 
+Saenz 1993, Muysken 1994). The term “participle” can be difficult to define crosslinguistically, 
+and not all of the authors in the Quechuan literature who use the term define it. In the absence of 
+clear criteria in the Quechuan literature, I have chosen not to use participles as a tag; however, by 
+the end of this thesis I hope to reach a better understanding of what participles are, especially in 
+terms of the -k suffix in PK. 
+Table 6 summarizes the syntactic tags, the categories, and the criteria used in tagging. 
+ 
+Table 6: Syntactic distribution 
+Occurrences 
+of verb + -k 
+Tag Category Criteria 
+17 
+forms 
+237 NOM Head of NP ● Nominal morphology (e.g., nominal plural) 
+● Argument of a verb 
+● Modified by adjective, demonstrative, or relative 
+● Stands alone in a phrase 
+473 HAB Habitual 
+aspect 
+● Co-occurrence with a form of the verb ana ‘to be’ 
+24 ADV Adverbial ● Non-argument co-occurrence with a verb other than 
+ana (e.g., shamuna ‘to come’) 
+119 REL Relativizer ● Modifies a head noun 
+● Internal argument structure (e.g., co-occurrence 
+with an accusative marked direct object or an 
+oblique) 
+ 
+1.4 Summary 
+ 
+In this chapter I have given a brief description of PK and the Quechuan language family. 
+This set the stage for a discussion of the -k suffix in PK. I summarized the existing literature 
+surrounding the suffix in PK and agent noun suffixes in other Quechuan varieties. I have also 
+introduced the CPK and presented data preliminary to analyzing the suffix’s behavior. In the 
+next chapter I present data from the CPK that exemplify the behavior of the -k suffix. 
+  
+18 
+Chapter 2: Description 
+ 
+In this chapter I present a description of the -k suffix in PK using data from the CPK. I 
+begin by presenting the description of Nuckolls & Swanson (forthcoming), as it is the only 
+description of the suffix in PK. Nuckolls & Swanson describe four behaviors of the suffix. First, 
+definitionally the suffix derives a noun from a verb. Nuckolls & Swanson also observe the non-
+agentive uses of the suffix, calling into question the accuracy of the term “agentive” in 
+classifying this suffix. Second, a verb + -k form can modify another noun. Third, the suffix is 
+used in a verbal habitual aspect construction with the verb ana ‘to be.’ Fourth, verb + -k forms 
+can function adverbially to modify a non-copular verb. 
+I supplement Nuckolls & Swanson’s description with other descriptions of agent nouns 
+from the literature, as appropriate, in order to compare data from the CPK to their 
+characterizations. Chiefly, I will look at Weber (1989), Cole (1985), and Lefebvre & Muysken 
+(1988). Weber observes the non-agentivity of the “agentive” suffix in Huallaga Quechua. 
+Additionally, Weber describes the suffix as a participle (Weber 1989: 284). Cole describes the 
+agentive nominal in Imbabura Quechua as a relativizer and argues for “headless” relatives. Cole 
+also argues that the suffix is part of a subordinate tense paradigm, marking present tense. 
+Lefebvre & Muysken describe relative functions and complement functions of the suffix in 
+Cusco Quechua. Additionally, Lefebvre & Muysken argue for a derivational version of the 
+agentive suffix and an inflectional version in Cusco Quechua. 
+Finally, I present data on the PK suffix -shka in order to determine if there is a 
+relationship between it and the -k suffix. Throughout the literature the -k and -shka suffixes have 
+been described as contrasting participles (Markham 1864; Coombs 1976; Catta Quelen 1985; 
+19 
+Debenbach-Salazar Saenz 1993) and contrasting nominalizers (Soto Ruiz 1976; Cole 1985; 
+Lefebvre & Muysken 1988; Escribens 1970; Alderetes 2001). A comparison of the two suffixes, 
+if it is found that they are of the same category, may inform our understanding of the -k suffix.  
+ 
+2.1 Noun-like 
+ 
+Nuckolls & Swanson introduces the -k suffix as being similar to the -er suffix of English, 
+i.e., the agent noun marker. The suffix attaches to a verb root and the resulting derivation is a 
+noun, being able to take nominal morphology, such as the plural, as seen in (1). 
+ 
+(1) mandzha-na      → mandzha-k        → mandzha-k-guna 
+fear-INF  fear-SUF  fear-SUF-PL 
+‘to fear’  ‘fearer’  ‘fearers’ 
+      (Nuckolls & Swanson, forthcoming: 176) 
+ 
+In the CPK, 38 verb + -k forms occur with the nominal plural -guna. A few examples are 
+presented in (2). 
+ 
+(2) apa-k-guna (take-SUF-PL) ‘takers’    (CPK:cha) 
+ri-k-guna (go-SUF-PL) ‘goers’     (CPK:fin) 
+shamu-k-guna (some-SUF-PL) ‘comers’   (CPK:per) 
+shaya-k-guna (stand-SUF-PL) ‘standers’   (CPK:sui) 
+wañu-k-guna (die-SUF-PL) ‘die-ers’    (CPK:thr) 
+ 
+Verb + -k forms are also able to take case marking, including the accusative suffix -ta, the 
+comitative -wan, and the ‘until’ suffix -gama (all properties of nouns), as in (3). 
+20 
+ 
+(3) yacha-k-guna-ta (know-SUF-PL-ACC) ‘knowers’ or ‘shamans’ (CPK:fin) 
+puñu-k-guna-ta-shi (sleep-SUF-PL-ACC-EVO) ‘sleepers’ (CPK:tip) 
+yacha-k-wan (know-SUF-COM) ‘with the shaman’  (CPK:bec) 
+paki-ri-k-gama (break-PASS-SUF-until) ‘until broken’ (CPK:aft) 
+ 
+Verb + -k forms can be modified by demonstratives, such as chi ‘that,’ adjectives, such as 
+ali ‘good,’ quantifiers, such as tukuy ‘all,’ and numbers. 
+ 
+(4) chi yacha-k (that know-SUF) ‘that knower’ or ‘that shaman’ (CPK:bec) 
+ali asna-k (good smell-SUF) ‘good smeller’ or ‘thing that smells good’ (CPK:umu) 
+tukuy wañu-k-kuna (all die-SUF-PL) ‘all die-ers’ or ‘all those who die’ (CPK:thr) 
+ishkay chunga tiya-k-guna (two ten exist-SUF-PL) ‘twenty existers’ (CPK:fin) 
+ 
+Verb + -k forms can also be modified by postpositional phrases, as in (5) where they are 
+underlined. While this behavior is not necessarily nominal, as PPs can also function as verbal 
+complements, these data bear mentioning. 
+ 
+(5) yaku-y tiya-k (water-LOC exist-SUF) ‘one that exists in the water’ (CPK:bec) 
+perwano-ma ni-k (Peruvian-DAT say-SUF) ‘one that says (it) to the Peruvian’ (CPK:ser) 
+ñuka-wan ri-g (1s-COM go-SUF) ‘one who goes with me’ (CPK:ams) 
+yacha-k laro-i tiyari-k (shaman side-LOC sit-SUF) ‘one who sits by a shaman’ (CPK:bec) 
+ 
+Verb + -k forms can function as verbal arguments, e.g., subject, as in (6) and (7), or direct 
+object, as in (8) and (9). 
+ 
+(6) ishkay  chunga  tiya-k-guna   ri-nawn    (CPK:fin) 
+two      ten         exist-SUF-PL  go-3P 
+21 
+‘Twenty dwellers go’ 
+ 
+(7) chi-bi      muyu-ta    apa-k-guna  shamu-naw-ra  (CPK:cha) 
+that-LOC  fruit-ACC  take-SUF-PL  come-3P-PST 
+‘There the fruit takers came’ 
+ 
+(8) chi-ga,    yacha-k-guna-ta     kacha-nga,   haku!  (CPK:fin) 
+that-TOP  know-SUF-PL-ACC  send-3S.FUT  let’s.go 
+‘Then he will send the shaman, let’s go!’ 
+ 
+(9) puñu-k-guna-ta-shi        kati-sha    ni-shka-ra...  (CPK:tip) 
+sleep-SUF-PL-ACC-EVO  follow-SS  say-PERF-PST 
+‘Following the sleepers, he said…’ 
+ 
+Each of these behaviors, i.e., taking number and case morphology, being modified by 
+demonstratives, articles, and quantifiers, and participating in verbal argument structure, is 
+evidence of the noun-like function of verb + -k forms. 
+ 
+2.2 Non-agentive 
+ 
+The -k suffix is used with many verbs that refer to volitional actions, such as those in 
+(10). 
+ 
+(10) wakta-k (hit-SUF) ‘hitter’     (CPK:ser) 
+shita-k (throw-SUF) ‘thrower’     (CPK:ado) 
+salta-k (jump-SUF) ‘jumper’     (CPK:cha) 
+ra-k (do/make-SUF) ‘do-er/maker’    (CPK:def) 
+kallpa-k (run-SUF) ‘runner’     (CPK:the) 
+hapi-k (catch-SUF) ‘catcher’     (CPK:thk) 
+ 
+22 
+However, it is observed that the PK suffix is also used with verbs of low animacy and 
+low agentivity crosslinguistically. For this reason, the term “attributive” is preferred over the 
+term “agentive” (Nuckolls & Swanson, forthcoming: 180). In (11), Nuckolls & Swanson cite an 
+example in which a native Kichwa speaking woman describes the design on a clay drinking 
+bowl. 
+ 
+(11) kasna    muyu-g        a-ra           lluw  ñambi-ga 
+like.this  curve-SUF  be-PST-3S  IDEO  path-TOP 
+‘As for the path, this is how it’s a curver, (going) lluw.’ 
+(Nuckolls & Swanson, forthcoming: 180) 
+ 
+The verb muyuna ‘to curve around’ receives the -k suffix (which is often voiced [g] in PK 
+as it is here), and it is used to describe the ñambi ‘path.’ The use of a stative verb and a subject 
+that cannot be an agent illustrate the reasons for Nuckolls & Swanson’s hesitation to use the term 
+“agentive.” Rather, the verb with the -k suffix is used to “attribute” the quality of being curved to 
+the path represented by the lines on the clay bowl. The term “attributive” is used to capture both 
+the agentive and non-agentive uses of the -k suffix. (For many more examples of the -k suffix 
+being used to attribute qualities to low animacy entities, see Nuckolls’ audiovisual archive of PK 
+ideophones: http://quechuarealwords.byu.edu/.) 
+Following is a sample of other examples of verb + -k forms derived from verbs that are 
+crosslinguistically less agentive or volitional. 
+ 
+(12) a-k (be-SUF) ‘be-er’      (CPK:aft) 
+wañu-k (die-SUF) ‘die-er’     (CPK:ado) 
+illa-k (lack-SUF) ‘lacker’     (CPK:ama) 
+riku-ri-k (see-PASS-SUF) ‘appearer’    (CPK:pah) 
+23 
+puñu-k (sleep-SUF) ‘sleeper’     (CPK:fin) 
+tiya-k (exist-SUF) ‘exister/dweller’    (CPK:thk) 
+ 
+Nuckolls & Swanson are not the first to observe the non-agentive use of the “agentive” 
+suffix in a Quechuan language. Snow (1973: 79) observed, in different words, the attributive 
+quality of the -q suffix in Ancash Quechua (spoken in Ancash, Peru) when he said “the suffix -q 
+occurs in relative clauses as an indication of a process performed by or a characteristic of a 
+specified agent.” Though Snow discusses a “specified agent,” the observation that -q relative 
+clauses can indicate “characteristics” implies something perhaps closer to Nuckolls & Swanson’s 
+attributive. Costa (1972: 60) claims that “in [Peruvian] Quechua the agent noun form and relative 
+clause form are the same, but when the -q suffix is used in a relative clause the noun referred to 
+need not be animate.” And later, Weber (1983) explored relativization in Huallago Quechua, 
+spoken in the Huanuco province, Peru, observing that relativization with -q is clearly not limited 
+to agents. The following examples (13-17) are taken from that description. 
+ 
+(13) qasa-q          yaku      (Weber 1983: 32) 
+be.cold-SUF  water 
+‘cold water’ 
+ 
+(14) chunya-q        hirka      (Weber 1983: 32) 
+be.silent-SUF  mountain 
+‘deserted mountain’ 
+ 
+(15) shunta-y     asukar  shikwa-q-ta    (Weber 1983: 32) 
+gather-IMP  sugar    spilled-SUF-ACC 
+‘Gather up the sugar that spilled.’ 
+ 
+(16) chay  meesa  hanan-chaw  kayka-q     shikra   (Weber 1983: 32) 
+that   table     its.top-LOC    being-SUF  basket 
+‘that basket which is on top of the table’ 
+24 
+ 
+(17) huk  chay  wañu-q  kasta             aywan…   (Weber 1983: 32) 
+one  that   die-SUF  clan/relation  goes 
+‘one of the dead person’s relatives goes…’ 
+ 
+In each instance, the relativized verb is intransitive and does not take an agent subject, 
+with the exception of shikwa- ‘to spill’ which is transitive, but ‘sugar’ is its patient. Additionally, 
+Weber observes that the NP head of the relative clause does not even need to be a physical 
+object, as in (18): 
+ 
+(18) … aybeesi        usha-q       fibreeru-chaw   (Weber 1983: 33) 
+     sometimes  finish-SUF  february-LOC 
+‘... sometimes during the end of February’ 
+ 
+These observations are in line with Nuckolls & Swanson’s characterization of the non-
+agentivity of the -k suffix in PK. Similar examples can be found in the CPK. (19) resembles 
+Weber’s example in (17) with the verb wañuna ‘to die.’ 
+ 
+(19) ñuka  wañu-k  mikia      (CPK:the) 
+1S      die-SUF  aunt 
+‘my late aunt’ 
+ 
+In these examples and those given by Nuckolls & Swanson it is not agentivity that is 
+important, rather the verb + -k forms are used to attribute qualities related to the verb, per 
+Nuckolls & Swanson’s characterization. 
+ 
+25 
+2.3 Noun modifier 
+ 
+Importantly, the examples given by Weber (13-16) differ from the examples given by 
+Nuckolls & Swanson up to this point in that the verb + -k forms behave like adjectives, 
+modifying a head noun. Example (19), above, shows that similar behavior can be found in the 
+CPK. In the CPK there are 30 examples of verb + -k forms directly modifying nouns in this way. 
+Following is a sample. 
+ 
+(20) piña-k             rayu      (CPK:ray) 
+be.angry-SUF  lightning 
+‘angry lightning’ or ‘lightning that is angry’ 
+ 
+(21) kasa-k      amarun      (CPK:ado) 
+hunt-SUF  anaconda 
+‘hunting anaconda’ or ‘anaconda that hunts’ 
+ 
+(22) chuchu-chi-k       wawa-yuk     (CPK:est) 
+breast-CAUS-SUF  baby-PSSR 
+‘milk-giving baby-possessor’ or ‘one who has a baby and who gives milk’ 
+ 
+In descriptions of other Quechuan varieties, it is chiefly because of this behavior that the -
+k suffix is analyzed as a relativizer. A relative clause is a clause that modifies a noun in an NP. 
+For example, in the English NP “the man who saw the movie,” the clause “who saw the movie” 
+modifies the noun “the man.” Cole (1985) describes verb + -j forms in Imbabura Quechua, 
+spoken in northern Ecuador, as relatives. As a Quechua II-B language of Ecuador, Imbabura 
+Quechua is the most closely related variety to PK among those found in the literature. The 
+Imbabura suffix -j [x] is described as an agentive nominalizer used to form present tense relative 
+clauses (Cole 1985: 175). What this analysis implies, and indeed what Cole argues for, is that 
+26 
+when a verb + -k form is found as the head of an NP, i.e., not modifying a head noun, it can be 
+considered a “headless relative,” i.e., a relative clause that does not have an overt head noun in 
+the NP (Cole 1985: 175). This analysis means that the examples of noun-like behavior presented 
+in section 2.1 would actually be examples of headless relative clauses. 
+An important characteristic of relative clauses is the retention of verbal argument 
+structure. This is exemplified by verb + -k forms assigning case, as in the following: 
+ 
+(23) aswa-ta upi-k (aswa-ACC drink-SUF) ‘aswa drinker’  (CPK:can) 
+warmi-ta muna-k (woman-ACC want-SUF) ‘woman wanter’ (CPK:ado) 
+tinaha-ta wata-k (jar-ACC tie-SUF) ‘jar tie-er’  (CPK:aft) 
+sawli-ta chari-k (machete-ACC have-SUF) ‘machete have-er’ (CPK:jag) 
+ 
+In each instance, the direct object (in bold) is marked with the accusative suffix -ta. In 
+PK, verbs always assign accusative case to a direct object. This means the verb + -k form, in 
+addition to its noun-like qualities, also has verb-like qualities, being able to assign case, as well 
+as the adjective-like function of modifying a head noun. 
+One verb + -k form in the CPK is consistently found to not assign case, or at least its 
+direct objects are consistently not marked with the accusative -ta. The verb illana ‘to lack’ 
+becomes illa-k (lack-SUF) ‘lacker’ and is found in the CPK 17 times. Of these 12 co-occur with a 
+direct object, i.e., the thing that is lacked, and none of these direct objects are marked with the 
+accusative suffix -ta. For example: 
+ 
+(24) kuchillu illa-k (knife lack-SUF) ‘knife lacker, or lacking a knife’ (CPK:fin) 
+wawa illa-k (baby lack-SUF) ‘baby lacker, or lacking a baby’ (CPK:aft) 
+kusa-ga illa-k (husband-TOP lack-SUF) ‘husband lacker, or lacking a husband’ (CPK:ama) 
+illapa-s illa-k (rifle-DESP lack-SUF) ‘lacking even a rifle’ (CPK:fin) 
+27 
+ 
+Not only are none of the direct objects (in bold) marked with the accusative case, illa-k is 
+the only verb + -k form that does not assign accusative case to its direct object in the CPK. This 
+could be the result of colloquial usage, or simply incidental to the relatively small data set. It 
+could also be explained that illa-k is perhaps a more derivational verb + -k form, deriving a more 
+noun-like form that cannot assign case. This would imply that the direct object in each is 
+compounded to the nominal verb + -k form, making each an example of a synthetic compound, 
+an endocentric noun-noun compound in which the deverbal head retains its verbal argument 
+structure, and the non-head element fills an argument of the verb, e.g., “truck driver” in English. 
+The idea of a “more derivational” verb + -k form is not a novel one. Lefebvre & Muysken 
+argue for an inflectional and a derivational version of the nominalizations in Cusco Quechua 
+(Lefebvre & Muysken 1988: 64). Much of the evidence Lefebvre & Muysken present does not 
+apply to PK because they rely heavily on certain interactions between nominal and verbal person 
+markers that are not found in PK, as well as a verbal plural marker that does not exist in PK 
+either. However, one of the key characteristics used to differentiate the two types is that 
+inflectional nominalizations can have a direct object, while the lexicalized (derivational) ones 
+cannot (Lefebvre & Muysken 1988: 67). That being said, they explain that it is “marginally 
+possible” to have a direct object with a lexicalized agentive, as in (25). 
+ 
+(25) papa    suwa-q      (Lefebvre & Muysken 1988: 67) 
+potato  rob-SUF 
+‘potato thief’ 
+ 
+28 
+This example from Cusco Quechua is a synthetic compound, potentially like the PK 
+examples with illa-k. Thus, if we were to argue for a dichotomy in PK that resembles the one 
+proposed by Lefebvre & Muysken, then the presence or absence of the accusative suffix -ta, i.e., 
+case assignment, would be a differentiating feature in PK. Those verb + -k forms with 
+accusative-marked direct objects would be instances of the inflectional -k, while those with 
+unmarked direct objects compounded to the verb + -k form would be examples of the 
+derivational -k. This definition is only useful in identifying the difference between verb + -k 
+forms with direct objects, however, and there may be other instances, such as yacha-k (know-
+SUF) ‘know-er,’ which have been lexicalized, in this case to mean ‘shaman’ in PK, though there 
+is no distinct grammatical evidence in the CPK to distinguish them. 
+ 
+2.4 Habitual aspect 
+ 
+Nuckolls & Swanson also describe the use of the -k suffix in a compound verb 
+construction used to convey the habitual aspect in PK (Nuckolls & Swanson, forthcoming: 193). 
+This is done by combining a verb + -k form and the verb ana ‘to be.’ This construction is most 
+often used in the past tense and is often translated ‘used to,’ as in the following: 
+ 
+(26) ñuka  yaya-guna  kallari-ga         Marañon-bi-shi        kachi-ta  apa-g       a-naw-ra 
+1S      father-PL    beginning-TOP  Marañon-LOC-EVO   salt-ACC  take-SUF  be-3P-PST 
+‘My fathers, in the old days, used to get salt in Marañon (river).’ 
+      (Nuckolls & Swanson, forthcoming: 192) 
+ 
+29 
+Examples of this construction are numerous. 56% (473 out of 846) of verb + -k instances 
+in the CPK are part of this type of construction. Of those, nearly two thirds (289 out of 473) are 
+in the past tense. An example of this construction in the past tense is given in (27), and a present 
+tense example is given in (28). 
+ 
+(27) ñuka  yaya    chasna   kwinta-k  a-ra    (CPK:ama) 
+1S      father  like.that  tell-SUF   be-PST 
+‘My father used to tell (it) like that.’ 
+ 
+(28) kari-shi     warmi-ta      muna-k      a-n   (CPK:ado) 
+man-EVO   woman-ACC want-SUF  be-3S 
+‘The man wants a woman (they say)’ 
+ 
+Interestingly in 46 instances, the verb + -k form used with ana is itself a form of ana. 
+(29) shows this construction used with a noun, (30) shows it with a predicate adjective, and (31) 
+shows an adverb modifying the construction. 
+ 
+(29) amarun    kara-manda-lla  amanga     m-a-k            a-shka-ra (CPK:fin) 
+anaconda  skin-ABL-LIM     hammock  EVS-be-SUF   be-PERF-PST 
+‘It was a hammock made only from anaconda skin’ 
+lit. ‘It was a from-just-anaconda-skin be-er’ 
+ 
+(30) kiru-ga     yana   m-a-k            a-ra!    (CPK:ama) 
+teeth-TOP  black  EVS-be-SUF   be-PST 
+‘The teeth used to be black!’ 
+ 
+(31) chasna    m-a-k            a-nawn!    (CPK:ama) 
+like.that  EVS-be-SUF   be-3P 
+‘They are like that!’ 
+ 
+30 
+Of these 46 instances of “be stacking,” 16 of them are preceded by an additional verb 
+with the -k suffix, as in (32), and (33). 
+ 
+(32) pay-guna  randi-chi-sha  puri-k      a-k         a-shka  (CPK:fin) 
+3-PL         trade-CAUS-SS  walk-SUF  be-SUF  be-PERF 
+‘They used to walk selling.’ 
+ 
+(33) chasna    ri-k       a-k        a-shka    (CPK:sui) 
+like.that  go-SUF  be-SUF  be-PERF 
+‘He used to go like that.’ 
+ 
+These examples exhibit both “be stacking” and “-k stacking” behavior. The difference 
+between these examples and examples like (26) could be paraphrased in English as the difference 
+between “used to X” and “used to be one who Xes.” For example, compare (34) and (35). 
+ 
+(34) taruga-ta  wañu-chi-k     a-ra     (CPK:aft) 
+deer-ACC  die-CAUS-SUF  be-PST 
+‘He used to kill deer’ 
+ 
+(35) ñuka  yaya  mana  wañu-chi-k    a-g        a-ra  (CPK:ind) 
+1S     father  NEG   die-CAUS-SUF  be-SUF  be-PST 
+‘My father did not used to be a killer’ or ‘My father did not used to be one who kills’ 
+ 
+In addition to these, there are four examples in the CPK of “-k stacking” composed of 
+two non-copular verbs, as in (36). The first verb + -k form can be described as functioning 
+adverbially to modify the habitual verb. The adverbial use of verb + -k forms is discussed in the 
+next section. 
+ 
+(36) chi-ga      maska-k      shamu-k-shi     a-naw-ra  (CPK:ado) 
+31 
+then-TOP  search-SUF  come-SUF-EVO   be-3P-PST 
+‘Then they used to come searching’  
+ 
+An important behavior of verb + -k forms that interact with ana that may support 
+Nuckolls & Swanson’s analysis that these are compound verb forms, as opposed to nominal 
+complements in a copular VP is the lack of plural marking on the verb + -k form in habitual 
+constructions with plural subjects. Consider the following six examples, (37) through (42). Each 
+of the six combinations of number and person are represented, starting with first person singular 
+and ending with third person plural, in the present tense. 
+ 
+(37) 1st person singular: 
+chi-guna-ta  mana  miku-k   a-ni     (CPK:mac) 
+that-PL-ACC  NEG    eat-SUF  be-1S 
+‘I don’t eat those’ 
+ 
+(38) 2nd person singular: 
+kay   señora-guna-ta-chu     riksi-k        a-ngi  (CPK:aft) 
+this  woman-PL-ACC-IRR  know-SUF  be-2S 
+‘Do you know these women?’ 
+ 
+(39) 3rd person singular: 
+pay-mi    chasna    ra-k      a-n    (CPK:def) 
+3S-EVS    like.that  do-SUF  be-3S 
+‘He does (it) like that’ 
+ 
+(40) 1st person plural: 
+ñukanchi  ni-k       a-nchi     (CPK:fin) 
+1P            say-SUF  be-1P 
+‘We say (it)’ 
+ 
+(41) 2nd person plural: 
+pakta-k      a-ngichi       (CPK:def) 
+arrive-SUF  be-2P 
+‘You all arrive’ 
+32 
+ 
+(42) 3rd person plural: 
+chasna    ni-k        a-nawn      (CPK:man) 
+like.that  say-SUF  be-3P 
+‘They say (it) like that’ 
+ 
+Summarizing these data paradigmatically, the habitual aspect construction follows the 
+pattern in Table 7. 
+ 
+Table 7: Habitual aspect paradigm 
+ SINGULAR PLURAL 
+1ST -k  a-ni -k  a-nchi 
+2ND -k  a-ngi -k  a-ngi-chi 
+3RD -k  a-n -k  a-nawn 
+ 
+Importantly, examples (40), (41), and (42) each have plural subjects, yet the verb + -k 
+form does not receive plural marking. This pattern is also found in the past habitual. For 
+example, (43) and (44) exhibit the same behavior in 1P and 3P. 
+ 
+(43) pacha-wan-mi        puñu-k      a-ra-nchi   (CPK:fin) 
+blanket-INST-EVS   sleep-SUF  be-PST-1P 
+‘We used to sleep with blankets’ 
+ 
+(44) yana!  shinki!  kiru-yuk      m-a-k            a-naw-ra!  (CPK:ama) 
+black  black     tooth-PSSR  EVS-be-SUF   be-3P-PST 
+‘Black! Black! They used to have (black) teeth!’ or ‘they used to be teeth-possessors’ 
+ 
+33 
+The lack of plural marking on the verb + -k forms may suggest that they are not 
+functioning as arguments of the verb, especially when compared to examples in which the verb + 
+-k form is marked plural (as in section 2.1). However, there are examples of verb + -k forms 
+exhibiting this same behavior with non-copular verbs, as in (45). 
+ 
+(45) pay-guna-ga  yacha-k     tuku-nawn     (CPK:bec) 
+3-PL-TOP        know-SUF  become-3P 
+‘They become shamans’ 
+ 
+We will also see in the discussion of the adverbial function of verb + -k forms in the next 
+section that the nominal plural is not used where expected in that function either. It is possible 
+that these two functions, the habitual aspect marker and the adverbial, are a single function, i.e., 
+verb modifier, that has the semantic value of habitual when used with the copula. 
+ 
+2.5 Adverbial 
+ 
+Nuckolls & Swanson observe that a verb + -k form is sometimes used with non-copular 
+verbs in a way that cannot be described as filling an argument of the main verb, nor as part of the 
+habitual construction. In these instances, the verb + -k form is said to behave adverbially to 
+modify the main verb by attributing an additional quality to it (Nuckolls & Swanson, 
+forthcoming: 209). Two verbs that are most often modified by verb + -k forms are shamuna ‘to 
+come’ and rina ‘to go.’ 
+ 
+(46) yanapa-k  shamu-sha    (Nuckolls & Swanson, forthcoming: 267) 
+34 
+help-SUF   come-1S.FUT 
+‘I will come and help.’ or ‘(as a) helper, I’ll come.’ 
+ 
+(47) ñuka  apa-k      ri-sha    (Nuckolls & Swanson, forthcoming: 267) 
+1S      take-SUF  go-1S.FUT 
+‘I’ll go and take some.’ or ‘(as a) taker, I’ll go.’ 
+ 
+It is common, according to Nuckolls & Swanson, to see this construction in the 
+imperative mood (Nuckolls & Swanson, forthcoming: 178). 
+ 
+(48) yanapa-k  shamu-y!    (Nuckolls & Swanson, forthcoming: 178) 
+help-SUF   come-IMP 
+‘Come and help!’ lit. ‘(as a) helper, come!’ 
+ 
+In these instances, it is difficult to say that the verb + -k form is functioning as a noun in 
+the verb’s argument structure, as the person being addressed has not yet come or gone, etc. 
+Additionally, verb + -k forms that are used adverbially do not receive plural marking, even when 
+the subject of the verb is plural. As with the habitual aspect paradigm, if these verb + -k forms 
+were functioning as complements or arguments to a plural verb, it would be expected that they 
+would receive plural marking, but this is not the case. For example: 
+ 
+(49) ayllu-guna  apa-k       shamu-naw-ra    (CPK:sui) 
+family-PL    take-SUF  come-3P-PST 
+‘Families come as takers’ 
+ 
+(50) pay-guna  hapi-k      shamu-kpi-s,     sinzhi  kallpa-ngi (CPK:fin) 
+3-PL          hunt-SUF  come-DS-DESP  strong  run-2S 
+‘If they come as hunters, run strong (i.e., fast)’ 
+ 
+35 
+Looking outside PK, Parker (1969) claims that q-nominalizations in Ayacucho Quechua 
+can function adverbially, indicating “purpose of action,” when used with a verb of motion, as in 
+miku- ‘eat’ → miku-q ‘eat-SUF’ in the phrase mikuqmi hataric̆kani ‘I’m getting up to eat’ (Parker 
+1969: 57). Parker presents the data without glosses, but presumably hataric̆kani means ‘I’m 
+getting up.’ This analysis supports Nuckolls & Swanson’s characterization of the adverbial 
+function of the -k suffix, especially with shamuna ‘to come’ and rina ‘to go’ being described as 
+the most commonly used verbs, since these are verbs of motion. 
+Alternatively, Lefebvre & Muysken (1988) argue that the agent noun suffix in Cusco and 
+other varieties of Quechua is used to mark the complement of a motion verb (Lefebvre & 
+Muysken 1988: 22). The key criteria used to identify -k complements, according to this analysis, 
+is that the verb + -k form cannot escape the matrix verb phrase to move to topic position. This 
+theoretical assertion could be called into question if examples can be found in the CPK of a verb 
++ -k form in topic position. Such an example would be identified by a verb + -k form marked by 
+the topic marker -ga. In example (51) the topic marker is bold. 
+ 
+(51) palanda-ta     apa-k-ga         shamu-nchi   (CPK:jag) 
+plantain-ACC  take-SUF-TOP  come-1P 
+‘Taking the plantains, we come’ or ‘As plantain-takers we come’ 
+ 
+In the generative version of syntax that Lefebvre & Muysken are writing in, the topic 
+marker in this example strongly suggests that the verb + -k form has left the matrix VP to move 
+up to topic position. This implies that either the -k suffix is not a complementizer in PK, or that 
+Lefebvre’s argumentation does not apply to the PK data. In any case, there is not compelling 
+36 
+evidence that the -k suffix in PK is a complementizer. I, therefore, maintain Nuckolls & 
+Swanson’s characterization of this behavior as adverbial. 
+In the CPK there are 87 examples of verb + -k forms functioning adverbially in the way 
+described by Nuckolls & Swanson. Of these, 80% (70 out of 87) modify the verb shamuna ‘to 
+come,’ as in (52) (and (36) in section 2.4). 7 modify the verb rina ‘to go,’ as in (53). The 
+remaining instances modify various other verbs, such as nina ‘to say’ and puñuna ‘to sleep, as in 
+(54) and (55), respectively. 
+ 
+(52) kuti-lla-ta            ashka  uya-ri-k            shamu-ra  (CPK:ado) 
+again-DESP-ADV  a.lot    hear-PASS-SUF  come-PST 
+‘Again, very loudly it came.’ 
+ 
+(53) chi   ruya-y     kanta-k    ri-u-ngi    (CPK:tay) 
+that  tree-LOC  sing-SUF  go-DUR-2S 
+‘In that tree as a singer you are going.’ 
+ 
+(54) kasna      rima-k       ni-ra-ni     (CPK:def) 
+like.this  speak-SUF  say-PST-1S 
+‘Speaking like this, I said (it).’ 
+ 
+(55) musku-k      puñu-gri      (CPK:how) 
+dream-SUF  sleep-TRLC.IMP 
+‘(As a) dreamer go and sleep!’ 
+ 
+Of note, in PK the translocative suffix -gri, seen in (55), is used with a verb to convey the 
+sense that the subject of the verb transfers to another location. Nuckolls & Swanson explain that 
+this suffix can roughly be understood as “to-go-and-do-something” (Nuckolls & Swanson, 
+forthcoming: 201). 
+ 
+37 
+(56) maytu-na  panga-ta  ukta      maska-gri-chi! 
+roast-INF  leaf-ACC   quickly  search-TRLC-2P.IMP 
+‘(You-all) go quickly and search for roasting leaves!’ 
+(Nuckolls & Swanson, forthcoming: 201) 
+ 
+Historically, the translocative suffix -gri “developed from a… periphrastic construction” 
+(Muysken 2000: 983) composed of a verb + -k form and the verbal root ri- ‘go.’ The existence of 
+this suffix does not, however, prohibit the use of a verb + -k form with the verb rina ‘to go,’ as 
+seen in (38), above. Since the -k suffix is often pronounced as a voiced [g], especially when 
+followed by a voiced consonant, the forms of verb + -k ri- and verb + -gri can look identical. In 
+addition, since there is little to no semantic difference, the two are only distinguishable based on 
+prosodic features, such as intonation. In a few instances in the CPK, the difference is made clear 
+by intervening morphology between the verb + -k form and rina. This can be seen in (57) below 
+where the verb + -k form is substantive and marked with the nominal plural suffix -guna. 
+ 
+(57) ishkay  chunga  tiya-k-guna   ri-nawn   (CPK:fin) 
+two      ten         exist-SUF-PL  go-3P 
+‘Twenty dwellers go’ 
+ 
+There is some evidence that speakers may be aware to a degree of the relationship 
+between -gri and the verb rina. When one considers that example (58) would have historically 
+been read as in (59), a parallel structure can be seen, i.e., adverb verb, adverb verb. 
+ 
+(58) rima-gri,               kunan  ri!     (CPK:thk) 
+speak-TRLC.IMP  now    go.IMP 
+‘Go-and-speak, go now!’ 
+ 
+38 
+(59) rima-g        ri,        kunan  ri! 
+speak-SUF  go.IMP  now    go.IMP 
+‘Go and speak, go now!’ lit. ‘As a speaker go, now go!’ 
+ 
+Returning to Nuckolls & Swanson’s description of the adverbial function of verb + -k 
+forms, it is said that these often modify verbs in the imperative mood. In the CPK, 12 (out of 87) 
+adverbial verb + -k forms modify imperative verbs, as in (55), above, and (60), (61), and (62), 
+below. 
+ 
+(60) yanu-shka-ta      miku-k  shamu-i    (CPK:can) 
+cook-PERF-ACC  eat-SUF  come-IMP 
+‘Come as an eater of cooked (things)!’ 
+ 
+(61) aswa-ta     upi-k          shamu-i    (CPK:can) 
+aswa-ACC  drink-SUF  come-IMP 
+‘Come drink aswa!’ 
+ 
+(62) llapi-shka-ta           riku-k     shamu-i-chi,  wawa-guna (CPK:jag) 
+squeeze-PERF-ACC  see-SUF  come-IMP-2P  child-PL 
+‘Come as seers of aswa pulp (lit. that which is squeezed), children!’ 
+ 
+In these three examples, notice that the direct object of the verb from which the verb + -k 
+form is derived is marked with the accusative -ta. This suggests that the verb + -k has retained 
+some of its underlying argument structure, as seen in the relative clause analysis in section 2.3. 
+This may indicate that the relative function and the adverbial function are not so different. 
+ 
+2.6 Connection to -shka 
+ 
+39 
+In PK, the verb + -shka is described as a verbal “adjective” derived from the present 
+perfect suffix -shka (Nuckolls & Swanson, forthcoming: 237). The present perfect suffix attaches 
+to a main verb and can co-occur with subject agreement morphology, as in (63). 
+ 
+(63) ñuka  ri-shka-ni    (Nuckolls & Swanson, forthcoming: 237) 
+1S      go-PRES.PERF-1S 
+‘I’ve gone’ 
+ 
+Adjectival verb + -shka forms, on the other hand, which can refer to a completed action, 
+the result of a completed action, or the patient of a completed action, cannot function as main 
+verbs. Rather they can be used to modify nouns, as in (64) and (65), and do not take subject 
+agreement morphology. A parallel will be drawn between -shka and -k that calls into question the 
+classification of -shka, and for this reason it is glossed as SUF2. 
+ 
+(64) yanu-shka   mikuna  tiya-n   (Nuckolls & Swanson, forthcoming: 242) 
+cook-SUF2  food       exist-3S 
+‘There is cooked food’ or ‘food that is cooked exists’ 
+ 
+(65) mikuna  yanu-shka  a-n   (Nuckolls & Swanson, forthcoming: 242) 
+food      cook-SUF2  be-3S 
+‘The food is cooked.’ 
+ 
+The adjective form and the present prefect construction are functionally similar, though 
+formally distinct, as seen in (66) compared to (67). 
+  
+(66) macha-shka-ngi-chu?    (Nuckolls & Swanson, forthcoming: 237) 
+be.drunk-PRES.PERF-2S-IRR 
+‘Have you become drunk?’ 
+40 
+ 
+(67) macha-shka-chu     a-ngi?   (Nuckolls & Swanson, forthcoming: 237) 
+be.drunk-SUF2-IRR  be-2S 
+‘Are you drunk?’ 
+ 
+Nuckolls & Swanson observe that verb + -shka forms can take nominal morphology, 
+such as plural -guna and accusative -ta (Nuckolls & Swanson, forthcoming: 242). These 
+observations are corroborated by the data in the CPK, as in (68). 
+ 
+(68) wañu-chi-shka-guna (die-CAUS-SUF2-PL) ‘those that are killed’ (CPK:thr) 
+hapi-shka-guna (catch-SUF2-PL) ‘those which are caught’ (CPK:fin) 
+yanu-shka-ta (cook-SUF2-ACC) ‘that which is cooked’ (CPK:can) 
+shamu-shka-ta (come-SUF2-ACC) ‘that which has come’ (CPK:fin) 
+ 
+The characterization of -shka appears similar in a number of ways to the characterization 
+of the -k suffix in that they both are derived from verbs, they both can function as noun 
+modifiers, and they both can function as the head of an NP and take nominal morphology. The 
+suffix -shka is often associated with -k in a contrasting relationship throughout the literature on 
+Quechuan languages. In Chimborazo Quechua, for example, Catta Quelen describes the -c [k] 
+suffix as a “habitual participle” translated into Spanish as el que… ‘the one who….’ This is 
+followed by a description of the suffix -shca which is also analyzed as a participle, but one 
+meaning el que ha… ‘the one who has…’ or el que está… ‘the one who is…’ (Catta Quelen, 
+1985: 164). This seems to match the behavior seen in the PK fairly well. This analysis is echoed 
+in Coombs (1976), Gomez Bacarreza (1988), and Debenbach-Salazar Saenz (1993). 
+Furthermore, Weber (1983), Weber (1989), Parker (1969), Samanez Flores (1996), and Huarachi 
+Revello (2005) also analyze the equivalent suffix as a participle. 
+41 
+Weber examines the suffix -sha in Huallaga Quechua, which was historically -shqa 
+before the loss of the [q] segment (Weber 1983: 18). Verb + -sha forms are analyzed as past 
+participles with an “ergative pattern” (Weber 1989: 283-4), meaning here that with intransitive 
+verbs, the participle is oriented toward the subject, as in (69), while with transitive verbs, the 
+participle is oriented toward the object, as in (70). 
+ 
+(69) wañu-sha  runa      (Weber 1989: 284) 
+die-PRTC   man 
+‘the man who died’ 
+ 
+(70) maqa-sha  runa      (Weber 1989: 284) 
+hit-PRTC    man 
+‘the hit man’ or ‘the man who was hit’ 
+ 
+Data from the CPK appears to match this characterization, as seen in (71) and (72), 
+below, which mirror the constructions above. 
+ 
+(71) wañu-shka  mikia      (CPK:the) 
+die-SUF2     aunt 
+‘an aunt who died’ 
+ 
+(72) pinta-shka  amarun      (CPK:ado) 
+paint-SUF2  anaconda 
+‘painted anaconda’ or ‘anaconda that is painted’ (referring to the pattern on its skin) 
+ 
+It is likely that the -shka suffix in PK is a participle similar to those described in the 
+literature on other Quechuan languages. An alternative analysis presented by Cole (1985), Soto 
+Ruiz (1976), Lefebvre & Muysken (1988), Alderetes (2001), and Escribens (1970) is that the 
+equivalent suffixes are relative nominalizers that refer to a perfective or completed action. 
+42 
+In Imbabura Quechua, Cole claims that the -k and -shka suffixes are part of a paradigm of 
+clausal nominalizers that indicate the tense of the subordinate relative clause in which they are 
+found. According to Cole, -j [x] signifies a present tense relative clause, -shka marks a past tense 
+relative clause, and -na is used for future relative clauses. The following sentences illustrate 
+these relationships. In each, the full NP is underlined. The subordinate relative clause is in bold 
+and, as part of the NP, is also underlined. 
+ 
+(73)  a. Marya  riku-shka  runa  Past   (Cole 1985: 47) 
+Maria   see-SUF2   man 
+‘The man whom Maria saw’ 
+ 
+b. Marya  riku-j     runa   Present 
+Maria   see-SUF  man 
+‘The man whom Maria sees’ 
+ 
+c. Marya  riku-na   runa   Future 
+Maria   see-NOM  man 
+‘The man whom Maria will see’ 
+ 
+I turn to the CPK to compare this characterization to the behavior of these suffixes in PK. 
+The CPK does not contain three examples of the exact same sentence with only a difference in 
+the nominalizing suffix, but rough equivalents can be found. In (74), below, a verb + -shka form 
+modifying a noun is shown. (75a-b) both contain verbs + -k forms. Because a single phrase with 
+the -k suffix, a direct object, and modified head could not be found, both (75a), which shows the 
+verb + -k form with a preceding object, and (75b), which shows the verb + -k form modifying a 
+head noun, are presented. Lastly, (76) employs a verb + -na form to modify a noun. Each of 
+these are marked in the same way as above, with the NP in question underlined and the clause 
+(called by Cole a relative clause) in bold. 
+43 
+ 
+(74) mana  warmi    muna-w-shka    runa-shi    sacha-ta      puri-ngawa        ri-ra  
+NEG     woman  want-DUR-SUF2  man-EVO   forest-ACC  walk-in.order.to  go-PST 
+‘The man not wanted by women went to the forest in order to walk.’ (CPK:ams) 
+ 
+(75)  a. kari-shi     warmi-ta       muna-k    a-n   (CPK:ado) 
+man-EVO   woman-ACC  want-SUF  be-3S 
+‘The man wants a woman’ or ‘the man is a woman-wanter’ 
+ 
+b. kasa-k     amarun     chari    a-ra    (CPK:ado) 
+hunt-SUF  anaconda  maybe  be-PST 
+‘It was a hunting anaconda, maybe’ 
+ 
+(76) chi   llakta-manda  chimba-na  kaspi  siri-n   (CPK:fin) 
+that  town-ABL        cross-NOM   stick   lie-3S 
+‘The stick for crossing (a lake) from that town is lying there.’ 
+ 
+To compare the PK data to Cole’s examples in (73), I will start with -shka. Cole calls the 
+-shka suffix a past participle (Cole 1985; 134), and Nuckolls & Swanson’s characterization of -
+shka could also be described as a participle, i.e., deverbal adjective; thus (74) might more 
+accurately be glossed “the not woman-wanted man,” and (73a) might more accurately be glossed 
+“the Maria-seen man,” analogous in structure to “the flea-bitten dog,” i.e., the dog which is bitten 
+by fleas. In essence, the head noun (runa in both) is the patient in the underlying argument 
+structure, and the noun modifying the verb + -shka form (Mariya and warmi, respectively) is the 
+agent. 
+Looking at Cole’s translation of (73b) it is clear that the head noun (runa) is still the 
+patient, like with verb + -shka; however, in PK the argument structure is reversed, with the head 
+noun in (75b) (amarun) being the agent, not the patient, in the underlying argument structure. 
+What this means is that if a PK speaker heard Cole’s example (75b) Marya riku-j runa, the PK 
+44 
+speaker would understand it to mean the ‘the man who sees Maria’ or the ‘Maria-seer man,’ i.e., 
+the exactly opposite situation understood by the Imbabura speaker. 
+It should be mentioned, however, that Cole’s discussion on the proposed subordinate 
+tense paradigm is the only place that Cole translates a verb + -j form modifying a head noun with 
+the head noun as the patient. In every other example throughout his description, the head noun 
+modified by a verb + -j form is the agent, as in (778) where the head noun wambra ‘boy’ is the 
+head noun and agent of the verb + -j form michi-j (heard-SUF) ‘hearder.’ 
+ 
+(77) wagra-ta   michi-j     wambra-ka  ña         shamu-ju-n-mi (Cole 1985: 75) 
+cattle-ACC  herd-SUF  boy-TOP      already  come-PROG-3S-EVS 
+‘The boy who herds cattle is coming.’ 
+ 
+The translation of (77) matches the interpretation a PK speaker would have of this 
+sentence. The inconsistency in Cole’s description may cast suspicion on Cole’s proposed 
+subordinate tense paradigm, and in fact Lefebvre & Muysken, in their discussion of relative 
+clauses and Quechua nominalizations (-q, -sqa, and -na), claim that the -q suffix in Cusco 
+Quechua always marks the subject of the relative clause, as in (78). 
+ 
+(78) Mariya  riku-q    runa-qa    (Lefebvre & Muysken 1988: 175) 
+Maria    see-SUF  man-TOP 
+‘the man that sees Maria’ 
+ 
+This means that (78) can never be used to mean *‘the man whom Maria sees’ (Lefebvre 
+& Musken 1988: 175). Lefebvre & Muysken do not mention Cole (1985) explicitly in regard to 
+this example, but it is possible that this is intended as a correction, as they were certainly aware 
+45 
+of Cole’s analysis, citing him multiple times throughout their book, and they use the exact same 
+phrase used by Cole. 
+To summarize, the -shka suffix in PK is described by Nuckolls & Swanson as an 
+“adjective” form of a verb that has been completed. In descriptions of other Quechuan languages, 
+the equivalent suffix is described as either a past participle or a nominalizer that refers to the 
+patient of a completed action. Throughout the literature, the -k suffix and the -shka suffix have 
+been presented in a contrasting relationship, either as active vs. inactive participles, agent vs. 
+patient nominalizers, or (by Cole) present vs. past relative subordinators. In our discussion of the 
+-k suffix, an understanding of the -shka suffix may inform our conclusion if it is shown that the 
+two suffixes are members of the same category. 
+ 
+2.7 Chapter summary 
+ 
+In summary, the attributive -k suffix, as described by Nuckolls & Swanson, is a deverbal 
+nominalizer, though evidence has been presented that the resulting verb + -k form could also be 
+described as a relativizer. Four main functions of verb + -k forms have been described: a) 
+nominal, capable of receiving nominal morphology, b) adjectival, modifying nouns to attribute a 
+quality to the noun, c) verbal in a habitual construction in tandem with the verb ana ‘to be,’ and 
+d) adverbial, modifying verbs to attribute a quality to the verb. Although, if -k is a relativizer, 
+then verb + -k forms functioning nominally would be reanalyzed as headless relatives, thus 
+conflating these two categories. Also, some doubt was cast on the need to distinguish between 
+the habitual and the adverbial functions of verb + -k forms. It has also been shown that the suffix 
+46 
+-shka functions in many of the same ways the -k suffix functions, i.e., nominally and adjectivally, 
+and may constitute a contrasting suffix of the same category. 
+In the next chapter, I discuss typological and theoretical explanations for the suffix’s 
+behavior in PK. 
+  
+47 
+Chapter 3: Analysis 
+ 
+The purpose of this chapter is to explore typological and theoretical explanations for the 
+behavior and usage of the -k suffix in PK based on data presented in chapter 2. In this chapter I 
+discuss previous analyses of equivalent suffixes in other Quechuan languages as well as 
+typological descriptions of key linguistics traits to determine how well they match the PK data. 
+Ultimately, I appeal to a typological description of participles (Shagal 2017) and conclude that 
+the behavior of the -k suffix in PK most closely matches crosslinguistic behaviors of active (or 
+nominative) participles. To reach this conclusion, I first determine if verb + -k forms are nouns or 
+relative clauses. Then after establishing them as relatives, namely participial relatives, I define 
+the term participle. Finally, I support this conclusion by solidifying the parallel between -k and -
+shka. 
+ 
+3.1 Noun or Relative 
+ 
+A core question of how to categorize the -k suffix comes down to how to reconcile the 
+noun-like and the adjective-like behavior exhibited by verb + -k forms. It has been observed that 
+verb + -k forms in PK can function like nouns, taking nominal morphology and standing as 
+arguments of a main verb (see section 2.1), and like adjectives, modifying a head noun (see 
+section 2.3). The question is, are these nouns that can function as modifiers, or are these 
+modifiers that can function as nouns? 
+I first consider the nominal interpretation. Comrie & Thompson (2007) discussing the 
+typology of lexical nominalizations said concerning nominalizations modifying nouns: 
+48 
+ 
+(79) “It is not difficult to understand how a nominalization can function as a relative 
+clause: the nominalization and the noun with which it is in construction can be 
+thought of as two juxtaposed nominal elements [nom] [nom], the modifying 
+relationship between them being inferred by the language users (rather than being 
+specified by the grammar, as it is in languages with specific relative clause 
+morphology), just as the modifying relationship is inferred in a noun–noun 
+compound such as tree-house, in which the two nominal elements simply happen 
+to be single nouns.”    (Comrie & Thompson 2007: 378) 
+ 
+ 
+Importantly, Comrie & Thompson distinguish between a nominalization that functions as 
+a relative and a relative clause with specific morphology in a language that specifies a 
+relationship between the relative element and the nominal head. This could imply that if one 
+were attempting to distinguish between a nominalization and a relative clause, one might look 
+for ways in which the relationship between the modifying element and the head noun are 
+“specified by the grammar.” It could be that the contrast between the -k suffix and the -shka 
+suffix constitutes a morphological means by which PK indicates the modifying relationship 
+between modifier and head noun, i.e., -k for agent vs. -shka patient, as in (80) and (81). 
+ 
+(80) kasa-k      amarun      (CPK:ado) 
+hunt-SUF  anaconda 
+‘hunting anaconda’ or ‘anaconda that hunts’  
+ 
+(81) pinta-shka  amarun      (CPK:ado) 
+paint-SUF2  anaconda 
+‘painted anaconda’ or ‘anaconda that was painted’ 
+ 
+The modifying relationships in these examples is not merely inferred; it is specified by 
+the morphology. This suggests that perhaps -k and -shka are not lexical nominalizations, but 
+49 
+rather relative clauses. That being said, the implication is that verb + -k forms that are not used to 
+modify nouns, those that function as the head of an NP, are “headless” relatives, meaning 
+relative clauses that lack an overt head noun. Cole argues for this analysis in Imbabura Quechua 
+based on the logical extension of verb + -k forms being relatives (Cole 1985: 175). This analysis 
+is reiterated by Lefebvre & Muysken (1988). In order to explain the use of nominal morphology 
+with verb + -q forms in Cusco Quechua, it is shown that the nominal plural -kuna is carried by 
+the “rightmost lexical nominal element in the noun phrase” which is not necessarily the head of 
+the noun phrase (Lefebvre & Muysken 1988: 107). (82a-c) are provided by way of illustration. 
+ 
+(82)  a. wasi-kuna      (Lefebvre & Muysken 1988: 107) 
+house-PL 
+‘houses’ 
+ 
+b. allin-kuna 
+good-PL 
+‘good ones’ 
+ 
+c. hamu-q-kuna 
+come-SUF-PL 
+‘those who come’ 
+ 
+In (82a) the plural -kuna attaches to the noun wasi ‘house’ unproblematically, as this is 
+the head noun. In (82b) the same suffix is attached to allin ‘good’ which is classified as an 
+adjective, i.e., not the head of the NP. The authors claim that there is an “understood empty noun 
+to the right of the lexical element carrying the plural marker” (Lefebvre & Muysken 1988: 108). 
+With these two examples in mind, Lefebvre & Muysken present (82c) in which the nominal 
+plural -kuna is attached to the verb + -q form hamu-q (come-SUF) ‘comer.’ The argument is made 
+that (82c) is more like (82b) in that -kuna is attached to an “understood empty noun,” rather than 
+50 
+in (82a) where -kuna is attached directly to the noun itself. Looking to the CPK, it appears these 
+observations can be made of PK as well. (83a-c) show similar behavior with the nominal plural -
+guna in PK. 
+ 
+(83)  a. warmi-guna       (CPK:ams) 
+woman-PL 
+‘women’ 
+ 
+b. ali-guna       (CPK:sun) 
+good-PL 
+‘good ones’ 
+ 
+c. shamu-k-guna        (CPK:per) 
+come-SUF-PL 
+‘those who come’ 
+ 
+Further support for the headless relative analysis can be found in Baker & Vinokurova 
+(2009) which attempts to identify ways in which “agent-denoting nominalizations” such as the 
+English -er are distinct from other phenomena. While Baker & Vinokurova are explicitly 
+motivated by a desire to find evidence for features of “Chomskyan” universal grammar (Baker & 
+Vinokurova 2009: 521), their typological analyses may still be valid even outside of that theory, 
+as their crosslinguistic investigation is supported by data from 78 languages from Koptjevskaja-
+Tamm (2005)’s typology of action nominals found in the “World Atlas of Language Structures.” 
+One of Baker & Vinokurova’s goals was to “ distinguish expressions like the manager of 
+the company from expressions like the [one who] manages the company or the [one] managing 
+the company where the pronominal head 'one' and the relative pronoun 'who' might both be 
+phonologically null, as is often the case in languages other than English” (Baker & Vinokurova 
+2009: 537). This dilemma is the same as the one we are trying to resolve in regard to PK, i.e., an 
+51 
+agentive nominalization, as in the first expression above, versus a relative clause with a 
+phonologically null head (headless), as in the other two expressions. 
+By looking at agentive nominalizations in English, Sakha (Turkic: Norther Siberia), and 
+Mapadungan (Isolate: Chile), Baker & Vinokurova identified certain verbal properties that can 
+be used to differentiate between agent nominalization and headless relative clauses. Then, with 
+each of the 78 languages, Baker & Vinokurova identified how the “closest equivalents to an -er 
+nominalization” are expressed. They identified whether the nominalization could only refer to 
+the “subject argument of an agentive verb,” or if it was less restricted. Lastly, they looked for any 
+verbal properties beyond taking a theme argument that were exhibited by both the restricted and 
+less-restricted nominalizations (Baker & Vinokurova 2009: 543). As a result, they found that the 
+languages fell into four categories: “languages with a true agentive nominalizer;” “languages 
+with headless/participial relatives, potentially mistakable for agent nominalizer;” “languages 
+with both agentive nominalizer and headless/participial relatives;” and “languages with neither 
+(but have only, for example, headed relative clauses)” (Baker & Vinokurova 2009: 550-2). 
+Listed among languages in the third category, Imbabura Quechua is described as having 
+both an agentive nominalizer, -dur, which is “not used verbally” and “allows only bare 
+(incorporated?) object[s],” and a headless/participial relative -j, which “can modify overt nouns; 
+is okay with accusative object; [and] is also used as a finite verb form” (Baker & Vinokurova 
+2009: 552). These observations were based on Cole (1985: 175) which we have already 
+discussed. 
+Looking now to PK, by comparing data from the CPK to Baker & Vinokurova’s 
+characterization of agentive nominalizations, it may be possible to identify the category PK falls 
+52 
+into. The four key verbal properties that Baker & Vinokurova established as criteria for 
+identifying agentive nominalizations are listed in (84). 
+ 
+(84) a. agentive nominalizations will not have TAM marking 
+b. agentive nominalizations cannot be negated with negative verbal morphology 
+c. agentive nominalizations cannot use passive morphology 
+d. agentive nominalizations cannot be modified by adverbs 
+       (Baker & Vinokurova, 2009: 540) 
+ 
+Starting with the first criterion which states agentive nominalizations cannot co-occur 
+with TAM morphology, (85) and (86) both show the -k suffix used in tandem with the durative 
+marker -u. As an indicator of aspect, this violates the first criterion. 
+ 
+(85) shuk  amigo  chari-u-k-ga     (CPK:est) 
+one   friend   have-DUR-SUF-TOP 
+‘One who has one friend’ 
+ 
+(86) pay  kusa-ndi         ri-u-k           uya-kpi-ga   (CPK:man) 
+3S    husband-and  go-DUR-SUF  hear-DS-TOP 
+‘She and her husband, who are going, heard (it)’ 
+ 
+The second criterion, which states that agentive nominalizations cannot be negated by 
+verbal negation, is clearly violated by (87). 
+ 
+(87) mana  manzha-k!      (CPK:fin) 
+NEG    fear-SUF 
+‘Don’t fear!’ or ‘don’t be one who fears’ 
+ 
+53 
+The third criterion states that agentive nominalizations cannot use passive morphology. 
+This criterion is violated by examples (88) and (89) in which the verbal stem contains the passive 
+suffix -ri. 
+ 
+(88) KAUUUUUUUU  yaku  uya-ri-g            a-n   (CPK:ams) 
+IDEO                      river   hear-PASS-SUF  be-3S 
+‘[sound] the river sounds/is heard’ 
+ 
+(89) chasna    riku-ri-k         m-a-n     (CPK:ram) 
+like.that  see-PASS-SUF  EVS-be-3S 
+‘Like that he appears/is seen’ 
+ 
+Finally, (90) and (91) are modified by adverbs, thus violating the fourth criterion. 
+ 
+(90) ashka  puri-k       m-a-n     (CPK:per) 
+a.lot     walk-SUF  EVS-be-3S 
+‘He walks a lot’ 
+ 
+(91) yapa  manzha-g  m-a-ni,        ñuka  puma-ta   (CPK:ams) 
+very  fear-SUF     EVS-be-1S    1S      jaguar-ACC 
+‘I am very scared of jaguar’ 
+ 
+Verb + -k forms in PK are found to violate each criterion set out by Baker & Vinokurova, 
+which supports the conclusion that verb + -k forms in PK are not agentive nominalizations, but 
+rather headless relatives. That, however, is not to say that there are not lexical nominalizations in 
+PK. As was discussed in section 2.3, Lefebvre & Muysken (1988) introduced the idea of 
+inflectional vs. derivational versions of the -q suffix in Cusco Quechua. It was shown that the 
+presence or absence of accusative marking on the direct object in PK could indicate a similar 
+distinction in PK. Because of this, illa-k (lack-SUF) ‘lacker’ and yacha-k (know-SUF) ‘shaman’ 
+54 
+were suggested as potentially two derivational uses of the -k suffix. The ability or inability to 
+assign accusative case was also used by Baker & Vinokurova to differentiate the suffixes in 
+Imbabura Quechua that were described as agentive nominals, -dur versus -j (see above). 
+Furthermore, in the CPK no form of illa-k or yacha-k violate any of Baker & Vinokurova’s 
+criteria. While this is not conclusive, it is suggestive of a small (potentially 2 forms) subset of 
+derivational verb + -k forms. The majority, however, are inflectional, by this analysis. In the next 
+section it will be argued that verb + -k forms are participles, which are shown by Shagal (2017) 
+to be inflectional verb forms. 
+ 
+3.2 Participles 
+ 
+Throughout the literature on the -k suffix and its equivalents in Quechuan languages, a 
+number of authors have described verb + -k forms as participles (Markham 1864; Weber 1989; 
+Guardia Mayorga 1973; Catta Quelen 1985; Debenbach-Salazar Saenz 1993; Muysken 1994). As 
+mentioned in section 1.3.1 of this thesis, the term participle is not clearly defined in the literature. 
+Weber defines participles in Huallago Quechua as “de-verbal substantives that characterize some 
+referent as persisting in some state” (Weber 1989: 282). Debenbach-Salazar Saenz defines 
+participles simply as “nominalizations of verbal roots that can combine with nominal suffixes” 
+(Debenbach-Salazar Saenz 1993: 28). Muysken describes the verb + -q forms in Cusco Quechua 
+as agentive nominalizations that “can head a participle clause that can modify a nominal head, 
+and hence function as a ‘relative clause’” (Muysken 1994: 2,813). According to these definitions 
+the term “participle” seems synonymous with the term “nominalization.” Returning to the 
+original question of whether verb + -k forms are nouns with modifier functions or modifiers with 
+55 
+noun functions, these definitions, especially Muysken’s, favor the former; however, it has been 
+shown in the previous section that verb + -k forms in PK are likely not nominalizations, rather 
+they are relative clauses that can modify nouns, even if the head is phonologically null. This 
+means that the definitions of participle in the Quechuan literature are inadequate to describe the -
+k suffix in PK, but that does not dismiss the possibility of verb + -k forms being participles. 
+Baker & Vinokurova, in the paper that supported the non-nominal analysis of verb + -k forms, 
+refers to the non-nominal forms as participial relatives (Baker & Vinokurova 2009: 549). To 
+further our understanding of participles, I turn to Shagal (2017). 
+Shagal attempts to establish a definition and comparative description of participles by 
+looking at over 100 languages from various families and areas. After discussing numerous 
+traditional definitions and finding the majority to be inadequate, Shagal defines participles as 
+“morphosyntactically deranked verb forms that can be employed for adnominal modification” 
+(Shagal 2017: 1). Shagal refers to the work of Stassen (1985) who introduced the terms deranked 
+and balanced. According to Stassen, the verb of a dependent clause that has the same structure as 
+an independent clause in a given language is considered balanced; while the verb of a dependent 
+clause that differs from an independent clause morphologically or syntactically and that has been 
+marked somehow to show the difference is considered deranked (Shagal 2017; 2). For example, 
+a subordinate verb that is marked with a suffix, e.g., -k, and not marked with tense or subject 
+agreement morphology like a main verb could be considered deranked. 
+Shagal discusses the difficulty in many languages in distinguishing between participles 
+and nominalizations, and in so doing reiterates the question at the core of this chapter. Shagal 
+acknowledges that there are generally two ways typologists have dealt with 
+participle/nominalization polysemy, which will be familiar to the reader: one can either consider 
+56 
+the participle/nominalization as an argument primarily, which would make the adnominal 
+modification its secondary function, or vice versa, i.e., consider adnominal modification to be the 
+primary function and its use as an argument becomes secondary. If the first, then they are 
+nominalizations with adnominal modification being a type of compounding; if the second, the 
+verb forms are participles (Shagal 2017: 31-2). Since it has been shown that verb + -k forms are 
+not nouns primarily but modifiers first, we can say they are participles by this definition. But 
+before concluding, I will compare Shagal’s fuller characterization of participles to data from the 
+CPK. 
+Shagal determines that participles are a form of the verb, i.e., part of the verbal paradigm, 
+as opposed to verbal adjectives or verbal nouns (Shagal 2017: 23). Shagal claims that they are 
+inflectional rather than derivational. Shagal relies on Haspelmath (1996) who showed that 
+morphology can change word class while still being inflectional rather than derivational. 
+Furthermore, Shagal outlines two properties of participles that distinguish them from derivational 
+verbal adjectives/nouns. First, participles are general, or in other words productive, meaning 
+virtually all verbs in a language can form a participle, while verbal adjectives/nouns tend to be 
+more restricted. Second, participles are regular, or transparent, meaning the meanings of the verb 
+and its participle are related in a predictable and understandable way. 
+In considering the generality or productivity of the -k suffix in PK, there appears to be no 
+restriction on the types of verbs that can take the -k suffix. In the CPK there are 168 distinct verb 
+roots that take the -k suffix. Perhaps the broadest way of categorizing verbs typologically is 
+based on their syntactic argument structure, which can be summarized in terms of transitivity. 
+(92a-g) show verbs of varying transitivity that have taken the -k suffix (underlined). 
+ 
+57 
+(92) a. Intransitive: 
+pay-ga  randi-chi-sha   puri-k       a-shka   (CPK:est) 
+3S-TOP  trade-CAUS-SS  walk-SUF  be-PERF 
+‘He traveled there selling’ 
+ 
+c. Transitive (agent subject, patient object): 
+yanu-shka-ta      miku-k   shamu-i    (CPK:can) 
+cook-SUF2-ACC  eat-SUF  come-IMP 
+‘Come eat what has been cooked’ or ‘come as an eater of cooked things’ 
+ 
+d. Ditransitive (agent subject, patient direct object, goal indirect object): 
+chi   wañu-shka-ta  kanoa-ma   chura-k   (CPK:tip) 
+that  die-SUF2-ACC  canoe-DAT  put-SUF 
+‘The one who put the dead into the canoe’ 
+ 
+e. Copula with adjective: 
+kiru-ga     yana   m-a-k           a-ra    (CPK:ama) 
+teeth-TOP  black  EVS-be-SUF  be-PST 
+‘The teeth used to be black’ 
+ 
+f. Copula with noun: 
+pay-guna  ali      runa  sh-a-k          a-naw-ra   (CPK:pie) 
+3-PL          good  man  EVO-be-SUF  be-3P-PST 
+‘They used to be good men (they say)’ 
+ 
+g. Copula with another verb + -k form: 
+kani-g     sh-a-g           a-shka     (CPK:ams) 
+bite-SUF  EVO-be-SUF   be-PERF 
+‘He used to be a biter (they say)’ 
+ 
+Another way of categorizing verbs is based on the semantic argument structure. 
+Determining semantic structure in PK is outside the scope of this paper, but looking at verbs that 
+take agent subjects (93), experiencer subjects (94), and theme/patient subjects (95) 
+crosslinguistically, examples of these can be found in the CPK. 
+ 
+58 
+(93) Agent subject: 
+chura-k (put-SUF) ‘one who puts’    (CPK:bec) 
+hapi-k (catch-SUF) ‘one who catches’    (CPK:fin) 
+piti-k (cut-SUF) ‘one who cuts’    (CPK:ser) 
+ra-k (do-SUF) ‘one who does’     (CPK:def) 
+shita-k (throw-SUF) ‘one who throws’   (CPK:jag) 
+wañu-chi-k (kill-SUF) ‘one who kills’    (CPK:aft) 
+ 
+(94) Experiencer subject: 
+llaki-k (love-SUF) ‘one who loves’    (CPK:aft) 
+manzha-k (fear-SUF) ‘one who fears’    (CPK:fin) 
+macha-k (be.drunk-SUF) ‘one who drinks alcohol’  (CPK:ind) 
+muna-k (want-SUF) ‘one who wants’    (CPK:ams) 
+piña-k (be.angry-SUF) ‘one who is (generally) angry’ (CPK:ray) 
+wiña-k (grow-SUF) ‘one who grows’    (CPK:ind) 
+ 
+(95) Theme/patient subject: 
+a-k (be-SUF) ‘one who is’     (CPK:can) 
+riku-ri-k (see-PASS-SUF) ‘one who appears’ or ‘one who is seen’ (CPK:pah) 
+puñu-k (sleep-SUF) ‘one who sleeps’    (CPK:rai) 
+yuya-k (be.aware-SUF) ‘one who is aware’   (CPK:jag) 
+urma-k (fall-SUF) ‘one who falls’    (CPK:fin) 
+wañu-k  (die-SUF) ‘one who dies’    (CPK:est) 
+ 
+A third way of categorizing verbs is based on aktionsart, or lexical aspect. Determining 
+the aktionsart of PK verbs is also beyond the purview of this paper, so I will similarly look at 
+verbs that fall into each category crosslinguistically. I refer to the four categories described by 
+Vendler (1957): states (static), achievements (telic punctual), accomplishments (telic durative), 
+and activities (atelic durative), as well as the semelfactive (atelic punctual) introduced by Comrie 
+(1976). Examples of each are presented in (96). 
+(96) a. State 
+a-k (be-SUF) ‘one who is’     (CPK:ado) 
+yacha-k (know-SUF) ‘one who knows’   (CPK:tip) 
+llaki-k (love-SUF) ‘one who loves’    (CPK:the) 
+shaya-ri-k (stand-PASS-SUF) ‘one who is standing’  (CPK:fin) 
+59 
+kawsa-k (live-SUF) ‘one who lives’    (CPK:ams) 
+ 
+b. Achievement 
+kalla-ri-k (begin-PASS-SUF) ‘one who begins’  (CPK:ray) 
+hapi-k (catch-SUF) ‘one who catches’    (CPK:fin) 
+pakta-k (arrive-SUF) ‘one who arrives’   (CPK:def) 
+llukshi-k (emerge-SUF) ‘one who emerges’   (CPK:est) 
+saki-k (leave-SUF) ‘one who leaves’    (CPK:pie) 
+ 
+c. Accomplishment 
+ra-k (make-SUF) ‘one who makes’    (CPK:def) 
+chagra-k (make.chagra-SUF) ‘one who makes a chagra’ (CPK:ado) 
+ñambi-k (make.path-SUF) ‘one who makes a path’  (CPK:fin) 
+aswa-ta upi-k (aswa-ACC drink-SUF) ‘one who drinks aswa’ (CPK:can) 
+chi-manda puri-k (there-ABL walk-SUF) ‘one who walks from there’ (CPK:fin) 
+ 
+d. Activity 
+puri-k (walk-SUF) ‘one who walks’    (CPK:est) 
+kallpa-k (run-SUF) ‘one who runs’    (CPK:ado) 
+rima-k (speak-SUF) ‘one who speaks’    (CPK:the) 
+taraba-k (work-SUF) ‘one who works’   (CPK:aft) 
+kasa-k (hunt-SUF) ‘one who hunts’    (CPK:ado) 
+ 
+e. Semelfactive 
+wakta-k (hit-SUF) ‘one who hits’    (CPK:fin) 
+kani-k (bite-SUF) ‘one who bites’    (CPK:ams) 
+salta-k (jump-SUF) ‘one who jumps’    (CPK:cha) 
+paki-ri-k (break-PASS-SUF) ‘that which breaks’  (CPK:aft) 
+tuvya-k (explode-SUF) ‘that which explodes’   (CPK:hww) 
+ 
+Based on transitivity, semantic argument structure, and aktionsart, the -k suffix is 
+seemingly unrestricted in its productivity. Considering now the regularity of the -k suffix, it has 
+been shown throughout this thesis that the relationship between verb and verb + -k form is highly 
+predictable. In every case, the verb + -k form refers to the one who does the verb. The only 
+exception might be yacha-k (know-SUF) which means ‘shaman.’ While the meaning is clearly 
+60 
+related to the participial definition, i.e., ‘one who knows,’ the word yacha-k has been lexicalized 
+to refer to a specific person in a community with specific characteristics and duties. This 
+semantic shift, while logical, is not predictable based on the word form, and is thus less regular. 
+That being said, the likelihood of yacha-k being a derivational verb + -k form as opposed to the 
+more regular inflectional verb + -k forms has already been discussed in connection with Lefebvre 
+& Muysken’s analysis. Incidentally, Lefebvre & Muysken assert that the derivational reading 
+likely arose diachronically from a reanalysis of the inflectional readings in Cusco Quechua 
+(Lefebvre & Muysken 1988: 66), and this seems the more probable path for yacha-k in PK as 
+well. In terms of generality and regularity, the -k suffix seems to conform to Shagal’s 
+generalization. 
+Another aspect of participles described by Shagal is orientation. The orientation of a 
+participle refers to the relationship between the participle and the head noun in terms of the 
+underlying argument structure of the verb from which the participle came. Shagal defines 4 
+orientations determined by the core arguments with which they are associated. For the following 
+discussion, A refers to the subject of a transitive verb; S refers to the subject of an intransitive 
+verb; and O refers to the direct object of a transitive verb. The four orientations are summarized 
+in (97). 
+ 
+(97)     a. Active participles: these are oriented toward A and S, the subjects of both transitive and 
+intransitive verbs. These can also be called nominative participles. (Shagal 2017: 48) 
+b. Passive participles: these are oriented toward O, the object of the transitive verb. These 
+can also be called accusative participles (Shagal 2017: 52). 
+c. Agentive participles: these are oriented toward only A. These can also be called 
+ergative participles (Shagal 2017: 57). 
+d. Absolutive participles: these are oriented toward O and S (Shagal 2017: 57). 
+ 
+61 
+To determine the orientation of verb + -k participles in PK we can look for examples of 
+verb + -k forms oriented toward A, S, and O. In the CPK there are many examples of verb + -k 
+forms oriented toward the subjects of transitive verbs, A, as in (98). 
+ 
+(98) Verb + -k participles oriented toward A: 
+allsa-k (pull-SUF) ‘one who pulls’    (CPK:toa) 
+apa-k (take-SUF) ‘one who takes’    (CPK:sui) 
+chura-k (put-SUF) ‘one who puts’    (CPK:bec) 
+hapi-k (catch-SUF) ‘one who catches’    (CPK:fin) 
+ni-k (say-SUF) ‘one who says’     (CPK:tip) 
+piti-k (cut-SUF) ‘one who cuts’    (CPK:ser) 
+ra-k (do-SUF) ‘one who does’     (CPK:def) 
+shita-k (throw-SUF) ‘one who throws’   (CPK:jag) 
+uya-k (hear-SUF) ‘one who hears’    (CPK:thk) 
+wañu-chi-k (kill-SUF) ‘one who kills’    (CPK:aft) 
+ 
+There are also many examples of verb + -k forms oriented toward the subjects of 
+intransitive verbs, S, as in (99). 
+ 
+(99) Verb + -k participles oriented toward S: 
+kawsa-k (live-SUF) ‘one who lives’    (CPK:ams) 
+macha-k (get.drunk-SUF) ‘one who drinks alcohol’  (CPK:ind) 
+puñu-k (sleep-SUF) ‘one who sleeps’    (CPK:rai) 
+puri-k (walk-SUF) ‘one who walks’    (CPK:ama) 
+ri-k (go-SUF) ‘one who goes’     (CPK:ind) 
+shaya-k (stand-SUF) ‘one who stands’   (CPK:fin) 
+siri-k (lie.down-SUF) ‘one who lies down’   (CPK:ado) 
+tiya-k (exist-SUF) ‘one who exists’    (CPK:tip) 
+urma-k (fall-SUF) ‘one who falls’    (CPK:fin) 
+wañu-k  (die-SUF) ‘one who dies’    (CPK:est) 
+ 
+62 
+There are, however, no examples of -k participles oriented toward the object of a 
+transitive verb, O, in the CPK. Thus, it appears the -k suffix in PK is an active or nominative 
+participle marker, being oriented toward A and S. 
+ 
+3.3 -shka 
+ 
+It was established in section 2.6 that the suffix -shka is potentially in a contrasting 
+relationship with the -k suffix in PK and is likely of the same category. Nuckolls & Swanson 
+describe verb + -shka forms as an “adjective” form of a perfective verb (Nuckolls & Swanson, 
+forthcoming: 237), and throughout the literature on Quechuan languages, the equivalent suffix 
+has been analyzed as either a participle (Catta Quelen 1985; Coombs 1976; Gomez Bacarreza 
+1988; Debenbach-Salazar Saenz 1993; Weber 1983; Weber 1989; Parker 1969;  Samanez Flores 
+1996; Huarachi Revello 2005) or as a nominalizer (Cole 1985; Soto Ruiz 1976; Lefebvre & 
+Muysken 1988; Alderetes 2001; Escribens 1970). With our current understanding of the -k suffix 
+as a participle, it would be fitting if -shka were shown to also be a participle. 
+It has already been shown that verb + -shka forms share many of the same nominal and 
+adjectival qualities as verb + -k forms. I now briefly present data from the CPK following the 
+same line of reasoning taken in the discussion of -k to conclude the -shka is also a participle. 
+ 
+(100) Noun-like function of verb + -shka  
+a. with nominal plural: 
+api-shka-guna       (CPK:fin) 
+catch-SUF2-PL 
+‘those which are caught’  
+ 
+b. with nominal case: 
+63 
+yanu-shka-ta       (CPK:can) 
+cook-SUF2-ACC 
+‘that which is cooked’ 
+ 
+c. modified by determiner: 
+chi   tuksi-shka      (CPK:ado) 
+that  puncture-SUF2 
+‘that stung (thing)’ 
+ 
+d. modified by quantifier: 
+ishkay  wañu-shka      (CPK:myf) 
+two      die-SUF2 
+‘two that have died’ 
+ 
+e. modified by PP: 
+pay  shimi-wan    kwinta-shka  m-a-n    (CPK:tip) 
+3S    mouth-INST  tell-SUF2       EVS-be-3S 
+‘It is told with his mouth’ 
+ 
+f. as subject argument: 
+chi   tuksi-shka   hambi-ri-u-n     (CPK:ado) 
+that  sting-SUF2  treat-PASS-DUR-3S 
+‘that stung (thing) is healing’ 
+ 
+g. as object argument: 
+payna  kwinta-shka-ta  kwinta-w-ni    (CPK:man) 
+3P        tell-SUF2-ACC    tell-DUR-1S 
+‘I am telling what he told’ or ‘I am telling what was told by him’ 
+ 
+(101) Modifier-like function of verb + -shka 
+a. as modifier: 
+pinta-shka  amarun      (CPK:Ado) 
+paint-SUF2  anaconda 
+‘painted anaconda’ 
+ 
+b. as predicate modifier: 
+urma-shka  m-a-ni!      (CPK:thp) 
+fall-SUF2    EVS-be-1S 
+‘I fell’ or ‘I am fallen’ 
+ 
+64 
+I now consider Baker & Vinokurova’s four criteria for distinguishing nominalizations 
+from relatives. Their discussion focused on agentive nominalizations, and thus are not applicable 
+to the current discussion conclusively, but the four criteria are concerned more with verbal 
+qualities than agentive qualities; therefore, I feel comfortable presenting these data, even if the 
+same conclusions derived by Baker & Vinokurova cannot be made here. It is presented more to 
+highlight similarities between -shka and -k, and though it may not form the basis of my 
+conclusion, it is illustrative of the more verbal nature of verb + -shka forms. 
+ 
+(102) verb + -shka can have TAM marking: 
+riksi-u-shka-guna     shamu-shka-wna-ra   (CPK:fin) 
+know-DUR-SUF2-PL  come-PERF-3P-PST 
+‘Those who are known had come.’ 
+ 
+(103) verb + -shka can be negated with negative verbal morphology: 
+mana  warmi   muna-w-shka     runa-shi   (CPK:ams) 
+NEG    woman  want-DUR-SUF2  man-EVO 
+‘A man not wanted by women’ or ‘not woman-wanted’ 
+ 
+(104) verb + -shka can use passive morphology: 
+riku-ri-shka       (CPK:thu) 
+see-PASS-SUF2 
+‘That which was seen’ 
+ 
+(105) verb + -shka can be modified by adverbs: 
+chasna    ra-shka  ch-a-w-n     (CPK:ama) 
+like.that  do-SUF2  EVU-be-DUR-3S 
+‘It is done like that, maybe’ 
+ 
+Ultimately, the question of the -shka suffix’s category comes down to the same question 
+that the discussion on -k came down to: how to reconcile the noun-like behavior and the 
+modifier-like behavior. With so many similarities between the two suffixes, it is likely that not 
+65 
+only is the question the same, but also the solution. Consider the following example in which the 
+speaker tells about her children, those that have died, and those that are still living. 
+ 
+(106) ñuka  nueve-ta   chari-ni,  ishkay  wañu-shka,  siete   kawsa-k (CPK:myf) 
+1S      nine-ACC  have-1S   two      die-SUF2        seven  live-SUF 
+‘I have nine (children), two that have died, seven that live’ 
+ 
+The parallel structure serves as fairly plain evidence that -k and -shka are likely of the 
+same category. With such prevalent parallelism between -shka and -k in PK, and with the support 
+of much of the literature that describes the contrasting relationship between these two suffixes, I 
+conclude that -shka is likewise a participle in PK. 
+To determine the -shka participle’s orientation, I searched the CPK for verb + -shka 
+forms oriented toward A, S, and O. I found no instances of a verb + -shka participle oriented 
+toward A. I did find, however, many examples oriented toward S, presented in (107), and 
+oriented toward O, in (108). 
+ 
+(107) Verb + -shka participles oriented toward S: 
+wañu-shka (die-SUF2) ‘one that has died’   (CPK:the) 
+urma-shka (fall-SUF2) ‘one that has fallen’   (CPK:thp) 
+riku-ri-shka (see-PASS-SUF2) ‘that which was seen’  (CPK:thu) 
+chura-ri-shka (put-PASS-SUF2) ‘one who is clothed’  (CPK:est) 
+waka-shka-ta (cry-SUF2-ACC) ‘one who has cried’  (CPK:fin) 
+ 
+(108) Verb + -shka participles oriented toward O: 
+pinta-shka (paint-SUF2) ‘one that is painted’   (CPK:ado) 
+muna-w-shka (want-DUR-SUF2) ‘one that is being wanted’ (CPK:ams) 
+ni-shka (say-SUF2) ‘that which is said’   (CPK:fin) 
+kwinta-shka (tell-SUF2) ‘that which is told’   (CPK:tip) 
+yanu-shka-ta (cook-SUF2-ACC) ‘that which is cooked’ (CPK:can) 
+66 
+ 
+Being aligned toward S and O, verb + -shka forms can be considered absolutive 
+participles, meaning PK has an active (or nominative) participle -k and an absolutive participle -
+shka. Incidentally, one of the languages examined in Shagal (2017)’s crosslinguistic survey of 
+participles was Tarma Quechua (also known as Yaru Quechua), a QI language spoken in many 
+of the districts of Peru to the north east of Lima. According to Shagal’s analysis, Tarma Quechua 
+has the same participial paradigm, with an active participle and an absolutive participle. 
+ 
+3.4 Chapter summary 
+ 
+In order to reconcile the noun-like and the modifier-like functions of verb + -k forms in 
+PK, I have argued that they are participial relatives that can optionally modify a null head. I have 
+shown that verb + -k forms retain a number of verbal qualities, including the ability to assign 
+case, to be used with TAM morphology, to be negated with verbal negation, to inflect passive 
+verb stems, and to be modified by adverbs. These suggest that verb + -k forms are not agentive 
+nominalizations. They are instead “morphosyntactically deranked verb forms that can be 
+employed for adnominal modification” (Shagal 2017: 1), i.e., participles. Furthermore, I have 
+shown that these participles have an active (or nominative) orientation, and that they are 
+contrastively paired with verb + -shka forms, which have been shown to be absolutive 
+participles. 
+In the final chapter of this thesis I make concluding remarks and discuss two 
+shortcomings of the current study. 
+  
+67 
+Chapter 4: Conclusion 
+ 
+In this thesis I have presented a corpus-based description of the attributive -k suffix in PK 
+using data from the CPK, concluding that the behavior and function of verb + -k forms match 
+typological descriptions of active (or nominative) participles. The description was informed by 
+the characterization of the -k suffix found in Nuckolls & Swanson (forthcoming), the only 
+description of PK currently, as well as literature on similar suffixes in other Quechuan languages. 
+The data in the CPK was found to corroborate Nuckolls & Swanson’s description of the nominal, 
+adjectival, verbal, and adverbial functions of the -k suffix, as well as the non-agentive uses of the 
+suffix; however, evidence was found that suggested the nominal and adjectival functions are 
+actually reflexes of a single function, i.e., relative clause. 
+As a first step toward reconciling the disparate functions of the suffix, I established that 
+verb + -k forms in PK are first modifiers with secondary nominal functions, rather than nouns 
+with secondary modifying functions. According to this analysis, verb + -k forms are relativizers, 
+and when they do not modify an overt head noun, they are considered headless relatives. This 
+conclusion is supported by the literature in analyses of related languages. 
+Finally, I established a definition of participles based on Shagal (2017) and determined 
+that verb + -k forms, as “morphosyntactically deranked verb forms that can be employed for 
+adnominal modification” (Shagal 2017: 1), are participles that can serve as the head of a 
+participial relative. This conclusion was bolstered by a parallel analysis to the suffix -shka which 
+was shown to be contrastively related to the -k suffix and in the same category. By again 
+appealing to the CPK, I was able to determine that the -k suffix exhibits behavior similar to 
+68 
+active participles crosslinguistically, and the -shka suffix exhibits behavior similar to absolutive 
+participles. 
+A relatively significant shortcoming of the current study is the size and composition of 
+the corpus from which the data was gathered. The CPK is composed entirely of narratives from a 
+single speaker. For a more representative analysis of PK, a larger corpus with texts from multiple 
+speakers could yield more reliable and generalizable results. As it is, trusting in the competence 
+of the one speaker, we can make valuable observations that are likely true of PK, though it is 
+impossible to say how representative these observations are of PK as a whole. Future research 
+will benefit from further documentation and digitalization of PK data. 
+Another shortcoming of this thesis is the incompleteness of the analysis. The verbal and 
+adverbial functions of verb + -k forms are still not well understood, although both support the 
+conclusion that verb + -k forms are not nominalizations, being more verb-like. Further study is 
+needed to determine exactly how the active participle -k interacts with verbs in PK when not part 
+of an argument. It is my conclusion that the -k suffix in PK is an active participle, but because of 
+the additional use in the habitual aspectual paradigm and its adverbial functions, perhaps a 
+unique label is warranted. For this reason, I believe that the “attributive” suffix, coined by 
+Nuckolls & Swanson, is an appropriate label for the suffix. My only revision to Nuckolls & 
+Swanson’s original characterization would be to change the category from a deverbal 
+nominalization that “attributes a certain role, ability, activity, or characteristic trait to the subject 
+of its verb” (Nuckolls & Swanson, forthcoming: 174) to a deverbal participle.  
+69 
+Appendix 1: Complete Quechuan Family Tree 
+ 
+Presented here is a complete family tree of languages in the Quechuan family (source: 
+https://glottolog.org/resource/languoid/id/quec1387). The languages are sorted into “branches” 
+with the total number of languages in each branch given in parentheses after the branch’s name. 
+For example, there are 19 languages in the Quechua I branch. PK (here Northern Pastaza 
+Quichua) is in bold, as well as are all of the branches to which it belongs; thus, following the 
+bold headings will lead one to PK. 
+ 
+Quechuan (45) 
+○ Quechua I (19) 
+■ Central Quechua I (18) 
+● AP-AM-AH (4) 
+○ Cajatambo North Lima Quechua 
+○ Chiquián Ancash Quechua 
+○ Huallaga Huánuco Quechua 
+○ Panao Huánuco Quechua 
+● Huangascar-Topara-Yauyos Quechua 
+○ Apurí 
+○ Azángaro-Huangáscar-Chocos 
+○ Cacra-Hongos 
+○ Huancaya-Vitis 
+○ Laraos 
+○ Madean-Viñac 
+○ San Pedro de Huacarpana 
+○ Tana-Lincha 
+○ Tomñs-Alis 
+● Huaylay (7) 
+○ Conchucos (2) 
+■ Northern Conchucos Ancash Quechua 
+■ Southern Conchucos Ancash Quechua 
+○ Corongo Ancash Quechua 
+○ Huamalíes-Dos de Mayo Huánuco Quechua 
+■ Huamalíes 
+■ Monzón 
+70 
+■ Northern Dos de Mayo 
+○ Huaylas Ancash Quechua 
+■ Huailas 
+■ Huaraz 
+■ Yungay 
+○ Margos-Yarowilca-Lauricocha Quechua 
+○ Sihuas Ancash Quechua 
+● Jauja-Huanca (2) 
+○ Huaylla Wanca Quechua 
+■ East Waylla 
+■ Waycha 
+■ West Waylla 
+○ Jauja Wanca Quechua 
+● Yaru Quechua (4) 
+○ Ambo-Pasco Quechua 
+○ North Junín Quechua 
+○ Santa Ana de Tusi Pasco Quechua 
+○ Yanahuanca Pasco Quechua 
+■ Pacaraos Quechua 
+○ Quechua II (26) 
+■ Cajamarca Quechua 
+● Eastern Cajamarca 
+● Western Cajamarca 
+■ Chincha Quechua 
+■ Lambayeque Quechua 
+● Cañaris 
+● Incahuasi 
+■ Quechua IIB (14) 
+● Chachapoyas Quechua 
+○ Grenada-Mendoza 
+○ La Jalca 
+○ Lamud 
+○ Llakwash Chachapoyas 
+● Colombia-Ecuador Quechua IIB (12) 
+○ Ecuadorian Quechua A (3) 
+■ Calderón Highland Quichua 
+■ Chimborazo Highland Quichua 
+■ Salasaca Highland Quichua 
+○ Ecuadorian Quechua B (7) 
+■ Cañar Highland Quichua 
+71 
+■ Ecuadorian Lowland Quechua (4) 
+● Napo Lowland Quechua 
+○ Santa Rosa Quechua 
+● Northern Pastaza Quichua 
+○ Tigre Quechua 
+● Southern Pastaza Quechua 
+● Tena Lowland Quichua 
+■ Imbabura Highland Quichua 
+■ Loja Highland Quichua 
+○ Ingan Quechua IIB (2) 
+■ Inga 
+● Aponte Inga 
+● San Andrés Inga 
+● Santiago Inga 
+■ Jungle Inga 
+● Guayuyaco 
+● Yunguillo-Condagua 
+● San Martín Quechua 
+■ Quechua IIC (9) 
+● Ayacuchan Quechua (2) 
+○ Arequipa-La Unión Quechua 
+■ Antabamba (Arequipa-La Union Quechua) 
+■ Cotahuasi 
+■ Highland Arequipa 
+■ Northern Arequipa 
+○ Ayacucho Quechua 
+■ Andahuaylas 
+■ Huancavelica 
+● Bolivian Quechua IIC (2) 
+○ North Bolivian Quechua 
+■ Apolo 
+■ Charazani 
+■ Chuma 
+○ South Bolivian Quechua 
+■ Chuquisaca 
+■ Cochabamba 
+■ Northwest Jujuy 
+■ Oruro 
+■ Potosí 
+■ Sucre 
+72 
+● Classical Quechua 
+● Cuscan Quechua (3) 
+○ Cusco Quechua 
+■ Caylloma Quechua 
+○ Eastern Apurímac Quechua 
+■ Abancay 
+■ Antabamba 
+■ Cotabambas 
+○ Puno Quechua 
+■ Cailloma Quechua 
+● Santiago del Estero Quichua 
+○ Catamarca y La Rioja 
+○ Santiago del Estero 
+  
+73 
+REFERENCES 
+ 
+Adelaar, Willem F. H. 1987. Morfología del Quechua de Pacaraos. Facultad de Letras y 
+Ciencias Humanas, Universidad Nacional Mayor de San Marcos. Lima, Peru. 
+ 
+Adelaar, Willem F. H., & Pieter C. Muysken. 2004. The Languages of the Andes. Cambridge 
+University Press. Web. Cambridge Language Surveys. 
+ 
+Alderetes, Jorge R. 2001. El quichua de Santiago del Estero: Gramática y vocabulario. 
+Argentina: Facultad de Filosofía y Letras, Universidad Nacional de Tucuman. 
+ 
+Baker, Mark C. & Nadya Vinokurova. 2009. On agent nominalizations and why they are not like 
+event nominalizations. Language 85(3). 517-556. Linguistic Society of America. 
+ 
+Catta Quelen, Javier. 1985. Gramática del Quichua Ecuatoriano. Quito: Colección Mundo 
+Andino. 
+ 
+Cole, Peter. 1985. Imbabura Quechua. In Comrie, Bernard, Norval Smith, & Anna de Haas 
+(eds.), Lingua Descriptive Studies (LDS) 5. Amsterdam: North-Holland Publishing 
+Company. 
+ 
+Comrie, Bernard. 1976. Aspect. Cambridge: Cambridge University Press. 
+ 
+Comrie, Bernard & Sandra A. Thompson. 2007. Lexical nominalization. In Shopen, Timothy 
+(ed.), Language typology and syntactic description, 2nd edn, vol. 3 (Grammatical 
+categories and the lexicon), 334-410. Cambridge: Cambridge University Press. 
+ 
+Coombs, David, Heidi Coombs, & Robert Weber. 1976. Gramática quechua: San Martin. Lima: 
+Ministerio de Educación. 
+ 
+Costa, R. 1972. A study of the -SQA-, -NA-, -Y-, and -Q- nominalizing suffixes in Quechua. 
+Papers in Andean Linguistics 1(1). 29-79. 
+ 
+Debenbach-Salazar Saenz, Sabine. 1993. Una Gramática Colonial del Quichua del Ecuador. 
+Scotland: Institute of Amerindian Studies, University of St. Andrews. 
+ 
+Escribens, Augusto, & Paul Proux. 1970. Gramática del Quechua de Huaylas. Lima: 
+Universidad Nacional de san Marcos. 
+ 
+74 
+Gijn, Rik van. 2012. Switch-Attention (Aka Switch-Reference) in South-American Temporal 
+Clauses: Facilitating Oral Transmission. Linguistic Discovery 10. 112–127. Web. 
+ 
+Glottolog. Quechuan. https://glottolog.org/resource/languoid/id/quec1387. Accessed 2/17/2020. 
+ 
+Gomez Bacarreza, Donato, & Fabiana Arévalo Soto. 1988. Morfología del Idioma Quechua. La 
+Paz: Icthus Editorial y Libreria. 
+ 
+Guardia Moyorga, Cesar A. 1973. Gramatica Kechwa. Lima: Ediciones Los Andes. 
+ 
+Haspelmath, Martin. 1996. Word-class-changing inflection and morphological theory. In Booij, 
+Geert & Jaap van Marle (eds.). Yearbook of morphology 1995, 43-66. Dordrecht: Klewer 
+Academic Publishers. 
+ 
+Huarachi Revollo, Albino. 2005. La Lengua Quechua: Texto de Morfología Quechua. Oruro: 
+Latinas Editores. 
+ 
+Hurtado de Mendoza S., William. 2002. Pragmática de la cultura y la lengua Quechua. Quito: 
+Ediciones Abya-Yala. 
+ 
+Koptjevskaja-Tamm, Maria. 2005. Action nominal constructions. In Haspelmath, Martin, 
+Matthew Dryer, David Gil, & Bernard Comrie (eds.), The world atlas of language 
+structures. 254-57. Oxford: Oxford University Press. 
+ 
+Lefebvre, Claire, & Pieter Muysken. 1988. Mixed categories: nominalizations in Quechua. 
+Dordrecht: Klewer Academic Publishers. 
+ 
+Lewis, Paul M., Gary F. Simons, & Charles D. Fennig. 2017. Languages of the World, 20th 
+Edition. Ethnologue. SIL International. 
+ 
+Markham, Clements R. 1864. Contributions towards a grammar and dictionary of Quichua, the 
+language of the Incas of Peru. London: Trübner & Co. 
+ 
+Muysken, Pieter. 1994. Nominalization. 2811-2815. Nijmegen: Radboud University. 
+ 
+Muysken, Pieter. 2000. Semantic transparency in Lowland Ecuadorian Quechua morphosyntax. 
+Linguistics 38(5). 973–988. Berlin: De Gruyter. 
+ 
+75 
+Nuckolls, Janis B. & Tod D. Swanson. Forthcoming. Amazonian Quichua language and life: 
+Introduction to grammar, culture, and discourse patterns from Pastaza and Upper Napo 
+Quichua. Lexington Press, Rowman and Littlefield Publishers. 
+ 
+Parker, Gary J. 1969. Ayacucho Quechua grammar and dictionary. Series Practica 82. The 
+Hague: Mouton & Co. N.V., Publishers. 
+ 
+Rice, Alexander. 2018a. Corpus of Pastaza Kichwa. Brigham Young University. 
+ 
+Rice, Alexander Harrison. 2018b. Switch-Reference in Pastaza Kichwa. Theses and 
+Dissertations. 7322. https://scholarsarchive.byu.edu/etd/7322. 
+ 
+Samanez Flores, David I. 1996. Gramática del Quechua del Qosqo. Cusco: Instituto Nacional de 
+Cultura, Academia Mayor de la Lengua Quechua. 
+ 
+Shagal, Ksenia. 2017. Towards a typology of participles. Helsinki: Department of Modern 
+Languages, University of Helsinki. 
+ 
+Snow, Charles. 1973. Nominalization in Ancash Quechua: 1. Papers in Andean Linguistics. 
+Madison, Wis.: [s.n.]. 
+ 
+Soto Ruiz, Clodoaldo. 1976. Gramática quechua: Ayacucho-chanca. Lima: Ministerio de 
+Educación. 
+ 
+Stassen, Leon. 1985. Comparison and universal grammar. Oxford: Basil Blackwell. 
+ 
+Vendler, Z. 1957. Verbs and Times. The Philosophical Review 66(2). 143-160. ISSN 0031-8108. 
+ 
+Weber, David John. 1983. Relativization and Nominalized Clauses in Huallaga (Huanuco) 
+Quechua. University of California Publications in Linguistics 103. University of 
+California Press. 
+ 
+Weber, David John. 1989. A Grammar of Huallaga (Huánuco) Quechua. University of California 
+Publications in Linguistics 112. University of California Press. 
