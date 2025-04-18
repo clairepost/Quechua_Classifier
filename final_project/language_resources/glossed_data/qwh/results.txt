@@ -1,0 +1,730 @@
+  Rika:rin. 
+{rika:-ri-n}  
+see-PUNC-3.SBJ 
+‘S/he sees briefly.’
+
+ Haqipuy. 
+{haqi-pu-y} 
+leave-BEN-IMP 
+ ‘Leave it to him!’
+
+ Pukllaykuntsik. 
+  {puklla-yku-ntsik} 
+  play-EXCEP-1PL.SBJ 
+  ‘We played.’
+
+ Rikarkunki. 
+  {rika-rku-nki} 
+  look.up-UW-2.SBJ 
+ ‘You look it up.’
+
+  Rika:riyan. 
+  {rika:-ri-ya-n} 
+  see-PUNC-3.SBJ 
+  ‘They see briefly.’
+
+hiqarparkaramuptin 
+ {hiqa-rpu-rku-ri-mu-pti-n} 
+ grow-DW-UW-PUNC-CISL-SUBDS-3.SBJ 
+‘when it has germinated fully’
+
+ Manam pay chukruta mikuyta puwidintsu. 
+{mana-m  pay  chukru-ta  miku-y-ta  puwidi-n-tsu} 
+ not-EVD s/he  hard-ACC  eat-INF-ACC  be.able.to-3.SBJ-NEG 
+ ‘He can’
+
+ Kanan  musyarirqunki imanaw rurana:kanqanta. 
+{kanan musya-ri-rqu-nki   imanaw rura-na-ː     ka-nqa-n-ta} 
+ now  know-PUNC-REC.PST-2.SBJ  how  make-POT.NMLZ-1.POSS be-ACT.NMLZ-ACC 
+‘Now you know how my chores at home are.’
+
+ Tushunqanta musya:. 
+{tushu-nqa-n-ta  musya-:} 
+ dance-ACT.NMLZ-3.SBJ-ACC  know-1.SBJ 
+‘I know that s/he  is dancing / that s/he danced.’
+
+ Aykatataq munanki?  
+ {ayka-ta-taq    muna-nki?} 
+ how.many-ACC-CONTR want-2.SBJ 
+ ‘How many do you want?’
+
+ Qam shumaq wasiyuq kanki. 
+ {qam shumaq  wasi-yuq   ka-nki} 
+ you pretty house-INAL.POSS  be-2.SBJ 
+‘You have a pretty house.’
+
+ Abraham hutiyuq nuna shamun. 
+ {abraham  huti-yuq   nuna  shamu-n} 
+ abraham  name-INAL.POSS  person come-3.SBJ 
+ ‘A person named Abraham has come.’
+
+ Kashkitapis rurantsik aytsallantin. 
+ {kashki-ta-pis   rura-ntsik  aytsa-lla-ntin} 
+ soup-ACC-ADD   make-1PL.SBJ  meat-LIM-INCL 
+ ‘We also make soup with meat.’
+
+ Tantata rura:. 
+{tanta-ta  rura-:} 
+bread-ACC make-1.SBJ 
+‘I make bread.’
+
+ Wayiyikita purishun. 
+{wayi-yiki-ta   puri-shun} 
+ house-2.POSS-ACC walk-1PL.INCL.SBJ.FUT 
+ ‘Let’
+
+ a. Shanti tsurinta ruripata qurqan. 
+  {shanti  tsuri-n-ta  ruripa-ta qu-rqa-n}
+  Santiago child-3.POSS-ACC skirt-ACC give-PST-3.SBJ 
+  ‘Santiago gave his child a skirt.’
+
+ a. Na:nita rikaykaya:. 
+{na:ni-ta rika:-yka:-ya-ː} 
+road-ACC see-IPFV-PL-1.SBJ 
+‘We are seeing the road.’
+
+ Peyupa warmin 
+{peyu-pa  warmi-n} 
+pedro-GEN woman-3.POSS 
+‘Pedro’
+
+ Peyupa warminpa turin 
+{peyu-pa  warmi-n-pa  turi-n} 
+pedro-GEN woman-3.POSS-GEN brother.of.a.woman-3.POSS 
+‘Pedro’
+
+ Hirkakunapa hananpa aywan. 
+ {hirka-kuna-pa hana-n-pa  aywa-n} 
+ mountain-PL-GEN top-3.POSS-GEN go-3.SBJ 
+ ‘It goes through the top of the mountains.’
+
+ Huanshi mantsapaypa puriykan. 
+{huanshi  mantsa-pa:-y-pa puri-yka:-n} 
+Juan   fear-APPL-INF-GEN  walk-IPFV-3.SBJ 
+‘Juan is walking afraid (of something).’
+
+ U:sa:kuna quchaman hiqaykurqun. 
+{u:sha-ː-kuna  qucha-man hiqa-yku-rqu-n}
+sheep-1.POSS-PL lake-ALL fall-IW-REC.PST-3.SBJ 
+‘Our sheep have fallen into the lake.’
+
+ Kallmi paninpaq takiykan.  
+ {kallmi  pani-n-paq     taki-yka:-n} 
+ carmen  sister.of.a.woman-3.POSS-BEN  sing-IPFV-3.SBJ 
+ ‘Carmen sings for her sister.’
+
+aywakunqanpita  
+{aywa-ku-nqa-n-pita} 
+go-MID-ACT.NMLZ-3.POSS-ABL 
+ ‘due to his leaving’
+
+ Tsayshi kanankamayaq waqayan suwirtillankunata. 
+{tsay-shi  kanan-kama-yaq  waqa-ya:-n  suwirti-lla-n-kuna-ta} 
+DEM-EVR now-LIM-LIM  cry-PLV-3SBJ luck-LIM-3.POSS-PL-ACC 
+‘Therefore, up until now they cry for their luck.’
+
+ Llawiwan punku-ta kicharqa:. 
+ {llawi-wan punku-ta kicha-rqa-ː} 
+ key-COM door-ACC open-PST-1.SBJ 
+ ‘I opened the door with the key.’
+
+ Tsuriykiraykur uryaykanki. 
+{tsuri-yki-raykur  urya-yka:-nki} 
+child-2.POSS-CSL work-IPFV-2.SBJ 
+‘You are working for your child.’
+
+ Nuqa chakra nunam ka:.  
+{nuqa  chakra   nuna-m  ka-ː} 
+I crop.field person-EVD be-1.SBJ 
+‘I am a peasant.’
+
+Pay llaqtamasi:mi. 
+ {pay  llaqtamasi-:-mi} 
+s/he fellow.townsman-1.SBJ-EVD 
+‘He is my fellow townsman.’
+
+Pay llaqtamasi:mi karqan.  
+ {Pay  llaqtamasi:-mi    ka-rqa-n} 
+ s/he fellow.townsman-1.POSS-EVD  be-PST-3.SBJ 
+‘He was my fellow townsman.’
+
+ Wak bidachawmi almayki mula kaykan. 
+ {wak   bida-chaw-mi  alma-yki  mula  ka-yka:-n} 
+ that.other life-LOC-EVD soul-2.POSS mule be-IPFV-3.SBJ 
+ ‘In the other life your soul is a mule.’
+
+Allqu kan.  
+ {allqu  ka-n} 
+ dog be-3.SBJ 
+ ‘There is a dog.’
+
+ Atska fiyistakuna kan. 
+ {atska  fiyista-kuna  ka-n} 
+ many party-PL be-3.SG 
+ ‘There are many parties.’
+
+ Luis Pardopa kapunaq huk kumpa:rim. 
+ {Luis  Pardo-pa  ka-pu-naq   huk  kumpari-m} 
+ Luis  Pardo-GEN be-BEN-NARR.PST one compadre-EVD 
+ ‘Luis Pardo had one compadre.’
+
+Qillaysapa tukunki.  
+ {Qillaysapa   tuku-nki} 
+ money-MULT.ALL pretend.to.be-2.SBJ 
+ ‘You pretend to be rich.’
+
+ wanuqtukur 
+ {wanu-q-tuku-r} 
+ die-AG-pretend.to.be-SUBIS 
+  ‘pretending to be dead’
+
+ U:sha atuqta mantsan. 
+ {u:sha atuq-ta   mantsa-n} 
+ sheep  atuq-ACC fear-3.SBJ 
+ ‘The sheep fears the fox.’
+
+Michi aytsata ma:kurinaq. 
+ {michi aytsa-ta  ma:ku-ri-naq} 
+ cat meat-ACC notice-PUNC-NARR.PST 
+ ‘The cat noticed the meat.’
+
+ Peyu mankata rikaykan. 
+ {peyu  manka-ta  rika:-yka:-n} 
+ pedro pot-ACC see-IPFV-3.SBJ 
+ ‘Pedro is looking at the pot.’
+
+ Pintiykarqayki. 
+ {pinti-yka:-rqa-yki} 
+ jump-IPFV-PST-2.SBJ 
+‘You were jumping.’
+
+ Ama mantsaka:yaytsu, nuqaqa kawayka:mi. 
+{ama  mantsa-ka:-ya-y-tsu   nuqa-qa  kawa-yka:-ː-mi} 
+PROH fear-SPON-PLV-IMP-NEG I-TOP  live-IPFV-1.SBJ-EVD 
+‘Don’
+
+Kananqa yachaykan Yungaychaw. 
+  {kanan-qa yacha-yka:-n  yungay-chaw} 
+ now-TOP reside-IPFV-3.SBJ yungay-LOC 
+ ‘She is currently living in Yungay.’
+
+ kiri: wichqaran. 
+ {kiri-ː   wichqa-ra:-n} 
+ wound-1.POSS  close-DUR-3.SBJ 
+ ‘My wound remains closed.’
+
+ Ichikllachawmi imayka karin.  
+{ichik-lla-chaw-mi  imayka  ka-ri-n}  
+little-LIM-LOC-EVD any.type be-PUNC-3.SBJ 
+‘In a little bit, anything comes up.’
+
+ Munarqa tsayllachaw haqiriykuy yanasa. 
+ {muna-r-qa   tsay-lla-chaw  haqi-ri-yku-y    yanasa} 
+ want-SUBIS-TOP  DEM-LIM-LOC  leave-PUNC-EXCEP-IMP friend.of.a.woman 
+ ‘If you want, please drop it here, friend.’
+
+ Yapay tsaynawlla kaykunki. 
+ {yapay  tsay-naw-lla   ka-yku-nki} 
+ again   DEM-SIMUL-LIM be-EXCEP-2.SBJ 
+‘Again, you act in this way.’
+
+ Alfredo kasi ishkiykun. 
+ {alfredo  kasi  ishki-yku-n} 
+ alfredo  almost fall-EXCEP-3.SBJ 
+ ‘Alfredo almost falls.’
+
+ Felismente payqa kichaykamarqan. 
+ {felismente  pay-qa   kicha-yku-ma:-rqa-n} 
+ fortunately  s/he-TOP open-EXCEP-1.OBJ-PST-3.SBJ 
+‘Fortunately, he opened (the door) for me.’
+
+ Pukyuman cha:rirnash yakuta chaqarkamun. 
+ {pukyu-man  cha:-ri-r-na-sh   yaku-ta  chaqa-rku-mu-n} 
+ spring-ALL arrive-PUNC-SUBIS-DISC-EVR water-ACC gourd.ladle-UW-3.SBJ 
+‘She arrived at the spring and took water with a gourd recipient.’
+
+ Shiminta hirarkapurqunaq. 
+{shimi-n-ta  hira-rku-pu-rqu-naq} 
+mouth-3.POSS-ACC sew-UW-BEN-REC.PST-NARR.PST 
+‘He sewed his mouth up.’
+
+ Kumpari, ma: upurkushun. 
+ {kumpari  ma:   upu-rku-shun} 
+ compadre  come.on drink-UW-1PL.INCL.SBJ.FUT  
+  ‘Compadre, come on, let’
+
+ Takllanqa lasaparkunaq. 
+ {taklla-n-qa  lasa-pa:-rku-naq} 
+ foot.plow-3.SBJ-TOP weight-APPL-UW-NARR.PST 
+ ‘Hisi foot plow was heavy for himi.’
+
+ Paytana rogarqunaq atskata rurun apaykur. 
+{pay-ta-na  roga-rqu-naq   atska-ta  ruru-n   apa-yku-r} 
+he-ACC-DISC beg-REC.PST-NARR.PSTmany-ACC egg-3.POSS take-EXCEP-SUBIS 
+‘Carrying a lot of eggs, he begged him.’
+
+ Tsaynin aparkur kushishqa hiqariq bruhoqa. 
+{tsay-ni-n  apa-rku-r  kushi-shqa  hiqari-q  bruho-qa} 
+DEM-EP-3.POSS take-UW-SUBIS happy-RES go-HAB shaman-TOP 
+‘Thus the shaman left happy, taking that.’
+
+ Tsay taksha wambrakuna mas wanutsiyan taksha pishqukunata. 
+{tsay taksha wambra-kuna mas wanu-tsi-ya-n  taksha  pishqu-kuna-ta}
+DEM little child-PL more die-CAUS-PLV-3.SBJ little bird-PL-ACC 
+‘Those little children kill smaller birds.’
+
+ Hampikuqkuna qishyaqkunata wanutsinaq. 
+{hampi-ku-q-kuna qishya-q-kuna-ta wanu-tsi-naq.} 
+ cure-MID-AG-PL be.sick-AG-PL-ACC die-CAUS-NARR.PST 
+‘The doctors killed the sick ones.’
+
+ (Paykuna) mishita wawantin wanutsiyarqan. 
+{(paykuna)  mishi-ta wawa-ntin  wanu-tsi-ya-rqa-n} 
+they  cat-ACC baby-INCL kill-CAUS-PLV-PST-3.SBJ 
+‘They killed the cat along with her kittens.’
+
+ Kallu Shantita pintitsiykan.  
+{kallu shanti-ta pinti-tsi-yka:-n} 
+ carlos santiago-ACC jump-CAUS-IPFV-3.SBJ 
+ ‘Carlos is making Santiago jump.’
+
+ Huwanshi runkukunata paka:tsirqan. 
+{huwanshi runku-kuna-ta  paka:-tsi-rqa-n} 
+juan  bag-PL-ACC hide-CAUS-PST-3.SBJ 
+‘Juan made his bags be hidden.’
+
+ Mama:ni: tantata rantitsirqun. 
+{mama:-ni-ː   tanta-ta  ranti-tsi-rqu-n.}
+Mom-EP-1.POSS bread-ACC buy-CAUS-REC.PST-3.SBJ 
+‘My mom had bread be bought.’
+
+ Ana paninwan waytata apatsirqan. 
+{ana  pani-n-wan     wayta-ta  apa-tsi-rqa-n} 
+ana sister.of.a.woman-3.POSS-COM flower-ACC take-CAUS-PST-3.SBJ 
+‘Ana had her sister take a flower.’
+
+ Allquta puritsin yanaqinwan. 
+{allqu-ta  puri-tsi-n   yanaqi-n-wan} 
+dog-ACC  walk-ACC-3.SBJ  friend-3.POSS-COM 
+‘She has her friend walk the dog.’
+
+ Ana paninta waytata apatsirqan. 
+ {ana  pani-n-ta     wayta-ta  apa-tsi-rqa-n} 
+ana sister.of.a.woman-3.POSS-ACC flower-ACC take-CAUS-PST-3.SBJ 
+‘Ana made her sister take a flower.’
+
+ Malli naqtsakuykan. 
+{malli  naqtsa-ku-yka:-n} 
+maría comb-MID-IPFV-3.SBJ 
+‘María is combing (herself)’
+
+ Mayuchaw armakurqantsik. 
+{mayu-chaw  arma-ku-rqa-ntsik} 
+river-LOC bathe-MID-PST-1PL.SBJ  
+‘We bathed in the river.’
+
+ Bruhoqa hampikurqan. 
+{bruho-qa  hampi-ku-rqa-n} 
+shaman-TOP cure-MID-PST-3.SBJ 
+‘The shaman healed himself.’
+
+ Tsay machay rurinllaman alli paka:kuyay. 
+{tsay  machay  ruri-n-lla-man    alli  paka:-ku-ya-y} 
+DEM cave   inside-3.POSS-LIM-ALL good hide-MID-PLV-IMP 
+‘Hide yourselves well inside of that cave!’
+
+ Puma u:shantsikta apakurqun. 
+{puma  u:sha-ntsik-ta    apa-ku-rqu-n} 
+cougar  sheep-1PL.INCL.POSS-ACC take-MID-REC.PST-3.SBJ 
+‘The cougar took our sheep away.’
+
+ Qam mishki aytsata mikukukunki. 
+{Qam  mishki  aytsa-ta  miku-ku-nki} 
+you  tasty meat-ACC eat-MID-2.SBJ 
+‘You eat tasty meat.’
+
+ Ampipapis kada ratu kuyukarayka:murqan. 
+{ampi-pa-pis   kada  ratu  kuyu-ku-ra:-yka:-mu-rqa-n} 
+night-GEN-ADD every time move-MID-DUR-IPFV-CISL-PST-3.SBJ 
+‘(The floor) at night kept moving there every time.’
+
+ I yanaqinkunawanqa llapanmi pampatsa:natsikuyan. 
+{i  yanaqi-n-kuna-wan-qa  llapa-n-mi pampatsa:-na-tsi-ku-ya-n} 
+and  friend-3.POSS-PL-COM-TOP all-3.POSS-EVD pair.up-RECP-CAUS-MID-PLV-3.SBJ 
+‘And with their friends, all of themi makes each otheri match.’
+
+Kinwata paqarqantsik. 
+{kinwa-ta paqa-rqa-ntsik} 
+quinoa-ACC wash-PST-1INCL.SBJ 
+‘We washed the quinoa.’
+
+Kinwa paqakarqantsik. 
+{kinwa  paqa-ka:-rqa-ntsik} 
+quinoa  wash-SPON-PST-1INCL.SBJ 
+‘The quinoa was washed.’
+
+Ashnu watakaykan.  
+ {ashnu  wata-ka:-yka-n} 
+ donkey  tie-SPON-CONT-3.SBJ 
+ ‘The donkey is getting tied’
+
+ Wamra kanastaman winaka:rqunaq. 
+{wamra  canasta-man  wina-ka:-rqu-naq} 
+child   basket-ALL  fill-SPON-REC.PST-NARR.PST 
+‘The child got herself into the basket.’
+
+ Ayan llapan hirkapa ashikaykayarqan. 
+{aya-n  llapan  hirka-pa  ashi-ka:-yka:-ya:-rqa-n-mi} 
+corpse-3.POSS all-3.POSS mountain-GEN look.for-SPON-IPFV-PLV-PST-3.SBJ-EVD 
+‘His corpse was sought through all the mountains.’
+
+ Hushi mamanpaq wayinta rurapun. 
+{Hushi  mama-n-paq   wayi-n-ta  rura-pu-n} 
+José   mother-3.POSS-DAT house-3.POSS-ACC make-BEN-3.SBJ 
+ ‘José makes her mother a house.’
+
+ Wa:kaykikunata ta:papushunki. 
+{wa:ka-yki-kuna-ta   ta:pa-pu-shunki} 
+cow-2.POSS-PL-ACC  take.care-BEN-3SBJ.2.OBJ 
+‘She takes care of your cows for you.’
+
+ Nunaqa pallarkapamurqun huk quri hachata. 
+ {nuna-qa  palla-rku-pu-mu-rqu-n  huk  quri  hacha-ta} 
+person-TOP  pick-UW-BEN-CISL-REC.PST-3.SBJ one gold ax-ACC 
+‘The person picked up a golden ax for him.’
+
+ Warmin amiganwan taripuykunaq. 
+{warmi-n  amiga-n-wan   tari-pu-yku-naq} 
+wife-3.POSS mistress-3.POSS-COM find-BEN-EXCEP-NARR.PST 
+‘Hisi wife caught himi with hisi mistress.’
+
+ Mamanta wanupurqan. 
+ {mama-n-ta   wanu-pu-rqa-n} 
+mother-3.POSS-ACC die-BEN-PST-3.SBJ 
+‘He died on his mother.’
+
+ waqtanta ashpipa:nanpaq. 
+ {waqta-n-ta   ashpi-pa:-na-n-paq} 
+back-3.POSS-ACC scratch-APPL-POT.NMLZ-3.POSS-DAT 
+ ‘…so that he scratched her back’
+
+ Wawantana kutapan: riyakuy, nishpa. 
+ {wawa-n-ta-na   kuta-pa:-n  riya-ku-y   ni-shpa} 
+ child-3.POSS-ACC-DISC hit-APPL-3.SBJ wake.up-MID-IMP say-SUBIS 
+ ‘She shook her son saying: ‘wake up.’
+
+ Manam ni pi tsaynawqa ruramushqatsu. 
+{mana-m  ni  pi  tsay-naw-qa   rura-mu-shqa-tsu} 
+not-EVD nor  who DEM-SIMUL-TOP make-CISL-3.SBJ.PRF-NEG 
+‘Nobody has come making it that way.’
+
+ Paniykita ashiya:murqun. 
+{pani-yki-ta    ashi-ya:-mu-rqu-n} 
+sister.of.man-2.POSS-ACC search-PLV-CISL-REC.PST-3.SBJ 
+‘They have come looking for your sister.’
+
+Tsaynam rogayapti: bahamurqan kima waranqaman. 
+{tsay-na-m  roga-ya:-pti-ː   baha-mu-rqa-n  kima  waranqa-man} 
+ DEM-DISC-EVD beg-PLV-SUBDS-1.SBJ lower-CISL-PST-3.SBJ three thousand-ALL 
+‘Then when we begged he brought (the price) down to three thousand.’
+
+ Sharayka:mu:mi. 
+{sha-ra:-yka:-mu-ː-mi} 
+come-DUR-IPFV-1.SBJ-EVD 
+‘I am coming (for you)!’
+
+ Kuchintsik tsariya:muy!  
+{kuchi-ntsik   tsari-ya:-mu-y} 
+pig-1PL.INCL.POSS grab-PLV-CISL-IMP 
+‘Catch our pig!’
+
+ Imatataq puntata putskamushaq? 
+{ima-ta-taq   punta-ta  putska-mu-shaq} 
+what-ACC-CONTR before-ACC spin.yarn-CISL-1.SBJ.FUT 
+‘What (yarn) will I spin first?’
+
+ Tiyanqa uchkukunata latupakuq. 
+{tiyan-qa  uchku-kuna-ta  latu-paku-q} 
+aunt-TOP hole-PL-ACC  fill-ATTEN-HAB 
+‘Her aunt filled the holes’
+
+ Atalláw, upupakurishaqchi. 
+{atalláw  upu-paku-ri-shaq-chi} 
+nice  drink-ATTEN-PUNC-1.SBJ.FUT-CONJ  
+‘How nice! It looks like I will drink as much as I can.’
+
+Virginqa hiqarpamun yana enteru limpu wankupakushqa. 
+{virgin-qa  hiqa-rpu-mu-n  yana  enteru  limpu  wanku-paku-shqa} 
+virgin-TOP fall-DW-CISL-3.SBJ black whole totally wrap-ATTEN-RES  
+‘The Virgin fell from the skies completely wrapped in black.’
+
+ U:sha, kuchi, kakashqa mallaqa:yaqtsu qurakunata mikupakur. 
+{u:sha  kuchi  kakash-qa  mallaqa:-ya:-q-tsu  qura-kuna-ta  miku-paku-r} 
+sheep pig rooster-TOP hunger-PL-HAB-NEG herb-PL-ACC eat-ATTEN-SUBIS 
+‘The sheep, the pig, and the rooster were not hungry because they ate herbs.’
+
+ Tsay tsaka kawan.  
+ {tsay  tsaka  kawa-n} 
+ DEM bridge  live-3.SBJ 
+ ‘That bridge exists.’
+
+ Tsaypita uryayarqan pagadunam munaq kaqkuna. 
+{tsay-pita  urya-ya:-rqa-n  pagadu-na-m   muna-q  ka-q-kuna} 
+DEM-ABL  work-PLV-PST-3.SBJ paid-DISC-EVD  want-AG be-AG-PL 
+‘After that, only those who wanted worked, but for pay.’
+
+ Tayta:, maychawtaq tarishqa kanki? 
+{tayta-ː  may-chaw-taq   tari-shqa  ka-nki} 
+father-1.POSS where-LOC-CONTR find-PRF be-2.SBJ 
+‘Sir, where have you found it?’
+
+ Ama parlayaytsu! 
+{ama  parla-ya-y-tsu} 
+PROH speak-PLV-IMP-NEG 
+‘Don’
+
+ Punuykanraq.  
+{punu-yka:-n-raq} 
+sleep-IPFV-3.SBJ-CONT 
+‘She is still sleeping.’
+
+ Na:nitaraq ruramuy.  
+{na:ni-ta-raq   rura-mu-y} 
+road-ACC-CONT make-CISL-IMP  
+‘Make the road first.’
+
+Sha:rikuyna.  
+ {sha:ri-ku-y-na} 
+ get.up-MID-IMP-DISC 
+ ‘Get up now!’
+
+Imataq tsay? 
+ {ima-taq  tsay} 
+ what-CONTR DEM 
+ ‘What is that?’
+
+Ima ninataq tsayqa? 
+ {ima  ni-na-taq   tsay-qa} 
+ what say-POT.NMLZ-CONTR DEM-TOP 
+ ‘What does that mean?’
+
+Tsaymanku aywanki? 
+ {tsay-man-ku  aywa-nki} 
+ DEM-ALL-Q go-2.SBJ 
+ ‘Do you go there?’
+
+Tsaychaw ta:kunkiku?  
+ {tsay-chaw  ta:-ku-nki-ku?} 
+ DEM-LOC live-MID-2.SBJ-Q 
+‘Do you live there?’
+
+Manaku munanki? 
+ {mana-ku  muna-nki} 
+ NEG-Q  want-2.SBJ 
+‘Don’
+
+ Pitaq tsay shipash? —Payqa churi:mi. 
+ {pi-taq  tsay  shipash  pay-qa   churi-ː-mi} 
+ who-CONTR DEM young.woman she-TOP child-1.POSS-EVD 
+‘Who is that young woman? —She is my daughter.’
+
+ Achikaypapis kapunaqshi huk warmi wamran. 
+{achikay-pa-pis  ka-pu-naq-shi  huk  warmi  wamra-n} 
+achique-GEN-ADD be-BEN-NARR.PST-EVR one female  child-3.POSS 
+‘They say that Achiqué had a daughter.’
+
+ Tsuri:taqa alla:pachi ankushaq. 
+{tsuri-ː-ta-qa   alla:pa-chi  anku-shaq} 
+child-1.POSS-ACC-TOP much-EVC miss-1.SBJ.FUT 
+‘I will miss my daughter surely a lot.’
+
+ —Aywankiku? —Aywashaqri! 
+{aywa-nki-ku  aywa-shaq-ri} 
+go-2.SBJ-Q go-1SBJ.FUT-CORR 
+‘Are you going? -I will go, of course!’
+
+ Malli puriykan. 
+{malli-ø puri-yka:-n} 
+María-NOM walk-IPFV-3.SBJ 
+‘María is walking.’
+
+ Malli hakata aruykan. 
+{malli haka-ta  aru-yka:-n} 
+María guinea.pig-ACC cook-IPFV-3.SBJ 
+‘María is cooking a guinea pig.’
+
+ Tsayshi mana allitsu kanqa. 
+{tsay-shi  mana  alli-tsu  ka-nqa} 
+DEM-EVR no good-NEG be-3.SBJ.FUT 
+‘Therefore, they say, it will be no good.’
+
+ Kikinkuna pura mana akwirdutsu kayarqan. 
+{kiki-n-kuna pura  mana  akwirdu-tsu   ka-ya-rqa-n} 
+self-3.POSS-PL EXCL no agreement-NEG be-PLV-PST-3.SBJ 
+‘They were in no agreement among themselves.’
+
+ Mana allita rurarqantsu. 
+{mana  alli-ta   rura-rqa-n-tsu} 
+No good-ACC make-PST-3.SBJ-NEG 
+‘She didn’
+
+ Rukusqa kakashta mana willashqatsu. 
+{rukus-qa   kakash-ta  mana willa-shqa-tsu} 
+sparrow.hawk-TOP rooster-ACC no tell-3.SBJ.PRF-NEG 
+‘The sparrow-hawk has not told it to the rooster.’
+
+ Imanaykan?  
+ {imana-yka-n} 
+ happen-CONT-3.SBJ 
+ ‘What’
+
+ Nuqa imana:taq payta? 
+ {nuqa  imana-:-taq   pay-ta} 
+ I happen-1.SBJ-CONTR s/he-ACC 
+ ‘What do I do to her?’
+
+Imanankitaq? 
+ {imana-nki-taq} 
+ do-2.SBJ.FUT-CONTR 
+ ‘What will you do?’
+
+Imanashunkitaq? 
+ {imana-shu-nki-taq} 
+happen-3.SBJ-2.OBJ-CONTR 
+‘What’
+
+Imanashun? 
+ {imana-shun}  
+do-1PL.INCL.SBJ.FUT 
+‘What could be done?’
+
+Itsa kawan o wanushqa? 
+{itsa kawa-n   o  wanu-shqa} 
+Perhaps live-3.SBJ or die- 3.SBJ.PRF 
+‘Maybe they live or maybe they have died?’
+
+ Wayipita yarquyniyki kanan hunaqmi. 
+{wayi-pita  yarqu-y-ni-yki  hunaq-mi  kanan} 
+house-ABL exit-INF-EP-2.POSS day-EVD now 
+‘The day of your departure from the house is today.’
+
+ …kakashyuq nunaqa alla:pa qishyaq nunata rika:rinaq… 
+{kakash-yuq   nuna-qa alla:pa qishya-q  nuna-ta  rika:-ri-naq} 
+rooster-INAL.POSS man-TOP very  sick-AG  man-ACC  see-PUNC-NARR.PST 
+‘…the man with a rooster saw a very sick man…’
+
+qampa mikushqayki papa  
+ {qam-pa  miku-shqa-yki  papa} 
+ you-GEN eat-RES-2.POSS  potato 
+‘the potato you ate’
+
+ Pitsqa rapranta kukata tsarikun. 
+ {pitsqa  rapra-n-ta   kuka-ta  tsari-ku-n} 
+ five  leaf-3.POSS-ACC coca-ACC grab-MID-3.SBJ 
+‘He takes five leaves of coca.’
+
+Parlanqayki gustan. 
+ {parla-nqa-yki  gusta-n} 
+ talk-ACT.NMLZ-2.POSS like-3.SBJ 
+ ‘S/he likes that you talked.’
+
+ Yarquyta munaya:. 
+ {yarqu-y-ta muna-ya-ː} 
+ exit-INF-ACC want-PLV-1.SBJ 
+‘We want to go out.’
+
+ Qutsushqanta yarpankiku? 
+ {qutsu-shqa-n-ta  yarpa-nki-ku} 
+ sing-RES-3.POSS-ACC remember-2.SBJ-Q 
+‘Do you remember what she sang?’
+
+ Yarqunaykita munaya:. 
+ {yarqu-na-yki-ta  muna-ya-ː} 
+ exit-POT.NMLZ-2.POSS-ACC want-PLV-1.SBJ  
+‘We want you to go out.’
+
+ Mikuyanqa:ta yachan. 
+{miku-ya:-nqa-ː-ta    yacha-n} 
+eat-PLV-ACT.NMLZ-1.POSS-ACC know-3.SBJ 
+‘She knows that we ate.’
+
+ …tikakunata hurqur, allibwenu sasata paskaykurqa:. 
+{tika-kuna-ta hurqu-r  allibwenu sasa-ta  paska-yku-rqa-ː} 
+ bricks-ACC extract-SUBIS very  difficult-ACC release-EXCEP-PST-1.SBJ 
+‘…when I took out the bricks, I released her with a lot of difficulty.’
+
+ Llapanta alistarirnam, qallaykuyan amararna. 
+ {llapanta alista-ri-r-na-m   qalla-yku-ya:-n   amara-r-na} 
+all-3.POSS-ACC prepare-PUNC-SUBIS-DISC-EVDbegin-EXCEP-PL-3.SBJ3 tie-SUBIS-DISC 
+‘After having prepared everything, they began to tie it up.’
+
+ Imanirtan mantsamarni: ayqinki? 
+{imanir-tan  mantsa-ma:-r-ni-ː   ayqi-nki} 
+why-CONTR fear-1.OBJ-SUBIS-EP-1.SBJ flee-2.SBJ 
+‘Why do you run away fearing me?’
+
+ Yachatsiyka:yaptiq allinta yachanki. 
+{yacha-tsi-yka:-ya-pti-q    allin-ta  yacha-rqa-nki} 
+ know-CAUS-IPFV-PLV-SUBDS-1.SBJ.2.OBJ good-ACC learn-PST-2.SBJ 
+ ‘When we were teaching teach you, you learned well.’
+
+yarquyniykipita 
+{yarqu-y-ni-yki-pita} 
+depart-INF-EP-2.POSS-ABL 
+‘because of your departure’
+
+ papa allaychaw  
+ {papa alla-y-chaw} 
+ potato harvest-INF-LOC 
+‘at the potato harvest.’
+
+papata murunapaq 
+ {papa-ta  muru-na-paq} 
+ potato-ACC sow-POT.NMLZ-DAT 
+ ‘in order to sow potato’
+
+ …mana gendarmikuna tsariya:nanpaq.  
+{mana  gendarmi-kuna  tsari-ya:-na-n-paq} 
+no police-PL  catch-PLV-POT.NMLZ-3.POSS-DAT 
+‘…so that the police didn’
+
+yarqunki pukllaq 
+ {yarqu-nki puklla-q} 
+ exit-2.SBJ play-AG 
+ ‘You went out to eat.’
+
+ Kay ashmaqa ampipapis allim rikan. 
+{kay   ashma-qa  ampi-pa-pis   allí-m   rika-n} 
+DEM.PROX  animal-TOP  night-GEN-ADD  good-EVD  see-3.SBJ 
+ ‘This animal also sees well at night.’
+
+ Atuqpaqa chupanchawmi upaya:tsikuqnin kapun, 
+{atuq-pa-qa  chupa-n-chaw-mi  upa-ya:-tsi-ku-q-ni-n    ka-pu-n} 
+fox-GEN-TOP  tail-3.SBJ-LOC-EVD  stupid-TF-CAUS-MID-AG-EP-3.SBJ  be-BEN-3.SBJ 
+‘On its tail, the fox has something that stuns,…’
+
+ tsaywanmi runakunata punuka:tsin. 
+{tsay-wan-mi  runa-kuna-ta   punu-ka:-tsi-n} 
+DEM-COM-EVD person-PL-ACC  sleep-SPON-CAUS-3.SBJ 
+ …with which it makes people fall asleep.’
+
+ Payqa allqukunatapis pantatsinmi. 
+{pay-qa  allqu-kuna-ta-pis  panta-tsi-n-mi} 
+s/he-TOP  dog-PL-ACC-ADD  err-CAUS-3.SBJ-EVD 
+‘It also makes dogs confused.’
+
+ Atuq hirkwan llallinakuyan. 
+{atuq hirka-wan  llalli-naku-ya-n} 
+fox mountain-COM defeat-RECP-PLV-3.SBJ 
+‘The fox and the mountain compete against each other.’
+
+ mana alli watapaqmi willamantsik; hirka llalliptinqa,  
+{mana  alli  wata-paq-mi  willa-mantsik   hirka   llalli-pti-n-qa} 
+not  good  year-DAT-EVD  tell-3.SBJ.1.INCL.OBJ  mountain  win-SUBDS-3.SBJ-TOP 
+ …it announces a bad year. If the mountain beats [the fox]…’
+
+ Tsaytam “puspa” patsa niyan. 
+{tsay-ta-m  ‘puspa’  patsa  ni-ya-n} 
+DEM-ACC-EVD  puspa   time  say-PLV-3.SBJ 
+‘This is called “puspa” time.’
+

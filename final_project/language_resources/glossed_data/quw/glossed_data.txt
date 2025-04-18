@@ -1,0 +1,616 @@
+(2.10)
+a. shindzi   tamya  
+ strong  rain 
+ ‘heavy rain’
+
+(2.11)
+a. Paula   warmi   a-n 
+ NAME  woman  COP-3 
+ ‘Paula is a woman.’
+
+(2.12)
+a. kamba  warmi   allku 
+ kan -pa  warmi  allku 
+ 2SG-GEN woman  dog 
+         ‘your female dog’
+
+(2.13)
+a. Yolanda  mishki   sopara  yanuka. 
+ Yolanda  mishki  sopa-ta  yanu-ka 
+ NAME  sweet  soup-ACC cook-PST 
+ ‘Yolanda cooked [a] tasty soup.’
+
+(2.14)
+kamba  yapa  sumak   / *sumajkuna  ushiwna 
+kan -pa yapa  sumak /    sumak-guna ushi-guna 
+2SG -GEN very  pretty  /    pretty-PL  daughter-PL 
+‘your very beautiful daughters’
+
+(2.15)
+a. chi   yapa  sumak   warmi-guna 
+     D.DEM  very beautiful woman-PL 
+     ‘those very beautiful women’
+
+(2.16)
+pichka-guna=mi    [a-nun] 
+five-PL=mi  [COP-3PL] 
+‘[there are] the five [of them] ’
+
+(2.17)
+chi-guna-ma      api   -tuku     -nga    ra  -nun… 
+D.DEM-PL-DAT       grab  -finish -FUT    AUX -3PL 
+‘[the farmers] will catch them [the boys]’
+
+(2.18)
+Comunidadpaj,   chay   ishki  motowaraña. 
+comunidad-pa-k  chi  ishki motowaraña 
+community-GEN-BEN D.DEM two strimmer 
+‘Those two strimmers [are] for the village [lit. community].’
+
+(2.19)
+a. sumak   warmi 
+ pretty  woman 
+ ‘beautiful woman’
+
+(2.21)
+a. llandu  tuta 
+ dark night 
+ ‘[a] dark night’
+
+(2.22)
+a. kullki -yuk   shamu-ni  
+ money-PROP  come-1 
+ ‘I come with money/as a man with money.’
+
+(2.23)
+a. iksa-yuk   warmi 
+ stomach-PROP  woman 
+ ‘[a] pregnant woman ( lit. with a stomach)’
+
+(2.24)
+Ñuka   churiwna  atungunami.  
+ñuka  churi-guna atun-guna=mi 
+1SG  son  -PL big  -PL=mi 
+‘My sons  are big.’
+
+(2.25)
+atun  aychawnara    apamuk….   
+atun aycha-guna-ta   apamu-k   
+big animal-PL-ACC  bring-AG.NMLZ  
+‘[the man in the old days] used to bring big animals [from a hunt]…’
+
+(2.26)
+Maria   Wandzura    wajtan. 
+Maria    Juan -ta    wajta -n 
+NAME   NAME-ACC   hit   -3 
+‘Maria hits Juan.’
+
+(2.27)
+Pablo   sisagunara         kuyan    Mariama       /     Mariara 
+Pablo    sisa-guna-ta    kuya -n  Maria  -ma     /    Maria-ta 
+NAME  flower -PL-ACC         give -3 NAME-DAT  /   NAME-ACC 
+‘Pablo gave Maria flowers.’
+
+(2.28)
+Pablo     ista-ma   shamu-n 
+NAME  party-DAT come-3 
+‘Pablo came to the party.’
+
+(2.29)
+Maria    chagra-ma        traba-nga    ra-w-n 
+NAME   field   -DAT   work-FUT  make-PROG -3 
+‘Maria will work in the field.’
+
+(2.30)
+Kay   awa  lumamanta. 
+kay  awa luma-manda 
+P.DEM high hill-ABL 
+‘From here above, from the hill.’
+
+(2.31)
+Lunes-manda   tarba-ka-ni 
+monday-ABL  work-PST-1 
+‘I have been working since Monday.’
+
+(2.32)
+Juan   ambi    -manda        yacha-n 
+NAME  medicine -ABL  know-3 
+‘Juan knows about medicine/is an expert in medicine.’
+
+(2.33)
+ñuka   kan-manda=mi       shamu- ka-ni 
+1SG      2SG-ABL  =mi   come-PST-1 
+‘I came because of you.’
+
+(2.34)
+Juan      llave-wa       pungu-ra     paska-n 
+NAME    key-INSTR  door -ACC  open  -3 
+‘Juan opened the door with a key.’
+
+(2.35)
+kuna  kasna   kay-bi   rima-w-shka-ni   kan-wa 
+now like.this P.DEM-LOC talk-PROG-ANT-1  2SG-INSTR 
+‘now here I am also talking with you’
+
+(2.36)
+Dios-pa  shimi   
+god-GEN word  
+‘the word of God’
+
+(2.37)
+a. [ Juan-ba  pantalon ] liki-ri-shka=mi 
+ NAME-GEN trousers tear-ANTIC-ANT=mi 
+ ‘Juan’s trousers have broken.’
+
+(2.38)
+a. ñuka   yaya 
+         1SG  father 
+ ‘my father’
+
+(2.40)
+Kay  killka  a-n=mi  ñuka   yaya-j 
+DEM letter be-3=mi 1SG  father-BEN 
+‘This letter is for my father.’
+
+(2.41)
+chi    wasi   Pedro-k=mi 
+D.DEM house NAME-BEN=mi 
+‘This house is Pedro’s.’
+
+(2.42)
+kay   ñuka   yaya  / *yaya-j  killka 
+P.DEM 1SG  father /   father-BEN  letter 
+‘This my a letter to my father.’
+
+(2.43)
+chi   Pedru   / *Pedru-j  wasi=mi 
+D.DEM NAME  /   NAME-BEN house=mi 
+‘This is Pedro’s house.’
+
+(2.44)
+aku-ychi   Klever-ba-k-ma 
+go.IMP-2SG.IMP NAME-GEN-BEN-DAT 
+‘Let’s go to Klever’s!’
+
+(2.45)
+ñuka   mamita  Maria-j-ma    pasia-ngaj  ri-ka 
+1SG  mommy NAME-BEN-DAT  visit-PURP go-PST 
+‘My mommy went to Maria’s to visit.’
+
+(2.46)
+Pablo   wasi-ra      ra-n       Maria-k-ta  
+NAME  house -ACC  make  -3  NAME-BEN-ACC 
+‘Pablo makes a house for Maria.’
+
+(2.47)
+Maria      kaspiwa     wajtan    Wandzura   wasiy. 
+Maria      kaspi-wa   wajta-n  Juan -ta  wasi  -pi 
+NAME    stick -INSTR hit   -3   NAME-ACC  house-LOC 
+‘Maria hits Juan with a stick in the house.’
+
+(2.48)
+kuna  pundzay,   kuna  chishiy 
+kuna pundza-pi kuna chishi-pi 
+today day-LOC today afternoon-LOC 
+‘on this day, this afternoon’
+
+(2.49)
+Ima  wataraga, mana  castellanoy      rimanachu   ningui? 
+ima wata-ta=ga mana castellano-pi     rima-na=chu ni-ngui  
+what  year-ACC=ga NEG Spanish-LOC     talk-INF=Q/NEG say-2  
+‘What about the year, you say [I] should not to say [the date] in Spanish?’
+
+(2.50)
+Ima-raygu ? 
+what-CAUSAL 
+‘Why?’
+
+(2.51)
+Ashka llanganarami              charini,    chiraygumi                     mana     ushani. 
+ashka   llanga-na-ta=mi          chari-ni   chi-raygu=mi                 mana      usha-ni. 
+much    work-INF-ACC=mi   have  -1   D.DEM-CAUSAL=mi   NEG   can  -1 
+‘I have a lot of work, that is why I cannot (do this).’
+
+(2.52)
+shu   pundza-gama 
+one  day-LAT 
+‘see you tomorrow’
+
+(2.53)
+Ña,  chi-gama  ña  alli      tupu  yachin... 
+well D.DEM-LAT well good   size seem-3 
+‘Right, it seems it’s ok until here [up to this height]’
+
+(2.54)
+a. [Juan    ]SUBJ  [ pantalon-da   ]DIR OBJ  liki-shka 
+  NAME      trousers-ACC   rip -ANT 
+ ‘Juan has ripped [the] trousers.’
+
+(2.55)
+a. [ñuka]SUBJ  [pay-ta      ]DIR OBJ riku-ni 
+ 1SG   3SG-ACC  see-1 
+ ‘ I see him/her.’
+
+(2.57)
+a. ñuka   liba-ka-ni  
+ 1SG  be.punished-PST-1 
+ ‘I was punished/hit.’
+
+(2.58)
+a. Nilo  Quito   llakta-ra  riksi-n 
+NAME  NAME  town-ACC  know-3 
+‘Nilo knows the city of Quito.’
+
+(2.59)
+a. Upi! 
+drink 
+‘Drink!’
+
+(2.60)
+Mana  apa-mu-k             a-ni,  ñuka  ña        basta       wasi     chi-wa… 
+NEG take-mu-AG.NMZL  COP-1 1SG  already enough   house   D.DEM-INSTR 
+‘I used not to bring [ chicha from the field ], with that  [what I had already, I had ] 
+enough at home.’
+
+(2.61)
+rima-mu-w-n 
+talk-CIS-PROG-3 
+‘he passes by, talking… ’ [speaker talks about the fishseller’
+
+(2.62)
+Nestor  an       yacha-chi-k. 
+NAME  COP-3  know-CAUS-AG.NMZL 
+‘Nestor is a teacher [lit. the one who teaches/causes to learn].’
+
+(2.65)
+Abigail  yacha-n  killka-shka-ra    riku-na-ra 
+NAME  learn-3  letter-ANT-ACC  see-INF-ACC 
+‘Abigail learns to read [lit. to read that what has been written].’
+
+(2.66)
+miku-na-ra    yanu-shka=chu ? 
+eat-INF-ACC   cook-ANT=Q/NEG 
+‘Did [you] cook [the/any] food?’
+
+(2.67)
+kay-manda=ga  ñuka-ra  shina   apa-wa-nun    
+P.DEM-ABL=ga 1SG-ACC like.this take-1SG.OBJ-3PL 
+‘from here, they took me like this….’
+
+(2.70)
+a. Pedro=mi         Karolina-ra      uma-y   wakta-shka. 
+ NAME=mi   NAME-ACC   head-LOC hit-ANT 
+ ‘Pedro hit Karolina on the head.’
+
+(2.72)
+rupa-chi-n 
+hot-CAUS-3 
+‘It is hot.’
+
+(2.73)
+Juan   aycha-manda              yacha-n 
+NAME  animal-ABL  know-3 
+‘Juan knows [a lot] about animals.’
+
+(2.74)
+a. Maria   Juan-da     wajta-n 
+   NAME   NAME-ACC    hit    -3 
+ ‘Maria hits Juan (habitually).’/ # ‘Maria is hitting Juan (now).’
+
+(2.75)
+Juan   ashka  aycha-ra  wan-chi-n 
+NAME  much animal-ACC die-CAUS-3 
+‘Juan kills many animals.’ / ‘Juan is a good hunter’
+
+(2.78)
+allku-guna chupa-ra chari-nun.  
+dog-PL tail-ACC have-3PL 
+‘Dogs have tails.’
+
+(2.79)
+llakta-ngak           kallari-nun.... iskwila   mushu, iskwila   paska-ri-ka              ña, 
+build.town-PURP   begin-3PL      school    new      school    open-ANTIC-PST   well 
+‘They started to build communities, a school, (they) opened a new school, well…’
+
+(2.80)
+Juan,   pantalon-da      liki-ngui=mi! 
+NAME  trousers-ACC  rip-2=mi 
+‘Juan, you’ll rip your trousers!’
+
+(2.81)
+Ñawpa  ura  aycha   tia-ka 
+former  time animal  exist-PST 
+‘In the old days, there were [many] animals.’
+
+(2.82)
+Pedro   boda-y    baila-ka 
+NAME  wedding-LOC  dance-PST 
+‘Pedro danced at a wedding.’
+
+(2.83)
+Santa    Rosay     wasira  rarkanchi,16   escuela  wasira. 
+Santa    Rosa-pi   wasi-ta ra-ka-nchi  escuela  wasi-ta 
+NAME NAME-LOC   wasi-ACC make-PST-1PL school  house-ACC 
+‘We made a building in Santa Rosa, a school building.’
+
+(2.84)
+Pedro=mi        uma-y         wakta-wa-ka 
+NAME=mi head-LOC hit-1OBJ-PST 
+‘Pedro hit me on the head.’
+
+(2.85)
+kuna    pundza-ya-ka 
+today  day-VLZ-PST 
+‘[It] dawned today.’
+
+(2.88)
+Pedro=mi       ñuka-ra  uma-y    wakta-wa-ka 
+NAME =mi  1SG-ACC  head-LOC  hit-1SG.OBJ-PST 
+‘Pedro hit me on the head.’
+
+(2.89)
+Pedro=mi         Karolina-ra      uma-y   wakta-shka. 
+NAME =mi   NAME-ACC   head-LOC hit-ANT 
+‘Pedro hit Karolina on the head.’
+
+(2.90)
+Kay   trabanaybi   parijulla   katiwshkani. 
+kay  tarba-na-pi  pariju=lla  kati-w-shka-ni 
+P.DEM work-INF-LOC  on.a.par=LIM  follow-PROG-ANT-1 
+‘In this work, I have kept going on together [with my co-workers].’
+
+(2.91)
+kaya       rupa-chi-nga 
+tomorrow   hot-CAUS-FUT 
+‘Tomorrow [it] will be hot.’
+
+(2.92)
+chishi-ra         indi-nga ra-w-n 
+afternoon -ACC  sun-FUT  AUX-PROG?-3 
+‘[This] afternoon [it] will be sunny.’
+
+(2.93)
+Kasna=mi  traba-sha  miku-na  a-nga,   churi.  
+like.this=mi work-COR eat-INF AUX-FUT son 
+‘Working like this, (one) should eat (feed oneself), son.’
+
+(2.94)
+shu  runa  kallpa-w-n 
+one person  run-PROG-3 
+‘A man is running.’
+
+(2.95)
+tamya-w-n 
+rain-PROG-3 
+‘It’s raining.’
+
+(2.96)
+a. kan-da   muna-ni 
+ 2SG-ACC  love/want-1 
+ ‘(I) love you.’
+
+(2.97)
+a. atun   yura   shaya-n  yaku  pura-ma 
+ big  tree  stand-3  water side-DAT 
+ ‘[A] big tree stands by the river’
+
+(2.98)
+kan  wasi-ma  lluta-ri-kpi[=ga],          allku  kani-nga[=mi] 
+2SG house-DAT get.close-ANTIC-SWREF[=ga]     dog bite-FUT[=mi] 
+‘If you come towards the house, [the] dog will bite you.’
+
+(2.99)
+Shami..... ama   mandza-y=chu! 
+come.IMP PROH  fear-2SG.IMP=Q/NEG 
+‘Come, don’t be afraid!’
+
+(4.14)
+*[Hwan-pa  papa-ta=qa   miku-sqa-n-ta     ]  yacha-ni 
+   NAME-GEN potato-ACC=ga eat-NOM-3-ACC  know-1 
+   Intended: ‘I know that, potatoes, Hwan eats’
+
+(4.17)
+Jenny=ga       ?  
+NAME=ga 
+‘What about Jenny?’/ ‘Where is Jenny?’ / ‘And Jenny?’
+
+(4.18)
+A:   Kawsa-ngui=chu? 
+       live-2=Q/NEG?  
+ ‘How are you? (lit. are you alive?)’
+
+(4.22)
+Shinallara Jessica     y        María illa-j-kuna=ma  payguna=ga  
+also       NAME    and    NAME lack-AG.NZML-PL=ma 3PL=ga 
+‘Jessica and Maria as well, they don’t have anything.’
+
+(4.23)
+Kaybi   shu... shu  warmi   pujlla-w-n  pelota-wa. 
+D.DEM-LOC one one  woman  play-PROG-3 ball-INSTR 
+‘There, a….a woman is playing with a ball.’
+
+(4.24)
+Kay-bi=ga   manga-ra  nijta-w-n,   piña       -ri         -sha. 
+D.DEM-LOC=ga pot-ACC kick-PROG-3  be.angry-ANTIC-COR 
+‘There now, [she] is kicking [a] pot, annoyed.’
+
+(4.28)
+Pichka dollar-wa  paganun. Ña        paga-kpi=ga,    ñuka=ga  kura-ni… 
+five dollar-DIM pay-3PL  already  pay-SWREF=ga 1SG=ga cure-1 
+‘[The patients] pay five dollars. Now, [when they] pay, I cure [them]…’
+
+(4.29)
+Shinarajpi                timbrariajpiga        maskan          mochilama. 
+Shina     -ra     -kpi           timbra-ria     -kpi=ga       maska-n           mochila  -ma 
+like.this -make-SWREF    sound-CONT-SWREF=ga   look.for -3      backpack -DAT 
+‘So when [the phone] keeps ringing, [he] searches in the backpack.’
+
+(4.30)
+cumuna  kallarishkawnara     iyay     chariniga… 
+cumuna kallari-shka-guna-ta    iya-y    chari-ni=ga 
+community begin-ANT-PL-ACC    thought-OBJ.NMLZ have-1  =ga 
+‘I remember [lit. have an idea] the ones who started the community…’
+
+(4.32)
+A: Paka     =lla     ra -sha     apa -shka -ngui         yachi-n     shina.      
+ hide     =LIM  do-COR      take -ANT-2  seem -3     like.this  
+ ‘Doing as not to be noticed, it seems that you took it like this.’
+
+(4.34)
+Mana.   Warmi=mi        chura-ri-n   ñuka-j-pi=ga. 
+NEG     woman=mi      put   -ANTIC-3 1SG-BEN-LOC=ga 
+‘No. The woman [not the man] wears [the headphone] in mine [my video].’
+
+(4.35)
+Pay    warmiwnami... 
+pay    warmi -guna=mi      
+3SG  woman -PL =mi     
+‘[They are] their wives…’
+
+(4.38)
+yarka-y    wañu-w=mi      miku-n. 
+be.hungry-OBJ.NMLZ die-PROG=mi  eat-3 
+‘He eats dying of hunger.’
+
+(4.41)
+Mana  ñuka  ushi=chu,   ñuka  warmi=mi.  /  *warmi 
+NEG 1SG daughter=Q/NEG 1SG woman=mi /  *woman 
+‘[She is] not my daughter, [she is] my wife.’
+
+(4.43)
+Q:  Pedro  chari-n=dzu      chibilla-ra          y       shinallara  palanda-ra ?    
+NAME have-3=Q/NEG   pineapple-ACC  and   also  plantain-ACC 
+      ‘Does Pedro have a pineapple and also  plantain?’
+
+(4.45)
+Kam-ba-j-pi                     shuk    tunu=mari        a-shka      kay-bi=ga. 
+2SG-GEN-BEN-LOC     one      manner=mari   be-ANT   P.DEM-LOC=ga 
+‘In yours it was different, here.’
+
+(4.46)
+Ña,  kay-bi          randi.     ñuka-j-pi         randi   warmi            =m a-ka. 
+well  P.DEM -LOC  rather    1SG-BEN-LOC  rather   woman =mi/=ma-be -PST 
+‘Now here, in mine on the other hand it was a woman.’
+
+(4.48)
+Q:  Ima-ra   ra-w-ngui ? 
+      what-ACC do-PROG-2   
+       ‘What are you doing?’
+
+(4.49)
+Q:  Miku-w-ngui=chu ? 
+          eat-PROG-2=Q/NEG 
+ ‘Are you eating?’
+
+(4.51)
+Q: Pedro   chari-n=dzu   shu  manzana-ra? 
+ NAME  have-3=Q/NEG one apple-ACC  
+ ‘Does Pedro have an apple?’
+
+(4.52)
+A:  kam-ba   warmi   may-bi=ra              [a-n] ? 
+ 2SG-GEN woman  where-LOC=INT       [be-3] 
+ ‘Where is your wife?’
+
+(4.53)
+Q: kullki-ra  mana  chari-ngui=chu ? 
+ money-ACC NEG have-2(=Q/NEG) 
+ ‘Don’t you have money?’
+
+(4.54)
+A:  Ishki  Venecia tia-n ? 
+ two NAME  be-3  
+ ‘Are there two [villages called] Venecia?’
+
+(4.55)
+A:  ña kay=lla…  kay=lla=cha  ña       ? 
+ well P.DEM=LIM  P.DEM=LIM=cha now 
+ ‘Now that’s it…is that it already?’
+
+(4.56)
+A: Kay-ta   mana   piti-na=ra  ni-ngui=cha  kasna=y  ? 
+ P.DEM-ACC  mana  cut-INF=ta say-2=cha like.this=y 
+ ‘This, we don’t need to cut, just like this?’
+
+(4.57)
+A: Apachijllara       pambana? 
+ apa-chi-j=llara      pamba-na 
+ bring-CAUS-AG.NMLZ=ID.REF   bury-INF 
+ ‘[So] the midwife herself have to bury [the placenta]?’
+
+(4.60)
+kay   ambi=ga  mana  alli  ambi=chu 
+P.DEM medicine=ga NEG good medicine=Q/NEG 
+‘These medicines are not good medicines.’
+
+(4.61)
+mana  ñuka   ushi=chu,   ñuka   warmi=mi   
+NEG 1SG  daughter=Q/NEG 1SG  woman=mi  
+‘[She is] not my daughter, [she is] my wife.’
+
+(4.62)
+Q: kullki-ra  mana  chari-ngui=chu ? 
+ money-ACC NEG have-2=Q/NEG 
+ ‘Don’t you have money?’
+
+(4.63)
+kan   gustu-ra  ra-ngui,  ñuka   mana   usha-ni. 
+2SG  nice-ACC do-2  1SG  NEG  can-1 
+‘You do it nicely [the traditional dish], I can’t/am not able to [do that].’
+
+(4.64)
+imasna  ra-ngui=ri?  mana   usha-ni=chu 
+how  do-2=ri NEG  can-1=Q/NEG 
+‘How do you do [that]? I can’t/am not able to [do that].’
+
+(4.65)
+uya-ni=mi  señora,   ama   llaki-pa-y=chu  ! 
+hear-1=mi lady  PROH  be.sad-INTEN-IMP=Q/NEG 
+‘I  hear [you] ma’am, don’t worry!’
+
+(4.68)
+a. may-ma   ri-w-ngui  ? 
+ where-DAT go-PROG-2 
+‘Where are you going?’
+
+(4.71)
+Kam-ba  mama=s   shina    ch=a-ka,   partera  ? 
+2SG-GEN mother=ADD  like.this   =chu/=cha-COP-PST midwife 
+‘Was your mother also like [this], a midwife?’
+
+(4.74)
+Cedula-ra   chari-ngui=chari  kan=ga ?  
+ID.card-ACC  have-2=chari  2SG=ga 
+‘[As for you], you have an ID card?’
+
+(4.76)
+Pitara              munangay,         pay ? 
+pi      -ta     =ta     muna   -nga=y    pay 
+who -ACC =ta  love   -FUT =EMPH.INT   3SG 
+‘Who could/would  she love, her?’
+
+(4.77)
+Ima-ngak=ta     upi-nguichi   yanu-sha,  chi-ta                ima-ngak=ta  vali-n? 
+what-PURP=ta  drink-2.PL  cook-COR D.DEM-ACC  what-PURP=ta   be.good-3 
+‘What do you cook and drink it for, what is that [medicine] good for?’
+
+(4.79)
+Ima  shuti=mi ? 
+what name=mi 
+‘What [is her] name?’
+
+(6.10)
+Q:  Shindzi   waska=chá ? 
+ strong  string=cha 
+ ‘[Is] the string strong?’
+
+(6.11)
+ima    shuti-ra=cha     Shangri=cha  ni-j-kuna             a-ka=y  
+what  name-ACC=cha  NAME=cha   say-AG.NMZL-PL AUX-PST=EMPH.INT 
+‘What was his name, I think they called him Shangri…’
+
+(6.12)
+A:  Alli=cha  kasna-y=ga             ?   o... yapa  ashka=chu? 
+ good=cha like.this-LOC=ga  or very much=Q/NEG  
+ ‘Would it be good like this? Or is it too much?’
+

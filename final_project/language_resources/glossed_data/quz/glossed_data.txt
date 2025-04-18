@@ -1,0 +1,1174 @@
+(2.22) Llipi-n
+All-3runa-kuna-ta
+person- pl-accriku-rqa-nki-chu?
+see-past-2sg-Q
+‘Did you see all the men?’
+
+(2.23) [eiRuna-kuna-ta]
+person- pl-accllipi-n-ta i
+all-3-accriku-rqa-nki-chu?
+see-past-2sg-Q
+‘Did you see all the men?’
+
+(2.24) Juan
+Juanwakin
+somellama-lla-ta
+llama-delim -accrikhu-ra-n.
+see-past-3sg
+‘Juan saw some (of the) llamas.’
+
+(2.25) Juan
+Juanwakin-lla-ta
+some-delim -accrikhu-ra-n.
+see-past-3sg
+‘Juan saw some of them.’
+
+(2.26) Ashka
+manyllama-kuna
+llama-plchacra-pi
+ﬁeld-locka-n.
+be-3sg
+‘There are many llamas in the ﬁeld.’
+
+(2.27) *?Tukuy
+allllama-kuna
+llama-plchacra-pi
+ﬁeld-locka-n.
+be-3sg
+‘There are all llamas in the ﬁeld.’
+
+(2.28) *?Llipin/*?Wakin/Kinsa/Pisi
+every/some/three/a fewllama-kuna
+llama-plchakra-pi
+ﬁeld-locka-n.
+be-3sg
+‘There is (are) every/some/three/a few llamas in the ﬁeld.’
+
+(2.38) Nuqa
+Ipisi-(lla)
+a little-( delim )aqha-ta
+cornbeer- accukya-ra-ni.
+drink-past-1sg
+‘I drank a little cornbeer.’
+
+(2.43) (a) tukuy
+allllama
+llama(b)pisi
+a fewllama
+llama
+‘all llamas’ ‘a few llamas’
+
+(2.54) to (2.58) illustrate the compatibility and interpretation of -nka
+with various DP types.
+First, -nkais compatible with the weak quantiﬁers pisi‘few/a little’, ashka
+‘many/a lot’ and huk‘one’
+
+(2.57)), or on the bare noun cocacha ‘coca leaves’ in (2.58).21
+(2.57) Runa-kuna-man-qa
+person- pl-dat-topwakin coca-cha-(*nka)-ta
+some coca-dimin- nka-(acc)qu-yku-nki.
+give-intensiﬁer-2sg.fut
+‘You will give some of the coca leaves to each person.’
+
+(2.58) *Runa-kuna-man-qa
+person- pl-dat-topcoca-cha-nka-(ta)
+coca-dimin -nka-(acc.)qu-yku-nki.
+give-intensiﬁer-2sg.fut
+‘You will give coca leaves to each person.’
+
+(3.10) the verb agrees with the subject ‘boy’.
+(3.9)[wayna-q
+boy-genwaka
+cowranti-sqa-n]
+buy-nm(past/nonsubj) -3sg
+‘the cow which the boy bought’
+
+(3.10) [wayna
+boywaka
+cowranti-q]
+buy-nm(subj)
+‘the boy who bought the cow’
+
+(3.11) [Nuqa-q
+I-genllaqta-*pi/*-ta/- ∅
+town-loc/-acc/-∅tiya-sqa-y]]-qa
+live-nm(past/nonsubj) -1sg-tophatun.
+big
+‘The town I live in is big.’
+
+(3.12) Nuqa
+Ikay
+thisllaqta-pi/*ta/* ∅
+town-loc/-acc/-∅tiya-ni.
+live-1sg
+‘I live in this town.’
+
+(3.13) [[Kama -*pi/*ta/ ∅]
+bed-loc/sleep -nm-1sg-toppu˜ nu-sqa-y]-qa
+big-evidhatun-mi.
+‘The bed that I slept in is big.’
+
+(3.17) and an ablative intern al head (3.18).
+(3.15) [[Runa -(*q)
+person- genhamu-q]]-ta
+come-nm-accriqsi-ni.
+know-1sg
+‘I know the person who is coming.’
+
+(3.16) [[Juan-pa
+Juan-genruna-(*ta)
+person- accriqsi-sqa-n]]-wan
+know-nm-3sg-comrima-rqa-ni.
+speak-past-1sg
+‘I spoke with the person who Juan knows.’
+
+(3.17) [[Wasi-(*pi)
+House- loctiya-sqa-y]]-ta
+live-nm-1sg-accriqsi-nki-chu?
+know-2sg- Q
+‘Do you know the house I live in’
+
+(3.18) ?[[Runa -(*?manta)
+person- ablrima-sqa-y]]-qa
+speak-nm-1sg-tophamu-rqa-n.
+come-past-3sg
+‘The person who I talked about came.’
+
+(3.20).
+(3.19) *[[Lapiz-(wan)
+pen-comqilqa-sqa-y]]-qa
+write-nm-1sg-topazul-mi.
+blue-evide
+‘The pen that I wrote with is blue.’
+
+(3.19) and (3.20)). For completeness I include these EHRs b elow, in (3.21)–(3.26).
+(3.21) [[Hamu-q]
+come-nmruna]-ta
+person- accriqsi-ni.
+know-1sg
+‘I know the person who is coming.’
+
+(3.22) [[Juan-pa
+Juan-genriqsi-sqa-n]
+know-nm-3sgruna]-wan
+person- comrima-rqa-ni.
+speak-past-1sg
+‘I spoke with the person who Juan knows.’
+
+(3.23) [[Tiya-sqa-y]
+live-nm-1sgwasi]-ta
+House- accriqsi-nki-chu?
+acc know-1sg-Q
+‘Do you know the house I live in’
+
+(3.24) [[Rima-sqa-y]
+speak-nm-1sgruna]-qa
+person- tophamu-rqa-n.
+come-past-3sg
+‘The person who I talked about came.’
+
+(3.25) [[Qilqa-sqa-y]
+write-nm-1sglapiz]-qa
+pen-topazul-mi.
+blue-evide
+‘The pen that I wrote with is blue.’
+
+(3.26) [[Rumi
+stoneriku-sqa-y]
+see-nm-1sg˜ nan]
+roadhatun.
+black
+‘The road in which I saw the stone is black.’
+
+(3.28) and (3.29).
+(3.27) [[Ripu-q]
+leave-nmruna]
+person
+‘The man who left/is leaving/will leave’
+
+(3.28) [[Riku-sqa-y]
+see-nm-1sgruna]
+person
+‘The man who I saw’
+
+(3.29) [[Riku-na-y]
+see-nm-1sgruna]
+person
+‘The man who I will see’
+
+(3.38) [Nuqa-q
+I-genllaqta-*pi/*-ta/- ∅
+town-loc/-acc/-∅tiya-sqa-y]]-qa
+live-nm(past/nonsubj) -1sg-tophatun.
+big
+‘The town I live in is big.’
+
+(3.39) Nuqa
+Ikay
+thisllaqta-pi/*-ta/*- ∅
+town-loc/-acc/-∅tiya-ni.
+live-1sg
+‘I live in this town.’
+
+(3.43) is sh own in (3.44).70
+(3.43) Mariya
+MariaJuan-ta
+Juan-accriku-ra-n.
+see-past-3sg
+‘Maria saw Juan.’
+
+(3.45) Mariya
+MariyaJuan-man
+Juan-datqulqi-ta
+money- accqu-ra-n
+give-past-3sg
+‘Maria gave money to Juan.’
+
+(3.50) [[Mayta-q
+Mayta- getukuy
+allplanta
+plantplanta-sqa-n]]-ta
+plant-nm-3sg-acc
+‘all the plants that Mayta planted’
+
+(3.52), (3.53), would have essentially the same s tructure.
+(3.52) [[Juan
+Juanriku-q]
+see-nm(subj)runa]
+person
+‘the person who saw/sees/will see Juan’
+
+(3.53) [(Chay)
+dem[runa
+personJuan
+Juanriku-q]]
+see-nm(subj)
+‘the person who saw/sees/will see Juan’
+
+(3.62).
+(3.62) [[pro Waka-q
+cow-genu˜ na-n
+baby-3sgsuwa-pu-sqa-nku]]
+steal-deﬁnitively- nm-3pl
+‘the cow’s calf that they stole’
+
+(3.63) [[e
+eU˜ na-n
+baby-3sgsuwa-pu-sqa-nku]
+steal-deﬁnitively- nm-3plwaka]
+cow
+‘the cow whose calf they stole’
+
+(3.64) and (3.65).
+(3.64) [[e
+eQilqa-sqa-y]
+write-nm-1sglapicero]
+pen
+‘the pen I wrote with’
+
+(3.65) *[[lapicero-(wan)
+pen-instrqilqa-sqa-y]]
+write-nm-1sg
+‘the pen I wrote with’
+
+(3.66) [[naranja
+orangech’arwa-sqa-y]
+squeeze- nm-1sgjugo]
+juice
+‘the juice that I made by squeezing oranges’
+
+(3.70) Pisi
+a.fewlapiz-wan
+pen-instrqilqa-ra-ni.
+write-past-1sg
+‘I wrote with a few pens.’
+
+(3.73).
+(3.72) Ashka
+manymanka-pi
+pot-locwayk’u-ni.
+cook-1sg
+‘I cook in many pots.’
+
+(3.78) and (3.79).
+(i)Chay Juan yacha-sha-ra-n Antonio-q suwa-sqa-n qulqi-ta,
+demJuan know- prog-past-3sg Antonio- gensteal-nm-3sg money- sc acc
+chay wasi-y-pi ka-sha-n.
+demhouse-1sg- locbe-prog-3sg
+‘The money Juan knows Antonio stole is in my house.’
+
+(3.82) [[ [[e]
+eRipu-na-n]
+leave-nm(fut) -3sgmuna-sqa-yki]
+want-nm-2sgruna]
+person
+‘The man you want to leave’
+
+(3.85) and (3.86).
+(3.85) [[[e ripu-na-n]
+leave-nm-3sgmuna-sqa-y]
+want-nm-1sgruna]
+person
+‘the man I want to leave’
+
+(3.86) *[[[e ripu-na-n]
+leave-nm-3sgyacha-sqa-y]
+know-nm-1sgruna]
+person
+‘the man I know will leave’
+
+(3.90) Warma
+girlriku-sqa-y-ta,
+see-nm-1sg-acchamu-nqa.
+come-3fut
+‘The girl I saw will come.’
+
+(3.91) Riku-sqa-y
+see-nm-1sgwarma-ta,
+girl-acchamu-nqa.
+come-3fut
+‘The girl I saw will come.’
+
+(3.92) Riku-sqa-y-ta
+see-nm-1sg-accwarma
+girlhamu-nqa.
+come-3fut
+‘The girl I saw will come.’
+
+(3.93) Riku-sqa-y
+see-nm-1sgwarma
+girlhamu-nqa.
+come-3fut
+‘The girl I saw will come.’
+
+(3.96) Warma
+girlrima-sqa-y-wan
+speak-nm-1sg-withpuklla-ra-ni.
+play-past-1sg
+‘I played with the girl that I talked with.’
+
+(3.98) Placida-qa
+Placida- nm[[qilqa-sqa-y]
+write-nm-1sglapicero]-ta
+pen-accsuwa-ra-n.
+steal-past-3sg
+‘Placida stold the pen that I wrote with.’
+
+(4.10) [[˜Nuka
+Ibus-pi
+bus-locshamu-shka]]
+come-nm
+‘The bus I came in’
+
+(4.11) [[˜ nuka
+Ichay
+thatpunlla -pi
+day-locchaya-shka]]-ka
+arrive-nm(past) -top
+‘the day that I arrived’
+
+(4.13).
+(4.12) *nuqa-q
+I-genbus-pi
+bus-lochamu-sqa-y
+come-nm-1sg
+‘the bus I came in’
+
+(4.13) *nuqa-q
+I-genchay
+demp’unchay -pi
+day-locchaya-mu-sqa-y
+arrive-cis-nm-1sg
+‘the day I arrived’
+
+(4.14) and (4.15).
+(4.14) [[˜ nuka
+Ishamu-shka]
+arrive-nmbus]
+bus
+‘The bus I arrived in’
+
+(4.15) [[Chay
+that˜ nuka
+Ichaya-shka]
+arrive-nmpunlla ]
+day
+‘That day that I arrived’
+
+(4.22) from CQ with (4.23) from I Q. Notice that
+in CQ the internal head is unambiguously the un-Casemarked d irect object rumi
+‘rock’
+
+(4.28) Juan-pa
+Juan-genwaka-(*ta)
+cow-accranti-sqa-n-qa
+buy-nm-3sg-topyana-n.
+black-evid
+‘The cow that Juan bought is black.’
+
+(4.29) [[Juan
+Juanwagra-(ta)
+cow-(acc)ranti-shka]]-ka
+buy-nm-topyana-mi.
+black-evid
+‘The cow that Juan bought is black.’
+
+(4.34) [[Waka-q
+cow-genu˜ na-n
+baby-3sgsuwa-pu-sqa-nku]]
+steal-deﬁnitively- nm-3pl
+‘the cow’s calf which they stole’
+
+(4.35) [[e
+eU˜ na-n
+baby-3sgsuwa-pu-sqa-nku]
+steal-deﬁnitively- nm-3plwaka]
+cow
+‘the cow whose calf they stole’
+
+(4.36) and (4.37) from CQ and127
+IQ respectively. Only in CQ can a bare noun (with nominal pers on marking) be
+understood as having a pronominal possessor.
+(4.36) wasi-n
+house-3sg
+‘his/her house’
+
+(4.37) wasi
+house
+‘house’
+
+(4.53) [[Juan
+Juan[ei]
+eshuwa-shka]
+steal-nmwagra i]
+cow
+‘the cow that Juan stole’
+
+(4.54) [[Juan
+Juanwagra
+cowshuwa-shka]]
+steal-nm
+‘the cow that Juan stole’
+
+(4.55) [[Juan
+Juan[ei]
+ekillka-shka]
+write-nmlapiz i]
+pen
+‘the pen that Juan wrote with’
+
+(4.56) [[Juan
+Juanlapiz-wan
+pen-instrkillka-shka]]
+write-nm
+‘the pen that Juan wrote with’
+
+(4.57) [[Maria
+Maria[e]
+eyanu-ju-c]]
+cook-prog-nmmanga ]
+pot
+‘the pot that Maria is cooking in’
+
+(4.58) [[Maria
+Mariamanga -pi
+pot-locyanu-ju-c]]
+cook-prog-nm
+‘the pot that Maria is cooking in’
+
+(4.59) ∅
+proNuka-ta
+I-accriku-(wa)-rka.
+see-(1sg)- past
+‘He/she/it saw me.’
+
+(4.60) Juzi
+Jose∅riku-rka.
+saw
+‘Jose saw him/her/it.’
+
+(4.61) Taruka-ta
+Deer-accriku-ra-nki-chu?
+see-past-2sg-q... Mana
+notriku-ra-ni-chu.
+see-past-1sg-neg
+‘Did you see a deer?’ ... ‘No, (I) didn’t see (one).’
+
+(4.62):
+(4.62) Na
+not∅riku-rka-ni-chu.
+see-past-1sg-neg
+‘I didn’t see her/any.’
+
+(4.63), which contrasts with (4.62):
+(4.63) Na
+not∅killka-rka-ni-chu.
+write-past-1sg-neg
+‘I didn’t write (it).’
+
+(4.65) ... Mana
+notqilqa-ra-ni-chu.
+write-past-1sg-neg(#Huq-wan
+other-instrqilqa-ra-ni.)
+write-past-1sg
+‘I didn’t write. (#I wrote with another one.)’
+
+(4.66) [[[e] Mishki-ta
+candy- accranti-shka]]-kuna
+buy-nm-pl
+‘Those who bought the candy’
+
+(4.67) [[wawa-kuna
+child-pl[e] ranti-shka]]-kuna
+buy-nm-pl
+‘those (candies) that the children bought’
+
+(4.68) [[Juan
+Juankayna
+lastwata
+year[e] kausa-ju-shka]]
+live-prog-nm
+‘the one (house) Juan was living in last year’
+
+(4.69) [[Juan
+Juankillka-shka]]
+write-nm
+‘The thing that Juan wrote’
+
+(4.70) [[Maria
+Mariayanu-ju-k]]
+cook-prog-nm
+‘The thing that Maria is cooking’
+
+(4.72):
+(4.72) *wawa-kuna
+child-plmishki(-kuna)
+candy- plranti-shka-kuna
+buy-nm-pl
+‘The candies that the children bought’
+
+(4.74).
+(4.73) jatun
+bigwawa-kuna
+child-pl
+‘big children’
+
+(4.74) jatun-kuna
+big-pl
+‘big ones’
+
+(4.75) [[wawa-kuna
+child-plmishki-kuna
+candy- plranti-shka]]-ka
+buy-nm-topsumak-mi.
+good-evid
+‘The candies that the children bought are good.’
+
+(4.78) as an independent sentence is not.
+(4.78) [[wawa-kuna
+child-pl[e] ranti-shka]]-kuna-ka
+buy-nm-pl-topsumak-mi.
+good-evid
+‘Those (candies) that the children bought are good.’
+
+(4.53) and (4.54):
+(4.79) [[Juan
+Juantishuwa-shka]
+steal-nmwagra ]
+cow
+‘the cow that Juan stole’
+
+(4.80) [[Juan
+Juanwagra
+cowshuwa-shka]]
+steal-nm
+‘the cow that Juan stole’
+
+(4.55) and (4.56)):
+(4.81) [[Juan
+Juankillka-shka]
+write-nmlapiz]
+pen
+‘the pen that Juan wrote with’
+
+(4.82) [[Juan
+Juanlapiz-*(wan)
+pen-instrkillka-shka]
+write-nmpro]
+‘the pen that Juan wrote with’
+
+(4.85) [[Juan-pa
+Juan-genranti-sqa-n]
+buy-nm-3sgwaka]
+cow
+‘The cow that Juan bought’
+
+(4.86) [[Juan-pa
+Juan-genwaka
+cowranti-sqa-n]]
+buy-nm-3sg
+‘The cow that Juan bought’
+
+(4.87) [[qilqa-sqa-y]
+write-nm-1sglapicero ]
+pen
+‘the pen I wrote with’
+
+(4.88) *[[lapicero -(wan)
+pen-instrqilqa-sqa-y]]
+write-nm-1sg
+‘the pen I wrote with’ (CQ)144
+(4.85) and (4.86) are examples of argument relativization i n which the head
+‘cow’
+
+(4.89) Direct object head:
+[[Wawa
+childrumi-(?ta)
+stone-(acc)shita-shka]]
+throw-nm
+‘the stone that the child threw’
+
+(4.90) Locative argument head:
+[[kan
+youllakta -(??pi)
+town-lockausa-shka]]
+live-nm
+‘the town you live in’
+
+(4.91) to (4.92).
+(4.91) [wagra-(ta)
+cow-accrandi-shka]
+buy-nmwarmi
+woman
+‘the woman who bought the cow’
+
+(4.93) [˜ nuka
+Iwasi-*(pi)
+house-locyanu-shka]
+cook-nmmikuna
+food
+‘the food I cooked in the house’
+
+(4.94) [˜ nuka
+Iwasi-(??pi)
+house-loctiya-shka]
+live-nm
+‘the house I lived in’
+
+(4.95) [[Juan
+Juanlapiz-*(wan)
+pen-instrkillka-shka]]-ka
+write-nm-topazul-mi.
+blue-evid
+‘The pen that Juan wrote with is blue.’
+
+(4.96) [[Ana
+Anakarru-*(pi)
+car-locchayamu-k]]
+arrive-nm
+‘the car Ana arrives in’
+
+(5.10) an also frequent paraphra se.
+(5.10) Maria-qa
+Maria- topllama-yuq.
+llama-possessor
+‘Maria has llamas.’ (’Maria is a llama-owner.’
+
+(5.11).
+(5.11) Maria-q
+Maria- genllama-n-kuna
+llama-3sg- plka-n-ku.
+be-3-pl
+‘They are Maria’s llamas.’
+
+(5.12) and (5.13) res pectively.
+(5.12) Urqu-pi
+mountain- locwik’u˜ na
+vicu˜ naka-rqa-n.
+be-pst-3sg
+‘There were vicu˜ nas in the mountains.’
+
+(5.13) kancha-y-kuna
+corral-1sg- plka-sha-n-mi
+be-prog-3sg-evid
+‘I have corrals.’
+
+(5.15) Llama-kuna
+llama-plurqu-pi
+mountain- locka-nku.
+be-3sg.
+‘The llamas are in the mountains.’
+
+(5.15). The relevant examples are in (5.16 ) and (5.17).
+(5.16) Llama-kuna
+llama-plka-n.
+be-3sg
+‘There are llamas.’
+
+(5.17) ∅
+proLlama-kuna
+llama-plka-nku
+be-3pl
+‘They are llamas.’
+
+(5.26) and (5.27 ).
+(5.28) Para-qti-n/*?Para-spa
+rain-bi.adv -3sg/*rain- uni.advnishu-ta
+much-accchiri-n.
+cold-3sg
+‘When it rains it is very cold.’
+
+(5.29) [Para-qti-n/*Para-spa]-qa,
+rain-bi.adv -3sg/*rain- uni.adv -top,ashka
+manyt’ika-kuna
+ﬂower-plka-n.
+be-3sg
+‘When it rains, there are many ﬂowers.’
+
+(5.38) Llaqta-y-pi
+town-1sg- locka-q
+be-nm(wik’u˜ na)-kuna
+vicu˜ na- pl
+‘The vicu˜ nas that are in my country’
+
+(5.39) ??Ka-q
+be-nmwik’u˜ na-kuna
+vicu˜ na- pl
+‘The same vicu˜ na’
+
+(5.40) wik’u˜ na
+vicu˜ naka-q-kuna
+be-nm-pl
+‘The ones that are vicu˜ nas’
+
+(5.43) Llama-kuna
+llama-plurqu-pi
+mountain- locka-n.
+be-3sg
+‘There are llamas in the mountains.’
+
+(5.45).
+(5.45) [[naranja
+orangech’arwa-sqa-y]
+squeeze- nm-1sgjugo]
+juice
+‘the juice that I made by squeezing oranges’
+
+(5.46) *[[pro
+()ancha-ta
+a.lot-ta(adv)llank’a-sqa-n]
+work-nm-3sgwawa-kuna
+child-pl
+‘The children he worked hard on account of’
+
+(5.47) Ancha-ta
+a.lot-accllank’a-rqa-n
+work-past-3sgwawa-n–kuna-rayku.
+child-3sg– pl-on account of
+‘He worked hard on account of his children.’
+
+(5.49) Ashka
+manyllama-kuna
+llamas- plurqu-pi
+mountain- locka-n.
+be-3sg
+‘There are many llamas in the mountains.’
+
+(5.50) ?*Llipin/Tukuy
+every/allllama-kuna
+llama-plurqu-pi
+mountain- locka-n.
+be-3sg
+‘There are all the llamas in the mountains.’
+
+(5.52) Maria-q
+Maria- genwawa-n-kuna
+child-3- plka-n.
+be-3sg
+‘Maria has children.’
+
+(5.57) U
+nearmenya
+meyest’
+iskniga
+book
+‘I have a book.’
+
+(5.59) ...BE[ D/PP[D/Po[IPJean [Io[voiture] j...]]]] (Kayne p102,82)
+Here,Jeanmoves to [Spec,D/PP] and then to [Spec,BE], while D/Pois incorpo-
+rated to BE. The overt form of ‘have’ is seen as the Spell-out o f D/Po+BE. In this175
+respect the analysis is similar to that of Freeze. However, K ayne diﬀers from Freeze
+in that for Kayne voiture ‘car’ is originally predicated of ‘Jean’ while for Freeze,
+‘car’ would be in Spec of a PP of which ‘Jean’
+
+(5.60) and (5.61).
+(5.60) (a)
+(the)Mari
+Mari(-nom)kalap-ja-i
+hat-poss-pl(-3sg)
+‘Mari’s hats’
+
+(5.61) Mari-nak
+Mari-data-
+thekalap-ja-i
+hat-poss-pl(-3sg)
+‘Mari’s hats’
+
+(5.62) Mari-nak
+mari-datvan-nak
+be-3plkalap-ja-i.
+hat-poss.3sg-pl (-nom)
+‘Mari has hats.’
+
+(5.63) Van-nak
+be-3plkalap-ok
+hat-pl(-nom)
+‘There are hats.’
+
+(5.66) [Maria-q
+Maria- genllama-yuq
+llama-posska-sqa-n]-ta
+be-nm-3sg-accyacha-ni.
+know-1sg
+‘I know Maria is a llama-owner.’
+
+(5.68) Maria-q
+Maria- gentukuy
+allllama-n
+llama-3sg
+‘All Maria’s llamas’
+
+(5.69) Tukuy
+allMaria-q
+Maria- genllama-n
+llama-3sg
+‘All Maria’s llamas’
+
+(5.70) Maria-q
+Maria- genchay
+demllama-n
+llama-3sg
+‘Those llamas of Maria’s’
+
+(5.71) chay
+demMaria-q
+Maria- genllama-n
+llama-3sg
+‘Those llamas of Maria’s’
+
+(5.73) Ana-q
+Ana-genalqu-n-kuna
+dog-3sg- plka-n-mi.
+be-3sg- evid
+‘Ana has dogs.’
+
+(5.74) ??Alqu-n-kuna
+dog-3sg- plka-n
+be-3sgAna-q.
+Ana-gen
+‘Ana has dogs.’
+
+(5.75) Ana-q
+Ana-genalqu-n-kuna
+dog-3sg- plkani-sha-n.
+bark-prog-3sg
+‘Ana’s dogs are barking.’
+
+(5.76) ??Alqu-n-kuna
+dog-3sg- plkani-sha-n
+bark-prog-3sgAna-q.
+Ana-gen
+‘Ana’s dogs are barking.’
+
+(5.77) Mariya-q-(mi)
+Maria- gen-(evid)kinsa
+threealqu-n-kuna
+dog-3sg- pl(ka-n)
+(be-3sg)
+‘Maria has three dogs.’
+
+(5.78) Pay-pa-n
+S/he-gen-evidka-lla-n-taq
+be-CONJ-3sg-CONJashka
+manyobeja-n-kuna.
+sheep-3sg- pl
+‘She also has many sheep.’
+
+(5.79) Ana-q-mi
+Ana-gen-evidka-n
+be-3sgch’ipu-n-kuna.
+goat-3sg- pl
+‘Ana has (many) goats.’
+
+(5.80) Ana-q-qa
+Ana-gen-toppisqa-n
+ﬁve-evidllama-n
+llama-3sg(kan).
+(be-3sg)
+‘Anna has ﬁve llamas.’
+
+(5.96) Wawa-y-kuna
+child-1sg- plka-n.
+be-3sg
+‘I have children.’
+
+(5.97) [[Wawa-y
+child-1sgka-q]-kuna]
+be-nm.subj -plancha-ta
+much-accllank’a-chi-wa-nku.
+work-cause -1sg-3pl
+‘The children that I have make me work a lot.’ (...so I don’
+
+(5.98) and (5.99).
+(5.98) Wawa-yuq
+child-possessorwarmi
+woman
+‘The woman who has children.’ (’the child-possessor woman’
+
+(3.62) and (3.63), repeated here as (5.100) and (5.10 1).192
+(5.100) [[[Waka-q
+cow-genu˜ na-n]
+baby-3sgsuwa-pu-sqa-nku]]
+steal-deﬁnitively- nm-3pl
+‘the cow’s calf which was stolen’
+
+(6.11).
+(6.10) *?Ashka
+manyrima-sha-nku
+talk-prog-3plruna.
+person
+‘Many people are talking.’
+
+(6.11) *Hatun- pi
+big-loctiya-ni
+live-1sgwasi-pi.
+house-loc
+‘I live in a big house.’
+
+(6.12).
+(6.12) *?Ashka
+manychaya-mu-ra-nku
+arrive-cis-past-3plruna.
+person
+‘Many people arrived.’
+
+(6.13) *?[e iruna-kuna]
+man-plhamu-n
+come-3llipi-n i
+all-3
+‘The men all come.’
+
+(6.16) Ukya-rqa-ni
+drink-past-1sg[pisi
+a.littleaqha]-ta.
+cornbeer- acc
+‘I drank a little cornbeer.’
+
+(6.17).
+(6.17) Nuqa
+Iusqaylla
+quicklyhamu-ra-ni.
+come-past-1sg
+‘I came quickly.’
+
+(6.18) Pisi-ta
+a.little- tallank’a-rqa-ni.
+work-past-1sg
+‘I worked a little.’
+
+(6.19) Wawa-yki
+child-2sgpisi-lla-ta-chu
+a.litte- delim -ta-qhamu-n?
+come-3sg
+‘Does your son come only a little (infrequently)?’
+
+(6.20). Here, however, th ere is an ambiguity
+present. The ambiguity is between a verb-modiﬁer use of sumaq-ta (‘well’) and a
+noun-modiﬁer use of sumaq-ta (‘good’). Because of the coindexation between wasi
+‘house’ and sumaq ‘good’ in the latter case, and the adjectival interpretatio n of
+‘good’
+
+(6.20) Nuqa
+Iwasi-ta
+house-accsumaq- ta
+good-taqhawa-sha-ni.
+watch-prog-1sg
+‘I am watching over the house well.’
+
+(6.20) as essentially adverbial, with the diﬀerence
+correlating with the identity of the bindee. That this is not the case is illustrated in
+examples in which an oblique appears within the VP but cannot be associated with
+the-ta-marked modiﬁer in the same way as the discontinuous noun phr ase reading
+of examples like (6.20) associates the adjective sumaq ‘good’ with the noun wasi
+‘house’
+
+(6.25) Hatun-ta-n
+big-ta- focchakra-ta-qa
+ﬁeld-acc-topmuna-yku.
+want-2pl(excl.)
+‘We want bigger plots.’
+
+(6.26) Sumaq-ta-n
+good-ta- focpapa-qa
+potato- topwi˜ na-mu-sha-n.
+grow-cis-prog-3sg
+‘The potato is growing well.’
+
+(6.27) [t iRuna]- tariqsi-ni hatun i-ta
+[timan]-accknow-1sg tall i-acc
+‘I know a tall man.’
+
+(6.28) [ FocPRuna i-ta[Focriqsi-ni [ AgrP[DP[t’ihatun j-ta] [D′[PredP [titj]]]]]]]
+[FocPMan i-acc[Focknow-1sg [ AgrP[DP[t’itallj-acc] [D′[PredP [titj]]]]]]]
+‘I know a tall man.’
+
+(6.29).
+(6.29) [ V P...XP i...NP i...]
+[V P[eiqulqi-y]- tatari-rqa-ni llipin-tai]
+[V P[eimoney-1sg]- accﬁnd-past-1sg all- acc i]
+‘I found all my money.’
+
+(6.30) (a) [Hatun
+bigwasi]-ta
+house-accriku-rqa-nki-chu?
+see-past-2sg-Q
+‘Did you see a/the big house?’
+
+(6.31) from (S´ anchez 1996).
+(6.31) (a) [Hatun
+bigruna]-ta...
+man-acc
+‘A/the big man’
+
+(6.32) (a) [Ana-q
+Ana-genpisi
+a.fewllama-n]- ta
+llama-3sg- accriku-rqa-ni
+see-past-1sg
+‘I saw Ana’s few llamas.’
+
+(6.33). Consultants
+feel that these two examples have the same meaning, each indi cating that I saw a
+small number of llamas among the total (larger) number of lla mas owned by Ana.
+However, the expression in (6.33) contains an ablative noun phrase as an adjunct
+and I assume a null noun ( llama) in the object position noun phrase containing pisi
+‘a little’
+
+(6.33) [Ana-q
+Ana-genllama-n]-manta
+llama-3sg- ablpisi-ta
+a.few-accriku-rqa-ni.
+see-past-1sg
+‘Of Ana’s llamas, I saw a few.’
+
+(6.34) Kinsa- ta
+three-acc[chay
+thatmanka-kuna]- ta
+pot-pl-accranti-rqa-ni.
+buy-past-1sg
+‘I bought three of those pots.’
+
+(6.36) (a) [Tukuy
+allmanzana]- ta
+apple-accmiku-ra-ni.
+eat-past-1sg
+‘I ate all the apples.’
+
+(6.37), there is focus on runa‘man’.
+(6.37) Runa-ta
+man-accriqsi-ni
+know-1sghatun-ta
+big-acc
+‘I know a big MAN.’
+
+(6.46) [Kinsa
+threehatun
+bigwasi]-ta
+house-accriku-rqa-ni.
+see-past-1sg
+‘I saw three big houses.’
+
+(6.48) Kinsa- ta
+three-accriku-rqa-ni
+see-past-1sg[hatun
+bigwasi]-ta.
+house-acc
+‘I saw three big houses.’
+
+(6.49) Juan-pa
+Juan-geniskay
+twolibru-n-ta
+book-3sg- acclii-rqa-ni.
+read-past-1sg
+‘I read Juan’s two books.’
+
+(6.50) *Juan-pa
+Juan-geniskay-ta
+two-acclibru-n-ta
+book-3sg- acclii-rqa-ni.
+read-past-1sg
+‘I read Juan’s two books.’
+
+(6.51) Juan-pa-ta
+Juan-gen-acciskay
+twolibru-n-ta
+book-3sg- acclii-rqa-ni.
+read-past-1sg
+‘I read two books of Juan’s.’
+
+(6.52) Iskay-ta
+two-acclibru-ta
+book-acclii-rqa-ni.
+read-past-1sg
+‘I read two books.’
+
+(6.54).
+(6.54) Llipin
+everychay
+thatmanzana
+apple
+‘Every one of those apples.’
+
+(6.58) [Sapa 1
+eachirqi]
+childurqu-man
+mountain- datwicha-nqa.
+climb-3sg/ fut
+‘Each child will climb the mountain.’
+
+(6.62) sapa 1-?(nka)/llapa-(*nka)/tukuy-(*ni-nka)
+each-nka/every- nka/all-euph-nkallama
+llama
+‘Each/every/all llama(s)’
+
+(6.63) Sapa 2-(*nka)
+each-nkarimari-qti-y,
+talk-vi.adv -1sgloro-pas
+parrot- alsorima-n.
+talk-3sg
+‘Each time I talk, the parrot talks too.’
+
+(6.64), (6.65) and (6.66).
+(6.64) [sapa-(*nka)
+each-nkap’unchay]
+day
+‘every day’
+
+(6.65) [sapa
+eachtuta]
+nighthu˜ nuna-ku-q
+gather- refl-past(habitual)ka-yku
+be-2pl(excl.)
+‘Each night we would gather together...’
+
+(6.66) Kay mulaypa sutinmi Renunciable karan, payllawanmi maytap as purinay
+kaq...
+‘That mule of mine’
+
+(6.70).
+(6.69) Sapa
+eachp’unchay
+dayllank’a-ni.
+work-1sg
+‘Each day I work.’
+
